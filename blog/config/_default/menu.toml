@@ -11,6 +11,8 @@
 identifier = "github"
 name = "GitHub"
 url = "https://github.com/Leo-Corporation"
+weight = 1
+
 
 [social.params]
 icon = "brand-github"
@@ -19,6 +21,34 @@ icon = "brand-github"
 identifier = "twitter"
 name = "Twitter"
 url = "https://twitter.com/LeoCorpNews"
+weight = 2
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "YouTube"
+name = "YouTube"
+url = "https://www.youtube.com/channel/UC283Dtf6EJ8eKfRoo0ISmqg"
+weight = 3
+
+[social.params]
+icon = "brand-youtube"
+
+[[social]]
+identifier = "Instagram"
+name = "Instagram"
+url = "https://www.instagram.com/leocorporation_/"
+weight = 4
+
+[social.params]
+icon = "brand-instagram"
+
+[[social]]
+identifier = "Facebook"
+weight = 0
+name = "Facebook"
+url = "https://www.facebook.com/LeoCorporationSoftwares/"
+
+[social.params]
+icon = "brand-facebook"
