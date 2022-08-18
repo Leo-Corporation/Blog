@@ -10,7 +10,6 @@ tags:
     - Update
     - New Features
     - OpenSource
-    - Gaming
     - Package
     - For devs
 ---
