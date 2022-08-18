@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Gaming on Blog | Léo Corporation</title>
+        <link>https://blog.leocorporation.dev/tags/gaming/</link>
+        <description>Recent content in Gaming on Blog | Léo Corporation</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 06 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/gaming/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Gavilya: Version 2.8.0.2208 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/</link>
+        <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.8.0.2208 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.8.0.2208.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations (#268)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Results&amp;rdquo; section in Settings &amp;gt; Search (#268)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the number of search results (#268)&lt;/li&gt;
+&lt;li&gt;Added a progress label next to each badge (#269)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: An item with the same key has already been added error (#264)&lt;/li&gt;
+&lt;li&gt;Fixed: It&amp;rsquo;s impossible to convert a game to a Steam game (#266)&lt;/li&gt;
+&lt;li&gt;Fixed: The &amp;ldquo;Add&amp;rdquo; window is &amp;ldquo;cropped&amp;rdquo; (#267)&lt;/li&gt;
+&lt;li&gt;Updating the number of search results no longer requires a restart (#268)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;The apply button in Settings &amp;gt; Language is no longer visible by default (#270)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;&#34; &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gavilya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to go the website of Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/cover.png&#34;
+	width=&#34;1185&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/cover_hu9707ec282da4abf5c1c4a3defaf6787a_57246_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/cover_hu9707ec282da4abf5c1c4a3defaf6787a_57246_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Gavilya&amp;rsquo;s achievement page.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gavilya: Version 2.7.0.2207 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/</link>
+        <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.7.0.2207 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.7.0.2207.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reduced the size of the search drop down (#254)&lt;/li&gt;
+&lt;li&gt;Added translations (#255)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Search&amp;rdquo; settings page (#255)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Search&amp;rdquo; section in Settings (#255)&lt;/li&gt;
+&lt;li&gt;Added the possibility to hide the search bar (#255)&lt;/li&gt;
+&lt;li&gt;Added Search toggle button (#255)&lt;/li&gt;
+&lt;li&gt;Added the number of games in &amp;ldquo;Profile&amp;rdquo; page (#256)&lt;/li&gt;
+&lt;li&gt;Added tooltips in &amp;ldquo;Spotlight&amp;rdquo; section of &amp;ldquo;Profile&amp;rdquo; page (#257)&lt;/li&gt;
+&lt;li&gt;Added font files (#259)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Achievements was null error (#249)&lt;/li&gt;
+&lt;li&gt;Fixed issues when resizing the window (#253)&lt;/li&gt;
+&lt;li&gt;Fixed issues when updating Settings (#255)&lt;/li&gt;
+&lt;li&gt;Fixed issues with the new font (#259)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Replaced gradient with solid color&lt;/li&gt;
+&lt;li&gt;Removed unnecessary code (#255)&lt;/li&gt;
+&lt;li&gt;Updated font (#259)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gavilya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to see the website of Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/cover.png&#34;
+	width=&#34;1185&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/cover_hu8922d5cfecbe630fda9aa34fa7b0f9f5_107273_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/cover_hu8922d5cfecbe630fda9aa34fa7b0f9f5_107273_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Search&amp;rdquo; section of the &amp;ldquo;Settings&amp;rdquo; page of Gavilya&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gavilya: Version 2.6.0.2206 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/</link>
+        <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.6.0.2206 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available and it is the version 2.6.0.2206.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations (#236)&lt;/li&gt;
+&lt;li&gt;Added a link to the GitHub repository (#236)&lt;/li&gt;
+&lt;li&gt;Added error message localized string (#237)&lt;/li&gt;
+&lt;li&gt;Added an error message if the user isn&amp;rsquo;t logged on Steam (#237) (Thanks to @sgamesdev)&lt;/li&gt;
+&lt;li&gt;Added translations (#238)&lt;/li&gt;
+&lt;li&gt;Added an option to display unused games in Settings (#238)&lt;/li&gt;
+&lt;li&gt;Added the possibility to display unused games in &amp;ldquo;You may like&amp;rdquo; section (#238)&lt;/li&gt;
+&lt;li&gt;Added a message when updating the language in Settings (#239)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Search&amp;rdquo; item (#240)&lt;/li&gt;
+&lt;li&gt;Added a search bar (#240)&lt;/li&gt;
+&lt;li&gt;Search box shows results when typing text (#240)&lt;/li&gt;
+&lt;li&gt;Added rounded corners to search box (#240)&lt;/li&gt;
+&lt;li&gt;Added the possibility to see details of a game from the search bar (#240)&lt;/li&gt;
+&lt;li&gt;Added maximum width to search box (#240)&lt;/li&gt;
+&lt;li&gt;Added key shortcuts to the search box (#240)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue with the search function (#240)&lt;/li&gt;
+&lt;li&gt;Fixed: The search box is using too much RAM (#240)&lt;/li&gt;
+&lt;li&gt;Fixed image misalignment in &amp;ldquo;Search&amp;rdquo; item (#240)&lt;/li&gt;
+&lt;li&gt;Fixed an issue when removing a game&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated RestSharp&lt;/li&gt;
+&lt;li&gt;Improved Search box design (#240)&lt;/li&gt;
+&lt;li&gt;Updated Simplified Chinese translation (Thanks to @wcxu21)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gavilya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Check out Gavilya’s website&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/cover.png&#34;
+	width=&#34;1185&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/cover_hubea855bbde4b5b17cc5140a1d5d4ad23_163450_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/cover_hubea855bbde4b5b17cc5140a1d5d4ad23_163450_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The home page of Gavilya, with the Search dropdown opened&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gavilya: Version 2.5.0.2205 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/</link>
+        <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.5.0.2205 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.5.0.2205.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a colorful border to the game cards if it&amp;rsquo;s a favorite (#223)&lt;/li&gt;
+&lt;li&gt;Added a star icon to games marked as favorite in &amp;ldquo;List&amp;rdquo; mode (#224)&lt;/li&gt;
+&lt;li&gt;Added translations (#225)&lt;/li&gt;
+&lt;li&gt;Added a notification if the user hasn&amp;rsquo;t played a game for a long time (#225)&lt;/li&gt;
+&lt;li&gt;Added action when clicking &amp;ldquo;Show&amp;rdquo; button (#225)&lt;/li&gt;
+&lt;li&gt;Added a message if Steam isn&amp;rsquo;t running (#226)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Some games may be not responding after hitting play (#222)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed unnecessary RAWG API fetch&lt;/li&gt;
+&lt;li&gt;Removed obsolete WebClient code&lt;/li&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gavilya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to go to the website of Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/cover.png&#34;
+	width=&#34;1185&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/cover_hu41d01e1967dc4ce128294a0732a0bc4c_39385_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/cover_hu41d01e1967dc4ce128294a0732a0bc4c_39385_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Library&amp;rdquo; page of Gavilya in &amp;ldquo;List view&amp;rdquo; mode&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gavilya: Version 2.4.0.2203 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/</link>
+        <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.4.0.2203 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available and it is the version 2.4.0.2203.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations (#211)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Home Options&amp;rdquo; page (#211)&lt;/li&gt;
+&lt;li&gt;Added the possibility to go to &amp;ldquo;Home Options&amp;rdquo; (#211)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the maximum number of recent games to show in Home (#211)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Recommended Games&amp;rdquo; section in Home (#212)&lt;/li&gt;
+&lt;li&gt;Added a placeholder when there aren&amp;rsquo;t any recommended games (#212)&lt;/li&gt;
+&lt;li&gt;Added a menu on game card (#213)&lt;/li&gt;
+&lt;li&gt;Added the possibility to launch a game as admin (#213)&lt;/li&gt;
+&lt;li&gt;Added an &amp;ldquo;Admin&amp;rdquo; button in &amp;ldquo;Game info&amp;rdquo; page (#213)&lt;/li&gt;
+&lt;li&gt;Added a message when trying to launch UWP apps as admin (#213)&lt;/li&gt;
+&lt;li&gt;Added notification panel (#214)&lt;/li&gt;
+&lt;li&gt;Added notification item (#214)&lt;/li&gt;
+&lt;li&gt;Added a notification center (#214)&lt;/li&gt;
+&lt;li&gt;Added a badge on notification icon (#214)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/cover.png&#34;
+	width=&#34;1185&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/cover_hu753b5805da5e1888e022225d8845b5c9_332464_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/cover_hu753b5805da5e1888e022225d8845b5c9_332464_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The notification panel alongside the &amp;ldquo;Minecraft&amp;rdquo; page.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

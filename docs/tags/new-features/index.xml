@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>New Features on Blog | Léo Corporation</title>
+        <link>https://blog.leocorporation.dev/tags/new-features/</link>
+        <description>Recent content in New Features on Blog | Léo Corporation</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-features/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Datalya: Version 1.6.0.2208 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/</link>
+        <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.6.0.2208 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.6.0.2208.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &amp;ldquo;Re-order&amp;rdquo; buttons in Input Block (#75)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Re-order&amp;rdquo; buttons in Multichoices Block (#75)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Re-order&amp;rdquo; buttons in Selector Block (#75)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Re-order&amp;rdquo; buttons in Single Choice Block (#75)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Re-order&amp;rdquo; button in Date Block (#75)&lt;/li&gt;
+&lt;li&gt;Added the possibility to move up a Block (#75)&lt;/li&gt;
+&lt;li&gt;Added the possibility to move down a Block (#75)&lt;/li&gt;
+&lt;li&gt;Added the possibility to re-order Blocks (#75)&lt;/li&gt;
+&lt;li&gt;Added translations (#76)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Popup&amp;rdquo; menu on the &amp;ldquo;Import&amp;rdquo; button (#76)&lt;/li&gt;
+&lt;li&gt;Added the possibility to import existing template (#76)&lt;/li&gt;
+&lt;li&gt;Redesigned the &amp;ldquo;Select a template&amp;rdquo; window (#77)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where deleting a Block is impossible&lt;/li&gt;
+&lt;li&gt;Fixed popup behavior (#76)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated ClosedXML&lt;/li&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadDatalya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Datalya&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://datalya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to go to Datalya’s website.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/cover.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/cover_hufb543a81c696a54459748e7f9bfbd549_62304_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/cover_hufb543a81c696a54459748e7f9bfbd549_62304_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Datalya&amp;rsquo;s creator page.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gavilya: Version 2.8.0.2208 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/</link>
+        <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.8.0.2208 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.8.0.2208.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations (#268)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Results&amp;rdquo; section in Settings &amp;gt; Search (#268)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the number of search results (#268)&lt;/li&gt;
+&lt;li&gt;Added a progress label next to each badge (#269)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: An item with the same key has already been added error (#264)&lt;/li&gt;
+&lt;li&gt;Fixed: It&amp;rsquo;s impossible to convert a game to a Steam game (#266)&lt;/li&gt;
+&lt;li&gt;Fixed: The &amp;ldquo;Add&amp;rdquo; window is &amp;ldquo;cropped&amp;rdquo; (#267)&lt;/li&gt;
+&lt;li&gt;Updating the number of search results no longer requires a restart (#268)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;The apply button in Settings &amp;gt; Language is no longer visible by default (#270)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;&#34; &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gavilya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to go the website of Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/cover.png&#34;
+	width=&#34;1185&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/cover_hu9707ec282da4abf5c1c4a3defaf6787a_57246_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/cover_hu9707ec282da4abf5c1c4a3defaf6787a_57246_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Gavilya&amp;rsquo;s achievement page.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ColorPicker: Version 4.4.0.2208 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/08/colorpicker-version-4402208-is-now/</link>
+        <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/08/colorpicker-version-4402208-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/08/colorpicker-version-4402208-is-now/cover.png" alt="Featured image of post ColorPicker: Version 4.4.0.2208 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 4.4.0.2208.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Replaced &amp;ldquo;LControlKey&amp;rdquo; with &amp;ldquo;Ctrl&amp;rdquo; in &amp;ldquo;Picker&amp;rdquo; page info message (#161)&lt;/li&gt;
+&lt;li&gt;Added translations (#162)&lt;/li&gt;
+&lt;li&gt;Added the possibility to reset &amp;ldquo;Select&amp;rdquo; keyboard shortcut to default value (#162)&lt;/li&gt;
+&lt;li&gt;Added the possibility to reset &amp;ldquo;Copy&amp;rdquo; keyboard shortcut to default value (#162)&lt;/li&gt;
+&lt;li&gt;Added Text tool properties in settings class (#163)&lt;/li&gt;
+&lt;li&gt;Added default values for Text tool settings (#163)&lt;/li&gt;
+&lt;li&gt;Added translations (#163)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Text tool&amp;rdquo; section in Settings page (#163)&lt;/li&gt;
+&lt;li&gt;The &amp;ldquo;Text Tool&amp;rdquo; section now loads the user&amp;rsquo;s settings (#163)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the default font of the Text tool (#163)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the default font size of the Text tool (#163)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the default foreground color of the text tool (#163)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the default background color of the text tool (#163)&lt;/li&gt;
+&lt;li&gt;Added other chromatic wheel images (#164)&lt;/li&gt;
+&lt;li&gt;Added new icons (#164)&lt;/li&gt;
+&lt;li&gt;Added other chromatic wheels (#164)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated ColorHelper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/colorpicker-version-4402208-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/08/colorpicker-version-4402208-is-now/cover_hu4c9b0de70262cff4d16635a56f8ea9e8_140548_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/colorpicker-version-4402208-is-now/cover_hu4c9b0de70262cff4d16635a56f8ea9e8_140548_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;ColorPicker&amp;rsquo;s color wheel window.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: Version 4.9.0.2208 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/</link>
+        <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.9.0.2208 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.9.0.2208.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to get the drive with the highest free space (#345)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the drive with the lowest free space (#346)&lt;/li&gt;
+&lt;li&gt;Added XML Documentation&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the UnitType of a drive (#347)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get if the device has an optical disc device (#348)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: GetDriveWithHighestFreeSpace() doesn&amp;rsquo;t work with optical drives (#350)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;Click here to access the LeoCorpLibrary documentation.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951?version=4.9.0.2208&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093?version=4.9.0.2208&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/cover.png&#34;
+	width=&#34;2002&#34;
+	height=&#34;784&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/cover_hu8ec85ac7d7b38adaf4922f5be605c2eb_104228_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/cover_hu8ec85ac7d7b38adaf4922f5be605c2eb_104228_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;255&#34;
+		data-flex-basis=&#34;612px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Xalyus Store: Version 2.3.0.2207 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/07/xalyus-store-version-2302207-is-now/</link>
+        <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/07/xalyus-store-version-2302207-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/xalyus-store-version-2302207-is-now/cover.png" alt="Featured image of post Xalyus Store: Version 2.3.0.2207 is now available" /&gt;&lt;p&gt;A new version of Xalyus Store is now available, and it is the version 2.3.0.2207.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added font files&lt;/li&gt;
+&lt;li&gt;Xalyus Store is now using C# 10 features&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed alignment issues&lt;/li&gt;
+&lt;li&gt;Updated default font&lt;/li&gt;
+&lt;li&gt;Removed old font files&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated to .NET 6&lt;/li&gt;
+&lt;li&gt;Updated Splash Screen&lt;/li&gt;
+&lt;li&gt;Updated Licenses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/DownloadNewXalyusStore&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Xalyus Store.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/xalyus-store&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to learn more about Xalyus Store.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/xalyus-store-version-2302207-is-now/cover.png&#34;
+	width=&#34;1200&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/07/xalyus-store-version-2302207-is-now/cover_hu0f9c7f36a6fcd2280f709212b7541ce8_65222_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/xalyus-store-version-2302207-is-now/cover_hu0f9c7f36a6fcd2280f709212b7541ce8_65222_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Xalyus Store&amp;rsquo;s &amp;ldquo;App&amp;rdquo; page.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;171&#34;
+		data-flex-basis=&#34;411px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: Version 2.5.2.2207 is now available </title>
+        <link>https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/</link>
+        <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/cover.png" alt="Featured image of post Passliss: Version 2.5.2.2207 is now available " /&gt;&lt;p&gt;A small new version of Passliss is now available, and it is version 2.5.2.2207.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added font files (#176)&lt;/li&gt;
+&lt;li&gt;Added translations (#179)&lt;/li&gt;
+&lt;li&gt;Added Open-Source mention (#179)&lt;/li&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated font (#176)&lt;/li&gt;
+&lt;li&gt;Removed old font files (#176)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/store/passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to learn more about Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/cover_hua380f1f2cdb350ef465828b867608698_37541_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/cover_hua380f1f2cdb350ef465828b867608698_37541_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gerayis: Version 2.2.0.2207 is now available </title>
+        <link>https://blog.leocorporation.dev/2022/07/gerayis-version-2202207-is-now-available/</link>
+        <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/07/gerayis-version-2202207-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/gerayis-version-2202207-is-now-available/cover.png" alt="Featured image of post Gerayis: Version 2.2.0.2207 is now available " /&gt;&lt;p&gt;A new version of Gerayis is now available, and it is the version 2.2.0.2207.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &amp;ldquo;Info&amp;rdquo; panel (#137)&lt;/li&gt;
+&lt;li&gt;Added translations (#137)&lt;/li&gt;
+&lt;li&gt;Added an &amp;ldquo;Info&amp;rdquo; section about each bar code type (#137)&lt;/li&gt;
+&lt;li&gt;Added colors on icons in &amp;ldquo;Info&amp;rdquo; panel (#137)&lt;/li&gt;
+&lt;li&gt;Added margins to &amp;ldquo;Info&amp;rdquo; panel (#137)&lt;/li&gt;
+&lt;li&gt;Added more info about min length in &amp;ldquo;Info&amp;rdquo; panel (#137)&lt;/li&gt;
+&lt;li&gt;Added an example in &amp;ldquo;Info&amp;rdquo; panel (#137)&lt;/li&gt;
+&lt;li&gt;Added OpenSource mention (#138)&lt;/li&gt;
+&lt;li&gt;Added an icon TextBlock (#139)&lt;/li&gt;
+&lt;li&gt;Added an Indicator that shows if a bar code can be generated (#139)&lt;/li&gt;
+&lt;li&gt;Added font files (#140)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed missing label in &amp;ldquo;Info&amp;rdquo; panel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Improved design of &amp;ldquo;Info&amp;rdquo; panel (#137)&lt;/li&gt;
+&lt;li&gt;Updated font (#140)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/DownloadGerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/gerayis-version-2202207-is-now-available/cover.png&#34;
+	width=&#34;1000&#34;
+	height=&#34;562&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/07/gerayis-version-2202207-is-now-available/cover_hucdd8dcb427176cd4548e310b9eee4fe9_47508_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/gerayis-version-2202207-is-now-available/cover_hucdd8dcb427176cd4548e310b9eee4fe9_47508_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;info&amp;rdquo; panel of the &amp;ldquo;Bar code&amp;rdquo; page of Gerayis&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;427px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gavilya: Version 2.7.0.2207 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/</link>
+        <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.7.0.2207 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.7.0.2207.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reduced the size of the search drop down (#254)&lt;/li&gt;
+&lt;li&gt;Added translations (#255)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Search&amp;rdquo; settings page (#255)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Search&amp;rdquo; section in Settings (#255)&lt;/li&gt;
+&lt;li&gt;Added the possibility to hide the search bar (#255)&lt;/li&gt;
+&lt;li&gt;Added Search toggle button (#255)&lt;/li&gt;
+&lt;li&gt;Added the number of games in &amp;ldquo;Profile&amp;rdquo; page (#256)&lt;/li&gt;
+&lt;li&gt;Added tooltips in &amp;ldquo;Spotlight&amp;rdquo; section of &amp;ldquo;Profile&amp;rdquo; page (#257)&lt;/li&gt;
+&lt;li&gt;Added font files (#259)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Achievements was null error (#249)&lt;/li&gt;
+&lt;li&gt;Fixed issues when resizing the window (#253)&lt;/li&gt;
+&lt;li&gt;Fixed issues when updating Settings (#255)&lt;/li&gt;
+&lt;li&gt;Fixed issues with the new font (#259)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Replaced gradient with solid color&lt;/li&gt;
+&lt;li&gt;Removed unnecessary code (#255)&lt;/li&gt;
+&lt;li&gt;Updated font (#259)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gavilya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to see the website of Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/cover.png&#34;
+	width=&#34;1185&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/cover_hu8922d5cfecbe630fda9aa34fa7b0f9f5_107273_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/cover_hu8922d5cfecbe630fda9aa34fa7b0f9f5_107273_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Search&amp;rdquo; section of the &amp;ldquo;Settings&amp;rdquo; page of Gavilya&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ColorPicker: Version 4.3.0.2207 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/07/colorpicker-version-4302207-is-now/</link>
+        <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/07/colorpicker-version-4302207-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/colorpicker-version-4302207-is-now/cover.png" alt="Featured image of post ColorPicker: Version 4.3.0.2207 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 4.3.0.2207.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations (#149)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Startup page&amp;rdquo; section in Settings (#149)&lt;/li&gt;
+&lt;li&gt;Added UI logic for Startup section (#149)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the default start page (#149)&lt;/li&gt;
+&lt;li&gt;Added OpenSource mention (#150)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Use compact mode&amp;rdquo; checkbox in Settings (#151)&lt;/li&gt;
+&lt;li&gt;Added the possibility to enable &amp;ldquo;Compact&amp;rdquo; mode by default (#151)&lt;/li&gt;
+&lt;li&gt;Added font files (#152)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated default font (#152)&lt;/li&gt;
+&lt;li&gt;Removed old font files (#152)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/colorpicker-version-4302207-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/07/colorpicker-version-4302207-is-now/cover_hu6a0d6d962dd59a69194b5cbc3c6f7f9b_43777_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/colorpicker-version-4302207-is-now/cover_hu6a0d6d962dd59a69194b5cbc3c6f7f9b_43777_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of ColorPicker&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>InternetTest: Version 6.3.0.2207 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/</link>
+        <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/cover.png" alt="Featured image of post InternetTest: Version 6.3.0.2207 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 6.3.0.2207.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added dashboard items in &amp;ldquo;Locate IP&amp;rdquo; page (#332)&lt;/li&gt;
+&lt;li&gt;Added data when locating an IP (#332)&lt;/li&gt;
+&lt;li&gt;Added translations (#332)&lt;/li&gt;
+&lt;li&gt;Added a placeholder in &amp;ldquo;Locate IP&amp;rdquo; page (#332)&lt;/li&gt;
+&lt;li&gt;Added Open Source mention in Settings (#333)&lt;/li&gt;
+&lt;li&gt;Added font files (#334)&lt;/li&gt;
+&lt;li&gt;Added WebInfo record (#335)&lt;/li&gt;
+&lt;li&gt;Added translations (#335)&lt;/li&gt;
+&lt;li&gt;Added more information in &amp;ldquo;Connection&amp;rdquo; page history (#335)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed issues with the new &amp;ldquo;Locate IP&amp;rdquo; page design (#332)&lt;/li&gt;
+&lt;li&gt;Code cleanup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated font (#334)&lt;/li&gt;
+&lt;li&gt;Removed old font (#334)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;Click here to download InternetTest.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/cover_hu9b3e5ed5c652af1595492eb37ff7c772_61773_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/cover_hu9b3e5ed5c652af1595492eb37ff7c772_61773_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new locate IP page of InternetTest&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: Version 4.8.0.2207 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/</link>
+        <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.8.0.2207 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.8.0.2207.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to convert a DateTime to UnixTime (#336)&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert Double to Int (#337)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the current directory of the app (#338)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the percentage of occupied space on a drive (#339)&lt;/li&gt;
+&lt;li&gt;Added XML Documentation (#340)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;Click here to access the documentation of LeoCorpLibrary.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/cover.png&#34;
+	width=&#34;1530&#34;
+	height=&#34;530&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/cover_hu5840edcea4a501edbdca28ad40512adc_88122_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/cover_hu5840edcea4a501edbdca28ad40512adc_88122_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary that gets the occupied space percentage of a specified drive.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;288&#34;
+		data-flex-basis=&#34;692px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Datalya: Version 1.5.0.2206 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/</link>
+        <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.5.0.2206 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.5.0.2206.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations (#63)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;DateBlock&amp;rdquo; class (#63)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;DateBlock&amp;rdquo; creator UI (#63)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;DateBlock&amp;rdquo; properties UI (#63)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Date&amp;rdquo; block (#63)&lt;/li&gt;
+&lt;li&gt;Added full &amp;ldquo;Date&amp;rdquo; creator UI (#63)&lt;/li&gt;
+&lt;li&gt;Added styles to &amp;ldquo;Date&amp;rdquo; block (#63)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the default tab (#65)&lt;/li&gt;
+&lt;li&gt;Added translations (#66)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Search&amp;rdquo; window (#66)&lt;/li&gt;
+&lt;li&gt;Added a search feature (#66)&lt;/li&gt;
+&lt;li&gt;Added a message when no results are found (#66)&lt;/li&gt;
+&lt;li&gt;Added a message when no request is provided (#66)&lt;/li&gt;
+&lt;li&gt;Added a message in case of an error in &amp;ldquo;Search&amp;rdquo; window (#66)&lt;/li&gt;
+&lt;li&gt;Added a default field in &amp;ldquo;Search&amp;rdquo; window (#66)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue with file version&lt;/li&gt;
+&lt;li&gt;Fixed an issue with default date (#63)&lt;/li&gt;
+&lt;li&gt;Fixed an issue when a default date is used (#63)&lt;/li&gt;
+&lt;li&gt;Fixed: The app crashes when clicking the &amp;ldquo;Info&amp;rdquo; button with an empty database (#64)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated &amp;ldquo;Help&amp;rdquo; with new Date block (#67)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/DownloadDatalya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Datalya.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://datalya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to see the website of Datalya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/cover.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/cover_hue1c9fb88263ff2db33fdc46760fef48c_41959_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/cover_hue1c9fb88263ff2db33fdc46760fef48c_41959_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Search&amp;rdquo; dialog of Datalya&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gavilya: Version 2.6.0.2206 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/</link>
+        <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.6.0.2206 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available and it is the version 2.6.0.2206.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations (#236)&lt;/li&gt;
+&lt;li&gt;Added a link to the GitHub repository (#236)&lt;/li&gt;
+&lt;li&gt;Added error message localized string (#237)&lt;/li&gt;
+&lt;li&gt;Added an error message if the user isn&amp;rsquo;t logged on Steam (#237) (Thanks to @sgamesdev)&lt;/li&gt;
+&lt;li&gt;Added translations (#238)&lt;/li&gt;
+&lt;li&gt;Added an option to display unused games in Settings (#238)&lt;/li&gt;
+&lt;li&gt;Added the possibility to display unused games in &amp;ldquo;You may like&amp;rdquo; section (#238)&lt;/li&gt;
+&lt;li&gt;Added a message when updating the language in Settings (#239)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Search&amp;rdquo; item (#240)&lt;/li&gt;
+&lt;li&gt;Added a search bar (#240)&lt;/li&gt;
+&lt;li&gt;Search box shows results when typing text (#240)&lt;/li&gt;
+&lt;li&gt;Added rounded corners to search box (#240)&lt;/li&gt;
+&lt;li&gt;Added the possibility to see details of a game from the search bar (#240)&lt;/li&gt;
+&lt;li&gt;Added maximum width to search box (#240)&lt;/li&gt;
+&lt;li&gt;Added key shortcuts to the search box (#240)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue with the search function (#240)&lt;/li&gt;
+&lt;li&gt;Fixed: The search box is using too much RAM (#240)&lt;/li&gt;
+&lt;li&gt;Fixed image misalignment in &amp;ldquo;Search&amp;rdquo; item (#240)&lt;/li&gt;
+&lt;li&gt;Fixed an issue when removing a game&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated RestSharp&lt;/li&gt;
+&lt;li&gt;Improved Search box design (#240)&lt;/li&gt;
+&lt;li&gt;Updated Simplified Chinese translation (Thanks to @wcxu21)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gavilya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Check out Gavilya’s website&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/cover.png&#34;
+	width=&#34;1185&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/cover_hubea855bbde4b5b17cc5140a1d5d4ad23_163450_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/cover_hubea855bbde4b5b17cc5140a1d5d4ad23_163450_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The home page of Gavilya, with the Search dropdown opened&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: Version 2.5.0.2206 is now available </title>
+        <link>https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/</link>
+        <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/cover.png" alt="Featured image of post Passliss: Version 2.5.0.2206 is now available " /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.5.0.2206.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a strength indicator in &amp;ldquo;Generate&amp;rdquo; page (#163)&lt;/li&gt;
+&lt;li&gt;Added translations (#164)&lt;/li&gt;
+&lt;li&gt;Added taskbar jump list (#164)&lt;/li&gt;
+&lt;li&gt;Added logic for taskbar jump lists (#164)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;simpler&amp;rdquo; special characters (#165)&lt;/li&gt;
+&lt;li&gt;Added translations (#165)&lt;/li&gt;
+&lt;li&gt;Added the possibility to toggle simpler characters (#165)&lt;/li&gt;
+&lt;li&gt;Added the possibility to save the user&amp;rsquo;s custom characters (#166)&lt;/li&gt;
+&lt;li&gt;Added the possibility to disable custom character save (#166)&lt;/li&gt;
+&lt;li&gt;Added default characters (#167)&lt;/li&gt;
+&lt;li&gt;Added TextBoxes to edit each character (#167)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set every default character (#167)&lt;/li&gt;
+&lt;li&gt;Added the possibility to toggle user defined characters (#167)&lt;/li&gt;
+&lt;li&gt;Added the possibility to edit every default character (#167)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed wrong Tooltip in &amp;ldquo;Strength&amp;rdquo; page button (#162)&lt;/li&gt;
+&lt;li&gt;Fixed a typo in localized strings&lt;/li&gt;
+&lt;li&gt;Fixed icon inconsistency&lt;/li&gt;
+&lt;li&gt;Fixed text wrapping issues&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated localized strings (#166)&lt;/li&gt;
+&lt;li&gt;Removed blank lines&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;learn-more&#34;&gt;Learn more&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/store/passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to learn more about Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/cover_hu9b915286d8e78c3115293b96e7d05397_47566_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/cover_hu9b915286d8e78c3115293b96e7d05397_47566_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ColorPicker: Version 4.2.0.2206 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/06/colorpicker-version-4202206-is-now/</link>
+        <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/06/colorpicker-version-4202206-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/06/colorpicker-version-4202206-is-now/cover.png" alt="Featured image of post ColorPicker: Version 4.2.0.2206 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 4.2.0.2206.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to remove specific color from history (#136)&lt;/li&gt;
+&lt;li&gt;Added default values in &amp;ldquo;Text tool&amp;rdquo; (#137)&lt;/li&gt;
+&lt;li&gt;Added the possibility to select a color from the color wheel (#138)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Hand&amp;rdquo; cursor on &amp;ldquo;Color border&amp;rdquo; (#138)&lt;/li&gt;
+&lt;li&gt;Added a tooltip on the border (#138)&lt;/li&gt;
+&lt;li&gt;Added translations (#139)&lt;/li&gt;
+&lt;li&gt;Added taskbar Jump Lists (#139)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Pages&amp;rdquo; enum (#139)&lt;/li&gt;
+&lt;li&gt;Added logic for jump lists (#139)&lt;/li&gt;
+&lt;li&gt;Added the possibility to save the &amp;ldquo;pin&amp;rdquo; state of the window (#140)&lt;/li&gt;
+&lt;li&gt;ColorPicker now remembers the &amp;ldquo;pin&amp;rdquo; state (#140)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: ColorPicker crashes when selecting a font in &amp;ldquo;Text tool&amp;rdquo; (#135)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/06/colorpicker-version-4202206-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/06/colorpicker-version-4202206-is-now/cover_hu63f609aa8217cef1d333e4a29ad701fd_83704_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/06/colorpicker-version-4202206-is-now/cover_hu63f609aa8217cef1d333e4a29ad701fd_83704_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of ColorPicker, with the taskbar jumplist opened.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: Version 4.7.0.2206 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/</link>
+        <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.7.0.2206 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.7.0.2206.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to get the result of a percentage increase (#324)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the result of a percentage decrease (#325)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the evolution rate that cancel itself (#326)&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert a proportion to a percentage string (#327)&lt;/li&gt;
+&lt;li&gt;Added the possibility to check if a number is positive or negative (#328)&lt;/li&gt;
+&lt;li&gt;Added IsPositive() method (#329)&lt;/li&gt;
+&lt;li&gt;Added IsNegative() method (#330)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to check the documentation of LeoCorpLibrary.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/cover.png&#34;
+	width=&#34;1530&#34;
+	height=&#34;578&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/cover_huc32a290cd18420283a48359c8800b992_81774_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/cover_huc32a290cd18420283a48359c8800b992_81774_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary Maths methods.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;264&#34;
+		data-flex-basis=&#34;635px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>InternetTest: Version 6.2.0.2205 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/</link>
+        <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/cover.png" alt="Featured image of post InternetTest: Version 6.2.0.2205 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 6.2.0.2205.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &amp;ldquo;History&amp;rdquo; section (#321)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;IP History&amp;rdquo; item (#321)&lt;/li&gt;
+&lt;li&gt;Added an history in &amp;ldquo;Locate IP&amp;rdquo; page (#321)&lt;/li&gt;
+&lt;li&gt;Added translations (#322)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;History&amp;rdquo; section in Settings (#322)&lt;/li&gt;
+&lt;li&gt;Added the possibility to disable the history in &amp;ldquo;Locate IP&amp;rdquo; page (#322)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Users can check invalid URLs (#319)&lt;/li&gt;
+&lt;li&gt;Fixed an issue where the text isn&amp;rsquo;t visible (#321)&lt;/li&gt;
+&lt;li&gt;Fixed margin issue with history (#321)&lt;/li&gt;
+&lt;li&gt;Fixed scrolling issues (#321)&lt;/li&gt;
+&lt;li&gt;Duplicates in history can no longer exist (#321)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated Simplified Chinese translation&lt;/li&gt;
+&lt;li&gt;Made the &amp;ldquo;Locate&amp;rdquo; button locate the IP (#321)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;History&amp;rdquo; button is hidden if history is empty&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/cover_hu58a4ef5f5e91d79881a99d3104e2c24e_37479_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/cover_hu58a4ef5f5e91d79881a99d3104e2c24e_37479_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new history section of the locate IP page of InternetTest&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gavilya: Version 2.5.0.2205 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/</link>
+        <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.5.0.2205 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.5.0.2205.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a colorful border to the game cards if it&amp;rsquo;s a favorite (#223)&lt;/li&gt;
+&lt;li&gt;Added a star icon to games marked as favorite in &amp;ldquo;List&amp;rdquo; mode (#224)&lt;/li&gt;
+&lt;li&gt;Added translations (#225)&lt;/li&gt;
+&lt;li&gt;Added a notification if the user hasn&amp;rsquo;t played a game for a long time (#225)&lt;/li&gt;
+&lt;li&gt;Added action when clicking &amp;ldquo;Show&amp;rdquo; button (#225)&lt;/li&gt;
+&lt;li&gt;Added a message if Steam isn&amp;rsquo;t running (#226)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Some games may be not responding after hitting play (#222)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed unnecessary RAWG API fetch&lt;/li&gt;
+&lt;li&gt;Removed obsolete WebClient code&lt;/li&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gavilya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to go to the website of Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/cover.png&#34;
+	width=&#34;1185&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/cover_hu41d01e1967dc4ce128294a0732a0bc4c_39385_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/cover_hu41d01e1967dc4ce128294a0732a0bc4c_39385_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Library&amp;rdquo; page of Gavilya in &amp;ldquo;List view&amp;rdquo; mode&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: Version 4.6.0.2205 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/</link>
+        <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.6.0.2205 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.6.0.2205.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to get the positive of a number (#318)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the negative of a number (#319)&lt;/li&gt;
+&lt;li&gt;Added GetResultsOf() method (#320)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to check the documentation of LeoCorpLibrary.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/cover.png&#34;
+	width=&#34;1362&#34;
+	height=&#34;578&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/cover_hu06be8c228248f08fbb8c4b657a3c34a1_73278_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/cover_hu06be8c228248f08fbb8c4b657a3c34a1_73278_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary Maths methods.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;235&#34;
+		data-flex-basis=&#34;565px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Datalya: Version 1.4.2.2204 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/</link>
+        <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.4.2.2204 is now available" /&gt;&lt;p&gt;A small update of Datalya is now available, and it is included in version 1.4.2.2204.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a warning message when a database was edited in a newer version (#57)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Upgraded LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://datalya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to go to the website of Datalya.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadDatalya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Datalya&lt;/p&gt;
+&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/cover.png&#34;
+	width=&#34;550&#34;
+	height=&#34;300&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/cover_hub353fb89defe48fe8e4dba4b350c9724_11052_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/cover_hub353fb89defe48fe8e4dba4b350c9724_11052_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;About&amp;rdquo; dialog of Datalya&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;183&#34;
+		data-flex-basis=&#34;440px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: Version 2.4.0.2204 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/</link>
+        <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/cover.png" alt="Featured image of post Passliss: Version 2.4.0.2204 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.4.0.2204.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Moved &amp;ldquo;Import&amp;rdquo; and &amp;ldquo;Export&amp;rdquo; buttons (#152)&lt;/li&gt;
+&lt;li&gt;Added translations (#153)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;See more&amp;rdquo; section in &amp;ldquo;Strength&amp;rdquo; page (#153)&lt;/li&gt;
+&lt;li&gt;Added more details in the &amp;ldquo;Strength&amp;rdquo; page (#153)&lt;/li&gt;
+&lt;li&gt;The &amp;ldquo;See more&amp;rdquo; button is only visible when a password is provided (#153)&lt;/li&gt;
+&lt;li&gt;Added new colors (#154)&lt;/li&gt;
+&lt;li&gt;Added colors to &amp;ldquo;Strength&amp;rdquo; page (#154)&lt;/li&gt;
+&lt;li&gt;Added syntax coloring in &amp;ldquo;Strength&amp;rdquo; page (#154)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue with the icon of the &amp;ldquo;See more&amp;rdquo; button (#153)&lt;/li&gt;
+&lt;li&gt;Fixed green color in light mode (#154)&lt;/li&gt;
+&lt;li&gt;Fixed an issue with &amp;ldquo;Strength&amp;rdquo; page (#154)&lt;/li&gt;
+&lt;li&gt;Fixed an issue when testing strength from &amp;ldquo;Generate&amp;rdquo; page&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated Chinese translation&lt;/li&gt;
+&lt;li&gt;Replaced orange with green (#154)&lt;/li&gt;
+&lt;li&gt;Refactored code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/cover_hu0716fecc172baf7c61696a89c403aa69_44112_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/cover_hu0716fecc172baf7c61696a89c403aa69_44112_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Strength&amp;rdquo; page of Passliss, with the &amp;ldquo;Info&amp;rdquo; panel opened.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gerayis: Version 2.1.0.2204 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/04/gerayis-version-2102204-is-now-available/</link>
+        <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/04/gerayis-version-2102204-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/04/gerayis-version-2102204-is-now-available/cover.png" alt="Featured image of post Gerayis: Version 2.1.0.2204 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available, and it bis the version 2.1.0.2204.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to view a QR code in a separated window (#118)&lt;/li&gt;
+&lt;li&gt;Added translations (#118)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Generate bar code&amp;rdquo; jump list (#119)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Generate a QR code&amp;rdquo; jump list (#119)&lt;/li&gt;
+&lt;li&gt;Added logic code for taskbar jump lists (#119)&lt;/li&gt;
+&lt;li&gt;Added MouseKeyHook NuGet package (#120)&lt;/li&gt;
+&lt;li&gt;Added keyboard shortcuts in &amp;ldquo;Bar code&amp;rdquo; page (#120)&lt;/li&gt;
+&lt;li&gt;Added keyboard shortcuts in &amp;ldquo;QR Code&amp;rdquo; page (#120)&lt;/li&gt;
+&lt;li&gt;Added keyboard shortcuts (#120)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Credits&amp;rdquo; window (#121)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The title of the &amp;ldquo;See bar code&amp;rdquo; window changes depending on the parent page (#118)&lt;/li&gt;
+&lt;li&gt;Fixed an issue where bar codes were copied even if the window was minimized&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated &amp;ldquo;SeeFullQrCode&amp;rdquo; tooltip (#118)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadGerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/04/gerayis-version-2102204-is-now-available/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/04/gerayis-version-2102204-is-now-available/cover_hu2e1ae6bdbe58edf26ce24f473dc077d0_32274_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/04/gerayis-version-2102204-is-now-available/cover_hu2e1ae6bdbe58edf26ce24f473dc077d0_32274_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;QR code&amp;rdquo; page of Gerayis&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ColorPicker: Version 4.1.0.2204 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/04/colorpicker-version-4102204-is-now/</link>
+        <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/04/colorpicker-version-4102204-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/04/colorpicker-version-4102204-is-now/cover.png" alt="Featured image of post ColorPicker: Version 4.1.0.2204 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 4.1.0.2204.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations (#124)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the favorite color &amp;ldquo;type&amp;rdquo; (#124)&lt;/li&gt;
+&lt;li&gt;Added the possibility to copy a color* as any color type (#124)&lt;/li&gt;
+&lt;li&gt;Added more info on &amp;ldquo;ColorItem&amp;rdquo; tooltip (#124)&lt;/li&gt;
+&lt;li&gt;Added the possibility to copy a color (item) as any color type (#124)&lt;/li&gt;
+&lt;li&gt;Added the possibility to copy colors in &amp;ldquo;Palette&amp;rdquo; history (#124)&lt;/li&gt;
+&lt;li&gt;Converter page is now using default color type (#124)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Compact mode&amp;rdquo; button (#125)&lt;/li&gt;
+&lt;li&gt;Added compact mode (#125)&lt;/li&gt;
+&lt;li&gt;Added translations (#126)&lt;/li&gt;
+&lt;li&gt;Added keyboard shortcuts section in Settings (#126)&lt;/li&gt;
+&lt;li&gt;Added icon on &amp;ldquo;Edit&amp;rdquo; button (#126)&lt;/li&gt;
+&lt;li&gt;Added fallback keyboard shortcut if none is specified (#126)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set default keyboard shortcuts (#126)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;restart&amp;rdquo; message in &amp;ldquo;Keyboard shortcuts&amp;rdquo; section (#126)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Credits&amp;rdquo; window (#127)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The &amp;ldquo;Copy&amp;rdquo; button now updates when browsing the app (#124)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Compact mode&amp;rdquo; button is only visible in &amp;ldquo;Picker&amp;rdquo; page (#125)&lt;/li&gt;
+&lt;li&gt;Fixed icon issue&lt;/li&gt;
+&lt;li&gt;Shortcut TextBoxes are now loading on start (#126)&lt;/li&gt;
+&lt;li&gt;Fixed tooltip issue (#126)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated ColorHelper&lt;/li&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Upgraded to a newer version of LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated Setup&lt;/li&gt;
+&lt;li&gt;Upgraded to .NET 6&lt;/li&gt;
+&lt;li&gt;The fallback keyboard shortcut is the default one (#126)&lt;/li&gt;
+&lt;li&gt;Updated &amp;ldquo;Shortcut guide&amp;rdquo; on Picker page (#126)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/04/colorpicker-version-4102204-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/04/colorpicker-version-4102204-is-now/cover_hu5644f865ffe7a4fe5a60508e4fdd30eb_43662_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/04/colorpicker-version-4102204-is-now/cover_hu5644f865ffe7a4fe5a60508e4fdd30eb_43662_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of ColorPicker&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: Version 4.5.0.2204 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/</link>
+        <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.5.0.2204 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available and it is the version 4.5.0.2204.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added GetWebPageStatusCode() method (#311)&lt;/li&gt;
+&lt;li&gt;Made GetWebPageStatusCode() method obsolete (#311)&lt;/li&gt;
+&lt;li&gt;Added XML Documentation&lt;/li&gt;
+&lt;li&gt;Added GetWebPageStatusDescriptionAsync() method (#312)&lt;/li&gt;
+&lt;li&gt;Made GetWebPageStatusDescription() method obsolete (#312)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed XML comment issue&lt;/li&gt;
+&lt;li&gt;Updated GetWebPageStatusDescription() method (#312)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;removed&#34;&gt;Removed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed obsolete methods (#312)&lt;/li&gt;
+&lt;li&gt;Removed null argument check in GetUnixTime() method (#313)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated Encrypt() method (#310)&lt;/li&gt;
+&lt;li&gt;Updated Decrypt() method (#310)&lt;/li&gt;
+&lt;li&gt;Updated Crypt methods (#310)&lt;/li&gt;
+&lt;li&gt;Updated GetWebPageStatusCode() method (#311)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951?version=4.9.0.2208&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093?version=4.9.0.2208&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to see the documentation of LeoCorpLibrary.&lt;/p&gt;
+&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/cover.png&#34;
+	width=&#34;2048&#34;
+	height=&#34;710&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/cover_hudcc4343b434834987c0bb8ee4751530e_130185_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/cover_hudcc4343b434834987c0bb8ee4751530e_130185_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary NetworkConnection methods that can get the status code of a specific website.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;288&#34;
+		data-flex-basis=&#34;692px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>InternetTest: Version 6.1.0.2203 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/</link>
+        <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/cover.png" alt="Featured image of post InternetTest: Version 6.1.0.2203 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 6.1.0.2203.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations (#307)&lt;/li&gt;
+&lt;li&gt;Added Website item (#307)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Multiple websites&amp;rdquo; section in DownDetector (#307)&lt;/li&gt;
+&lt;li&gt;Added the possibility to test different websites at the same time (#307)&lt;/li&gt;
+&lt;li&gt;Added the possibility to check every x seconds multiple websites (#308)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Delete&amp;rdquo; button on &amp;ldquo;Website&amp;rdquo; item (#307)&lt;/li&gt;
+&lt;li&gt;Added placeholder text in DownDetector (#308)&lt;/li&gt;
+&lt;li&gt;Added translations (#309)&lt;/li&gt;
+&lt;li&gt;Added styles (#309)&lt;/li&gt;
+&lt;li&gt;Added the possibility to hide the IP address (#309)&lt;/li&gt;
+&lt;li&gt;Added the possibility to pin the window (#310)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue with LeoCorpLibrary (#306)&lt;/li&gt;
+&lt;li&gt;Fixed an issue with status code method&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Refactored GetStatusCode() method&lt;/li&gt;
+&lt;li&gt;The icon of the button changes when clicked (#307)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/cover_hu49d9f95a10e2c788941bbd0e45c167cd_49314_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/cover_hu49d9f95a10e2c788941bbd0e45c167cd_49314_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new DownDetector page section of InternetTest.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gavilya: Version 2.4.0.2203 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/</link>
+        <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.4.0.2203 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available and it is the version 2.4.0.2203.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations (#211)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Home Options&amp;rdquo; page (#211)&lt;/li&gt;
+&lt;li&gt;Added the possibility to go to &amp;ldquo;Home Options&amp;rdquo; (#211)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the maximum number of recent games to show in Home (#211)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Recommended Games&amp;rdquo; section in Home (#212)&lt;/li&gt;
+&lt;li&gt;Added a placeholder when there aren&amp;rsquo;t any recommended games (#212)&lt;/li&gt;
+&lt;li&gt;Added a menu on game card (#213)&lt;/li&gt;
+&lt;li&gt;Added the possibility to launch a game as admin (#213)&lt;/li&gt;
+&lt;li&gt;Added an &amp;ldquo;Admin&amp;rdquo; button in &amp;ldquo;Game info&amp;rdquo; page (#213)&lt;/li&gt;
+&lt;li&gt;Added a message when trying to launch UWP apps as admin (#213)&lt;/li&gt;
+&lt;li&gt;Added notification panel (#214)&lt;/li&gt;
+&lt;li&gt;Added notification item (#214)&lt;/li&gt;
+&lt;li&gt;Added a notification center (#214)&lt;/li&gt;
+&lt;li&gt;Added a badge on notification icon (#214)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/cover.png&#34;
+	width=&#34;1185&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/cover_hu753b5805da5e1888e022225d8845b5c9_332464_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/cover_hu753b5805da5e1888e022225d8845b5c9_332464_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The notification panel alongside the &amp;ldquo;Minecraft&amp;rdquo; page.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: Version 2.3.0.2203 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/</link>
+        <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/cover.png" alt="Featured image of post Passliss: Version 2.3.0.2203 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.3.0.2203.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved animations on sidebar (#140)&lt;/li&gt;
+&lt;li&gt;Added translations (#141)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Generate key&amp;rdquo; button in &amp;ldquo;Encryption&amp;rdquo; page (#141)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Test strength&amp;rdquo; button in &amp;ldquo;Generate&amp;rdquo; page (#142)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set a default encryption mode (#143)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Slide in&amp;rdquo; animation when browsing Passliss (#144)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated Setup&lt;/li&gt;
+&lt;li&gt;Upgraded to .NET 6 (#139)&lt;/li&gt;
+&lt;li&gt;Code cleanup for .NET 6&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/cover_hu4866257e6726c82c13964a8ea237e26f_37643_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/cover_hu4866257e6726c82c13964a8ea237e26f_37643_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: Version 4.4.0.2203 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/</link>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.4.0.2203 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.4.0.2203.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added time conversions methods to UnitsConversions class (#302)&lt;/li&gt;
+&lt;li&gt;Added storage units conversion methods to UnitsConversions class (#303)&lt;/li&gt;
+&lt;li&gt;Moved all enumerations to a dedicated namespace (#304)&lt;/li&gt;
+&lt;li&gt;Added the possibility to download a file using an HttpClient (#305)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated XML Documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951?version=4.9.0.2208&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093?version=4.9.0.2208&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to check the documentation of LeoCorpLibrary.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/cover.png&#34;
+	width=&#34;2048&#34;
+	height=&#34;524&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/cover_hu1d593e28476f24bb596a74f0af5f4da8_75324_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/cover_hu1d593e28476f24bb596a74f0af5f4da8_75324_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary. It downloads a file asynchronously using a method implemented in LeoCorpLibrary.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;390&#34;
+		data-flex-basis=&#34;938px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

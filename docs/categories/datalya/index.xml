@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Datalya on Blog | Léo Corporation</title>
+        <link>https://blog.leocorporation.dev/categories/datalya/</link>
+        <description>Recent content in Datalya on Blog | Léo Corporation</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/datalya/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Datalya: Version 1.6.0.2208 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/</link>
+        <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.6.0.2208 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.6.0.2208.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &amp;ldquo;Re-order&amp;rdquo; buttons in Input Block (#75)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Re-order&amp;rdquo; buttons in Multichoices Block (#75)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Re-order&amp;rdquo; buttons in Selector Block (#75)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Re-order&amp;rdquo; buttons in Single Choice Block (#75)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Re-order&amp;rdquo; button in Date Block (#75)&lt;/li&gt;
+&lt;li&gt;Added the possibility to move up a Block (#75)&lt;/li&gt;
+&lt;li&gt;Added the possibility to move down a Block (#75)&lt;/li&gt;
+&lt;li&gt;Added the possibility to re-order Blocks (#75)&lt;/li&gt;
+&lt;li&gt;Added translations (#76)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Popup&amp;rdquo; menu on the &amp;ldquo;Import&amp;rdquo; button (#76)&lt;/li&gt;
+&lt;li&gt;Added the possibility to import existing template (#76)&lt;/li&gt;
+&lt;li&gt;Redesigned the &amp;ldquo;Select a template&amp;rdquo; window (#77)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where deleting a Block is impossible&lt;/li&gt;
+&lt;li&gt;Fixed popup behavior (#76)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated ClosedXML&lt;/li&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadDatalya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Datalya&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://datalya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to go to Datalya’s website.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/cover.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/cover_hufb543a81c696a54459748e7f9bfbd549_62304_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/cover_hufb543a81c696a54459748e7f9bfbd549_62304_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Datalya&amp;rsquo;s creator page.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Datalya: Version 1.5.0.2206 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/</link>
+        <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.5.0.2206 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.5.0.2206.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations (#63)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;DateBlock&amp;rdquo; class (#63)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;DateBlock&amp;rdquo; creator UI (#63)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;DateBlock&amp;rdquo; properties UI (#63)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Date&amp;rdquo; block (#63)&lt;/li&gt;
+&lt;li&gt;Added full &amp;ldquo;Date&amp;rdquo; creator UI (#63)&lt;/li&gt;
+&lt;li&gt;Added styles to &amp;ldquo;Date&amp;rdquo; block (#63)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the default tab (#65)&lt;/li&gt;
+&lt;li&gt;Added translations (#66)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Search&amp;rdquo; window (#66)&lt;/li&gt;
+&lt;li&gt;Added a search feature (#66)&lt;/li&gt;
+&lt;li&gt;Added a message when no results are found (#66)&lt;/li&gt;
+&lt;li&gt;Added a message when no request is provided (#66)&lt;/li&gt;
+&lt;li&gt;Added a message in case of an error in &amp;ldquo;Search&amp;rdquo; window (#66)&lt;/li&gt;
+&lt;li&gt;Added a default field in &amp;ldquo;Search&amp;rdquo; window (#66)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue with file version&lt;/li&gt;
+&lt;li&gt;Fixed an issue with default date (#63)&lt;/li&gt;
+&lt;li&gt;Fixed an issue when a default date is used (#63)&lt;/li&gt;
+&lt;li&gt;Fixed: The app crashes when clicking the &amp;ldquo;Info&amp;rdquo; button with an empty database (#64)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated &amp;ldquo;Help&amp;rdquo; with new Date block (#67)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/DownloadDatalya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Datalya.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://datalya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to see the website of Datalya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/cover.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/cover_hue1c9fb88263ff2db33fdc46760fef48c_41959_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/cover_hue1c9fb88263ff2db33fdc46760fef48c_41959_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Search&amp;rdquo; dialog of Datalya&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Datalya: Version 1.4.2.2204 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/</link>
+        <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.4.2.2204 is now available" /&gt;&lt;p&gt;A small update of Datalya is now available, and it is included in version 1.4.2.2204.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a warning message when a database was edited in a newer version (#57)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Upgraded LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://datalya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to go to the website of Datalya.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadDatalya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Datalya&lt;/p&gt;
+&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/cover.png&#34;
+	width=&#34;550&#34;
+	height=&#34;300&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/cover_hub353fb89defe48fe8e4dba4b350c9724_11052_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/cover_hub353fb89defe48fe8e4dba4b350c9724_11052_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;About&amp;rdquo; dialog of Datalya&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;183&#34;
+		data-flex-basis=&#34;440px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

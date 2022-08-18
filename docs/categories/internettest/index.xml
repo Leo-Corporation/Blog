@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>InternetTest on Blog | Léo Corporation</title>
+        <link>https://blog.leocorporation.dev/categories/internettest/</link>
+        <description>Recent content in InternetTest on Blog | Léo Corporation</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/internettest/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>InternetTest: Version 6.3.0.2207 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/</link>
+        <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/cover.png" alt="Featured image of post InternetTest: Version 6.3.0.2207 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 6.3.0.2207.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added dashboard items in &amp;ldquo;Locate IP&amp;rdquo; page (#332)&lt;/li&gt;
+&lt;li&gt;Added data when locating an IP (#332)&lt;/li&gt;
+&lt;li&gt;Added translations (#332)&lt;/li&gt;
+&lt;li&gt;Added a placeholder in &amp;ldquo;Locate IP&amp;rdquo; page (#332)&lt;/li&gt;
+&lt;li&gt;Added Open Source mention in Settings (#333)&lt;/li&gt;
+&lt;li&gt;Added font files (#334)&lt;/li&gt;
+&lt;li&gt;Added WebInfo record (#335)&lt;/li&gt;
+&lt;li&gt;Added translations (#335)&lt;/li&gt;
+&lt;li&gt;Added more information in &amp;ldquo;Connection&amp;rdquo; page history (#335)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed issues with the new &amp;ldquo;Locate IP&amp;rdquo; page design (#332)&lt;/li&gt;
+&lt;li&gt;Code cleanup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated font (#334)&lt;/li&gt;
+&lt;li&gt;Removed old font (#334)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;Click here to download InternetTest.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/cover_hu9b3e5ed5c652af1595492eb37ff7c772_61773_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/cover_hu9b3e5ed5c652af1595492eb37ff7c772_61773_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new locate IP page of InternetTest&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>InternetTest: Version 6.2.0.2205 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/</link>
+        <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/cover.png" alt="Featured image of post InternetTest: Version 6.2.0.2205 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 6.2.0.2205.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &amp;ldquo;History&amp;rdquo; section (#321)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;IP History&amp;rdquo; item (#321)&lt;/li&gt;
+&lt;li&gt;Added an history in &amp;ldquo;Locate IP&amp;rdquo; page (#321)&lt;/li&gt;
+&lt;li&gt;Added translations (#322)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;History&amp;rdquo; section in Settings (#322)&lt;/li&gt;
+&lt;li&gt;Added the possibility to disable the history in &amp;ldquo;Locate IP&amp;rdquo; page (#322)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Users can check invalid URLs (#319)&lt;/li&gt;
+&lt;li&gt;Fixed an issue where the text isn&amp;rsquo;t visible (#321)&lt;/li&gt;
+&lt;li&gt;Fixed margin issue with history (#321)&lt;/li&gt;
+&lt;li&gt;Fixed scrolling issues (#321)&lt;/li&gt;
+&lt;li&gt;Duplicates in history can no longer exist (#321)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated Simplified Chinese translation&lt;/li&gt;
+&lt;li&gt;Made the &amp;ldquo;Locate&amp;rdquo; button locate the IP (#321)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;History&amp;rdquo; button is hidden if history is empty&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/cover_hu58a4ef5f5e91d79881a99d3104e2c24e_37479_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/cover_hu58a4ef5f5e91d79881a99d3104e2c24e_37479_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new history section of the locate IP page of InternetTest&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>InternetTest: Version 6.1.0.2203 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/</link>
+        <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/cover.png" alt="Featured image of post InternetTest: Version 6.1.0.2203 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 6.1.0.2203.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations (#307)&lt;/li&gt;
+&lt;li&gt;Added Website item (#307)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Multiple websites&amp;rdquo; section in DownDetector (#307)&lt;/li&gt;
+&lt;li&gt;Added the possibility to test different websites at the same time (#307)&lt;/li&gt;
+&lt;li&gt;Added the possibility to check every x seconds multiple websites (#308)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Delete&amp;rdquo; button on &amp;ldquo;Website&amp;rdquo; item (#307)&lt;/li&gt;
+&lt;li&gt;Added placeholder text in DownDetector (#308)&lt;/li&gt;
+&lt;li&gt;Added translations (#309)&lt;/li&gt;
+&lt;li&gt;Added styles (#309)&lt;/li&gt;
+&lt;li&gt;Added the possibility to hide the IP address (#309)&lt;/li&gt;
+&lt;li&gt;Added the possibility to pin the window (#310)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue with LeoCorpLibrary (#306)&lt;/li&gt;
+&lt;li&gt;Fixed an issue with status code method&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Refactored GetStatusCode() method&lt;/li&gt;
+&lt;li&gt;The icon of the button changes when clicked (#307)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/cover_hu49d9f95a10e2c788941bbd0e45c167cd_49314_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/cover_hu49d9f95a10e2c788941bbd0e45c167cd_49314_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new DownDetector page section of InternetTest.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

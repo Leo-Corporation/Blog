@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>LeoCorpLibrary on Blog | Léo Corporation</title>
+        <link>https://blog.leocorporation.dev/categories/leocorplibrary/</link>
+        <description>Recent content in LeoCorpLibrary on Blog | Léo Corporation</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/leocorplibrary/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>LeoCorpLibrary: Version 4.9.0.2208 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/</link>
+        <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.9.0.2208 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.9.0.2208.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to get the drive with the highest free space (#345)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the drive with the lowest free space (#346)&lt;/li&gt;
+&lt;li&gt;Added XML Documentation&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the UnitType of a drive (#347)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get if the device has an optical disc device (#348)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: GetDriveWithHighestFreeSpace() doesn&amp;rsquo;t work with optical drives (#350)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;Click here to access the LeoCorpLibrary documentation.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951?version=4.9.0.2208&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093?version=4.9.0.2208&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/cover.png&#34;
+	width=&#34;2002&#34;
+	height=&#34;784&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/cover_hu8ec85ac7d7b38adaf4922f5be605c2eb_104228_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/cover_hu8ec85ac7d7b38adaf4922f5be605c2eb_104228_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;255&#34;
+		data-flex-basis=&#34;612px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: Version 4.8.0.2207 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/</link>
+        <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.8.0.2207 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.8.0.2207.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to convert a DateTime to UnixTime (#336)&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert Double to Int (#337)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the current directory of the app (#338)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the percentage of occupied space on a drive (#339)&lt;/li&gt;
+&lt;li&gt;Added XML Documentation (#340)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;Click here to access the documentation of LeoCorpLibrary.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/cover.png&#34;
+	width=&#34;1530&#34;
+	height=&#34;530&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/cover_hu5840edcea4a501edbdca28ad40512adc_88122_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/cover_hu5840edcea4a501edbdca28ad40512adc_88122_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary that gets the occupied space percentage of a specified drive.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;288&#34;
+		data-flex-basis=&#34;692px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: Version 4.7.0.2206 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/</link>
+        <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.7.0.2206 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.7.0.2206.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to get the result of a percentage increase (#324)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the result of a percentage decrease (#325)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the evolution rate that cancel itself (#326)&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert a proportion to a percentage string (#327)&lt;/li&gt;
+&lt;li&gt;Added the possibility to check if a number is positive or negative (#328)&lt;/li&gt;
+&lt;li&gt;Added IsPositive() method (#329)&lt;/li&gt;
+&lt;li&gt;Added IsNegative() method (#330)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to check the documentation of LeoCorpLibrary.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/cover.png&#34;
+	width=&#34;1530&#34;
+	height=&#34;578&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/cover_huc32a290cd18420283a48359c8800b992_81774_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/cover_huc32a290cd18420283a48359c8800b992_81774_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary Maths methods.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;264&#34;
+		data-flex-basis=&#34;635px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: Version 4.6.0.2205 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/</link>
+        <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.6.0.2205 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.6.0.2205.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to get the positive of a number (#318)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the negative of a number (#319)&lt;/li&gt;
+&lt;li&gt;Added GetResultsOf() method (#320)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to check the documentation of LeoCorpLibrary.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/cover.png&#34;
+	width=&#34;1362&#34;
+	height=&#34;578&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/cover_hu06be8c228248f08fbb8c4b657a3c34a1_73278_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/cover_hu06be8c228248f08fbb8c4b657a3c34a1_73278_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary Maths methods.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;235&#34;
+		data-flex-basis=&#34;565px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: Version 4.5.0.2204 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/</link>
+        <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.5.0.2204 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available and it is the version 4.5.0.2204.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added GetWebPageStatusCode() method (#311)&lt;/li&gt;
+&lt;li&gt;Made GetWebPageStatusCode() method obsolete (#311)&lt;/li&gt;
+&lt;li&gt;Added XML Documentation&lt;/li&gt;
+&lt;li&gt;Added GetWebPageStatusDescriptionAsync() method (#312)&lt;/li&gt;
+&lt;li&gt;Made GetWebPageStatusDescription() method obsolete (#312)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed XML comment issue&lt;/li&gt;
+&lt;li&gt;Updated GetWebPageStatusDescription() method (#312)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;removed&#34;&gt;Removed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed obsolete methods (#312)&lt;/li&gt;
+&lt;li&gt;Removed null argument check in GetUnixTime() method (#313)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated Encrypt() method (#310)&lt;/li&gt;
+&lt;li&gt;Updated Decrypt() method (#310)&lt;/li&gt;
+&lt;li&gt;Updated Crypt methods (#310)&lt;/li&gt;
+&lt;li&gt;Updated GetWebPageStatusCode() method (#311)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951?version=4.9.0.2208&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093?version=4.9.0.2208&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to see the documentation of LeoCorpLibrary.&lt;/p&gt;
+&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/cover.png&#34;
+	width=&#34;2048&#34;
+	height=&#34;710&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/cover_hudcc4343b434834987c0bb8ee4751530e_130185_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/cover_hudcc4343b434834987c0bb8ee4751530e_130185_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary NetworkConnection methods that can get the status code of a specific website.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;288&#34;
+		data-flex-basis=&#34;692px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: Version 4.4.0.2203 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/</link>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.4.0.2203 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.4.0.2203.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added time conversions methods to UnitsConversions class (#302)&lt;/li&gt;
+&lt;li&gt;Added storage units conversion methods to UnitsConversions class (#303)&lt;/li&gt;
+&lt;li&gt;Moved all enumerations to a dedicated namespace (#304)&lt;/li&gt;
+&lt;li&gt;Added the possibility to download a file using an HttpClient (#305)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated XML Documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951?version=4.9.0.2208&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093?version=4.9.0.2208&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to check the documentation of LeoCorpLibrary.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/cover.png&#34;
+	width=&#34;2048&#34;
+	height=&#34;524&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/cover_hu1d593e28476f24bb596a74f0af5f4da8_75324_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/cover_hu1d593e28476f24bb596a74f0af5f4da8_75324_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary. It downloads a file asynchronously using a method implemented in LeoCorpLibrary.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;390&#34;
+		data-flex-basis=&#34;938px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

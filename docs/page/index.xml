@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Blog | Léo Corporation</title>
+        <link>https://blog.leocorporation.dev/page/</link>
+        <description>Recent content in Pages on Blog | Léo Corporation</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://blog.leocorporation.dev/about/</link>
+        <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/about/</guid>
+        <description>&lt;h2 id=&#34;about-us&#34;&gt;About us&lt;/h2&gt;
+&lt;p&gt;Léo Corporation creates and maintains applications. It&amp;rsquo;s the home of our projects. Léo Corporation was created by &lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Peyronnet&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@Leo-Peyronnet&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;our-projects-and-applications&#34;&gt;Our projects and applications&lt;/h2&gt;
+&lt;p&gt;We maintain a few apps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Passliss&lt;/a&gt; - A modern password generator for Windows.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/InternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;InternetTest&lt;/a&gt; - A simple internet utility for Windows.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/ColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ColorPicker&lt;/a&gt; - A modern color picking tool for developers.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/Datalya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Datalya&lt;/a&gt; - A modern and simple database creator/manager for Windows.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Gavilya&lt;/a&gt; - A simple game launcher.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;And more&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;our-website&#34;&gt;Our website&lt;/h2&gt;
+&lt;p&gt;We have a website available at &lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://leocorporation.dev&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://blog.leocorporation.dev/archives/</link>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>https://blog.leocorporation.dev/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/links/</guid>
+        <description>&lt;p&gt;You can find useful links on this page.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://blog.leocorporation.dev/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
