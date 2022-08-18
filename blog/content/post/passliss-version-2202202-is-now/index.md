@@ -46,7 +46,7 @@ A new version of Passliss is now available, and it is the version 2.2.0.2202.
 
 ## Download
 
-[Click here]() to download Passliss.
+[Click here](https://tinyurl.com/Passliss) to download Passliss.
 
 ## Screenshot
-
+![The "Settings" page of Passliss.](cover.png)
