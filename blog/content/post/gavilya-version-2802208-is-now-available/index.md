@@ -10,6 +10,7 @@ tags:
     - Update
     - New Features
     - OpenSource
+    - Gaming
 ---
 
 A new version of Gavilya is now available, and it is the version 2.8.0.2208.
