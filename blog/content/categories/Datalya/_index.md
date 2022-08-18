@@ -1,7 +1,7 @@
 ---
 title: Datalya
 description: All updates and information about Datalya, a simple and modern database manager.
-image:
+image: datalya.png
 
 # Badge style
 style:

@@ -1,7 +1,7 @@
 ---
 title: Xalyus Store
 description: Xalyus Store is the place where all our apps are gathered.
-image:
+image: xalyus.png
 
 # Badge style
 style:

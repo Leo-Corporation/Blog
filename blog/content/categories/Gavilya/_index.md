@@ -1,7 +1,7 @@
 ---
 title: Gavilya
 description: All updates and information about Gavilya, a simple game launcher.
-image:
+image: gavilya.png
 
 # Badge style
 style:
