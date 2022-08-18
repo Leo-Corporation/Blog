@@ -13,8 +13,8 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
     --body-background: #f5f5fa;
 
-    --accent-color: #34495e;
-    --accent-color-darker: #2c3e50;
+    --accent-color: #1d4ed8;
+    --accent-color-darker: #003a70;
     --accent-color-text: #fff;
     --body-text-color: #b3b3b3;
 
@@ -27,8 +27,8 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
     &[data-scheme="dark"] {
         --body-background: #0a0a1e;
-        --accent-color: #ecf0f1;
-        --accent-color-darker: #bdc3c7;
+        --accent-color: #1d4ed8;
+        --accent-color-darker: #396eff;
         --accent-color-text: #000;
         --body-text-color: rgba(255, 255, 255, 0.7);
         --scrollbar-thumb: hsl(0, 0%, 40%);
@@ -43,7 +43,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --sys-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Droid Sans", "Helvetica Neue";
     --zh-font-family: "PingFang SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei";
 
-    --base-font-family: "Lato", var(--sys-font-family), var(--zh-font-family), sans-serif;
+    --base-font-family: "Hauora", var(--sys-font-family), var(--zh-font-family), sans-serif;
     --code-font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 
@@ -110,9 +110,9 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
     --heading-border-size: 4px;
 
-    --link-background-color: 189, 195, 199;
-    --link-background-opacity: 0.5;
-    --link-background-opacity-hover: 0.7;
+    --link-background-color: 150, 150, 170;
+    --link-background-opacity: 0.4;
+    --link-background-opacity-hover: 0.5;
 
     --pre-background-color: #272822;
     --pre-text-color: #f8f8f2;
@@ -126,6 +126,8 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     &[data-scheme="dark"] {
         --code-background-color: #272822;
         --code-text-color: rgba(255, 255, 255, 0.9);
+        --link-background-color: 50, 50, 70;
+        --link-background-opacity-hover: 0.7;
 
         --table-border-color: #717171;
         --tr-even-background-color: #545454;

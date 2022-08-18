@@ -7,11 +7,25 @@ aliases:
   - contact
 license: CC BY-NC-ND
 lastmod: '2022-08-17'
+links:
+  - title: GitHub
+    description: Our GitHub page.
+    website: https://github.com/Leo-Corporation
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: Website
+    description: Our official website.
+    website: https://leocorporation.dev
+    image: https://leocorporation.dev/favicon.png
+  - title: Twitter
+    description: Our GitHub page.
+    website: https://twitter.com/LeoCorpNews
+    image: https://img.icons8.com/color/240/000000/twitter--v1.png
 menu:
     main: 
         weight: 0
         params:
             icon: user
+comments: false
 ---
 
 ## About us
