@@ -1,5 +1,5 @@
 ---
-title: 'Passliss: Version 2.0.0.2112 is now available&&'
+title: 'Passliss: Version 2.0.0.2112 is now available'
 description: Learn more about this major new version.
 slug: passliss-version-2002112-is-now
 date: 2021-12-07 00:00:00+0000
