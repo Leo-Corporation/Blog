@@ -218,6 +218,341 @@
 &gt;&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>ColorPicker: Version 4.0.0.2202 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/</link>
+        <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/cover.png" alt="Featured image of post ColorPicker: Version 4.0.0.2202 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 4.0.0.2202. This is a major version of ColorPicker which brings lots of new changes and features.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Checks for update on start are disabled by default (#110)&lt;/li&gt;
+&lt;li&gt;Added translations (#113)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;First run&amp;rdquo; window (#113)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;First run&amp;rdquo; window now shows up on first run (#113)&lt;/li&gt;
+&lt;li&gt;Added logo (#113)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Welcome&amp;rdquo; page (#113)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Tutorial&amp;rdquo; page (#113)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Theme&amp;rdquo; page (#113)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Language&amp;rdquo; page (#113)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Update&amp;rdquo; page (#113)&lt;/li&gt;
+&lt;li&gt;Added the possibility to end the &amp;ldquo;First run&amp;rdquo; experience (#113)&lt;/li&gt;
+&lt;li&gt;Added Expander style (#114)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Theme&amp;rdquo; category in Settings (#114)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Language&amp;rdquo; category in Settings (#114)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;History&amp;rdquo; category in Settings (#114)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Color formatting&amp;rdquo; category in Settings (#114)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Keyboard shortcuts&amp;rdquo; category in Settings (#114)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Data&amp;rdquo; category in &amp;ldquo;Settings&amp;rdquo; (#114)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Licenses&amp;rdquo; category in Settings (#114)&lt;/li&gt;
+&lt;li&gt;Added an animation when navigating ColorPicker (#115)&lt;/li&gt;
+&lt;li&gt;Redesigned the &amp;ldquo;Converter&amp;rdquo; page (#116)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Wrong title for &amp;ldquo;Text tool&amp;rdquo; window (#112)&lt;/li&gt;
+&lt;li&gt;Fixed an issue with light theme&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated ColorHelper&lt;/li&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated Setup&lt;/li&gt;
+&lt;li&gt;Improved hover animations on the side bar (#115)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/cover_hu0d5b6d63bfbdb5571904b77f72788cbb_43634_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/cover_hu0d5b6d63bfbdb5571904b77f72788cbb_43634_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of ColorPicker.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+&lt;img src=&#34;https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/2.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/2_hu3369ffcfc2d6bcb95f6a2bc38ddbab19_41066_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/2_hu3369ffcfc2d6bcb95f6a2bc38ddbab19_41066_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Converter&amp;rdquo; page of ColorPicker.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+&lt;img src=&#34;https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/3.png&#34;
+	width=&#34;800&#34;
+	height=&#34;500&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/3_hu86369f0453a94e9d813941eda676aea8_44142_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/3_hu86369f0453a94e9d813941eda676aea8_44142_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Welcome&amp;rdquo; dialog of ColorPicker.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;384px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ColorPicker: Version 3.9.0.2201 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/01/colorpicker-version-3902201-is-now/</link>
+        <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/01/colorpicker-version-3902201-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/01/colorpicker-version-3902201-is-now/cover.png" alt="Featured image of post ColorPicker: Version 3.9.0.2201 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 3.9.0.2201.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to pin the window (#99)&lt;/li&gt;
+&lt;li&gt;Added translations (#100)&lt;/li&gt;
+&lt;li&gt;Added an image for the color wheel (#100)&lt;/li&gt;
+&lt;li&gt;Added the possibility to select a color from a Wheel (#100)&lt;/li&gt;
+&lt;li&gt;Added a button to the &amp;ldquo;Color Wheel&amp;rdquo; window (#100)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Cross&amp;rdquo; cursor on the color wheel (#100)&lt;/li&gt;
+&lt;li&gt;Color informations are now hidden when launching the color wheel window (#100)&lt;/li&gt;
+&lt;li&gt;Clicking on the color wheel stops selection (#100)&lt;/li&gt;
+&lt;li&gt;Added title to color wheel window (#100)&lt;/li&gt;
+&lt;li&gt;When the mouse leaves the color wheel, the selection stops (#100)&lt;/li&gt;
+&lt;li&gt;Added the possibility to copy the selected color (#100)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Text tool&amp;rdquo; window (#101)&lt;/li&gt;
+&lt;li&gt;Added button to &amp;ldquo;Text tool&amp;rdquo; window (#101)&lt;/li&gt;
+&lt;li&gt;Improved the design of the ComboBox in &amp;ldquo;Text tool&amp;rdquo; (#101)&lt;/li&gt;
+&lt;li&gt;Added sample text to &amp;ldquo;Text tool&amp;rdquo; window (#101)&lt;/li&gt;
+&lt;li&gt;Added the possibility to choose a font in &amp;ldquo;Text tool&amp;rdquo; (#101)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the font size in &amp;ldquo;Text tool&amp;rdquo; (#101)&lt;/li&gt;
+&lt;li&gt;Added labels next to fields in &amp;ldquo;Text tool&amp;rdquo; window (#101)&lt;/li&gt;
+&lt;li&gt;Improved design and added the possibility to scroll in &amp;ldquo;Text tool&amp;rdquo; wndow (#101)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the foreground and the background color of the &amp;ldquo;Text tool&amp;rdquo; window (#101)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated Licenses (#102)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/01/colorpicker-version-3902201-is-now/cover.png&#34;
+	width=&#34;600&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/01/colorpicker-version-3902201-is-now/cover_hucfacf787eccbc0f656883dd753c07197_64576_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/01/colorpicker-version-3902201-is-now/cover_hucfacf787eccbc0f656883dd753c07197_64576_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Color wheel&amp;rdquo; of ColorPicker.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ColorPicker: Version 3.8.1.2112 brings Simplified Chinese and a fix</title>
+        <link>https://blog.leocorporation.dev/2021/12/colorpicker-version-3812112-brings/</link>
+        <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2021/12/colorpicker-version-3812112-brings/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/12/colorpicker-version-3812112-brings/cover.png" alt="Featured image of post ColorPicker: Version 3.8.1.2112 brings Simplified Chinese and a fix" /&gt;&lt;p&gt;A new version of ColorPicker is available, despite a new one that came yesterday, version 3.8.1.2112 is here with fixes, and most importantly, Simplified Chinese!&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added Simplified Chinese (#94) (Thanks to @wcxu21)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed a crash issue when updating from an older version&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
+&lt;h2 id=&#34;special-thanks&#34;&gt;Special Thanks&lt;/h2&gt;
+&lt;p&gt;Thanks to &lt;a class=&#34;link&#34; href=&#34;https://github.com/wcxu21&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@wcxu21&lt;/a&gt; for the translations!&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/12/colorpicker-version-3812112-brings/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/12/colorpicker-version-3812112-brings/cover_huce640fcf9a332213a35904cb6e309be7_38382_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/12/colorpicker-version-3812112-brings/cover_huce640fcf9a332213a35904cb6e309be7_38382_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The ColorPicker user interface in Chinese.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ColorPicker: Version 3.8.0.2112 is now available</title>
+        <link>https://blog.leocorporation.dev/2021/12/colorpicker-version-3802112-is-now/</link>
+        <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2021/12/colorpicker-version-3802112-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/12/colorpicker-version-3802112-is-now/cover.png" alt="Featured image of post ColorPicker: Version 3.8.0.2112 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 3.8.0.2112.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to add a generated color to history in &amp;ldquo;Picker&amp;rdquo; page (#84)&lt;/li&gt;
+&lt;li&gt;Added a tooltip on the &amp;ldquo;Add to history&amp;rdquo; button (#84)&lt;/li&gt;
+&lt;li&gt;Added the possibility to save the generated colors in &amp;ldquo;Picker&amp;rdquo; page&amp;rsquo;s history (#85)&lt;/li&gt;
+&lt;li&gt;Added the possibility to restore generated colors on startup (#85)&lt;/li&gt;
+&lt;li&gt;Added the possibility to save the user&amp;rsquo;s color palettes (#86)&lt;/li&gt;
+&lt;li&gt;Added the possibility to restore the user&amp;rsquo;s color palettes on startup (#86)&lt;/li&gt;
+&lt;li&gt;Redesigned links in &amp;ldquo;Settings&amp;rdquo; page (#87)- Added translations (#88)&lt;/li&gt;
+&lt;li&gt;Added the possibility to disable the automatic restore of generated colors on start (#88)&lt;/li&gt;
+&lt;li&gt;Added the possibility to disable the automatic restore of the user&amp;rsquo;s color palettes on start (#89)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue with System theme not working on Windows 11&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note: If you update from an older version of ColorPicker, you may face an error. To resolve it, go to &amp;ldquo;%APPDATA%\Léo Corporation&amp;rdquo; in the file explorer, and delete the “ColorPicker” folder. Launch ColorPicker again, and the issue should be fixed.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/12/colorpicker-version-3802112-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/12/colorpicker-version-3802112-is-now/cover_hu0cd4899eee65effbdae45f40208b973e_45627_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/12/colorpicker-version-3802112-is-now/cover_hu0cd4899eee65effbdae45f40208b973e_45627_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The ColorPicker&amp;rsquo;s Settings page.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ColorPicker: Version 3.7.0.2111 is now available</title>
+        <link>https://blog.leocorporation.dev/2021/11/colorpicker-version-3702111-is-now/</link>
+        <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2021/11/colorpicker-version-3702111-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/11/colorpicker-version-3702111-is-now/cover.png" alt="Featured image of post ColorPicker: Version 3.7.0.2111 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 3.7.0.2111.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added the possibility to remove an item from the history in &amp;ldquo;Palette&amp;rdquo; page (#74)&lt;/li&gt;
+&lt;li&gt;Added the possibility to regenerate a color palette from history (#75)&lt;/li&gt;
+&lt;li&gt;Added the possibility to copy color palette as HEX when HEX is selected (#76)&lt;/li&gt;
+&lt;li&gt;Added HEX values in tooltips in &amp;ldquo;Palette&amp;rdquo; page (#77)&lt;/li&gt;
+&lt;li&gt;Added HEX values in tooltips in the history of the &amp;ldquo;Palette&amp;rdquo; page (#77)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: &amp;ldquo;Generate random color&amp;rdquo; button doesn&amp;rsquo;t work in &amp;ldquo;HEX&amp;rdquo; mode (#72)&lt;/li&gt;
+&lt;li&gt;Fixed a typo issue where the HEX color wasn&amp;rsquo;t correctly displayed in the history&lt;/li&gt;
+&lt;li&gt;Fixed: &amp;ldquo;Add to history&amp;rdquo; button can add multiple times the same color palette to the history (#73)&lt;/li&gt;
+&lt;li&gt;Fixed an issue where the &amp;ldquo;Use Upper case for HEX colors&amp;rdquo; option wasn&amp;rsquo;t working&lt;/li&gt;
+&lt;li&gt;Fixed an issue with the palette history&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/11/colorpicker-version-3702111-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/11/colorpicker-version-3702111-is-now/cover_hu7ff58e1c61c18e4e527eb3de64ea1042_31734_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/11/colorpicker-version-3702111-is-now/cover_hu7ff58e1c61c18e4e527eb3de64ea1042_31734_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Palette&amp;rdquo; page of ColorPicker&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ColorPicker: The version 3.6.0.2110 is now available</title>
+        <link>https://blog.leocorporation.dev/2021/10/colorpicker-version-3602110-is-now/</link>
+        <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2021/10/colorpicker-version-3602110-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/10/colorpicker-version-3602110-is-now/cover.png" alt="Featured image of post ColorPicker: The version 3.6.0.2110 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available and it is the version 3.6.0.2110.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a &amp;ldquo;Brightness&amp;rdquo; color palette (#63)&lt;/li&gt;
+&lt;li&gt;Added tooltips in &amp;ldquo;Palette&amp;rdquo; page (#63)&lt;/li&gt;
+&lt;li&gt;Added title for the &amp;ldquo;Brightness&amp;rdquo; section (#63)&lt;/li&gt;
+&lt;li&gt;Added the possibility to enter an HEX value in &amp;ldquo;Palette&amp;rdquo; page (#64)&lt;/li&gt;
+&lt;li&gt;Added an history in &amp;ldquo;Palette&amp;rdquo; page (#65)&lt;/li&gt;
+&lt;li&gt;Added the possibility to copy colors from history (#65)&lt;/li&gt;
+&lt;li&gt;Added tooltips in history (#65)&lt;/li&gt;
+&lt;li&gt;The &amp;ldquo;History&amp;rdquo; button is hidden when the history is empty (#66)&lt;/li&gt;
+&lt;li&gt;Color Palettes are now added manually to history (#65)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed crash issues&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
+&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/10/colorpicker-version-3602110-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/10/colorpicker-version-3602110-is-now/cover_hu1ea91fb3e2232393e938b4821ade0233_32553_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/10/colorpicker-version-3602110-is-now/cover_hu1ea91fb3e2232393e938b4821ade0233_32553_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Palette&amp;rdquo; page of ColorPicker&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
         
     </channel>
 </rss>

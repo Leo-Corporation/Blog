@@ -54,6 +54,52 @@
 &gt;&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>Xalyus Store: Version 2.2.0.2111 is now available</title>
+        <link>https://blog.leocorporation.dev/2021/11/xalyus-store-version-2202111-is-now/</link>
+        <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2021/11/xalyus-store-version-2202111-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/11/xalyus-store-version-2202111-is-now/cover.png" alt="Featured image of post Xalyus Store: Version 2.2.0.2111 is now available" /&gt;&lt;p&gt;A new version of Xalyus Store is now available, and it is the version 2.2.0.2111.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added Windows 11 in OSs list&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where the maximize icon wasn&amp;rsquo;t the right one&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated dependencies&lt;/li&gt;
+&lt;li&gt;Updated links design&lt;/li&gt;
+&lt;li&gt;Changed &amp;ldquo;Required configuration&amp;rdquo; to &amp;ldquo;Minimal required configuration&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Updated Splash Screen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/DownloadNewXalyusStore&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Xalyus Store.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/xalyus-store&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to learn more about Xalyus Store.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/11/xalyus-store-version-2202111-is-now/cover.png&#34;
+	width=&#34;1200&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/11/xalyus-store-version-2202111-is-now/cover_hu4640f706cfdde5544e9bdac9fb92888f_64298_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/11/xalyus-store-version-2202111-is-now/cover_hu4640f706cfdde5544e9bdac9fb92888f_64298_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Xalyus Store&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;171&#34;
+		data-flex-basis=&#34;411px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
         
     </channel>
 </rss>
