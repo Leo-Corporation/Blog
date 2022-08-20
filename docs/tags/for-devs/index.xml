@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>For devs on Blog | Léo Corporation</title>
-        <link>https://blog.leocorporation.dev/tags/for-devs/</link>
+        <link>https://leo-corporation.github.io/Blog/tags/for-devs/</link>
         <description>Recent content in For devs on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/for-devs/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://leo-corporation.github.io/Blog/tags/for-devs/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>ColorPicker: Version 4.4.0.2208 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/08/colorpicker-version-4402208-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/08/colorpicker-version-4402208-is-now/</link>
         <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/08/colorpicker-version-4402208-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/08/colorpicker-version-4402208-is-now/cover.png" alt="Featured image of post ColorPicker: Version 4.4.0.2208 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 4.4.0.2208.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/08/colorpicker-version-4402208-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/08/colorpicker-version-4402208-is-now/cover.png" alt="Featured image of post ColorPicker: Version 4.4.0.2208 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 4.4.0.2208.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -42,10 +42,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download ColorPicker&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/colorpicker-version-4402208-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/08/colorpicker-version-4402208-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/08/colorpicker-version-4402208-is-now/cover_hu4c9b0de70262cff4d16635a56f8ea9e8_140548_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/colorpicker-version-4402208-is-now/cover_hu4c9b0de70262cff4d16635a56f8ea9e8_140548_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/08/colorpicker-version-4402208-is-now/cover_hu4c9b0de70262cff4d16635a56f8ea9e8_140548_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/08/colorpicker-version-4402208-is-now/cover_hu4c9b0de70262cff4d16635a56f8ea9e8_140548_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;ColorPicker&amp;rsquo;s color wheel window.&#34;
@@ -60,11 +60,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.9.0.2208 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/08/leocorplibrary-version-4902208-is-now/</link>
         <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.9.0.2208 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.9.0.2208.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/08/leocorplibrary-version-4902208-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/08/leocorplibrary-version-4902208-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.9.0.2208 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.9.0.2208.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -94,10 +94,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/08/leocorplibrary-version-4902208-is-now/cover.png&#34;
 	width=&#34;2002&#34;
 	height=&#34;784&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/cover_hu8ec85ac7d7b38adaf4922f5be605c2eb_104228_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/cover_hu8ec85ac7d7b38adaf4922f5be605c2eb_104228_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/08/leocorplibrary-version-4902208-is-now/cover_hu8ec85ac7d7b38adaf4922f5be605c2eb_104228_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/08/leocorplibrary-version-4902208-is-now/cover_hu8ec85ac7d7b38adaf4922f5be605c2eb_104228_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary.&#34;
@@ -112,11 +112,11 @@
         </item>
         <item>
         <title>ColorPicker: Version 4.3.0.2207 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/07/colorpicker-version-4302207-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/07/colorpicker-version-4302207-is-now/</link>
         <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/07/colorpicker-version-4302207-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/colorpicker-version-4302207-is-now/cover.png" alt="Featured image of post ColorPicker: Version 4.3.0.2207 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 4.3.0.2207.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/07/colorpicker-version-4302207-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/07/colorpicker-version-4302207-is-now/cover.png" alt="Featured image of post ColorPicker: Version 4.3.0.2207 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 4.3.0.2207.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -139,10 +139,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/colorpicker-version-4302207-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/colorpicker-version-4302207-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/07/colorpicker-version-4302207-is-now/cover_hu6a0d6d962dd59a69194b5cbc3c6f7f9b_43777_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/colorpicker-version-4302207-is-now/cover_hu6a0d6d962dd59a69194b5cbc3c6f7f9b_43777_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/colorpicker-version-4302207-is-now/cover_hu6a0d6d962dd59a69194b5cbc3c6f7f9b_43777_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/07/colorpicker-version-4302207-is-now/cover_hu6a0d6d962dd59a69194b5cbc3c6f7f9b_43777_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of ColorPicker&#34;
@@ -157,11 +157,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.8.0.2207 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/07/leocorplibrary-version-4802207-is-now/</link>
         <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.8.0.2207 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.8.0.2207.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/07/leocorplibrary-version-4802207-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/07/leocorplibrary-version-4802207-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.8.0.2207 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.8.0.2207.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -187,10 +187,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/leocorplibrary-version-4802207-is-now/cover.png&#34;
 	width=&#34;1530&#34;
 	height=&#34;530&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/cover_hu5840edcea4a501edbdca28ad40512adc_88122_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/cover_hu5840edcea4a501edbdca28ad40512adc_88122_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/leocorplibrary-version-4802207-is-now/cover_hu5840edcea4a501edbdca28ad40512adc_88122_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/07/leocorplibrary-version-4802207-is-now/cover_hu5840edcea4a501edbdca28ad40512adc_88122_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary that gets the occupied space percentage of a specified drive.&#34;
@@ -205,11 +205,11 @@
         </item>
         <item>
         <title>ColorPicker: Version 4.2.0.2206 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/06/colorpicker-version-4202206-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/06/colorpicker-version-4202206-is-now/</link>
         <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/06/colorpicker-version-4202206-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/06/colorpicker-version-4202206-is-now/cover.png" alt="Featured image of post ColorPicker: Version 4.2.0.2206 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 4.2.0.2206.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/06/colorpicker-version-4202206-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/06/colorpicker-version-4202206-is-now/cover.png" alt="Featured image of post ColorPicker: Version 4.2.0.2206 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 4.2.0.2206.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -237,10 +237,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download ColorPicker&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/06/colorpicker-version-4202206-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/06/colorpicker-version-4202206-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/06/colorpicker-version-4202206-is-now/cover_hu63f609aa8217cef1d333e4a29ad701fd_83704_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/06/colorpicker-version-4202206-is-now/cover_hu63f609aa8217cef1d333e4a29ad701fd_83704_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/06/colorpicker-version-4202206-is-now/cover_hu63f609aa8217cef1d333e4a29ad701fd_83704_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/06/colorpicker-version-4202206-is-now/cover_hu63f609aa8217cef1d333e4a29ad701fd_83704_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of ColorPicker, with the taskbar jumplist opened.&#34;
@@ -255,11 +255,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.7.0.2206 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/06/leocorplibrary-version-4702206-is-now/</link>
         <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.7.0.2206 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.7.0.2206.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/06/leocorplibrary-version-4702206-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/06/leocorplibrary-version-4702206-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.7.0.2206 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.7.0.2206.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -288,10 +288,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to check the documentation of LeoCorpLibrary.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/06/leocorplibrary-version-4702206-is-now/cover.png&#34;
 	width=&#34;1530&#34;
 	height=&#34;578&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/cover_huc32a290cd18420283a48359c8800b992_81774_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/cover_huc32a290cd18420283a48359c8800b992_81774_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/06/leocorplibrary-version-4702206-is-now/cover_huc32a290cd18420283a48359c8800b992_81774_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/06/leocorplibrary-version-4702206-is-now/cover_huc32a290cd18420283a48359c8800b992_81774_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary Maths methods.&#34;
@@ -306,11 +306,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.6.0.2205 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/05/leocorplibrary-version-4602205-is-now/</link>
         <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.6.0.2205 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.6.0.2205.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/05/leocorplibrary-version-4602205-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/05/leocorplibrary-version-4602205-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.6.0.2205 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.6.0.2205.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -335,10 +335,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/05/leocorplibrary-version-4602205-is-now/cover.png&#34;
 	width=&#34;1362&#34;
 	height=&#34;578&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/cover_hu06be8c228248f08fbb8c4b657a3c34a1_73278_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/cover_hu06be8c228248f08fbb8c4b657a3c34a1_73278_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/05/leocorplibrary-version-4602205-is-now/cover_hu06be8c228248f08fbb8c4b657a3c34a1_73278_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/05/leocorplibrary-version-4602205-is-now/cover_hu06be8c228248f08fbb8c4b657a3c34a1_73278_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary Maths methods.&#34;
@@ -353,11 +353,11 @@
         </item>
         <item>
         <title>ColorPicker: Version 4.1.0.2204 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/04/colorpicker-version-4102204-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/04/colorpicker-version-4102204-is-now/</link>
         <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/04/colorpicker-version-4102204-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/04/colorpicker-version-4102204-is-now/cover.png" alt="Featured image of post ColorPicker: Version 4.1.0.2204 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 4.1.0.2204.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/04/colorpicker-version-4102204-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/04/colorpicker-version-4102204-is-now/cover.png" alt="Featured image of post ColorPicker: Version 4.1.0.2204 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 4.1.0.2204.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -400,10 +400,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/04/colorpicker-version-4102204-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/04/colorpicker-version-4102204-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/04/colorpicker-version-4102204-is-now/cover_hu5644f865ffe7a4fe5a60508e4fdd30eb_43662_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/04/colorpicker-version-4102204-is-now/cover_hu5644f865ffe7a4fe5a60508e4fdd30eb_43662_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/04/colorpicker-version-4102204-is-now/cover_hu5644f865ffe7a4fe5a60508e4fdd30eb_43662_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/04/colorpicker-version-4102204-is-now/cover_hu5644f865ffe7a4fe5a60508e4fdd30eb_43662_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of ColorPicker&#34;
@@ -418,11 +418,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.5.0.2204 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/04/leocorplibrary-version-4502204-is-now/</link>
         <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.5.0.2204 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available and it is the version 4.5.0.2204.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/04/leocorplibrary-version-4502204-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/04/leocorplibrary-version-4502204-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.5.0.2204 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available and it is the version 4.5.0.2204.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -466,10 +466,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to see the documentation of LeoCorpLibrary.&lt;/p&gt;
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/04/leocorplibrary-version-4502204-is-now/cover.png&#34;
 	width=&#34;2048&#34;
 	height=&#34;710&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/cover_hudcc4343b434834987c0bb8ee4751530e_130185_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/cover_hudcc4343b434834987c0bb8ee4751530e_130185_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/04/leocorplibrary-version-4502204-is-now/cover_hudcc4343b434834987c0bb8ee4751530e_130185_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/04/leocorplibrary-version-4502204-is-now/cover_hudcc4343b434834987c0bb8ee4751530e_130185_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary NetworkConnection methods that can get the status code of a specific website.&#34;
@@ -484,11 +484,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.4.0.2203 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/03/leocorplibrary-version-4402203-is-now/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.4.0.2203 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.4.0.2203.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/03/leocorplibrary-version-4402203-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/03/leocorplibrary-version-4402203-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.4.0.2203 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.4.0.2203.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -518,10 +518,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to check the documentation of LeoCorpLibrary.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/03/leocorplibrary-version-4402203-is-now/cover.png&#34;
 	width=&#34;2048&#34;
 	height=&#34;524&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/cover_hu1d593e28476f24bb596a74f0af5f4da8_75324_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/cover_hu1d593e28476f24bb596a74f0af5f4da8_75324_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/03/leocorplibrary-version-4402203-is-now/cover_hu1d593e28476f24bb596a74f0af5f4da8_75324_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/03/leocorplibrary-version-4402203-is-now/cover_hu1d593e28476f24bb596a74f0af5f4da8_75324_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary. It downloads a file asynchronously using a method implemented in LeoCorpLibrary.&#34;
@@ -536,11 +536,11 @@
         </item>
         <item>
         <title>ColorPicker: Version 4.0.0.2202 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/02/colorpicker-version-4002202-is-now/</link>
         <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/cover.png" alt="Featured image of post ColorPicker: Version 4.0.0.2202 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 4.0.0.2202. This is a major version of ColorPicker which brings lots of new changes and features.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/02/colorpicker-version-4002202-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/02/colorpicker-version-4002202-is-now/cover.png" alt="Featured image of post ColorPicker: Version 4.0.0.2202 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 4.0.0.2202. This is a major version of ColorPicker which brings lots of new changes and features.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -582,10 +582,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
 &lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/colorpicker-version-4002202-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/cover_hu0d5b6d63bfbdb5571904b77f72788cbb_43634_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/cover_hu0d5b6d63bfbdb5571904b77f72788cbb_43634_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/colorpicker-version-4002202-is-now/cover_hu0d5b6d63bfbdb5571904b77f72788cbb_43634_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/02/colorpicker-version-4002202-is-now/cover_hu0d5b6d63bfbdb5571904b77f72788cbb_43634_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of ColorPicker.&#34;
@@ -596,10 +596,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;
-&lt;img src=&#34;https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/2.png&#34;
+&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/colorpicker-version-4002202-is-now/2.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/2_hu3369ffcfc2d6bcb95f6a2bc38ddbab19_41066_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/2_hu3369ffcfc2d6bcb95f6a2bc38ddbab19_41066_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/colorpicker-version-4002202-is-now/2_hu3369ffcfc2d6bcb95f6a2bc38ddbab19_41066_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/02/colorpicker-version-4002202-is-now/2_hu3369ffcfc2d6bcb95f6a2bc38ddbab19_41066_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Converter&amp;rdquo; page of ColorPicker.&#34;
@@ -610,10 +610,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;
-&lt;img src=&#34;https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/3.png&#34;
+&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/colorpicker-version-4002202-is-now/3.png&#34;
 	width=&#34;800&#34;
 	height=&#34;500&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/3_hu86369f0453a94e9d813941eda676aea8_44142_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/02/colorpicker-version-4002202-is-now/3_hu86369f0453a94e9d813941eda676aea8_44142_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/colorpicker-version-4002202-is-now/3_hu86369f0453a94e9d813941eda676aea8_44142_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/02/colorpicker-version-4002202-is-now/3_hu86369f0453a94e9d813941eda676aea8_44142_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Welcome&amp;rdquo; dialog of ColorPicker.&#34;
@@ -628,11 +628,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.3.0.2202 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/02/leocorplibrary-version-4302202-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/02/leocorplibrary-version-4302202-is-now/</link>
         <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/02/leocorplibrary-version-4302202-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/02/leocorplibrary-version-4302202-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.3.0.2202 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.3.0.2202.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/02/leocorplibrary-version-4302202-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/02/leocorplibrary-version-4302202-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.3.0.2202 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.3.0.2202.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -657,10 +657,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/02/leocorplibrary-version-4302202-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/leocorplibrary-version-4302202-is-now/cover.png&#34;
 	width=&#34;1092&#34;
 	height=&#34;562&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/02/leocorplibrary-version-4302202-is-now/cover_hu699787740fe0933e2406d07d19f2d949_72214_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/02/leocorplibrary-version-4302202-is-now/cover_hu699787740fe0933e2406d07d19f2d949_72214_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/leocorplibrary-version-4302202-is-now/cover_hu699787740fe0933e2406d07d19f2d949_72214_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/02/leocorplibrary-version-4302202-is-now/cover_hu699787740fe0933e2406d07d19f2d949_72214_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary extensions.&#34;
@@ -675,11 +675,11 @@
         </item>
         <item>
         <title>ColorPicker: Version 3.9.0.2201 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/01/colorpicker-version-3902201-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/01/colorpicker-version-3902201-is-now/</link>
         <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/01/colorpicker-version-3902201-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/01/colorpicker-version-3902201-is-now/cover.png" alt="Featured image of post ColorPicker: Version 3.9.0.2201 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 3.9.0.2201.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/01/colorpicker-version-3902201-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/01/colorpicker-version-3902201-is-now/cover.png" alt="Featured image of post ColorPicker: Version 3.9.0.2201 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 3.9.0.2201.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -713,10 +713,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/01/colorpicker-version-3902201-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/01/colorpicker-version-3902201-is-now/cover.png&#34;
 	width=&#34;600&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/01/colorpicker-version-3902201-is-now/cover_hucfacf787eccbc0f656883dd753c07197_64576_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/01/colorpicker-version-3902201-is-now/cover_hucfacf787eccbc0f656883dd753c07197_64576_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/01/colorpicker-version-3902201-is-now/cover_hucfacf787eccbc0f656883dd753c07197_64576_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/01/colorpicker-version-3902201-is-now/cover_hucfacf787eccbc0f656883dd753c07197_64576_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Color wheel&amp;rdquo; of ColorPicker.&#34;
@@ -731,11 +731,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.2.0.2201 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/01/leocorplibrary-version-4202201-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/01/leocorplibrary-version-4202201-is-now/</link>
         <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/01/leocorplibrary-version-4202201-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/01/leocorplibrary-version-4202201-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.2.0.2201 is now available" /&gt;&lt;p&gt;A new version is now available for both LeoCorpLibrary and LeoCorpLibrary.Core, and it is version 4.2.0.2201.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/01/leocorplibrary-version-4202201-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/01/leocorplibrary-version-4202201-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.2.0.2201 is now available" /&gt;&lt;p&gt;A new version is now available for both LeoCorpLibrary and LeoCorpLibrary.Core, and it is version 4.2.0.2201.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -762,10 +762,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/01/leocorplibrary-version-4202201-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/01/leocorplibrary-version-4202201-is-now/cover.png&#34;
 	width=&#34;1886&#34;
 	height=&#34;1116&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/01/leocorplibrary-version-4202201-is-now/cover_hu70534cbcf8615895428af60149d9c03e_230722_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/01/leocorplibrary-version-4202201-is-now/cover_hu70534cbcf8615895428af60149d9c03e_230722_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/01/leocorplibrary-version-4202201-is-now/cover_hu70534cbcf8615895428af60149d9c03e_230722_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/01/leocorplibrary-version-4202201-is-now/cover_hu70534cbcf8615895428af60149d9c03e_230722_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary NetworkConnection methods.&#34;
@@ -780,11 +780,11 @@
         </item>
         <item>
         <title>ColorPicker: Version 3.8.1.2112 brings Simplified Chinese and a fix</title>
-        <link>https://blog.leocorporation.dev/2021/12/colorpicker-version-3812112-brings/</link>
+        <link>https://leo-corporation.github.io/Blog/2021/12/colorpicker-version-3812112-brings/</link>
         <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2021/12/colorpicker-version-3812112-brings/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/12/colorpicker-version-3812112-brings/cover.png" alt="Featured image of post ColorPicker: Version 3.8.1.2112 brings Simplified Chinese and a fix" /&gt;&lt;p&gt;A new version of ColorPicker is available, despite a new one that came yesterday, version 3.8.1.2112 is here with fixes, and most importantly, Simplified Chinese!&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2021/12/colorpicker-version-3812112-brings/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/12/colorpicker-version-3812112-brings/cover.png" alt="Featured image of post ColorPicker: Version 3.8.1.2112 brings Simplified Chinese and a fix" /&gt;&lt;p&gt;A new version of ColorPicker is available, despite a new one that came yesterday, version 3.8.1.2112 is here with fixes, and most importantly, Simplified Chinese!&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -801,10 +801,10 @@
 &lt;p&gt;Thanks to &lt;a class=&#34;link&#34; href=&#34;https://github.com/wcxu21&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;@wcxu21&lt;/a&gt; for the translations!&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/12/colorpicker-version-3812112-brings/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/12/colorpicker-version-3812112-brings/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/12/colorpicker-version-3812112-brings/cover_huce640fcf9a332213a35904cb6e309be7_38382_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/12/colorpicker-version-3812112-brings/cover_huce640fcf9a332213a35904cb6e309be7_38382_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/12/colorpicker-version-3812112-brings/cover_huce640fcf9a332213a35904cb6e309be7_38382_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/12/colorpicker-version-3812112-brings/cover_huce640fcf9a332213a35904cb6e309be7_38382_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The ColorPicker user interface in Chinese.&#34;
@@ -819,11 +819,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.1.0.2112 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/12/leocorplibrary-version-4102112-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2021/12/leocorplibrary-version-4102112-is-now/</link>
         <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2021/12/leocorplibrary-version-4102112-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/12/leocorplibrary-version-4102112-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.1.0.2112 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.1.0.2112.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2021/12/leocorplibrary-version-4102112-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/12/leocorplibrary-version-4102112-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.1.0.2112 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.1.0.2112.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -854,10 +854,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/12/leocorplibrary-version-4102112-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/12/leocorplibrary-version-4102112-is-now/cover.png&#34;
 	width=&#34;1886&#34;
 	height=&#34;1116&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/12/leocorplibrary-version-4102112-is-now/cover_hu70534cbcf8615895428af60149d9c03e_230722_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/12/leocorplibrary-version-4102112-is-now/cover_hu70534cbcf8615895428af60149d9c03e_230722_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/12/leocorplibrary-version-4102112-is-now/cover_hu70534cbcf8615895428af60149d9c03e_230722_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/12/leocorplibrary-version-4102112-is-now/cover_hu70534cbcf8615895428af60149d9c03e_230722_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using NetworkConnection status code methods implemented by LeoCorpLibrary.&#34;
@@ -872,11 +872,11 @@
         </item>
         <item>
         <title>ColorPicker: Version 3.8.0.2112 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/12/colorpicker-version-3802112-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2021/12/colorpicker-version-3802112-is-now/</link>
         <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2021/12/colorpicker-version-3802112-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/12/colorpicker-version-3802112-is-now/cover.png" alt="Featured image of post ColorPicker: Version 3.8.0.2112 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 3.8.0.2112.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2021/12/colorpicker-version-3802112-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/12/colorpicker-version-3802112-is-now/cover.png" alt="Featured image of post ColorPicker: Version 3.8.0.2112 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 3.8.0.2112.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -905,10 +905,10 @@
 &lt;p&gt;Note: If you update from an older version of ColorPicker, you may face an error. To resolve it, go to &amp;ldquo;%APPDATA%\Léo Corporation&amp;rdquo; in the file explorer, and delete the “ColorPicker” folder. Launch ColorPicker again, and the issue should be fixed.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/12/colorpicker-version-3802112-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/12/colorpicker-version-3802112-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/12/colorpicker-version-3802112-is-now/cover_hu0cd4899eee65effbdae45f40208b973e_45627_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/12/colorpicker-version-3802112-is-now/cover_hu0cd4899eee65effbdae45f40208b973e_45627_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/12/colorpicker-version-3802112-is-now/cover_hu0cd4899eee65effbdae45f40208b973e_45627_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/12/colorpicker-version-3802112-is-now/cover_hu0cd4899eee65effbdae45f40208b973e_45627_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The ColorPicker&amp;rsquo;s Settings page.&#34;
@@ -923,11 +923,11 @@
         </item>
         <item>
         <title>ColorPicker: Version 3.7.0.2111 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/11/colorpicker-version-3702111-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2021/11/colorpicker-version-3702111-is-now/</link>
         <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2021/11/colorpicker-version-3702111-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/11/colorpicker-version-3702111-is-now/cover.png" alt="Featured image of post ColorPicker: Version 3.7.0.2111 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 3.7.0.2111.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2021/11/colorpicker-version-3702111-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/11/colorpicker-version-3702111-is-now/cover.png" alt="Featured image of post ColorPicker: Version 3.7.0.2111 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 3.7.0.2111.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -954,10 +954,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/11/colorpicker-version-3702111-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/colorpicker-version-3702111-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/11/colorpicker-version-3702111-is-now/cover_hu7ff58e1c61c18e4e527eb3de64ea1042_31734_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/11/colorpicker-version-3702111-is-now/cover_hu7ff58e1c61c18e4e527eb3de64ea1042_31734_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/colorpicker-version-3702111-is-now/cover_hu7ff58e1c61c18e4e527eb3de64ea1042_31734_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/11/colorpicker-version-3702111-is-now/cover_hu7ff58e1c61c18e4e527eb3de64ea1042_31734_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Palette&amp;rdquo; page of ColorPicker&#34;
@@ -972,11 +972,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.0.0.2111 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/11/leocorplibrary-version-4002111-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2021/11/leocorplibrary-version-4002111-is-now/</link>
         <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2021/11/leocorplibrary-version-4002111-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/11/leocorplibrary-version-4002111-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.0.0.2111 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available and it is the version 4.0.0.2111.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2021/11/leocorplibrary-version-4002111-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/11/leocorplibrary-version-4002111-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.0.0.2111 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available and it is the version 4.0.0.2111.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -1001,10 +1001,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/11/leocorplibrary-version-4002111-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/leocorplibrary-version-4002111-is-now/cover.png&#34;
 	width=&#34;976&#34;
 	height=&#34;516&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/11/leocorplibrary-version-4002111-is-now/cover_hu3b37d487d069a6ad6e2c761d209672e3_57094_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/11/leocorplibrary-version-4002111-is-now/cover_hu3b37d487d069a6ad6e2c761d209672e3_57094_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/leocorplibrary-version-4002111-is-now/cover_hu3b37d487d069a6ad6e2c761d209672e3_57094_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/11/leocorplibrary-version-4002111-is-now/cover_hu3b37d487d069a6ad6e2c761d209672e3_57094_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary.&#34;
@@ -1019,11 +1019,11 @@
         </item>
         <item>
         <title>ColorPicker: The version 3.6.0.2110 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/10/colorpicker-version-3602110-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2021/10/colorpicker-version-3602110-is-now/</link>
         <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2021/10/colorpicker-version-3602110-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/10/colorpicker-version-3602110-is-now/cover.png" alt="Featured image of post ColorPicker: The version 3.6.0.2110 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available and it is the version 3.6.0.2110.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2021/10/colorpicker-version-3602110-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/10/colorpicker-version-3602110-is-now/cover.png" alt="Featured image of post ColorPicker: The version 3.6.0.2110 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available and it is the version 3.6.0.2110.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -1049,10 +1049,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/10/colorpicker-version-3602110-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/colorpicker-version-3602110-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/10/colorpicker-version-3602110-is-now/cover_hu1ea91fb3e2232393e938b4821ade0233_32553_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/10/colorpicker-version-3602110-is-now/cover_hu1ea91fb3e2232393e938b4821ade0233_32553_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/colorpicker-version-3602110-is-now/cover_hu1ea91fb3e2232393e938b4821ade0233_32553_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/10/colorpicker-version-3602110-is-now/cover_hu1ea91fb3e2232393e938b4821ade0233_32553_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Palette&amp;rdquo; page of ColorPicker&#34;
@@ -1067,11 +1067,11 @@
         </item>
         <item>
         <title>ColorPicker: Version 3.7.0.2111 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/10/leocorplibrary-version-31102110-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2021/10/leocorplibrary-version-31102110-is-now/</link>
         <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2021/10/leocorplibrary-version-31102110-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/10/leocorplibrary-version-31102110-is-now/cover.png" alt="Featured image of post ColorPicker: Version 3.7.0.2111 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available and it is the version 3.11.0.2110.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2021/10/leocorplibrary-version-31102110-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/10/leocorplibrary-version-31102110-is-now/cover.png" alt="Featured image of post ColorPicker: Version 3.7.0.2111 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available and it is the version 3.11.0.2110.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -1102,10 +1102,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to check the documentation of LeoCorpLibrary.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/10/leocorplibrary-version-31102110-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/leocorplibrary-version-31102110-is-now/cover.png&#34;
 	width=&#34;1396&#34;
 	height=&#34;632&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/10/leocorplibrary-version-31102110-is-now/cover_hud962e14dc609e0cae0afee76bce35446_83309_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/10/leocorplibrary-version-31102110-is-now/cover_hud962e14dc609e0cae0afee76bce35446_83309_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/leocorplibrary-version-31102110-is-now/cover_hud962e14dc609e0cae0afee76bce35446_83309_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/10/leocorplibrary-version-31102110-is-now/cover_hud962e14dc609e0cae0afee76bce35446_83309_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary.&#34;

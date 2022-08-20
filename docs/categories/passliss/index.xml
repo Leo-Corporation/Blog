@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Passliss on Blog | Léo Corporation</title>
-        <link>https://blog.leocorporation.dev/categories/passliss/</link>
+        <link>https://leo-corporation.github.io/Blog/categories/passliss/</link>
         <description>Recent content in Passliss on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/passliss/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://leo-corporation.github.io/Blog/categories/passliss/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Passliss: Version 2.5.2.2207 is now available </title>
-        <link>https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/07/passliss-version-2522207-is-now/</link>
         <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/cover.png" alt="Featured image of post Passliss: Version 2.5.2.2207 is now available " /&gt;&lt;p&gt;A small new version of Passliss is now available, and it is version 2.5.2.2207.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/07/passliss-version-2522207-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/07/passliss-version-2522207-is-now/cover.png" alt="Featured image of post Passliss: Version 2.5.2.2207 is now available " /&gt;&lt;p&gt;A small new version of Passliss is now available, and it is version 2.5.2.2207.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Added font files (#176)&lt;/li&gt;
@@ -29,10 +29,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/store/passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to learn more about Passliss.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/passliss-version-2522207-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/cover_hua380f1f2cdb350ef465828b867608698_37541_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/cover_hua380f1f2cdb350ef465828b867608698_37541_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/passliss-version-2522207-is-now/cover_hua380f1f2cdb350ef465828b867608698_37541_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/07/passliss-version-2522207-is-now/cover_hua380f1f2cdb350ef465828b867608698_37541_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Passliss&#34;
@@ -47,11 +47,11 @@
         </item>
         <item>
         <title>Passliss: Version 2.5.0.2206 is now available </title>
-        <link>https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/06/passliss-version-2502206-is-now/</link>
         <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/cover.png" alt="Featured image of post Passliss: Version 2.5.0.2206 is now available " /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.5.0.2206.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/06/passliss-version-2502206-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/06/passliss-version-2502206-is-now/cover.png" alt="Featured image of post Passliss: Version 2.5.0.2206 is now available " /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.5.0.2206.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -90,10 +90,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/store/passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to learn more about Passliss.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/06/passliss-version-2502206-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/cover_hu9b915286d8e78c3115293b96e7d05397_47566_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/cover_hu9b915286d8e78c3115293b96e7d05397_47566_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/06/passliss-version-2502206-is-now/cover_hu9b915286d8e78c3115293b96e7d05397_47566_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/06/passliss-version-2502206-is-now/cover_hu9b915286d8e78c3115293b96e7d05397_47566_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Passliss&#34;
@@ -108,11 +108,11 @@
         </item>
         <item>
         <title>Passliss: Version 2.4.0.2204 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/04/passliss-version-2402204-is-now/</link>
         <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/cover.png" alt="Featured image of post Passliss: Version 2.4.0.2204 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.4.0.2204.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/04/passliss-version-2402204-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/04/passliss-version-2402204-is-now/cover.png" alt="Featured image of post Passliss: Version 2.4.0.2204 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.4.0.2204.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -143,10 +143,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/04/passliss-version-2402204-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/cover_hu0716fecc172baf7c61696a89c403aa69_44112_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/cover_hu0716fecc172baf7c61696a89c403aa69_44112_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/04/passliss-version-2402204-is-now/cover_hu0716fecc172baf7c61696a89c403aa69_44112_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/04/passliss-version-2402204-is-now/cover_hu0716fecc172baf7c61696a89c403aa69_44112_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Strength&amp;rdquo; page of Passliss, with the &amp;ldquo;Info&amp;rdquo; panel opened.&#34;
@@ -161,11 +161,11 @@
         </item>
         <item>
         <title>Passliss: Version 2.3.0.2203 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/03/passliss-version-2302203-is-now/</link>
         <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/cover.png" alt="Featured image of post Passliss: Version 2.3.0.2203 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.3.0.2203.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/03/passliss-version-2302203-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/03/passliss-version-2302203-is-now/cover.png" alt="Featured image of post Passliss: Version 2.3.0.2203 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.3.0.2203.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -187,10 +187,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/03/passliss-version-2302203-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/cover_hu4866257e6726c82c13964a8ea237e26f_37643_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/cover_hu4866257e6726c82c13964a8ea237e26f_37643_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/03/passliss-version-2302203-is-now/cover_hu4866257e6726c82c13964a8ea237e26f_37643_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/03/passliss-version-2302203-is-now/cover_hu4866257e6726c82c13964a8ea237e26f_37643_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Passliss&#34;
@@ -205,11 +205,11 @@
         </item>
         <item>
         <title>Passliss: Version 2.2.0.2202 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/02/passliss-version-2202202-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/02/passliss-version-2202202-is-now/</link>
         <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/02/passliss-version-2202202-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/02/passliss-version-2202202-is-now/cover.png" alt="Featured image of post Passliss: Version 2.2.0.2202 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.2.0.2202.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/02/passliss-version-2202202-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/02/passliss-version-2202202-is-now/cover.png" alt="Featured image of post Passliss: Version 2.2.0.2202 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.2.0.2202.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -250,10 +250,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/02/passliss-version-2202202-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/passliss-version-2202202-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/02/passliss-version-2202202-is-now/cover_huec55953af070827bc4b418c96a15d8c4_45338_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/02/passliss-version-2202202-is-now/cover_huec55953af070827bc4b418c96a15d8c4_45338_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/passliss-version-2202202-is-now/cover_huec55953af070827bc4b418c96a15d8c4_45338_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/02/passliss-version-2202202-is-now/cover_huec55953af070827bc4b418c96a15d8c4_45338_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Passliss.&#34;
@@ -268,11 +268,11 @@
         </item>
         <item>
         <title>Passliss: Version 2.1.0.2201 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/01/passliss-version-2102201-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/01/passliss-version-2102201-is-now/</link>
         <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/01/passliss-version-2102201-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/01/passliss-version-2102201-is-now/cover.png" alt="Featured image of post Passliss: Version 2.1.0.2201 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.1.0.2201.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/01/passliss-version-2102201-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/01/passliss-version-2102201-is-now/cover.png" alt="Featured image of post Passliss: Version 2.1.0.2201 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.1.0.2201.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -299,10 +299,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/01/passliss-version-2102201-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/01/passliss-version-2102201-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/01/passliss-version-2102201-is-now/cover_hu71b487b609454ecfdbc7f3670d12ebe5_38444_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/01/passliss-version-2102201-is-now/cover_hu71b487b609454ecfdbc7f3670d12ebe5_38444_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/01/passliss-version-2102201-is-now/cover_hu71b487b609454ecfdbc7f3670d12ebe5_38444_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/01/passliss-version-2102201-is-now/cover_hu71b487b609454ecfdbc7f3670d12ebe5_38444_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Generate&amp;rdquo; page of Passliss with the user interface in Chinese.&#34;
@@ -317,11 +317,11 @@
         </item>
         <item>
         <title>Passliss: Version 2.0.0.2112 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/12/passliss-version-2002112-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2021/12/passliss-version-2002112-is-now/</link>
         <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2021/12/passliss-version-2002112-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/12/passliss-version-2002112-is-now/cover.png" alt="Featured image of post Passliss: Version 2.0.0.2112 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.0.0.2112.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2021/12/passliss-version-2002112-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/12/passliss-version-2002112-is-now/cover.png" alt="Featured image of post Passliss: Version 2.0.0.2112 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.0.0.2112.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -355,10 +355,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/12/passliss-version-2002112-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/12/passliss-version-2002112-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/12/passliss-version-2002112-is-now/cover_hu02cb7d8d1432597ead64eb3f620c5819_34910_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/12/passliss-version-2002112-is-now/cover_hu02cb7d8d1432597ead64eb3f620c5819_34910_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/12/passliss-version-2002112-is-now/cover_hu02cb7d8d1432597ead64eb3f620c5819_34910_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/12/passliss-version-2002112-is-now/cover_hu02cb7d8d1432597ead64eb3f620c5819_34910_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Encryption&amp;rdquo; page of Passliss.&#34;
@@ -373,11 +373,11 @@
         </item>
         <item>
         <title>Passliss: Version 1.9.0.2111 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/11/passliss-version-1902111-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2021/11/passliss-version-1902111-is-now/</link>
         <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2021/11/passliss-version-1902111-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/11/passliss-version-1902111-is-now/cover.png" alt="Featured image of post Passliss: Version 1.9.0.2111 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 1.9.0.2111.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2021/11/passliss-version-1902111-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/11/passliss-version-1902111-is-now/cover.png" alt="Featured image of post Passliss: Version 1.9.0.2111 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 1.9.0.2111.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -402,10 +402,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/11/passliss-version-1902111-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/passliss-version-1902111-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/11/passliss-version-1902111-is-now/cover_hu1ef844b79e6f40836783685f6a160d95_44312_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/11/passliss-version-1902111-is-now/cover_hu1ef844b79e6f40836783685f6a160d95_44312_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/passliss-version-1902111-is-now/cover_hu1ef844b79e6f40836783685f6a160d95_44312_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/11/passliss-version-1902111-is-now/cover_hu1ef844b79e6f40836783685f6a160d95_44312_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Generate&amp;rdquo; page of Passliss&#34;
@@ -420,11 +420,11 @@
         </item>
         <item>
         <title>Passliss: The version 1.8.0.2110 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/10/passliss-version-1802110-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2021/10/passliss-version-1802110-is-now/</link>
         <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2021/10/passliss-version-1802110-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/10/passliss-version-1802110-is-now/cover.png" alt="Featured image of post Passliss: The version 1.8.0.2110 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 1.8.0.2110.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2021/10/passliss-version-1802110-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/10/passliss-version-1802110-is-now/cover.png" alt="Featured image of post Passliss: The version 1.8.0.2110 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 1.8.0.2110.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -447,10 +447,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/10/passliss-version-1802110-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/passliss-version-1802110-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/10/passliss-version-1802110-is-now/cover_hu8b243d3cd295083f4617ae22f1b403c5_43303_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/10/passliss-version-1802110-is-now/cover_hu8b243d3cd295083f4617ae22f1b403c5_43303_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/passliss-version-1802110-is-now/cover_hu8b243d3cd295083f4617ae22f1b403c5_43303_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/10/passliss-version-1802110-is-now/cover_hu8b243d3cd295083f4617ae22f1b403c5_43303_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Generate&amp;rdquo; page of Passliss&#34;

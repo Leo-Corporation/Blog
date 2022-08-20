@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Gaming on Blog | Léo Corporation</title>
-        <link>https://blog.leocorporation.dev/tags/gaming/</link>
+        <link>https://leo-corporation.github.io/Blog/tags/gaming/</link>
         <description>Recent content in Gaming on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 06 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/gaming/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 06 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://leo-corporation.github.io/Blog/tags/gaming/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Gavilya: Version 2.8.0.2208 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/08/gavilya-version-2802208-is-now-available/</link>
         <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.8.0.2208 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.8.0.2208.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/08/gavilya-version-2802208-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/08/gavilya-version-2802208-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.8.0.2208 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.8.0.2208.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -39,10 +39,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gavilya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to go the website of Gavilya.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/08/gavilya-version-2802208-is-now-available/cover.png&#34;
 	width=&#34;1185&#34;
 	height=&#34;700&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/cover_hu9707ec282da4abf5c1c4a3defaf6787a_57246_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/gavilya-version-2802208-is-now-available/cover_hu9707ec282da4abf5c1c4a3defaf6787a_57246_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/08/gavilya-version-2802208-is-now-available/cover_hu9707ec282da4abf5c1c4a3defaf6787a_57246_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/08/gavilya-version-2802208-is-now-available/cover_hu9707ec282da4abf5c1c4a3defaf6787a_57246_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Gavilya&amp;rsquo;s achievement page.&#34;
@@ -57,11 +57,11 @@
         </item>
         <item>
         <title>Gavilya: Version 2.7.0.2207 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/07/gavilya-version-2702207-is-now-available/</link>
         <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.7.0.2207 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.7.0.2207.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/07/gavilya-version-2702207-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/07/gavilya-version-2702207-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.7.0.2207 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.7.0.2207.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -96,10 +96,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gavilya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to see the website of Gavilya.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/gavilya-version-2702207-is-now-available/cover.png&#34;
 	width=&#34;1185&#34;
 	height=&#34;700&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/cover_hu8922d5cfecbe630fda9aa34fa7b0f9f5_107273_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/gavilya-version-2702207-is-now-available/cover_hu8922d5cfecbe630fda9aa34fa7b0f9f5_107273_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/gavilya-version-2702207-is-now-available/cover_hu8922d5cfecbe630fda9aa34fa7b0f9f5_107273_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/07/gavilya-version-2702207-is-now-available/cover_hu8922d5cfecbe630fda9aa34fa7b0f9f5_107273_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Search&amp;rdquo; section of the &amp;ldquo;Settings&amp;rdquo; page of Gavilya&#34;
@@ -114,11 +114,11 @@
         </item>
         <item>
         <title>Gavilya: Version 2.6.0.2206 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/06/gavilya-version-2602206-is-now-available/</link>
         <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.6.0.2206 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available and it is the version 2.6.0.2206.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/06/gavilya-version-2602206-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/06/gavilya-version-2602206-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.6.0.2206 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available and it is the version 2.6.0.2206.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -159,10 +159,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/06/gavilya-version-2602206-is-now-available/cover.png&#34;
 	width=&#34;1185&#34;
 	height=&#34;700&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/cover_hubea855bbde4b5b17cc5140a1d5d4ad23_163450_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/06/gavilya-version-2602206-is-now-available/cover_hubea855bbde4b5b17cc5140a1d5d4ad23_163450_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/06/gavilya-version-2602206-is-now-available/cover_hubea855bbde4b5b17cc5140a1d5d4ad23_163450_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/06/gavilya-version-2602206-is-now-available/cover_hubea855bbde4b5b17cc5140a1d5d4ad23_163450_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The home page of Gavilya, with the Search dropdown opened&#34;
@@ -177,11 +177,11 @@
         </item>
         <item>
         <title>Gavilya: Version 2.5.0.2205 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/05/gavilya-version-2502205-is-now-available/</link>
         <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.5.0.2205 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.5.0.2205.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/05/gavilya-version-2502205-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/05/gavilya-version-2502205-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.5.0.2205 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.5.0.2205.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -209,10 +209,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/05/gavilya-version-2502205-is-now-available/cover.png&#34;
 	width=&#34;1185&#34;
 	height=&#34;700&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/cover_hu41d01e1967dc4ce128294a0732a0bc4c_39385_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/05/gavilya-version-2502205-is-now-available/cover_hu41d01e1967dc4ce128294a0732a0bc4c_39385_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/05/gavilya-version-2502205-is-now-available/cover_hu41d01e1967dc4ce128294a0732a0bc4c_39385_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/05/gavilya-version-2502205-is-now-available/cover_hu41d01e1967dc4ce128294a0732a0bc4c_39385_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Library&amp;rdquo; page of Gavilya in &amp;ldquo;List view&amp;rdquo; mode&#34;
@@ -227,11 +227,11 @@
         </item>
         <item>
         <title>Gavilya: Version 2.4.0.2203 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/03/gavilya-version-2402203-is-now-available/</link>
         <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.4.0.2203 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available and it is the version 2.4.0.2203.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/03/gavilya-version-2402203-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/03/gavilya-version-2402203-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.4.0.2203 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available and it is the version 2.4.0.2203.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -258,10 +258,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/03/gavilya-version-2402203-is-now-available/cover.png&#34;
 	width=&#34;1185&#34;
 	height=&#34;700&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/cover_hu753b5805da5e1888e022225d8845b5c9_332464_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/03/gavilya-version-2402203-is-now-available/cover_hu753b5805da5e1888e022225d8845b5c9_332464_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/03/gavilya-version-2402203-is-now-available/cover_hu753b5805da5e1888e022225d8845b5c9_332464_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/03/gavilya-version-2402203-is-now-available/cover_hu753b5805da5e1888e022225d8845b5c9_332464_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The notification panel alongside the &amp;ldquo;Minecraft&amp;rdquo; page.&#34;
@@ -276,11 +276,11 @@
         </item>
         <item>
         <title>Gavilya: Version 2.3.1.0.2202 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/02/gavilya-version-23102202-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/02/gavilya-version-23102202-is-now/</link>
         <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/02/gavilya-version-23102202-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/02/gavilya-version-23102202-is-now/cover.png" alt="Featured image of post Gavilya: Version 2.3.1.0.2202 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.3.1.0.2202. Note that this version is smaller than usual and doesn’t include any new features, but only fixes, improvements, and new translations.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/02/gavilya-version-23102202-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/02/gavilya-version-23102202-is-now/cover.png" alt="Featured image of post Gavilya: Version 2.3.1.0.2202 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.3.1.0.2202. Note that this version is smaller than usual and doesn’t include any new features, but only fixes, improvements, and new translations.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -304,10 +304,10 @@
 &lt;p&gt;Gavilya has a website! &lt;a class=&#34;link&#34; href=&#34;https://gavilya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here to learn more about it.&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/02/gavilya-version-23102202-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/gavilya-version-23102202-is-now/cover.png&#34;
 	width=&#34;1185&#34;
 	height=&#34;700&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/02/gavilya-version-23102202-is-now/cover_hu453a71d8756846faad24d0a151a025c4_295379_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/02/gavilya-version-23102202-is-now/cover_hu453a71d8756846faad24d0a151a025c4_295379_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/gavilya-version-23102202-is-now/cover_hu453a71d8756846faad24d0a151a025c4_295379_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/02/gavilya-version-23102202-is-now/cover_hu453a71d8756846faad24d0a151a025c4_295379_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Gavilya user interface, in chinese.&#34;
@@ -322,11 +322,11 @@
         </item>
         <item>
         <title>Gavilya: Version 2.3.0.2201 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/01/gavilya-version-2302201-is-now-available/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/01/gavilya-version-2302201-is-now-available/</link>
         <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/01/gavilya-version-2302201-is-now-available/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/01/gavilya-version-2302201-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.3.0.2201 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.3.0.2201.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/01/gavilya-version-2302201-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/01/gavilya-version-2302201-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.3.0.2201 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.3.0.2201.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -368,10 +368,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gavilya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to go to the website of Gavilya.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/01/gavilya-version-2302201-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/01/gavilya-version-2302201-is-now-available/cover.png&#34;
 	width=&#34;700&#34;
 	height=&#34;400&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/01/gavilya-version-2302201-is-now-available/cover_hu82fec1108d618aa697ed658ce1a30983_38149_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/01/gavilya-version-2302201-is-now-available/cover_hu82fec1108d618aa697ed658ce1a30983_38149_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/01/gavilya-version-2302201-is-now-available/cover_hu82fec1108d618aa697ed658ce1a30983_38149_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/01/gavilya-version-2302201-is-now-available/cover_hu82fec1108d618aa697ed658ce1a30983_38149_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Browse UWP Apps&amp;rdquo; dialog of Gavilya.&#34;
@@ -386,11 +386,11 @@
         </item>
         <item>
         <title>Gavilya: Version 2.2.0.2112 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/12/gavilya-version-2202112-is-now-available/</link>
+        <link>https://leo-corporation.github.io/Blog/2021/12/gavilya-version-2202112-is-now-available/</link>
         <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2021/12/gavilya-version-2202112-is-now-available/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/12/gavilya-version-2202112-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.2.0.2112 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.2.0.2112.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2021/12/gavilya-version-2202112-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/12/gavilya-version-2202112-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.2.0.2112 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.2.0.2112.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -428,10 +428,10 @@
 &lt;p&gt;Did you know that Gavilya has a website? Check it out &lt;a class=&#34;link&#34; href=&#34;https://gavilya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/12/gavilya-version-2202112-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/12/gavilya-version-2202112-is-now-available/cover.png&#34;
 	width=&#34;1185&#34;
 	height=&#34;700&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/12/gavilya-version-2202112-is-now-available/cover_hu273ba27c91fc2f102f3daf6633e71d3c_69421_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/12/gavilya-version-2202112-is-now-available/cover_hu273ba27c91fc2f102f3daf6633e71d3c_69421_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/12/gavilya-version-2202112-is-now-available/cover_hu273ba27c91fc2f102f3daf6633e71d3c_69421_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/12/gavilya-version-2202112-is-now-available/cover_hu273ba27c91fc2f102f3daf6633e71d3c_69421_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Badges&amp;rdquo; section of the &amp;ldquo;Profile&amp;rdquo; page of Gavilya.&#34;
@@ -446,11 +446,11 @@
         </item>
         <item>
         <title>Gavilya: Version 2.1.0.2111 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/11/gavilya-version-2102111-is-now-available/</link>
+        <link>https://leo-corporation.github.io/Blog/2021/11/gavilya-version-2102111-is-now-available/</link>
         <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2021/11/gavilya-version-2102111-is-now-available/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/11/gavilya-version-2102111-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.1.0.2111 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.1.0.2111.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2021/11/gavilya-version-2102111-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/11/gavilya-version-2102111-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.1.0.2111 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.1.0.2111.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -480,10 +480,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/11/gavilya-version-2102111-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/gavilya-version-2102111-is-now-available/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/11/gavilya-version-2102111-is-now-available/cover_hu3a93656debacc178f0da43ce458d590b_42559_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/11/gavilya-version-2102111-is-now-available/cover_hu3a93656debacc178f0da43ce458d590b_42559_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/gavilya-version-2102111-is-now-available/cover_hu3a93656debacc178f0da43ce458d590b_42559_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/11/gavilya-version-2102111-is-now-available/cover_hu3a93656debacc178f0da43ce458d590b_42559_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Startup&amp;rdquo; page of the Settings windows of Gavilya&#34;
@@ -498,16 +498,16 @@
         </item>
         <item>
         <title>Gavilya: Version 2.0.0.2110 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/10/gavilya-version-2002110-is-now-available/</link>
+        <link>https://leo-corporation.github.io/Blog/2021/10/gavilya-version-2002110-is-now-available/</link>
         <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2021/10/gavilya-version-2002110-is-now-available/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/10/gavilya-version-2002110-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.0.0.2110 is now available" /&gt;&lt;p&gt;The next major version of Gavilya is finally here. Version 2.0 brings lots of changes, so let’s see what’s new!&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2021/10/gavilya-version-2002110-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/10/gavilya-version-2002110-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.0.0.2110 is now available" /&gt;&lt;p&gt;The next major version of Gavilya is finally here. Version 2.0 brings lots of changes, so let’s see what’s new!&lt;/p&gt;
 &lt;h2 id=&#34;new-home-page&#34;&gt;New Home page&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/10/gavilya-version-2002110-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/gavilya-version-2002110-is-now-available/cover.png&#34;
 	width=&#34;1185&#34;
 	height=&#34;700&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/10/gavilya-version-2002110-is-now-available/cover_hub71d35f060b2e8d574b1ae7f8589c391_258247_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/10/gavilya-version-2002110-is-now-available/cover_hub71d35f060b2e8d574b1ae7f8589c391_258247_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/gavilya-version-2002110-is-now-available/cover_hub71d35f060b2e8d574b1ae7f8589c391_258247_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/10/gavilya-version-2002110-is-now-available/cover_hub71d35f060b2e8d574b1ae7f8589c391_258247_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The new home page of Gavilya&#34;
@@ -520,10 +520,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Gavilya version 2.0 brings a brand-new home page, where you can quickly find your favorites, your games that you’ve played recently, and your statistics. This means that the “Statistics” page is now in the home page. You’ll notice that the sidebar has been removed, and there is now a navigation bar in the title bar of the window.&lt;/p&gt;
 &lt;h2 id=&#34;new-library-page&#34;&gt;New Library page&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/10/gavilya-version-2002110-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/gavilya-version-2002110-is-now-available/cover.png&#34;
 	width=&#34;1185&#34;
 	height=&#34;700&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/10/gavilya-version-2002110-is-now-available/cover_hub71d35f060b2e8d574b1ae7f8589c391_258247_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/10/gavilya-version-2002110-is-now-available/cover_hub71d35f060b2e8d574b1ae7f8589c391_258247_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/gavilya-version-2002110-is-now-available/cover_hub71d35f060b2e8d574b1ae7f8589c391_258247_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/10/gavilya-version-2002110-is-now-available/cover_hub71d35f060b2e8d574b1ae7f8589c391_258247_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The new library page of Gavilya&#34;
@@ -536,10 +536,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;In this new version, you can find all your games in the “Library” page. In this page, you can still choose between “Cards mode”, “Recently played games” and “List mode”.&lt;/p&gt;
 &lt;h2 id=&#34;new-profile-page&#34;&gt;New Profile page&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/10/gavilya-version-2002110-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/gavilya-version-2002110-is-now-available/cover.png&#34;
 	width=&#34;1185&#34;
 	height=&#34;700&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/10/gavilya-version-2002110-is-now-available/cover_hub71d35f060b2e8d574b1ae7f8589c391_258247_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/10/gavilya-version-2002110-is-now-available/cover_hub71d35f060b2e8d574b1ae7f8589c391_258247_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/gavilya-version-2002110-is-now-available/cover_hub71d35f060b2e8d574b1ae7f8589c391_258247_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/10/gavilya-version-2002110-is-now-available/cover_hub71d35f060b2e8d574b1ae7f8589c391_258247_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The new profile page of Gavilya&#34;

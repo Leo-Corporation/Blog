@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>InternetTest on Blog | Léo Corporation</title>
-        <link>https://blog.leocorporation.dev/categories/internettest/</link>
+        <link>https://leo-corporation.github.io/Blog/categories/internettest/</link>
         <description>Recent content in InternetTest on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/internettest/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://leo-corporation.github.io/Blog/categories/internettest/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>InternetTest: Version 6.3.0.2207 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/07/internettest-version-6302207-is-now/</link>
         <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/cover.png" alt="Featured image of post InternetTest: Version 6.3.0.2207 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 6.3.0.2207.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/07/internettest-version-6302207-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/07/internettest-version-6302207-is-now/cover.png" alt="Featured image of post InternetTest: Version 6.3.0.2207 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 6.3.0.2207.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -40,10 +40,10 @@
 &lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
 &lt;p&gt;Click here to download InternetTest.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/internettest-version-6302207-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/cover_hu9b3e5ed5c652af1595492eb37ff7c772_61773_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/cover_hu9b3e5ed5c652af1595492eb37ff7c772_61773_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/internettest-version-6302207-is-now/cover_hu9b3e5ed5c652af1595492eb37ff7c772_61773_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/07/internettest-version-6302207-is-now/cover_hu9b3e5ed5c652af1595492eb37ff7c772_61773_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The new locate IP page of InternetTest&#34;
@@ -58,11 +58,11 @@
         </item>
         <item>
         <title>InternetTest: Version 6.2.0.2205 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/05/internettest-version-6202205-is-now/</link>
         <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/cover.png" alt="Featured image of post InternetTest: Version 6.2.0.2205 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 6.2.0.2205.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/05/internettest-version-6202205-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/05/internettest-version-6202205-is-now/cover.png" alt="Featured image of post InternetTest: Version 6.2.0.2205 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 6.2.0.2205.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -92,10 +92,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/05/internettest-version-6202205-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/cover_hu58a4ef5f5e91d79881a99d3104e2c24e_37479_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/05/internettest-version-6202205-is-now/cover_hu58a4ef5f5e91d79881a99d3104e2c24e_37479_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/05/internettest-version-6202205-is-now/cover_hu58a4ef5f5e91d79881a99d3104e2c24e_37479_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/05/internettest-version-6202205-is-now/cover_hu58a4ef5f5e91d79881a99d3104e2c24e_37479_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The new history section of the locate IP page of InternetTest&#34;
@@ -110,11 +110,11 @@
         </item>
         <item>
         <title>InternetTest: Version 6.1.0.2203 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/03/internettest-version-6102203-is-now/</link>
         <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/cover.png" alt="Featured image of post InternetTest: Version 6.1.0.2203 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 6.1.0.2203.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/03/internettest-version-6102203-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/03/internettest-version-6102203-is-now/cover.png" alt="Featured image of post InternetTest: Version 6.1.0.2203 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 6.1.0.2203.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -145,10 +145,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/03/internettest-version-6102203-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/cover_hu49d9f95a10e2c788941bbd0e45c167cd_49314_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/03/internettest-version-6102203-is-now/cover_hu49d9f95a10e2c788941bbd0e45c167cd_49314_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/03/internettest-version-6102203-is-now/cover_hu49d9f95a10e2c788941bbd0e45c167cd_49314_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/03/internettest-version-6102203-is-now/cover_hu49d9f95a10e2c788941bbd0e45c167cd_49314_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The new DownDetector page section of InternetTest.&#34;
@@ -163,11 +163,11 @@
         </item>
         <item>
         <title>InternetTest: Version 6.0.0.2202 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/02/internettest-version-6002202-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2022/02/internettest-version-6002202-is-now/</link>
         <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/02/internettest-version-6002202-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/02/internettest-version-6002202-is-now/cover.png" alt="Featured image of post InternetTest: Version 6.0.0.2202 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 6.0.0.2202. This a major version that brings new features, performance improvements and more. Note that to upgrade to InternetTest 6, you’ll need to install the .NET 6 Runtime.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2022/02/internettest-version-6002202-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/02/internettest-version-6002202-is-now/cover.png" alt="Featured image of post InternetTest: Version 6.0.0.2202 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 6.0.0.2202. This a major version that brings new features, performance improvements and more. Note that to upgrade to InternetTest 6, you’ll need to install the .NET 6 Runtime.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -210,10 +210,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download InternetTest 6.&lt;/p&gt;
 &lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/02/internettest-version-6002202-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/internettest-version-6002202-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/02/internettest-version-6002202-is-now/cover_hue3d9d5500bc386dbe868cc62d464743d_43936_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/02/internettest-version-6002202-is-now/cover_hue3d9d5500bc386dbe868cc62d464743d_43936_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/internettest-version-6002202-is-now/cover_hue3d9d5500bc386dbe868cc62d464743d_43936_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/02/internettest-version-6002202-is-now/cover_hue3d9d5500bc386dbe868cc62d464743d_43936_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of InternetTest.&#34;
@@ -224,10 +224,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;
-&lt;img src=&#34;https://blog.leocorporation.dev/2022/02/internettest-version-6002202-is-now/2.png&#34;
+&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/internettest-version-6002202-is-now/2.png&#34;
 	width=&#34;800&#34;
 	height=&#34;500&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/02/internettest-version-6002202-is-now/2_hu4056693239d5511134812fa89630df97_30626_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/02/internettest-version-6002202-is-now/2_hu4056693239d5511134812fa89630df97_30626_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/internettest-version-6002202-is-now/2_hu4056693239d5511134812fa89630df97_30626_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/02/internettest-version-6002202-is-now/2_hu4056693239d5511134812fa89630df97_30626_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Welcome&amp;rdquo; dialog&amp;rsquo;s &amp;ldquo;Select a theme&amp;rdquo; page of InternetTest.&#34;
@@ -242,11 +242,11 @@
         </item>
         <item>
         <title>InternetTest: Version 5.9.0.2112 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/12/internettest-version-5902112-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2021/12/internettest-version-5902112-is-now/</link>
         <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2021/12/internettest-version-5902112-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/12/internettest-version-5902112-is-now/cover.png" alt="Featured image of post InternetTest: Version 5.9.0.2112 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 5.9.0.2112.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2021/12/internettest-version-5902112-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/12/internettest-version-5902112-is-now/cover.png" alt="Featured image of post InternetTest: Version 5.9.0.2112 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 5.9.0.2112.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -277,10 +277,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/12/internettest-version-5902112-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/12/internettest-version-5902112-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/12/internettest-version-5902112-is-now/cover_hu3a60a476db1da46ca40b710db63f0dda_38267_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/12/internettest-version-5902112-is-now/cover_hu3a60a476db1da46ca40b710db63f0dda_38267_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/12/internettest-version-5902112-is-now/cover_hu3a60a476db1da46ca40b710db63f0dda_38267_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/12/internettest-version-5902112-is-now/cover_hu3a60a476db1da46ca40b710db63f0dda_38267_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;DownDetector&amp;rdquo; page of InternetTest.&#34;
@@ -295,11 +295,11 @@
         </item>
         <item>
         <title>InternetTest: The version 5.8.0.2111 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/11/internettest-version-5802111-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2021/11/internettest-version-5802111-is-now/</link>
         <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2021/11/internettest-version-5802111-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/11/internettest-version-5802111-is-now/cover.png" alt="Featured image of post InternetTest: The version 5.8.0.2111 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 5.8.0.2111.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2021/11/internettest-version-5802111-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/11/internettest-version-5802111-is-now/cover.png" alt="Featured image of post InternetTest: The version 5.8.0.2111 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 5.8.0.2111.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -321,10 +321,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/11/internettest-version-5802111-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/internettest-version-5802111-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/11/internettest-version-5802111-is-now/cover_hucdbded286f5b2821e1cb6b68b604603c_38700_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/11/internettest-version-5802111-is-now/cover_hucdbded286f5b2821e1cb6b68b604603c_38700_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/internettest-version-5802111-is-now/cover_hucdbded286f5b2821e1cb6b68b604603c_38700_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/11/internettest-version-5802111-is-now/cover_hucdbded286f5b2821e1cb6b68b604603c_38700_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;DownDetector&amp;rdquo; page of InternetTest, with the status code 418 (I&amp;rsquo;m a teapot)&#34;
@@ -339,11 +339,11 @@
         </item>
         <item>
         <title>InternetTest: The version 5.7.0.2110 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/10/internettest-version-5702110-is-now/</link>
+        <link>https://leo-corporation.github.io/Blog/2021/10/internettest-version-5702110-is-now/</link>
         <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2021/10/internettest-version-5702110-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/10/internettest-version-5702110-is-now/cover.png" alt="Featured image of post InternetTest: The version 5.7.0.2110 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 5.7.0.2110.&lt;/p&gt;
+        <guid>https://leo-corporation.github.io/Blog/2021/10/internettest-version-5702110-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/10/internettest-version-5702110-is-now/cover.png" alt="Featured image of post InternetTest: The version 5.7.0.2110 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 5.7.0.2110.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -361,10 +361,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/10/internettest-version-5702110-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/internettest-version-5702110-is-now/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/10/internettest-version-5702110-is-now/cover_hu0eca49bd6722ec5e19f8b92055dd85c6_37918_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/10/internettest-version-5702110-is-now/cover_hu0eca49bd6722ec5e19f8b92055dd85c6_37918_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/internettest-version-5702110-is-now/cover_hu0eca49bd6722ec5e19f8b92055dd85c6_37918_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/10/internettest-version-5702110-is-now/cover_hu0eca49bd6722ec5e19f8b92055dd85c6_37918_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;DownDetector&amp;rdquo; page of InternetTest&#34;
