@@ -2,6 +2,7 @@
 title: 'Datalya: Version 1.5.0.2206 is now available'
 description: Datalya is a simple database manager for Windows. A new update for it is available.
 slug: datalya-version-1502206-is-now-available
+aliases: datalya-version-1502206-is-now-available.html
 date: 2022-06-20 00:00:00+0000
 image: cover.png
 categories:

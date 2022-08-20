@@ -2,6 +2,7 @@
 title: 'Gerayis: Version 2.1.0.2204 is now available'
 description: Learn more about this new version of Gerayis, a simple bar code and QR code generator.
 slug: gerayis-version-2102204-is-now-available
+aliases: gerayis-version-2102204-is-now-available.html
 date: 2022-04-21 00:00:00+0000
 image: cover.png
 categories:

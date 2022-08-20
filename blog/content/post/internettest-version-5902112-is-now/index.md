@@ -2,6 +2,7 @@
 title: 'InternetTest: Version 5.9.0.2112 is now available'
 description: Learn more about this version of InternetTest.
 slug: internettest-version-5902112-is-now
+aliases: internettest-version-5902112-is-now.html
 date: 2021-12-12 00:00:00+0000
 image: cover.png
 categories:

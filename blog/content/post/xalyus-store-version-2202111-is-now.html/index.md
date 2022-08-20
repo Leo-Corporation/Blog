@@ -2,6 +2,7 @@
 title: 'Xalyus Store: Version 2.2.0.2111 is now available'
 description: Learn more about this new version of Xalyus Store.
 slug: xalyus-store-version-2202111-is-now
+aliases: xalyus-store-version-2202111-is-now.html
 date: 2021-11-27 00:00:00+0000
 image: cover.png
 categories:

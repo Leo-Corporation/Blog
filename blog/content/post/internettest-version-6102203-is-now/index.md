@@ -2,6 +2,7 @@
 title: 'InternetTest: Version 6.1.0.2203 is now available'
 description: Learn more about this new version of InternetTest.
 slug: internettest-version-6102203-is-now
+aliases: internettest-version-6102203-is-now.html
 date: 2022-03-23 00:00:00+0000
 image: cover.png
 categories:

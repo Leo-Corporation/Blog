@@ -2,6 +2,7 @@
 title: 'ColorPicker: Version 4.1.0.2204 is now available'
 description: ColorPicker is a simple color-picking tool for developers. A new version is available for it.
 slug: colorpicker-version-4102204-is-now
+aliases: colorpicker-version-4102204-is-now.html
 date: 2022-04-18 00:00:00+0000
 image: cover.png
 categories:

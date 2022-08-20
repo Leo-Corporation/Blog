@@ -2,6 +2,7 @@
 title: 'ColorPicker: Version 4.0.0.2202 is now available'
 description: Learn more about this new major version of ColorPicker.
 slug: colorpicker-version-4002202-is-now
+aliases: colorpicker-version-4002202-is-now.html
 date: 2022-02-16 00:00:00+0000
 image: cover.png
 categories:

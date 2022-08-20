@@ -2,6 +2,7 @@
 title: 'Datalya: Version 1.4.2.2204 is now available'
 description: A small version of Datalya is now available.
 slug: datalya-version-1422204-is-now-available
+aliases: datalya-version-1422204-is-now-available.html
 date: 2022-04-24 00:00:00+0000
 image: cover.png
 categories:

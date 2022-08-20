@@ -2,6 +2,7 @@
 title: 'LeoCorpLibrary: Version 4.6.0.2205 is now available'
 description: Learn more about this new version of LeoCorpLibrary.
 slug: leocorplibrary-version-4602205-is-now
+aliases: leocorplibrary-version-4602205-is-now.html
 date: 2022-05-12 00:00:00+0000
 image: cover.png
 categories:

@@ -2,6 +2,7 @@
 title: 'Gerayis: Version 1.9.1.2201 is now available'
 description: Learn more about this new (small) version of Gerayis.
 slug: gerayis-version-1912201
+aliases: gerayis-version-1912201.html
 date: 2022-01-23 00:00:00+0000
 image: cover.png
 categories:

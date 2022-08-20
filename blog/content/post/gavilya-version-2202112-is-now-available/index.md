@@ -2,6 +2,7 @@
 title: 'Gavilya: Version 2.2.0.2112 is now available'
 description: Learn more about this version of Gavilya.
 slug: gavilya-version-2202112-is-now-available
+aliases: gavilya-version-2202112-is-now-available.html
 date: 2021-12-20 00:00:00+0000
 image: cover.png
 categories:

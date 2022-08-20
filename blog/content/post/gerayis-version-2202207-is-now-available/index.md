@@ -1,8 +1,8 @@
 ---
-title: 'Gerayis: Version 2.2.0.2207 is now available
-'
+title: 'Gerayis: Version 2.2.0.2207 is now available'
 description: Learn more about this new version of Gerayis.
 slug: gerayis-version-2202207-is-now-available
+aliases: gerayis-version-2202207-is-now-available.html
 date: 2022-07-16 00:00:00+0000
 image: cover.png
 categories:

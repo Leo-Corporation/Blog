@@ -2,6 +2,7 @@
 title: "We've updated our visual identity"
 description: Learn more about our new colorful visual identity
 slug: weve-updated-our-visual-identity
+aliases: weve-updated-our-visual-identity.html
 date: 2022-01-13 00:00:00+0000
 image: cover.png
 categories:

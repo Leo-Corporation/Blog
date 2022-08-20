@@ -2,6 +2,7 @@
 title: 'Gavilya: Version 2.5.0.2205 is now available'
 description: Learn more about this new version of Gavilya, a simple game launcher for Windows.
 slug: gavilya-version-2502205-is-now-available
+aliases: gavilya-version-2502205-is-now-available.html
 date: 2022-05-13 00:00:00+0000
 image: cover.png
 categories:

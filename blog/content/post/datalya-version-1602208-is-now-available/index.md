@@ -2,6 +2,7 @@
 title: 'Datalya: Version 1.6.0.2208 is now available'
 description: Learn more about this new version of Datalya.
 slug: datalya-version-1602208-is-now-available
+aliases: datalya-version-1602208-is-now-available.html
 date: 2022-08-08 00:00:00+0000
 image: cover.png
 categories:

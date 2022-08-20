@@ -2,6 +2,7 @@
 title: 'InternetTest: Version 5.9.1.2201 is now available'
 description: Learn more about this new (small) version of Gavilya.
 slug: internettest-version-5912201-is-now
+aliases: internettest-version-5912201-is-now.html
 date: 2022-01-23 00:00:00+0000
 image: cover.png
 categories:

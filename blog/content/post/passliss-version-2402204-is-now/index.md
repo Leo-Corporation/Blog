@@ -2,6 +2,7 @@
 title: 'Passliss: Version 2.4.0.2204 is now available'
 description: Passliss is a simple password generator app for Windows. A new version is available for it.
 slug: passliss-version-2402204-is-now
+aliases: passliss-version-2402204-is-now.html
 date: 2022-04-23 00:00:00+0000
 image: cover.png
 categories:

@@ -2,6 +2,7 @@
 title: 'Gavilya: Version 2.8.0.2208 is now available'
 description: Learn more about this new version of Gavilya.
 slug: gavilya-version-2802208-is-now-available
+aliases: gavilya-version-2802208-is-now-available.html
 date: 2022-08-06 00:00:00+0000
 image: cover.png
 categories:

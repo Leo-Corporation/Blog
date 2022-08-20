@@ -2,6 +2,7 @@
 title: 'ColorPicker: Version 3.8.1.2112 brings Simplified Chinese and a fix'
 description: Learn more about this patch of ColorPicker.
 slug: colorpicker-version-3812112-brings
+aliases: colorpicker-version-3812112-brings.html
 date: 2021-12-25 00:00:00+0000
 image: cover.png
 categories:

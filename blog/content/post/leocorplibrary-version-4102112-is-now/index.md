@@ -2,6 +2,7 @@
 title: 'LeoCorpLibrary: Version 4.1.0.2112 is now available'
 description: Learn more about this patch of ColorPicker.
 slug: leocorplibrary-version-4102112-is-now
+aliases: leocorplibrary-version-4102112-is-now.html
 date: 2021-12-25 00:00:00+0000
 image: cover.png
 categories:

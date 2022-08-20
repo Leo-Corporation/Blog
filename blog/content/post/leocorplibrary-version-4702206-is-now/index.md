@@ -2,6 +2,7 @@
 title: 'LeoCorpLibrary: Version 4.7.0.2206 is now available'
 description: LeoCorpLibrary is a .NET library made for developers.
 slug: leocorplibrary-version-4702206-is-now
+aliases: leocorplibrary-version-4702206-is-now.html
 date: 2022-06-05 00:00:00+0000
 image: cover.png
 categories:

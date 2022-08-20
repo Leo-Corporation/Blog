@@ -2,6 +2,7 @@
 title: 'Passliss: Version 2.2.0.2202 is now available'
 description: Learn more about this new version of Passliss.
 slug: passliss-version-2202202-is-now
+aliases: passliss-version-2202202-is-now.html
 date: 2022-02-14 00:00:00+0000
 image: cover.png
 categories:

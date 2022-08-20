@@ -2,6 +2,7 @@
 title: 'ColorPicker: Version 3.9.0.2201 is now available'
 description: Learn more about this new version of ColorPicker.
 slug: colorpicker-version-3902201-is-now
+aliases: colorpicker-version-3902201-is-now.html
 date: 2022-01-19 00:00:00+0000
 image: cover.png
 categories:

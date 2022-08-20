@@ -2,6 +2,7 @@
 title: 'ColorPicker: Version 3.8.0.2112 is now available'
 description: Learn more about this version of ColorPicker.
 slug: colorpicker-version-3802112-is-now
+aliases: colorpicker-version-3802112-is-now.html
 date: 2021-12-24 00:00:00+0000
 image: cover.png
 categories:

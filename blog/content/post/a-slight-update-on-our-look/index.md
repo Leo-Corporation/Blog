@@ -2,6 +2,7 @@
 title: 'A slight update on our look'
 description: Learn more about our slightly updated look.
 slug: a-slight-update-on-our-look
+aliases: a-slight-update-on-our-look.html
 date: 2022-07-04 00:00:00+0000
 image: cover.png
 categories:

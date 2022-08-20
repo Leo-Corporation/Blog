@@ -2,6 +2,7 @@
 title: 'Gerayis: Version 1.9.0.2112 is now available'
 description: Learn more about this new version of Gerayis.
 slug: gerayis-version-1902112-is-now-available
+aliases: gerayis-version-1902112-is-now-available.html
 date: 2021-12-22 00:00:00+0000
 image: cover.png
 categories:
