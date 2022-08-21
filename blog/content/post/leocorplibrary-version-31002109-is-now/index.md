@@ -1,8 +1,8 @@
 ---
 title: 'LeoCorpLibrary: The version 3.10.0.2109 is now available'
 description: Learn more about this new version of InternetTest.
-slug: leocorplibrary-version-31002109-is-now.html
-aliases: leocorplibrary-version-31002109-is-now.html.html
+slug: leocorplibrary-version-31002109-is-now
+aliases: leocorplibrary-version-31002109-is-now.html
 date: 2021-09-04 00:00:00+0000
 image: cover.png
 categories:
