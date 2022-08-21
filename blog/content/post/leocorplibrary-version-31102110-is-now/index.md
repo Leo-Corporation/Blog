@@ -1,6 +1,6 @@
 ---
-title: 'ColorPicker: Version 3.7.0.2111 is now available'
-description: Learn more about this new version of ColorPicker.
+title: 'LeoCorpLibrary: The version 3.11.0.2110 is now available'
+description: Learn more about this new version of LeoCorpLibrary.
 slug: leocorplibrary-version-31102110-is-now
 aliases: leocorplibrary-version-31102110-is-now.html
 date: 2021-10-03 00:00:00+0000
