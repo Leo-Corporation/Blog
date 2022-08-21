@@ -251,6 +251,112 @@
 &gt;&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>Datalya: The version 1.2.0.2109 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/09/datalya-version-1202109-is-now-available/</link>
+        <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/09/datalya-version-1202109-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/09/datalya-version-1202109-is-now-available/cover.png" alt="Featured image of post Datalya: The version 1.2.0.2109 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.2.0.2109.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations for Content Collections (#17)&lt;/li&gt;
+&lt;li&gt;Added Content Collections template (#17)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Content Collections Item&amp;rdquo; (#17)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Content Collections&amp;rdquo; window (#17)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Help title is wrong (#15)&lt;/li&gt;
+&lt;li&gt;Fixed: &amp;ldquo;Edition&amp;rdquo; should be &amp;ldquo;Editing&amp;rdquo; (#19)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Improved the &amp;ldquo;Creator&amp;rdquo; page &amp;ldquo;Detail&amp;rdquo; panel responsiveness (#18)&lt;/li&gt;
+&lt;li&gt;Improved the padding of the &amp;ldquo;Language&amp;rdquo; drop down (#16)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadDatalya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Datalya.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;Did you know that Datalya has a website? &lt;a class=&#34;link&#34; href=&#34;https://datalya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to check it out.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/datalya-version-1202109-is-now-available/cover.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/datalya-version-1202109-is-now-available/cover_huee04e7ced6564bb062a8c185a6b26cd3_61897_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/09/datalya-version-1202109-is-now-available/cover_huee04e7ced6564bb062a8c185a6b26cd3_61897_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Content collections&amp;rdquo; window of Datalya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Datalya: The version 1.1.0.2108 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/08/datalya-version-1102108-is-now-available/</link>
+        <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/08/datalya-version-1102108-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/08/datalya-version-1102108-is-now-available/cover.png" alt="Featured image of post Datalya: The version 1.1.0.2108 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.1.0.2108.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added animations on &amp;ldquo;Ribbon&amp;rdquo; buttons (#3)&lt;/li&gt;
+&lt;li&gt;Added animations on &amp;ldquo;Tab&amp;rdquo; buttons (#3)&lt;/li&gt;
+&lt;li&gt;Added animations on &amp;ldquo;Help&amp;rdquo; buttons (#3)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Help&amp;rdquo; window (#4)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Add an item&amp;rdquo; help page (#4)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Edit an item&amp;rdquo; help page (#4)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Delete an item&amp;rdquo; help page (#4)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Create database&amp;rdquo; help page (#4)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Save database&amp;rdquo; help page (#4)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Get started with Blocks&amp;rdquo; help page (#4)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed issues with the &amp;ldquo;Save&amp;rdquo; message (#5)&lt;/li&gt;
+&lt;li&gt;Fixed: The &amp;ldquo;Close Database&amp;rdquo; button doesn&amp;rsquo;t work if the database has Blocks, but has no items (#6)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated Setup&lt;/li&gt;
+&lt;li&gt;Made the &amp;ldquo;Save&amp;rdquo; message appear only if the database was modified (#5)&lt;/li&gt;
+&lt;li&gt;Updated &amp;ldquo;See licenses&amp;rdquo; message&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadDatalya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Datalya.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;Did you know that Datalya has a website? &lt;a class=&#34;link&#34; href=&#34;https://datalya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to check it out.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/08/datalya-version-1102108-is-now-available/cover.png&#34;
+	width=&#34;1250&#34;
+	height=&#34;750&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/08/datalya-version-1102108-is-now-available/cover_hu03cd983527d92ee8cea8e9bd5c0b6d63_52316_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/08/datalya-version-1102108-is-now-available/cover_hu03cd983527d92ee8cea8e9bd5c0b6d63_52316_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Help&amp;rdquo; window of Datalya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;166&#34;
+		data-flex-basis=&#34;400px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
         
     </channel>
 </rss>

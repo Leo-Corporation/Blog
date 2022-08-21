@@ -34,6 +34,19 @@
 &gt;&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>Introducing the new Status page</title>
+        <link>https://leo-corporation.github.io/Blog/2021/08/introducing-new-status-page/</link>
+        <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/08/introducing-new-status-page/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/08/introducing-new-status-page/cover.png" alt="Featured image of post Introducing the new Status page" /&gt;&lt;p&gt;Software development is often punctuated with bugs, issues and incidents that may impact our users. It might be hard for them to understand why is one our software, service, isn’t working, or why they can’t access our website anymore for instance. We often inform our users of any issues impacting our services on our Twitter account &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/LeoCorpNews&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@LeoCorpNews&lt;/a&gt;, but some people aren’t aware of the existence of this account, or don’t use Twitter. This is why we’ve created a new website dedicated to “status monitoring”.&lt;/p&gt;
+&lt;p&gt;This new website is available at &lt;a class=&#34;link&#34; href=&#34;https://status.leocorporation.dev&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;status.leocorporation.dev&lt;/a&gt; and is updated every day. You can quickly see which system is operating normally, and those who don’t. If you are having an issue with one of our services that depend on others, such as our update system, Gavilya’s integration with RAWG, you can come to this website and see if everything is working correctly or not.&lt;/p&gt;
+&lt;p&gt;We hope that this website helps you to get informed when an issue is occurring.&lt;/p&gt;
+</description>
+        </item>
         
     </channel>
 </rss>

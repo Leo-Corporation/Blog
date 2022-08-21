@@ -377,6 +377,89 @@
 &gt;&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>InternetTest: The version 5.6.0.2109 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/09/internettest-version-5602109-is-now/</link>
+        <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/09/internettest-version-5602109-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/09/internettest-version-5602109-is-now/cover.png" alt="Featured image of post InternetTest: The version 5.6.0.2109 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available and it is the version 5.6.0.2109.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Redesigned the &amp;ldquo;Default Startup page&amp;rdquo; UI (#246)&lt;/li&gt;
+&lt;li&gt;Redesigned the &amp;ldquo;History&amp;rdquo; UI in &amp;ldquo;Connection&amp;rdquo; page (#247)&lt;/li&gt;
+&lt;li&gt;Redesigned the &amp;ldquo;History&amp;rdquo; UI in &amp;ldquo;DownDetector&amp;rdquo; page (#247)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Made default theme &amp;ldquo;System&amp;rdquo; (#248)&lt;/li&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/internettest-version-5602109-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/internettest-version-5602109-is-now/cover_huf84c8f166e667b0e665dc29bafd7a65e_48633_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/09/internettest-version-5602109-is-now/cover_huf84c8f166e667b0e665dc29bafd7a65e_48633_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of InternetTest.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>InternetTest: The version 5.5.0.2108 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/08/internettest-version-5502108-is-now/</link>
+        <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/08/internettest-version-5502108-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/08/internettest-version-5502108-is-now/cover.png" alt="Featured image of post InternetTest: The version 5.5.0.2108 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 5.5.0.2108.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added Yandex Maps as a map provider (#237)&lt;/li&gt;
+&lt;li&gt;Added animations on Tab buttons (#238)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Links&amp;rsquo; hitboxes are taking all the width of the settings page (#235)&lt;/li&gt;
+&lt;li&gt;Fixed: The &amp;ldquo;Licenses&amp;rdquo; section isn&amp;rsquo;t visible in settings (#236)&lt;/li&gt;
+&lt;li&gt;Fixed translations issues: &amp;ldquo;Localize&amp;rdquo; should be &amp;ldquo;Locate&amp;rdquo; (#243)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated Setup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/08/internettest-version-5502108-is-now/cover.png&#34;
+	width=&#34;1000&#34;
+	height=&#34;562&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/08/internettest-version-5502108-is-now/cover_hu7330f8ffbd34cac308b841f66c63c08c_47813_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/08/internettest-version-5502108-is-now/cover_hu7330f8ffbd34cac308b841f66c63c08c_47813_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Connection&amp;rdquo; page of InternetTest.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;427px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
         
     </channel>
 </rss>

@@ -289,6 +289,48 @@
 &gt;&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>Gerayis: The version 1.6.0.2109 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/09/gerayis-version-1602109-is-now-available/</link>
+        <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/09/gerayis-version-1602109-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/09/gerayis-version-1602109-is-now-available/cover.png" alt="Featured image of post Gerayis: The version 1.6.0.2109 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available, and it is the version 1.6.0.2109.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added the possibility to set a bar code type by default (#57)&lt;/li&gt;
+&lt;li&gt;Added default text depending on the bar code type (#58)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved &amp;ldquo;Settings&amp;rdquo; page bottom margin&lt;/li&gt;
+&lt;li&gt;Removed duplicates in Bar code history (#59)&lt;/li&gt;
+&lt;li&gt;Removed duplicates in QR code history (#59)&lt;/li&gt;
+&lt;li&gt;Made default theme &amp;ldquo;System&amp;rdquo; (#60)&lt;/li&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadGerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/gerayis-version-1602109-is-now-available/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/gerayis-version-1602109-is-now-available/cover_hua42d384cc91a686c330cd3915f304fd6_47412_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/09/gerayis-version-1602109-is-now-available/cover_hua42d384cc91a686c330cd3915f304fd6_47412_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Gerayis.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
         
     </channel>
 </rss>

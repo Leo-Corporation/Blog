@@ -1118,6 +1118,201 @@
 &gt;&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>ColorPicker: The version 3.5.0.2109 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/09/colorpicker-version-3502109-is-now/</link>
+        <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/09/colorpicker-version-3502109-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/09/colorpicker-version-3502109-is-now/cover.png" alt="Featured image of post ColorPicker: The version 3.5.0.2109 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 3.5.0.2109.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added new animation on &amp;ldquo;Converter&amp;rdquo; icon (#52)&lt;/li&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Color palette&amp;rdquo; UI (#53)&lt;/li&gt;
+&lt;li&gt;Added a button to generate a random color (#53)&lt;/li&gt;
+&lt;li&gt;Added the possibility to copy the generated colors (#53)&lt;/li&gt;
+&lt;li&gt;Added tooltips (#53)&lt;/li&gt;
+&lt;li&gt;Made default theme &amp;ldquo;System&amp;rdquo; (#54)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: On scaled screens, MiniPicker isn&amp;rsquo;t following the cursor correctly (#50)&lt;/li&gt;
+&lt;li&gt;Fixed: HSL in English should be HSB (#51)&lt;/li&gt;
+&lt;li&gt;Fixed an issue with MiniPicker (#50)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated ColorHelper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https:/tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/colorpicker-version-3502109-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/colorpicker-version-3502109-is-now/cover_hu3a1a0a6a2b1808f6938b217ec08b3a05_31804_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/09/colorpicker-version-3502109-is-now/cover_hu3a1a0a6a2b1808f6938b217ec08b3a05_31804_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Palette&amp;rdquo; page of ColorPicker.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: The version 3.10.0.2109 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/09/leocorplibrary-version-31002109-is-now/</link>
+        <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/09/leocorplibrary-version-31002109-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/09/leocorplibrary-version-31002109-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.10.0.2109 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 3.10.0.2109.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to get if a triangle is a right triangle (#246)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get a rectangle&amp;rsquo;s area (#247)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get a cone&amp;rsquo;s volume (#248)&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert feet to meters (#249)&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert meters to feet (#249)&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert pounds to kilograms (#250)&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert kilograms to pounds (#250)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated XML Documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951?version=4.9.0.2208&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093?version=4.9.0.2208&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to check the documentation of LeoCorpLibrary.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/leocorplibrary-version-31002109-is-now/cover.png&#34;
+	width=&#34;1144&#34;
+	height=&#34;408&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/leocorplibrary-version-31002109-is-now/cover_hu01220818ee8f2ff4de8830e142e4bc97_43235_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/09/leocorplibrary-version-31002109-is-now/cover_hu01220818ee8f2ff4de8830e142e4bc97_43235_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code snippet using LeoCorpLibrary.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;280&#34;
+		data-flex-basis=&#34;672px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ColorPicker: The version 3.4.0.2108 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/08/colorpicker-version-3402108-is-now/</link>
+        <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/08/colorpicker-version-3402108-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/08/colorpicker-version-3402108-is-now/cover.png" alt="Featured image of post ColorPicker: The version 3.4.0.2108 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is available and it is the version 3.4.0.2108.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added tooltips (#40)&lt;/li&gt;
+&lt;li&gt;Added animations on Tab buttons (#41)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Can&amp;rsquo;t update ColorPicker (#39)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated Setup&lt;/li&gt;
+&lt;li&gt;Updated README links (#42)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/08/colorpicker-version-3402108-is-now/cover.png&#34;
+	width=&#34;1000&#34;
+	height=&#34;562&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/08/colorpicker-version-3402108-is-now/cover_hu7e812bb4e8a9275c6cfa9825609e8026_52838_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/08/colorpicker-version-3402108-is-now/cover_hu7e812bb4e8a9275c6cfa9825609e8026_52838_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Picker&amp;rdquo; page of ColorPicker.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;427px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: The version 3.1.0.2012 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2020/12/leocorplibrary-version-3102012-is-now/</link>
+        <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2020/12/leocorplibrary-version-3102012-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2020/12/leocorplibrary-version-3102012-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.1.0.2012 is now available" /&gt;&lt;p&gt;A new version is available for LeoCorpLibrary and LeoCorpLibrary.Core. Here&amp;rsquo;s what&amp;rsquo;s new:&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Converted the &amp;ldquo;GetWindowsVersion()&amp;rdquo; method to a property (#169)&lt;/li&gt;
+&lt;li&gt;Converted the &amp;ldquo;GetUnixTime()&amp;rdquo; method to a property (#169)&lt;/li&gt;
+&lt;li&gt;Converted the &amp;ldquo;GetAppDataPath()&amp;rdquo; method to a property (#169)&lt;/li&gt;
+&lt;li&gt;Added the &amp;ldquo;OperatingSystems&amp;rdquo; enum (#170)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the OS (#170)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the system drive (Windows only) (#171)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/leocorplibrary-version-3102012-is-now/cover.png&#34;
+	width=&#34;924&#34;
+	height=&#34;480&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/leocorplibrary-version-3102012-is-now/cover_hu5436fe7c88e8399ea3f2564c5eaefff3_54943_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2020/12/leocorplibrary-version-3102012-is-now/cover_hu5436fe7c88e8399ea3f2564c5eaefff3_54943_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;192&#34;
+		data-flex-basis=&#34;462px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
         
     </channel>
 </rss>

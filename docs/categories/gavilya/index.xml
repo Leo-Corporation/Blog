@@ -620,6 +620,177 @@
     &gt;Click here&lt;/a&gt; to download Gavilya&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>Gavilya: The version 1.9.0.2109 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/09/gavilya-version-1902109-is-now-available/</link>
+        <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/09/gavilya-version-1902109-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/09/gavilya-version-1902109-is-now-available/cover.png" alt="Featured image of post Gavilya: The version 1.9.0.2109 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 1.9.0.2109.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to view two screenshots in &amp;ldquo;Search game cover&amp;rdquo; (#133)&lt;/li&gt;
+&lt;li&gt;Added custom radio button styles (#133)&lt;/li&gt;
+&lt;li&gt;Added the possibility to select a screenshot in &amp;ldquo;Search game cover&amp;rdquo; (#133)&lt;/li&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added the possibility to launch Steam games via Steam URI (#134)&lt;/li&gt;
+&lt;li&gt;Redesigned &amp;ldquo;Startup page&amp;rdquo; section in Settings (#135)&lt;/li&gt;
+&lt;li&gt;Added in &amp;ldquo;About&amp;rdquo; window a license list (#136)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: &amp;ldquo;Add Microsoft Store game&amp;rdquo; button visible on non-Windows 10 devices (#132)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated the size of the &amp;ldquo;Search game cover&amp;rdquo; window (#133)&lt;/li&gt;
+&lt;li&gt;Updated &amp;ldquo;Select game&amp;rdquo; button&amp;rsquo;s style (#133)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/gavilya-version-1902109-is-now-available/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;600&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/gavilya-version-1902109-is-now-available/cover_hu241d5f5b463c9a22bfb958536841ea83_114207_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/09/gavilya-version-1902109-is-now-available/cover_hu241d5f5b463c9a22bfb958536841ea83_114207_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Search game cover&amp;rdquo; window of Gavilya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gavilya: The version 1.8.0.2108 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/08/gavilya-version-1802108-is-now-available/</link>
+        <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/08/gavilya-version-1802108-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/08/gavilya-version-1802108-is-now-available/cover.png" alt="Featured image of post Gavilya: The version 1.8.0.2108 is now available" /&gt;&lt;p&gt;A new version of Gavilya is available and it is the version 1.8.0.2108.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to always check if a game is running (#122)&lt;/li&gt;
+&lt;li&gt;Added the possibility to add UWP games (#123)&lt;/li&gt;
+&lt;li&gt;Added the possibility to edit UWP games (#123)&lt;/li&gt;
+&lt;li&gt;Added the possibility to launch UWP games (#123)&lt;/li&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue when no image is specified with UWP games&lt;/li&gt;
+&lt;li&gt;Fixed: The &amp;ldquo;Properties&amp;rdquo; window is not displaying properly (#124)&lt;/li&gt;
+&lt;li&gt;Fixed: &amp;ldquo;Select game(s)&amp;rdquo; button is bugged when used on another page than the &amp;ldquo;Cards&amp;rdquo; page (#125)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated &amp;ldquo;UWP&amp;rdquo; to &amp;ldquo;Microsoft Store&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/08/gavilya-version-1802108-is-now-available/cover.png&#34;
+	width=&#34;1447&#34;
+	height=&#34;907&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/08/gavilya-version-1802108-is-now-available/cover_hu78c82cb99aa99797f00c9302aa0427cd_701130_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/08/gavilya-version-1802108-is-now-available/cover_hu78c82cb99aa99797f00c9302aa0427cd_701130_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Add a game&amp;rdquo; window of Gavilya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;159&#34;
+		data-flex-basis=&#34;382px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Introducing Gavilya</title>
+        <link>https://leo-corporation.github.io/Blog/2020/12/introducing-gavilya/</link>
+        <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2020/12/introducing-gavilya/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2020/12/introducing-gavilya/cover.png" alt="Featured image of post Introducing Gavilya" /&gt;&lt;p&gt;We&amp;rsquo;ve been working on a new project for a few months, and if you follow us on GitHub, you may already know what it is, but let&amp;rsquo;s introduce what Gavilya is.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Gavilya is a software that brings all your video games together in one place. Today, there is a lot of game launcher that you need to use depending on the game you wanna play. This is often annoying and this is why we created Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;integrations-and-features&#34;&gt;Integrations and Features&lt;/h2&gt;
+&lt;p&gt;Gavilya uses the RAWG.io video games database to get all your games informations automatically. Gavilya uses the RAWG API to get the background image of a game, the game&amp;rsquo;s description and even on wich platforms the game is available on. If you think that the game found by Gavilya in the RAWG database is wrong, you can change the associated game in the &amp;ldquo;Edit&amp;rdquo; window.&lt;/p&gt;
+&lt;p&gt;You can also know which games you played recently, or even know how long you&amp;rsquo;ve played a specific game. Gavilya uses a system that can detect if you are playing a game and count the time you&amp;rsquo;ve been playing it. Sometimes this system doesn&amp;rsquo;t works with games that have a different process name than it&amp;rsquo;s executable file (like Minecraft). This is why you can manually set the process to look for (for Minecraft it&amp;rsquo;s &amp;ldquo;javaw&amp;rdquo;).&lt;/p&gt;
+&lt;h2 id=&#34;open-source&#34;&gt;Open Source&lt;/h2&gt;
+&lt;p&gt;Gavilya is also one of our open-source projects. You can contribute to the code, report issues and bugs with Gavilya and more. Click here to go to the GitHub repo.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/cover.png&#34;
+	width=&#34;960&#34;
+	height=&#34;610&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/cover_hu31c6bb9887c2453f9b181d6f4b8f0637_198112_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/cover_hu31c6bb9887c2453f9b181d6f4b8f0637_198112_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Your Games&amp;rdquo; page of Gavilya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;157&#34;
+		data-flex-basis=&#34;377px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/2.png&#34;
+	width=&#34;960&#34;
+	height=&#34;610&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/2_hu1956a95ffff0923f57af8ca295105d09_344354_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/2_hu1956a95ffff0923f57af8ca295105d09_344354_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Game Information&amp;rdquo; page of Gavilya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;157&#34;
+		data-flex-basis=&#34;377px&#34;
+	
+&gt;
+&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/3.png&#34;
+	width=&#34;960&#34;
+	height=&#34;610&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/3_hu1956a95ffff0923f57af8ca295105d09_205061_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/3_hu1956a95ffff0923f57af8ca295105d09_205061_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Games recently played&amp;rdquo; page of Gavilya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;157&#34;
+		data-flex-basis=&#34;377px&#34;
+	
+&gt;
+&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/4.png&#34;
+	width=&#34;960&#34;
+	height=&#34;610&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/4_hu1956a95ffff0923f57af8ca295105d09_264185_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/4_hu1956a95ffff0923f57af8ca295105d09_264185_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Your Games - List&amp;rdquo; page of Gavilya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;157&#34;
+		data-flex-basis=&#34;377px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
         
     </channel>
 </rss>
