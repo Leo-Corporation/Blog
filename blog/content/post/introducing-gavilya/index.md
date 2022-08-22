@@ -9,8 +9,7 @@ categories:
     - Gavilya
     - Information
 tags:
-    - Update
-    - New Features
+    - New application
     - OpenSource
     - Gaming
 ---
