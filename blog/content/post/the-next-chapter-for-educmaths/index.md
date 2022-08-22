@@ -6,6 +6,7 @@ aliases: the-next-chapter-for-educmaths.html
 date: 2021-07-23 00:00:00+0000
 categories:
     - Information
+    - Educ'Maths
 tags:
     - End of support
 ---
