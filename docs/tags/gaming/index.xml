@@ -678,6 +678,173 @@
 </description>
         </item>
         <item>
+        <title>Gavilya: The version 1.7.0.2107 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/07/gavilya-version-1702107-is-now-available/</link>
+        <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/07/gavilya-version-1702107-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/07/gavilya-version-1702107-is-now-available/cover.png" alt="Featured image of post Gavilya: The version 1.7.0.2107 is now available" /&gt;&lt;p&gt;A new version of Gavilya is available, and it is the version 1.7.0.2107.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added a placeholder in &amp;ldquo;GameInfoPage&amp;rdquo; when there is no ratings (#109)&lt;/li&gt;
+&lt;li&gt;Added the possibility to select games when importing games on first run (#110)&lt;/li&gt;
+&lt;li&gt;Added a new import games experience on first run (#110)&lt;/li&gt;
+&lt;li&gt;Added an indicator when the game can&amp;rsquo;t be imported (#110)&lt;/li&gt;
+&lt;li&gt;Added a new import games experience in settings (#110)&lt;/li&gt;
+&lt;li&gt;Added a new Add experience (#111)&lt;/li&gt;
+&lt;li&gt;Added a new Edit experience (#111)&lt;/li&gt;
+&lt;li&gt;Added a notification when updates are available (#112)&lt;/li&gt;
+&lt;li&gt;Added the possibility to go back when adding/editing a game (#111)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: In &amp;ldquo;Settings&amp;rdquo;, the text is not displaying properly (#108)&lt;/li&gt;
+&lt;li&gt;Fixed an issue with Game Properties window&lt;/li&gt;
+&lt;li&gt;Fixed an issue where you could add game without any informations&lt;/li&gt;
+&lt;li&gt;Fixed: When importing a game without an image cover, it is considered as invalid (#115)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Improved buttons alignment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/gavilya-version-1702107-is-now-available/cover.png&#34;
+	width=&#34;520&#34;
+	height=&#34;600&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/gavilya-version-1702107-is-now-available/cover_hu9276d6325db8d5d788b5fdd3b1fc9873_19716_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/gavilya-version-1702107-is-now-available/cover_hu9276d6325db8d5d788b5fdd3b1fc9873_19716_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Add game&amp;rdquo; window of Gavilya&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;86&#34;
+		data-flex-basis=&#34;208px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gavilya: The version 1.6.0.2106 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/06/gavilya-version-1602106-is-now-available/</link>
+        <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/06/gavilya-version-1602106-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/06/gavilya-version-1602106-is-now-available/cover.png" alt="Featured image of post Gavilya: The version 1.6.0.2106 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available and it is the version 1.6.0.2106.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added platform assets (#98)&lt;/li&gt;
+&lt;li&gt;Added a new platform UI (#98)&lt;/li&gt;
+&lt;li&gt;Added the &amp;ldquo;AutoSave&amp;rdquo; UI in settings (#99)&lt;/li&gt;
+&lt;li&gt;Added scroll bars in settings (#99)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set settings of autosaves (#99)&lt;/li&gt;
+&lt;li&gt;Added the possibility to make automatic backup of games (#99)&lt;/li&gt;
+&lt;li&gt;Added the possibility to add the current profile name when exporting games (#100)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed issues in checkbox design (#99)&lt;/li&gt;
+&lt;li&gt;The dropdown&amp;rsquo;s selected item is now matching with settings (#99)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated assets of &amp;ldquo;First run&amp;rdquo; and more (#97)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/gavilya-version-1602106-is-now-available/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/gavilya-version-1602106-is-now-available/cover_hu22e44c85ba981cde19d8a4869b44534a_44477_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/06/gavilya-version-1602106-is-now-available/cover_hu22e44c85ba981cde19d8a4869b44534a_44477_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; window of Gavilya&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gavilya: The version 1.5.0.2105 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/05/xalyus-store-version-1282012-is-now/</link>
+        <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/05/xalyus-store-version-1282012-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/xalyus-store-version-1282012-is-now/cover.png" alt="Featured image of post Gavilya: The version 1.5.0.2105 is now available" /&gt;&lt;p&gt;A new version is available for Gavilya, and it is the version 1.5.0.2105.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &amp;ldquo;Statistics&amp;rdquo; page (#84)&lt;/li&gt;
+&lt;li&gt;Added a bar chart showing the top ten most played games time (from lower to higher)&lt;/li&gt;
+&lt;li&gt;Added a complete list of all the user games from the most played to the least&lt;/li&gt;
+&lt;li&gt;Added a link to the &amp;ldquo;Statistics&amp;rdquo; page (#85)&lt;/li&gt;
+&lt;li&gt;Added a position indicator in the top 10 most played games (#84)&lt;/li&gt;
+&lt;li&gt;Added the possibility to select a game stat card (#84)&lt;/li&gt;
+&lt;li&gt;Added a card recapitulating a game informations (#84)&lt;/li&gt;
+&lt;li&gt;Added an option allowing the user to change the order of the most played games (#84)&lt;/li&gt;
+&lt;li&gt;Added the &amp;ldquo;stores&amp;rdquo; section in &amp;ldquo;GameInfo&amp;rdquo; page (#86)&lt;/li&gt;
+&lt;li&gt;Added the possibility to associate stores with a game (#86)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed color consistency (#84)&lt;/li&gt;
+&lt;li&gt;Fixed: The Statistics info card is now responsive (#84)&lt;/li&gt;
+&lt;li&gt;Fixed scroll bars issues (#84)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Improved card design (#84)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/xalyus-store-version-1282012-is-now/cover.png&#34;
+	width=&#34;1185&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/xalyus-store-version-1282012-is-now/cover_hua79be428de3147d33ba58b64f3ee2655_265383_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/xalyus-store-version-1282012-is-now/cover_hua79be428de3147d33ba58b64f3ee2655_265383_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Statistics&amp;rdquo; page of Gavilya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/xalyus-store-version-1282012-is-now/2.png&#34;
+	width=&#34;1185&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/xalyus-store-version-1282012-is-now/2_hua79be428de3147d33ba58b64f3ee2655_359724_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/xalyus-store-version-1282012-is-now/2_hua79be428de3147d33ba58b64f3ee2655_359724_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A game details in Gavilya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Introducing Gavilya</title>
         <link>https://leo-corporation.github.io/Blog/2020/12/introducing-gavilya/</link>
         <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>

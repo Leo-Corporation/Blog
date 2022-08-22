@@ -61,6 +61,187 @@
 </description>
         </item>
         <item>
+        <title>Introducing Datalya</title>
+        <link>https://leo-corporation.github.io/Blog/2021/07/introducing-datalya/</link>
+        <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/07/introducing-datalya/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/07/introducing-datalya/cover.png" alt="Featured image of post Introducing Datalya" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Last year, we’ve launched two products: GestionBiblio X and GestionPerso X. They were specialized database management tools. They provided a brand new and modern user interface at the time. The goal was to rewrite the codebase from Visual Basic to C#, to introduce new features and a new design language. However, these two softwares were only available in French, not in English, and they weren’t receiving updates as much as other Léo Corporation’s softwares. This is why we are today introducing the next generation of database management at Léo Corporation: Datalya.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/cover.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/cover_hu585b845bac6b9b98f4e385dce7b37f4b_23177_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/cover_hu585b845bac6b9b98f4e385dce7b37f4b_23177_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The home page of Datalya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;whats-datalya&#34;&gt;What&amp;rsquo;s Datalya?&lt;/h2&gt;
+&lt;p&gt;Datalya is a modern and yet simple database management software for Windows. The main innovation of Datalya is Blocks. Blocks are different types of input for a user. For instance, you can have a simple text input, to a checkbox input, without forgetting the dropdown input. These Blocks are customizable, you can name theme, add choices, and more. You can even export your Blocks as a Template, so you can reuse them quickly in other databases. In a nutshell, Blocks are used to create your Database.&lt;/p&gt;
+&lt;p&gt;You can find Blocks in the “Creator” part. Talking about parts, Datalya is divided into two parts: The Creator part, and the Database part. We’ve talked about the Creator part already, so let’s move on to the Database part.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/2.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/2_hu2eef5c95aec75c556b3140a77e649b6b_53904_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/2_hu2eef5c95aec75c556b3140a77e649b6b_53904_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Creator part of Datalya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The Database part is where the database is. You’ll notice a ribbon UI at the top, and the database’s content filling the rest of the window. By default, it’s empty: Indeed, we need to add an item to the database first. You can go to “Edit” tab in the ribbon, and then click on “Add”. You’ll see that a window with your Blocks has appeared, and in this window, you can fill the fields and then add the item.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/3.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/3_hue7a0290966fbba52ed17248da6e91028_30750_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/3_hue7a0290966fbba52ed17248da6e91028_30750_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Database part of Datalya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Once you’ve added the item, you can edit it, delete it, etc.&lt;/p&gt;
+&lt;p&gt;The other new feature is the possibility to export a database to an Excel spreadsheet. You can go to the “Export” tab of the ribbon and click on “Export to Excel”. Note that Datalya only supports .xlsx files.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/4.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/4_hu585b845bac6b9b98f4e385dce7b37f4b_23177_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/4_hu585b845bac6b9b98f4e385dce7b37f4b_23177_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The home page of Datalya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;When launching Datalya, you’ll see the home screen, this is where all your recent files are shown for you to jump into a database quickly. You can even pin your most important databases if you have a lot of them.&lt;/p&gt;
+&lt;p&gt;Datalya is also customizable: it is available in English and French, and it has a dark mode! You can also change update settings and reset them anytime.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/5.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/5_huad7e4adbac23ae106fcf61238f387534_36323_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/5_huad7e4adbac23ae106fcf61238f387534_36323_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The dark theme of Datalya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;There is still a lot of features that we didn’t covered in this article, but we will let you discover them by yourself. We’ve been working on Datalya for a few months now, and we focused on the design and on the user experience with the product, to deliver you an enjoyable experience while working on a database.&lt;/p&gt;
+&lt;p&gt;As always, Datalya will be free and Open-Source.&lt;/p&gt;
+&lt;h2 id=&#34;whats-next-for-gestionbiblio-x-and-gestionperso-x&#34;&gt;What’s next for GestionBiblio X and GestionPerso X&lt;/h2&gt;
+&lt;p&gt;The release of Datalya also means that our old GestionBiblio X and GestionPerso X softwares are now deprecated, and we recommend that the users of theses products switch to Datalya. If you are a user of one of these products, you can create a new database in Datalya by selecting ether the “Books” template or the “People” template.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://datalya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to go the website of Datalya.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadDatalya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Datalya.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>The next chapter for Educ&#39;Maths</title>
+        <link>https://leo-corporation.github.io/Blog/2021/07/the-next-chapter-for-educmaths/</link>
+        <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/07/the-next-chapter-for-educmaths/</guid>
+        <description>&lt;p&gt;Educ’Maths was a game to test your knowledge in math. It was developed back in 2018, and was released under the name “Educ’Maths”, and later renamed “Educ’Maths 2018”. At the time, Educ’Maths was one of our first and biggest software we’ve ever released. Then, Educ’Maths became a series of games: Educ’Maths 2019, 2020, and finally, 2021. For each edition, we tried to push the limit of the previous one, and we went from a simple quiz game to an interactive and fun game in 2021. In June 2021, 23% of downloaded softwares were Educ’Maths games.&lt;/p&gt;
+&lt;p&gt;However, we have decided to end the Educ’Maths series here.&lt;/p&gt;
+&lt;p&gt;In previous blog articles, we told you that 2021 is going to be a big year for Léo Corporation, and indeed, we’ve release in 2021 more softwares and software updates than ever. Our vision has through the years evolved, and today, we want to focus on software creation, not games. This doesn’t mean that we will never release games again, but for now, we want to follow a new path for Léo Corporation. This path is impacted by global changes: We are living in an era where computers are now the center of our lives. The vision of Léo Corporation is to improve people’s productivity. We are doing this by releasing each year, new softwares and new experiences.&lt;/p&gt;
+&lt;p&gt;This means that there won’t be an “Educ’Maths 2022”, and the support of Educ’Maths games is going end sooner.&lt;/p&gt;
+&lt;p&gt;For players of Educ’Maths 2020, the end of support date is unchanged: On the 1st of December 2021, the support will end. This implies that Educ’Maths 2020 will no longer receive any updates, or patches.&lt;/p&gt;
+&lt;p&gt;If you are also a player of Educ’Maths 2021, the end of support has changed, and it will be the same as Educ’Maths 2020’s, the 1st of December 2021, a year earlier. Like Educ’Maths 2020, Educ’Maths 2021 will no longer receive any updates or patches, but you will still be able to play the game of course.&lt;/p&gt;
+&lt;p&gt;The end of support also means that you will no longer be able to download Educ’Maths from our website, or from Xalyus Store. About Xalyus Store, the “Games” category is also going away.&lt;/p&gt;
+&lt;p&gt;We would like to thank again everyone who played Educ’Maths games.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Introducing The new Xalyus Store</title>
+        <link>https://leo-corporation.github.io/Blog/2021/05/introducing-new-xalyus-store/</link>
+        <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/05/introducing-new-xalyus-store/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/introducing-new-xalyus-store/cover.png" alt="Featured image of post Introducing The new Xalyus Store" /&gt;&lt;p&gt;Last year, we have launched the successor of the “Léo Corporation Store”, Xalyus Store. It came out with a brand-new design and brand features. Today, we are happy to introduce the next evolution of Xalyus Store.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;When we started creating softwares, we always wanted a place where people could download them. We thought making a website was great, and we did so. But we also wanted a place on desktop, where we could showcase and display our apps. Therefore, we create a software called “Store”. With it, you could download any of our softwares directly from your computer. Then, we wanted to have a complete redesign of this app, and so we decided to modernize it by building a brand-new one: Xalyus Store.&lt;/p&gt;
+&lt;p&gt;Xalyus Store was our redesigned tore, with the same concepts but more polished. However, we encountered the same problem with the “Store”: If we want to add new softwares, update any informations, we needed to update Xalyus Store, which isn’t a great way of distributing new softwares. This is why we are here today, introducing the second major version of Xalyus Store.&lt;/p&gt;
+&lt;h2 id=&#34;completely-autonomous&#34;&gt;Completely autonomous&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/cover.png&#34;
+	width=&#34;1200&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/cover_hu7f09eeae559180f24b6b08c0accbe99d_69880_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/cover_hu7f09eeae559180f24b6b08c0accbe99d_69880_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Home&amp;rdquo; page of Xalyus Store&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;171&#34;
+		data-flex-basis=&#34;411px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;This next evolution of Xalyus Store is complete autonomous: You don’t have to update it to check if new softwares are available, everything is automatic! You may not see a lot of changes compared to the first version, but they are massive since it is about an entire new infrastructure and delivering system.&lt;/p&gt;
+&lt;h2 id=&#34;modern-design&#34;&gt;Modern design&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/2.png&#34;
+	width=&#34;1200&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/2_huf051724bd68539e5d868d511866d11f8_69473_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/2_huf051724bd68539e5d868d511866d11f8_69473_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Apps&amp;rdquo; page of Xalyus Store&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;171&#34;
+		data-flex-basis=&#34;411px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;To keep our softwares consistent, the new Xalyus Store has a new and modern user interface, alongside with new themes. You can choose between light and dark theme or stick to your system’s default theme if you are using Windows 10.&lt;/p&gt;
+&lt;h2 id=&#34;trust-and-secure&#34;&gt;Trust and secure&lt;/h2&gt;
+&lt;p&gt;As you may now, most of our softwares are Open-Source on GitHub. This means that the code of our softwares is available to anyone, even malicious people who may try to inject malicious code in our softwares and distribute an infected copy to you. Xalyus Store is one of our trusted sources for downloading softwares, the risk of having a virus using it, is almost inexistent.&lt;/p&gt;
+&lt;h2 id=&#34;upgrading&#34;&gt;Upgrading&lt;/h2&gt;
+&lt;p&gt;The new Xalyus Store is not an update of the first version of Xalyus Store, you’ll need to remove the old Xalyus Store and download the new one.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadXalyusStore&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Xalyus Store.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>New website</title>
+        <link>https://leo-corporation.github.io/Blog/2021/05/new-website/</link>
+        <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/05/new-website/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/new-website/cover.png" alt="Featured image of post New website" /&gt;&lt;p&gt;Starting today, leocorp.fr will no longer be our main website, and will be replace by leocorporation.dev.&lt;/p&gt;
+&lt;p&gt;After a few years using a Wix website, we have made the decision to stop using Wix services and build instead our own website ourselves. We wanted a more personal website that entirely belongs to us, and this is now the case.&lt;/p&gt;
+&lt;p&gt;For a few weeks now, we have been working on a new website using GitHub Pages for the hosting. You could access the website by entering the “https://leo-corporation.github.io/Leo-Corporation-Web/” URL, but you can now access it by typing “leocorporation.dev” in your browser.&lt;/p&gt;
+&lt;p&gt;You will notice that the forum is no longer present.&lt;/p&gt;
+&lt;p&gt;With this change, we also changed the blog URL, you can type “blog.leocorporation.dev” to access the blog quicker.&lt;/p&gt;
+&lt;p&gt;The new website is – of course – &lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/Leo-Corporation-Web&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Open-Source&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As we said earlier, this year is going to be a big one for Léo Corporation, so stay tuned for more exciting announcements in the next months, and thanks to everyone supporting Léo Corporation.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Introducing Gavilya</title>
         <link>https://leo-corporation.github.io/Blog/2020/12/introducing-gavilya/</link>
         <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>

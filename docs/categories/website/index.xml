@@ -47,6 +47,22 @@
 &lt;p&gt;We hope that this website helps you to get informed when an issue is occurring.&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>New website</title>
+        <link>https://leo-corporation.github.io/Blog/2021/05/new-website/</link>
+        <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/05/new-website/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/new-website/cover.png" alt="Featured image of post New website" /&gt;&lt;p&gt;Starting today, leocorp.fr will no longer be our main website, and will be replace by leocorporation.dev.&lt;/p&gt;
+&lt;p&gt;After a few years using a Wix website, we have made the decision to stop using Wix services and build instead our own website ourselves. We wanted a more personal website that entirely belongs to us, and this is now the case.&lt;/p&gt;
+&lt;p&gt;For a few weeks now, we have been working on a new website using GitHub Pages for the hosting. You could access the website by entering the “https://leo-corporation.github.io/Leo-Corporation-Web/” URL, but you can now access it by typing “leocorporation.dev” in your browser.&lt;/p&gt;
+&lt;p&gt;You will notice that the forum is no longer present.&lt;/p&gt;
+&lt;p&gt;With this change, we also changed the blog URL, you can type “blog.leocorporation.dev” to access the blog quicker.&lt;/p&gt;
+&lt;p&gt;The new website is – of course – &lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/Leo-Corporation-Web&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Open-Source&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As we said earlier, this year is going to be a big one for Léo Corporation, so stay tuned for more exciting announcements in the next months, and thanks to everyone supporting Léo Corporation.&lt;/p&gt;
+</description>
+        </item>
         
     </channel>
 </rss>

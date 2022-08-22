@@ -139,6 +139,57 @@
 </description>
         </item>
         <item>
+        <title>Introducing The new Xalyus Store</title>
+        <link>https://leo-corporation.github.io/Blog/2021/05/introducing-new-xalyus-store/</link>
+        <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/05/introducing-new-xalyus-store/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/introducing-new-xalyus-store/cover.png" alt="Featured image of post Introducing The new Xalyus Store" /&gt;&lt;p&gt;Last year, we have launched the successor of the “Léo Corporation Store”, Xalyus Store. It came out with a brand-new design and brand features. Today, we are happy to introduce the next evolution of Xalyus Store.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;When we started creating softwares, we always wanted a place where people could download them. We thought making a website was great, and we did so. But we also wanted a place on desktop, where we could showcase and display our apps. Therefore, we create a software called “Store”. With it, you could download any of our softwares directly from your computer. Then, we wanted to have a complete redesign of this app, and so we decided to modernize it by building a brand-new one: Xalyus Store.&lt;/p&gt;
+&lt;p&gt;Xalyus Store was our redesigned tore, with the same concepts but more polished. However, we encountered the same problem with the “Store”: If we want to add new softwares, update any informations, we needed to update Xalyus Store, which isn’t a great way of distributing new softwares. This is why we are here today, introducing the second major version of Xalyus Store.&lt;/p&gt;
+&lt;h2 id=&#34;completely-autonomous&#34;&gt;Completely autonomous&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/cover.png&#34;
+	width=&#34;1200&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/cover_hu7f09eeae559180f24b6b08c0accbe99d_69880_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/cover_hu7f09eeae559180f24b6b08c0accbe99d_69880_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Home&amp;rdquo; page of Xalyus Store&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;171&#34;
+		data-flex-basis=&#34;411px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;This next evolution of Xalyus Store is complete autonomous: You don’t have to update it to check if new softwares are available, everything is automatic! You may not see a lot of changes compared to the first version, but they are massive since it is about an entire new infrastructure and delivering system.&lt;/p&gt;
+&lt;h2 id=&#34;modern-design&#34;&gt;Modern design&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/2.png&#34;
+	width=&#34;1200&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/2_huf051724bd68539e5d868d511866d11f8_69473_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/2_huf051724bd68539e5d868d511866d11f8_69473_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Apps&amp;rdquo; page of Xalyus Store&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;171&#34;
+		data-flex-basis=&#34;411px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;To keep our softwares consistent, the new Xalyus Store has a new and modern user interface, alongside with new themes. You can choose between light and dark theme or stick to your system’s default theme if you are using Windows 10.&lt;/p&gt;
+&lt;h2 id=&#34;trust-and-secure&#34;&gt;Trust and secure&lt;/h2&gt;
+&lt;p&gt;As you may now, most of our softwares are Open-Source on GitHub. This means that the code of our softwares is available to anyone, even malicious people who may try to inject malicious code in our softwares and distribute an infected copy to you. Xalyus Store is one of our trusted sources for downloading softwares, the risk of having a virus using it, is almost inexistent.&lt;/p&gt;
+&lt;h2 id=&#34;upgrading&#34;&gt;Upgrading&lt;/h2&gt;
+&lt;p&gt;The new Xalyus Store is not an update of the first version of Xalyus Store, you’ll need to remove the old Xalyus Store and download the new one.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadXalyusStore&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Xalyus Store.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Xalyus Store: The version 1.2.8.2012 is now available</title>
         <link>https://leo-corporation.github.io/Blog/2020/12/xalyus-store-version-1282012-is-now/</link>
         <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>

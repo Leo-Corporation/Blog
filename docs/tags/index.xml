@@ -102,6 +102,22 @@
         <guid>https://leo-corporation.github.io/Blog/tags/status/</guid>
         <description></description>
         </item>
+        <item>
+        <title>New application</title>
+        <link>https://leo-corporation.github.io/Blog/tags/new-application/</link>
+        <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/tags/new-application/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>End of support</title>
+        <link>https://leo-corporation.github.io/Blog/tags/end-of-support/</link>
+        <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/tags/end-of-support/</guid>
+        <description></description>
+        </item>
         
     </channel>
 </rss>

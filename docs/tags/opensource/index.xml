@@ -3781,6 +3781,1038 @@
 </description>
         </item>
         <item>
+        <title>Introducing Datalya</title>
+        <link>https://leo-corporation.github.io/Blog/2021/07/introducing-datalya/</link>
+        <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/07/introducing-datalya/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/07/introducing-datalya/cover.png" alt="Featured image of post Introducing Datalya" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Last year, we’ve launched two products: GestionBiblio X and GestionPerso X. They were specialized database management tools. They provided a brand new and modern user interface at the time. The goal was to rewrite the codebase from Visual Basic to C#, to introduce new features and a new design language. However, these two softwares were only available in French, not in English, and they weren’t receiving updates as much as other Léo Corporation’s softwares. This is why we are today introducing the next generation of database management at Léo Corporation: Datalya.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/cover.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/cover_hu585b845bac6b9b98f4e385dce7b37f4b_23177_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/cover_hu585b845bac6b9b98f4e385dce7b37f4b_23177_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The home page of Datalya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;whats-datalya&#34;&gt;What&amp;rsquo;s Datalya?&lt;/h2&gt;
+&lt;p&gt;Datalya is a modern and yet simple database management software for Windows. The main innovation of Datalya is Blocks. Blocks are different types of input for a user. For instance, you can have a simple text input, to a checkbox input, without forgetting the dropdown input. These Blocks are customizable, you can name theme, add choices, and more. You can even export your Blocks as a Template, so you can reuse them quickly in other databases. In a nutshell, Blocks are used to create your Database.&lt;/p&gt;
+&lt;p&gt;You can find Blocks in the “Creator” part. Talking about parts, Datalya is divided into two parts: The Creator part, and the Database part. We’ve talked about the Creator part already, so let’s move on to the Database part.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/2.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/2_hu2eef5c95aec75c556b3140a77e649b6b_53904_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/2_hu2eef5c95aec75c556b3140a77e649b6b_53904_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Creator part of Datalya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The Database part is where the database is. You’ll notice a ribbon UI at the top, and the database’s content filling the rest of the window. By default, it’s empty: Indeed, we need to add an item to the database first. You can go to “Edit” tab in the ribbon, and then click on “Add”. You’ll see that a window with your Blocks has appeared, and in this window, you can fill the fields and then add the item.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/3.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/3_hue7a0290966fbba52ed17248da6e91028_30750_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/3_hue7a0290966fbba52ed17248da6e91028_30750_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Database part of Datalya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Once you’ve added the item, you can edit it, delete it, etc.&lt;/p&gt;
+&lt;p&gt;The other new feature is the possibility to export a database to an Excel spreadsheet. You can go to the “Export” tab of the ribbon and click on “Export to Excel”. Note that Datalya only supports .xlsx files.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/4.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/4_hu585b845bac6b9b98f4e385dce7b37f4b_23177_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/4_hu585b845bac6b9b98f4e385dce7b37f4b_23177_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The home page of Datalya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;When launching Datalya, you’ll see the home screen, this is where all your recent files are shown for you to jump into a database quickly. You can even pin your most important databases if you have a lot of them.&lt;/p&gt;
+&lt;p&gt;Datalya is also customizable: it is available in English and French, and it has a dark mode! You can also change update settings and reset them anytime.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/5.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/5_huad7e4adbac23ae106fcf61238f387534_36323_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/5_huad7e4adbac23ae106fcf61238f387534_36323_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The dark theme of Datalya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;There is still a lot of features that we didn’t covered in this article, but we will let you discover them by yourself. We’ve been working on Datalya for a few months now, and we focused on the design and on the user experience with the product, to deliver you an enjoyable experience while working on a database.&lt;/p&gt;
+&lt;p&gt;As always, Datalya will be free and Open-Source.&lt;/p&gt;
+&lt;h2 id=&#34;whats-next-for-gestionbiblio-x-and-gestionperso-x&#34;&gt;What’s next for GestionBiblio X and GestionPerso X&lt;/h2&gt;
+&lt;p&gt;The release of Datalya also means that our old GestionBiblio X and GestionPerso X softwares are now deprecated, and we recommend that the users of theses products switch to Datalya. If you are a user of one of these products, you can create a new database in Datalya by selecting ether the “Books” template or the “People” template.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://datalya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to go the website of Datalya.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadDatalya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Datalya.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gavilya: The version 1.7.0.2107 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/07/gavilya-version-1702107-is-now-available/</link>
+        <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/07/gavilya-version-1702107-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/07/gavilya-version-1702107-is-now-available/cover.png" alt="Featured image of post Gavilya: The version 1.7.0.2107 is now available" /&gt;&lt;p&gt;A new version of Gavilya is available, and it is the version 1.7.0.2107.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added a placeholder in &amp;ldquo;GameInfoPage&amp;rdquo; when there is no ratings (#109)&lt;/li&gt;
+&lt;li&gt;Added the possibility to select games when importing games on first run (#110)&lt;/li&gt;
+&lt;li&gt;Added a new import games experience on first run (#110)&lt;/li&gt;
+&lt;li&gt;Added an indicator when the game can&amp;rsquo;t be imported (#110)&lt;/li&gt;
+&lt;li&gt;Added a new import games experience in settings (#110)&lt;/li&gt;
+&lt;li&gt;Added a new Add experience (#111)&lt;/li&gt;
+&lt;li&gt;Added a new Edit experience (#111)&lt;/li&gt;
+&lt;li&gt;Added a notification when updates are available (#112)&lt;/li&gt;
+&lt;li&gt;Added the possibility to go back when adding/editing a game (#111)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: In &amp;ldquo;Settings&amp;rdquo;, the text is not displaying properly (#108)&lt;/li&gt;
+&lt;li&gt;Fixed an issue with Game Properties window&lt;/li&gt;
+&lt;li&gt;Fixed an issue where you could add game without any informations&lt;/li&gt;
+&lt;li&gt;Fixed: When importing a game without an image cover, it is considered as invalid (#115)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Improved buttons alignment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/gavilya-version-1702107-is-now-available/cover.png&#34;
+	width=&#34;520&#34;
+	height=&#34;600&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/gavilya-version-1702107-is-now-available/cover_hu9276d6325db8d5d788b5fdd3b1fc9873_19716_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/gavilya-version-1702107-is-now-available/cover_hu9276d6325db8d5d788b5fdd3b1fc9873_19716_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Add game&amp;rdquo; window of Gavilya&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;86&#34;
+		data-flex-basis=&#34;208px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ColorPicker: The version 3.3.0.2107 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/07/colorpicker-version-3302107-is-now/</link>
+        <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/07/colorpicker-version-3302107-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/07/colorpicker-version-3302107-is-now/cover.png" alt="Featured image of post ColorPicker: The version 3.3.0.2107 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is available and it is the version 3.3.0.2107.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the theme to system (#27)&lt;/li&gt;
+&lt;li&gt;Added new theme assets (#28)&lt;/li&gt;
+&lt;li&gt;Redesigned the theme picking UI (#28)&lt;/li&gt;
+&lt;li&gt;Added new keyboard shortcuts (#29)&lt;/li&gt;
+&lt;li&gt;Added the possibility to generate a random color (#30)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated shortcut guide message (#29)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/colorpicker-version-3302107-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/colorpicker-version-3302107-is-now/cover_huf6a0b014137e95ddfac093f7fdf0da2c_37225_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/colorpicker-version-3302107-is-now/cover_huf6a0b014137e95ddfac093f7fdf0da2c_37225_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The ColorPicker window&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gerayis: The version 1.4.0.2107 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/07/gerayis-version-1402107-is-now-available/</link>
+        <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/07/gerayis-version-1402107-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/07/gerayis-version-1402107-is-now-available/cover.png" alt="Featured image of post Gerayis: The version 1.4.0.2107 is now available" /&gt;&lt;p&gt;A new version of Gerayis is available, and it is the version 1.4.0.2107.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the theme to system (#33)&lt;/li&gt;
+&lt;li&gt;Added theme assets (#34)&lt;/li&gt;
+&lt;li&gt;Redesigned the theme picking UI (#34)&lt;/li&gt;
+&lt;li&gt;Added an history of generated bar codes (#35)&lt;/li&gt;
+&lt;li&gt;Added an history of generated QR codes (#35)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set a QR code&amp;rsquo;s colors (#36)- Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The history item&amp;rsquo;s icon is different if it is used in the QR Code history (#35)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadGerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/cover_hu5031d07b3366d642be19b1e74d743071_30730_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/cover_hu5031d07b3366d642be19b1e74d743071_30730_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;QR Code&amp;rdquo; page of Gerayis&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/2.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/2_hu95ff1efb030322b15979adb3d5d540e1_30999_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/2_hu95ff1efb030322b15979adb3d5d540e1_30999_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The history of the &amp;ldquo;QR Code&amp;rdquo; page of Gerayis&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/3.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/3_hucb7eb1259042b54d2230564581150a5e_38023_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/3_hucb7eb1259042b54d2230564581150a5e_38023_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The settings of Gerayis&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>InternetTest: The version 5.4.0.2107 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/07/internettest-version-5402107-is-now/</link>
+        <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/07/internettest-version-5402107-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/07/internettest-version-5402107-is-now/cover.png" alt="Featured image of post InternetTest: The version 5.4.0.2107 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 5.4.0.2107.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to set the theme to system (#223)&lt;/li&gt;
+&lt;li&gt;Added theme assets (#224)&lt;/li&gt;
+&lt;li&gt;Redesigned the theme picking UI (#224)&lt;/li&gt;
+&lt;li&gt;Added notification when a test is completed (#225)&lt;/li&gt;
+&lt;li&gt;Added the possibility to disable notifications (#226)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Notifications are no longer shown on start (#226)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/internettest-version-5402107-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/internettest-version-5402107-is-now/cover_hu41ccc466f57f6047f20c7acdf4130230_41593_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/internettest-version-5402107-is-now/cover_hu41ccc466f57f6047f20c7acdf4130230_41593_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The settings of InternetTest&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: The version 1.5.0.2107 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/07/passliss-version-1502107-is-now/</link>
+        <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/07/passliss-version-1502107-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/07/passliss-version-1502107-is-now/cover.png" alt="Featured image of post Passliss: The version 1.5.0.2107 is now available" /&gt;&lt;p&gt;A new version of Passliss is available, and it is the version 1.5.0.2107.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the theme to system (#45)&lt;/li&gt;
+&lt;li&gt;Redesigned the theme picking UI (#46)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the default startup page (#47)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Randomize&amp;rdquo; button on the length field in the Password Configurations creator UI (#48)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved theme assets (#46)&lt;/li&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/passliss-version-1502107-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/passliss-version-1502107-is-now/cover_hu98128a85d8ee8c9cbdfa67133e954f1c_46629_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/passliss-version-1502107-is-now/cover_hu98128a85d8ee8c9cbdfa67133e954f1c_46629_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The settings of Passliss (in dark theme)&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: The version 3.8.0.2107 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/07/leocorplibrary-version-3802107-is-now/</link>
+        <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/07/leocorplibrary-version-3802107-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/07/leocorplibrary-version-3802107-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.8.0.2107 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 3.8.0.2107.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added XML documentation&lt;/li&gt;
+&lt;li&gt;Added to SplitLines() new splitters: \r, \r\n (#224)&lt;/li&gt;
+&lt;li&gt;Added PasswordStrength enum (#225)&lt;/li&gt;
+&lt;li&gt;Added HasRepeatedCharacters() method&lt;/li&gt;
+&lt;li&gt;Added Passliss&amp;rsquo; password strength system (#225)&lt;/li&gt;
+&lt;li&gt;Added Passliss&amp;rsquo; password strength system (#225)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the area of a sphere (#226)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the volume of a sphere (#227)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/leocorplibrary-version-3802107-is-now/cover.png&#34;
+	width=&#34;1328&#34;
+	height=&#34;912&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/leocorplibrary-version-3802107-is-now/cover_hu165fee7df3cb246f6e33119e8d3f229a_108979_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/leocorplibrary-version-3802107-is-now/cover_hu165fee7df3cb246f6e33119e8d3f229a_108979_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code snippet using LeoCorpLibrary&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;145&#34;
+		data-flex-basis=&#34;349px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: The version 1.4.0.2106 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/06/passliss-version-1402106-is-now/</link>
+        <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/06/passliss-version-1402106-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/06/passliss-version-1402106-is-now/cover.png" alt="Featured image of post Passliss: The version 1.4.0.2106 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available and it is the version 1.4.0.2106.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Redesigned &amp;ldquo;About&amp;rdquo; section in settings (#35)&lt;/li&gt;
+&lt;li&gt;Added the possibility to export settings (#36)&lt;/li&gt;
+&lt;li&gt;Added the possibility to import settings (#36)&lt;/li&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added an historic of generated passwords (#37)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/passliss-version-1402106-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/passliss-version-1402106-is-now/cover_hu8d75f1feaa15b627f0dd6ac821ab24da_45054_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/06/passliss-version-1402106-is-now/cover_hu8d75f1feaa15b627f0dd6ac821ab24da_45054_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The history of the &amp;ldquo;Generate&amp;rdquo; page of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ColorPicker: The version 3.2.0.2106 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/06/colorpicker-version-3202106-is-now/</link>
+        <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/06/colorpicker-version-3202106-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/06/colorpicker-version-3202106-is-now/cover.png" alt="Featured image of post ColorPicker: The version 3.2.0.2106 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available and it is the version 3.2.0.2106.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Redesigned &amp;ldquo;About&amp;rdquo; section in settings (#13)&lt;/li&gt;
+&lt;li&gt;Added the possibility to export settings (#14)&lt;/li&gt;
+&lt;li&gt;Added the possibility to import settings (#14)&lt;/li&gt;
+&lt;li&gt;Added the possibility to enable/disable keyboard shortcuts (#15)&lt;/li&gt;
+&lt;li&gt;Added a list of recently copied colors (#16)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/colorpicker-version-3202106-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/colorpicker-version-3202106-is-now/cover_huc70c378fa7ab2daeb0124a6401e4d883_32255_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/06/colorpicker-version-3202106-is-now/cover_huc70c378fa7ab2daeb0124a6401e4d883_32255_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The history of the &amp;ldquo;Picker&amp;rdquo; page of ColorPicker.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>InternetTest: The version 5.3.0.2106 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/06/internettest-version-5302106-is-now/</link>
+        <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/06/internettest-version-5302106-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/06/internettest-version-5302106-is-now/cover.png" alt="Featured image of post InternetTest: The version 5.3.0.2106 is now available" /&gt;&lt;p&gt;A new version of InternetTest is available and it is the version 5.3.0.2106.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Redesigned &amp;ldquo;About&amp;rdquo; section in settings (#211)&lt;/li&gt;
+&lt;li&gt;Added the possibility to export settings (#212)&lt;/li&gt;
+&lt;li&gt;Added the possibility to import settings (#212)&lt;/li&gt;
+&lt;li&gt;Added the possibility to have an historic of connection tests (#214)&lt;/li&gt;
+&lt;li&gt;Added the possibility to save an IP address&amp;rsquo; informations (#215)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Improved blue color when using dark mode (#213)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInterentTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/internettest-version-5302106-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/internettest-version-5302106-is-now/cover_hu7dc5bf1d83eed7fac9bf642709e74502_52518_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/06/internettest-version-5302106-is-now/cover_hu7dc5bf1d83eed7fac9bf642709e74502_52518_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The settings of InternetTest&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gerayis: The version 1.3.0.2106 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/06/gerayis-version-1302106-is-now-available/</link>
+        <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/06/gerayis-version-1302106-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/06/gerayis-version-1302106-is-now-available/cover.png" alt="Featured image of post Gerayis: The version 1.3.0.2106 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available, and it is the version 1.3.0.2106.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Redesigned &amp;ldquo;About&amp;rdquo; section in settings (#21)&lt;/li&gt;
+&lt;li&gt;Added translations- Added the possibility to export settings (#22)&lt;/li&gt;
+&lt;li&gt;Added the possibility to import settings (#22)&lt;/li&gt;
+&lt;li&gt;Added the possibility to save a generated bar code (#23)&lt;/li&gt;
+&lt;li&gt;Added the possibility to save a generated QR code (#24)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;hand&amp;rdquo; cursor to bar code color in settings (#25)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue with light theme&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated BarcodeLib&lt;/li&gt;
+&lt;li&gt;Updated Setup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadGerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/gerayis-version-1302106-is-now-available/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/gerayis-version-1302106-is-now-available/cover_hu75acbcbe9635734eea702483e1fc93e3_46268_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/06/gerayis-version-1302106-is-now-available/cover_hu75acbcbe9635734eea702483e1fc93e3_46268_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Gerayis&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gavilya: The version 1.6.0.2106 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/06/gavilya-version-1602106-is-now-available/</link>
+        <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/06/gavilya-version-1602106-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/06/gavilya-version-1602106-is-now-available/cover.png" alt="Featured image of post Gavilya: The version 1.6.0.2106 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available and it is the version 1.6.0.2106.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added platform assets (#98)&lt;/li&gt;
+&lt;li&gt;Added a new platform UI (#98)&lt;/li&gt;
+&lt;li&gt;Added the &amp;ldquo;AutoSave&amp;rdquo; UI in settings (#99)&lt;/li&gt;
+&lt;li&gt;Added scroll bars in settings (#99)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set settings of autosaves (#99)&lt;/li&gt;
+&lt;li&gt;Added the possibility to make automatic backup of games (#99)&lt;/li&gt;
+&lt;li&gt;Added the possibility to add the current profile name when exporting games (#100)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed issues in checkbox design (#99)&lt;/li&gt;
+&lt;li&gt;The dropdown&amp;rsquo;s selected item is now matching with settings (#99)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated assets of &amp;ldquo;First run&amp;rdquo; and more (#97)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/gavilya-version-1602106-is-now-available/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/gavilya-version-1602106-is-now-available/cover_hu22e44c85ba981cde19d8a4869b44534a_44477_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/06/gavilya-version-1602106-is-now-available/cover_hu22e44c85ba981cde19d8a4869b44534a_44477_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; window of Gavilya&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: The version 3.7.0.2106 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/06/internettest-version-6302207-is-now/</link>
+        <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/06/internettest-version-6302207-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/06/internettest-version-6302207-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.7.0.2106 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary and LeoCorpLibrary.Core is available, and it is the version 3.7.0.2106.&lt;/p&gt;
+&lt;h2 id=&#34;changelog-for-leocorplibrary&#34;&gt;Changelog for LeoCorpLibrary&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to get the DPI of the screen for WinForms (#212)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the DPI of the screen for WPF (#212)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the scale of the screen for WinForms (#213)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the scale of the screen for WPF (#213)&lt;/li&gt;
+&lt;li&gt;Added the possibility to generate multiple passwords (#215)&lt;/li&gt;
+&lt;li&gt;Added a variation of the possibility to generate multiple passwords (#215)&lt;/li&gt;
+&lt;li&gt;Added the possibility to generate multiple passwords asynchronously (#215)&lt;/li&gt;
+&lt;li&gt;Added the possibility to check permissions of a directory (#216)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue when logging text to a file in a new directory, an error is thrown (#214)&lt;/li&gt;
+&lt;li&gt;Fixed typo issue: &amp;ldquo;lenght&amp;rdquo; to &amp;ldquo;length&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;changelog-for-leocorplibrarycore&#34;&gt;Changelog for LeoCorpLibrary.Core&lt;/h2&gt;
+&lt;h3 id=&#34;new-1&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to generate multiple passwords (#215)&lt;/li&gt;
+&lt;li&gt;Added a variation of the possibility to generate multiple passwords (#215)&lt;/li&gt;
+&lt;li&gt;Added the possibility to generate multiple passwords asynchronously (#215)&lt;/li&gt;
+&lt;li&gt;Added the possibility to check permissions of a directory (#216)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed-1&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue when logging text to a file in a new directory, an error is thrown (#214)&lt;/li&gt;
+&lt;li&gt;Fixed typo issue: &amp;ldquo;lenght&amp;rdquo; to &amp;ldquo;length&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/internettest-version-6302207-is-now/cover.png&#34;
+	width=&#34;1684&#34;
+	height=&#34;588&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/internettest-version-6302207-is-now/cover_hufaf4939621d62aa92724c566618c1807_86461_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/06/internettest-version-6302207-is-now/cover_hufaf4939621d62aa92724c566618c1807_86461_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code snippet using LeoCorpLibrary&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;286&#34;
+		data-flex-basis=&#34;687px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ColorPicker: The version 3.1.0.2105 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/05/colorpicker-version-3102105-is-now/</link>
+        <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/05/colorpicker-version-3102105-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/colorpicker-version-3102105-is-now/cover.png" alt="Featured image of post ColorPicker: The version 3.1.0.2105 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 3.1.0.2105.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to convert HSL colors (#3)&lt;/li&gt;
+&lt;li&gt;Added the possibility to copy a HSL color (#3)&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert CMYK colors (#4)&lt;/li&gt;
+&lt;li&gt;Added the possibility to copy CMYK color (#4)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set a custom separator for RGB colors (#5)&lt;/li&gt;
+&lt;li&gt;Added the possibility to use lower or upper cases for HEX colors (#6)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: HSV TextBoxes in Converter page don&amp;rsquo;t follow the theme (#2)&lt;/li&gt;
+&lt;li&gt;Fixed an issue with dark theme- Fixed an issue when copying an hex color&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated Setup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/colorpicker-version-3102105-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/colorpicker-version-3102105-is-now/cover_hu3485cd411f9c6699e72addee1d88be40_44881_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/colorpicker-version-3102105-is-now/cover_hu3485cd411f9c6699e72addee1d88be40_44881_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Converter&amp;rdquo; page of ColorPicker&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>InternetTest: The version 5.2.0.2105 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/05/internettest-version-5202105-is-now/</link>
+        <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/05/internettest-version-5202105-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/internettest-version-5202105-is-now/cover.png" alt="Featured image of post InternetTest: The version 5.2.0.2105 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available, and it is the version 5.2.0.2105.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the default startup page (#201)&lt;/li&gt;
+&lt;li&gt;Added an &amp;ldquo;historic&amp;rdquo; button in DownDetector page (#202)&lt;/li&gt;
+&lt;li&gt;Added the possibility to localize a website&amp;rsquo;s IP (#203)&lt;/li&gt;
+&lt;li&gt;Added the possibility to change https to http (#204)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/internettest-version-5202105-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/internettest-version-5202105-is-now/cover_hu6f9f4dc40aaf1a17374195345d0ecc4f_49946_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/internettest-version-5202105-is-now/cover_hu6f9f4dc40aaf1a17374195345d0ecc4f_49946_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;DownDetector&amp;rdquo; page of InternetTest&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Introducing The new Xalyus Store</title>
+        <link>https://leo-corporation.github.io/Blog/2021/05/introducing-new-xalyus-store/</link>
+        <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/05/introducing-new-xalyus-store/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/introducing-new-xalyus-store/cover.png" alt="Featured image of post Introducing The new Xalyus Store" /&gt;&lt;p&gt;Last year, we have launched the successor of the “Léo Corporation Store”, Xalyus Store. It came out with a brand-new design and brand features. Today, we are happy to introduce the next evolution of Xalyus Store.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;When we started creating softwares, we always wanted a place where people could download them. We thought making a website was great, and we did so. But we also wanted a place on desktop, where we could showcase and display our apps. Therefore, we create a software called “Store”. With it, you could download any of our softwares directly from your computer. Then, we wanted to have a complete redesign of this app, and so we decided to modernize it by building a brand-new one: Xalyus Store.&lt;/p&gt;
+&lt;p&gt;Xalyus Store was our redesigned tore, with the same concepts but more polished. However, we encountered the same problem with the “Store”: If we want to add new softwares, update any informations, we needed to update Xalyus Store, which isn’t a great way of distributing new softwares. This is why we are here today, introducing the second major version of Xalyus Store.&lt;/p&gt;
+&lt;h2 id=&#34;completely-autonomous&#34;&gt;Completely autonomous&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/cover.png&#34;
+	width=&#34;1200&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/cover_hu7f09eeae559180f24b6b08c0accbe99d_69880_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/cover_hu7f09eeae559180f24b6b08c0accbe99d_69880_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Home&amp;rdquo; page of Xalyus Store&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;171&#34;
+		data-flex-basis=&#34;411px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;This next evolution of Xalyus Store is complete autonomous: You don’t have to update it to check if new softwares are available, everything is automatic! You may not see a lot of changes compared to the first version, but they are massive since it is about an entire new infrastructure and delivering system.&lt;/p&gt;
+&lt;h2 id=&#34;modern-design&#34;&gt;Modern design&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/2.png&#34;
+	width=&#34;1200&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/2_huf051724bd68539e5d868d511866d11f8_69473_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/2_huf051724bd68539e5d868d511866d11f8_69473_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Apps&amp;rdquo; page of Xalyus Store&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;171&#34;
+		data-flex-basis=&#34;411px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;To keep our softwares consistent, the new Xalyus Store has a new and modern user interface, alongside with new themes. You can choose between light and dark theme or stick to your system’s default theme if you are using Windows 10.&lt;/p&gt;
+&lt;h2 id=&#34;trust-and-secure&#34;&gt;Trust and secure&lt;/h2&gt;
+&lt;p&gt;As you may now, most of our softwares are Open-Source on GitHub. This means that the code of our softwares is available to anyone, even malicious people who may try to inject malicious code in our softwares and distribute an infected copy to you. Xalyus Store is one of our trusted sources for downloading softwares, the risk of having a virus using it, is almost inexistent.&lt;/p&gt;
+&lt;h2 id=&#34;upgrading&#34;&gt;Upgrading&lt;/h2&gt;
+&lt;p&gt;The new Xalyus Store is not an update of the first version of Xalyus Store, you’ll need to remove the old Xalyus Store and download the new one.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadXalyusStore&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Xalyus Store.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>New website</title>
+        <link>https://leo-corporation.github.io/Blog/2021/05/new-website/</link>
+        <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/05/new-website/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/new-website/cover.png" alt="Featured image of post New website" /&gt;&lt;p&gt;Starting today, leocorp.fr will no longer be our main website, and will be replace by leocorporation.dev.&lt;/p&gt;
+&lt;p&gt;After a few years using a Wix website, we have made the decision to stop using Wix services and build instead our own website ourselves. We wanted a more personal website that entirely belongs to us, and this is now the case.&lt;/p&gt;
+&lt;p&gt;For a few weeks now, we have been working on a new website using GitHub Pages for the hosting. You could access the website by entering the “https://leo-corporation.github.io/Leo-Corporation-Web/” URL, but you can now access it by typing “leocorporation.dev” in your browser.&lt;/p&gt;
+&lt;p&gt;You will notice that the forum is no longer present.&lt;/p&gt;
+&lt;p&gt;With this change, we also changed the blog URL, you can type “blog.leocorporation.dev” to access the blog quicker.&lt;/p&gt;
+&lt;p&gt;The new website is – of course – &lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/Leo-Corporation-Web&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Open-Source&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As we said earlier, this year is going to be a big one for Léo Corporation, so stay tuned for more exciting announcements in the next months, and thanks to everyone supporting Léo Corporation.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gavilya: The version 1.5.0.2105 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/05/xalyus-store-version-1282012-is-now/</link>
+        <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/05/xalyus-store-version-1282012-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/xalyus-store-version-1282012-is-now/cover.png" alt="Featured image of post Gavilya: The version 1.5.0.2105 is now available" /&gt;&lt;p&gt;A new version is available for Gavilya, and it is the version 1.5.0.2105.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &amp;ldquo;Statistics&amp;rdquo; page (#84)&lt;/li&gt;
+&lt;li&gt;Added a bar chart showing the top ten most played games time (from lower to higher)&lt;/li&gt;
+&lt;li&gt;Added a complete list of all the user games from the most played to the least&lt;/li&gt;
+&lt;li&gt;Added a link to the &amp;ldquo;Statistics&amp;rdquo; page (#85)&lt;/li&gt;
+&lt;li&gt;Added a position indicator in the top 10 most played games (#84)&lt;/li&gt;
+&lt;li&gt;Added the possibility to select a game stat card (#84)&lt;/li&gt;
+&lt;li&gt;Added a card recapitulating a game informations (#84)&lt;/li&gt;
+&lt;li&gt;Added an option allowing the user to change the order of the most played games (#84)&lt;/li&gt;
+&lt;li&gt;Added the &amp;ldquo;stores&amp;rdquo; section in &amp;ldquo;GameInfo&amp;rdquo; page (#86)&lt;/li&gt;
+&lt;li&gt;Added the possibility to associate stores with a game (#86)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed color consistency (#84)&lt;/li&gt;
+&lt;li&gt;Fixed: The Statistics info card is now responsive (#84)&lt;/li&gt;
+&lt;li&gt;Fixed scroll bars issues (#84)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Improved card design (#84)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/xalyus-store-version-1282012-is-now/cover.png&#34;
+	width=&#34;1185&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/xalyus-store-version-1282012-is-now/cover_hua79be428de3147d33ba58b64f3ee2655_265383_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/xalyus-store-version-1282012-is-now/cover_hua79be428de3147d33ba58b64f3ee2655_265383_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Statistics&amp;rdquo; page of Gavilya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/xalyus-store-version-1282012-is-now/2.png&#34;
+	width=&#34;1185&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/xalyus-store-version-1282012-is-now/2_hua79be428de3147d33ba58b64f3ee2655_359724_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/xalyus-store-version-1282012-is-now/2_hua79be428de3147d33ba58b64f3ee2655_359724_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A game details in Gavilya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: The version 1.3.0.2105 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/05/passliss-version-1302105-is-now/</link>
+        <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/05/passliss-version-1302105-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/passliss-version-1302105-is-now/cover.png" alt="Featured image of post Passliss: The version 1.3.0.2105 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 1.3.0.2105.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved the dark theme color of Import/Export Password Configurations (#28)&lt;/li&gt;
+&lt;li&gt;Added translations- Added the possibility to set a default preset (#29)&lt;/li&gt;
+&lt;li&gt;Added the possibility to edit the default preset (#29)&lt;/li&gt;
+&lt;li&gt;Added the possibility to edit random length values (#30)&lt;/li&gt;
+&lt;li&gt;Added the possibility to use a random length value on start (#31)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/passliss-version-1302105-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/passliss-version-1302105-is-now/cover_hu28102a76f6b33e32231865cfc519fc0f_47361_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/passliss-version-1302105-is-now/cover_hu28102a76f6b33e32231865cfc519fc0f_47361_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The settings of Passliss.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gerayis: The version 1.2.0.2105 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/05/gerayis-version-1202105-is-now-available/</link>
+        <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/05/gerayis-version-1202105-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/gerayis-version-1202105-is-now-available/cover.png" alt="Featured image of post Gerayis: The version 1.2.0.2105 is now available" /&gt;&lt;p&gt;A new version of Gerayis is available, and it is the version 1.2.0.2105. Note that this version focuses on fixes, but still introduces small new features.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aligned Bar code colors in the &amp;ldquo;Settings&amp;rdquo; page (#15)&lt;/li&gt;
+&lt;li&gt;Added the possibility to generate a bar code on start (#16)&lt;/li&gt;
+&lt;li&gt;Added the possibility to generate a QR code on start (#17)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue when clearing colors, the language ComboBox is bugged (#13)&lt;/li&gt;
+&lt;li&gt;Fixed: Mention of Passliss in &amp;ldquo;Reset settings message&amp;rdquo; (#14)&lt;/li&gt;
+&lt;li&gt;Fixed an issue with the &amp;ldquo;Reset settings&amp;rdquo; link&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.mediafire.com/file/tn32k3ff6zdvqs4/GerayisSetup.exe/file&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/gerayis-version-1202105-is-now-available/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/gerayis-version-1202105-is-now-available/cover_hufa12b15f53e355bb8b58530683b9263f_47044_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/gerayis-version-1202105-is-now-available/cover_hufa12b15f53e355bb8b58530683b9263f_47044_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The dark theme of Gerayis&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: The version 3.6.0.2105 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/05/leocorplibrary-version-3602105-is-now/</link>
+        <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/05/leocorplibrary-version-3602105-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/leocorplibrary-version-3602105-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.6.0.2105 is now available" /&gt;&lt;p&gt;A new version is available for LeoCorpLibrary and LeoCorpLibrary.Core, and it is the version 3.6.0.2105.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to split lines in a string (#204)&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert a size unit to byte (#205)&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert a size unit to kilobyte (#205)&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert a size unit to megabyte (#205)&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert a size unit to gigabyte (#205)&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert a size unit to terabyte (#205)&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert a size unit to petabyte (#205)&lt;/li&gt;
+&lt;li&gt;Added the possibility to &amp;ldquo;Unsplit&amp;rdquo; a string array (#206)&lt;/li&gt;
+&lt;li&gt;Added a logger (#207)&lt;/li&gt;
+&lt;li&gt;Added a variation to the logger (#207)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/leocorplibrary-version-3602105-is-now/cover.png&#34;
+	width=&#34;1548&#34;
+	height=&#34;444&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/leocorplibrary-version-3602105-is-now/cover_hu72f61bba461edb182f02b2ed8203722b_60521_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/leocorplibrary-version-3602105-is-now/cover_hu72f61bba461edb182f02b2ed8203722b_60521_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;348&#34;
+		data-flex-basis=&#34;836px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>LeoCorpLibrary: The version 3.1.0.2012 is now available</title>
         <link>https://leo-corporation.github.io/Blog/2020/12/leocorplibrary-version-3102012-is-now/</link>
         <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>

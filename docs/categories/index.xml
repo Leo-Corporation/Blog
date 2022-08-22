@@ -86,6 +86,30 @@
         <guid>https://leo-corporation.github.io/Blog/categories/website/</guid>
         <description>&lt;img src="https://leo-corporation.github.io/Blog/categories/website/web.png" alt="Featured image of post Website" /&gt;</description>
         </item>
+        <item>
+        <title>Educ&#39;Maths</title>
+        <link>https://leo-corporation.github.io/Blog/categories/educmaths/</link>
+        <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/categories/educmaths/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>GestionBiblio</title>
+        <link>https://leo-corporation.github.io/Blog/categories/gestionbiblio/</link>
+        <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/categories/gestionbiblio/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>GestionPerso</title>
+        <link>https://leo-corporation.github.io/Blog/categories/gestionperso/</link>
+        <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/categories/gestionperso/</guid>
+        <description></description>
+        </item>
         
     </channel>
 </rss>
