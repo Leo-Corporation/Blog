@@ -7,6 +7,7 @@ date: 2021-04-21 00:00:00+0000
 image: cover.png
 categories:
     - ColorPicker
+    - Information
 tags:
     - Update
     - New Features
