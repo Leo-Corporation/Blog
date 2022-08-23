@@ -794,6 +794,159 @@
 </description>
         </item>
         <item>
+        <title>LeoCorpLibrary: The version 3.5.0.2104 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/04/leocorplibrary-version-3502104-is-now/</link>
+        <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/04/leocorplibrary-version-3502104-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/04/leocorplibrary-version-3502104-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.5.0.2104 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it’s the version 3.5.0.2104.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added XML documentation&lt;/li&gt;
+&lt;li&gt;Added the possibility to get a triangle&amp;rsquo;s opposed side from an angle and its hypotenuse (#197)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get a triangle&amp;rsquo;s opposed side from an angle and its adjacent side (#197)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get a triangle&amp;rsquo;s adjacent side from an angle and its hypotenuse (#198)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get a triangle&amp;rsquo;s adjacent side from an angle and its opposed side (#198)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get a triangle&amp;rsquo;s hypotenuse from an angle and its opposed side (#199)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get a triangle&amp;rsquo;s hypotenuse from an angle and its adjacent side (#199)&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert radians to degrees (#200)- Added the possibility to convert degrees to radians (#200)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/leocorplibrary-version-3502104-is-now/cover.png&#34;
+	width=&#34;1716&#34;
+	height=&#34;480&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/leocorplibrary-version-3502104-is-now/cover_hu0ace100bce219375bc60080116158a0e_63891_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/leocorplibrary-version-3502104-is-now/cover_hu0ace100bce219375bc60080116158a0e_63891_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;357&#34;
+		data-flex-basis=&#34;858px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: The version 3.4.0.2103 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/03/leocorplibrary-version-3402103-is-now/</link>
+        <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/03/leocorplibrary-version-3402103-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/03/leocorplibrary-version-3402103-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.4.0.2103 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary and LeoCorpLibrary.Core is now available, and it&amp;rsquo;s the version 3.4.0.2103.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to get the cursor position (#188)*&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the cursor position for WPF (#188)*&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert UnixTime into a DateTime object (#190)&lt;/li&gt;
+&lt;li&gt;Added the possibility to check if a process is running (#191)&lt;/li&gt;
+&lt;li&gt;Added the possibility to check if a string is ending with the correct punctuation (#192)&lt;/li&gt;
+&lt;li&gt;Added checks to handle exceptions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: The UpperLettersAt() method doesn&amp;rsquo;t work (#195)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;*This change is only included for LeoCorpLibrary and is not available in LeoCorpLibrary.Core.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/leocorplibrary-version-3402103-is-now/cover.png&#34;
+	width=&#34;1260&#34;
+	height=&#34;588&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/leocorplibrary-version-3402103-is-now/cover_hu9488b7be0ac030fc6b123b9e2def254d_68957_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/leocorplibrary-version-3402103-is-now/cover_hu9488b7be0ac030fc6b123b9e2def254d_68957_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;214&#34;
+		data-flex-basis=&#34;514px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: The version 3.3.0.2102 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/02/leocorplibrary-version-3302102-is-now/</link>
+        <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/02/leocorplibrary-version-3302102-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/02/leocorplibrary-version-3302102-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.3.0.2102 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it&amp;rsquo;s the version 3.3.0.2102&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to encrypt a string with RSA encryption (#184)&lt;/li&gt;
+&lt;li&gt;Added the possibility to decrypt a string with RSA encryption (#184)&lt;/li&gt;
+&lt;li&gt;Added the possibility to encrypt a string with AES encryption (#185)&lt;/li&gt;
+&lt;li&gt;Added the possibility to decrypt a string with AES encryption (#185)&lt;/li&gt;
+&lt;li&gt;Added exceptions to encrypt/decrypt methods (#184/#185)&lt;/li&gt;
+&lt;li&gt;Added exceptions to encrypt/decrypt methods (#184/#185)&lt;/li&gt;
+&lt;li&gt;Added a method that converts byte[] into string (#186)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed RSA encryption fails (#186)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/leocorplibrary-version-3302102-is-now/cover.png&#34;
+	width=&#34;1598&#34;
+	height=&#34;624&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/leocorplibrary-version-3302102-is-now/cover_hu05733a1a9d1d5ee1f036dec01558160d_99118_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/leocorplibrary-version-3302102-is-now/cover_hu05733a1a9d1d5ee1f036dec01558160d_99118_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;256&#34;
+		data-flex-basis=&#34;614px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>LeoCorpLibrary: The version 3.1.0.2012 is now available</title>
         <link>https://leo-corporation.github.io/Blog/2020/12/leocorplibrary-version-3102012-is-now/</link>
         <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>

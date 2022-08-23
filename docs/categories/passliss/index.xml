@@ -670,6 +670,211 @@
 &gt;&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>Passliss: The version 1.2.0.2104 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/04/passliss-version-1202104-is-now/</link>
+        <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/04/passliss-version-1202104-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/04/passliss-version-1202104-is-now/cover.png" alt="Featured image of post Passliss: The version 1.2.0.2104 is now available" /&gt;&lt;p&gt;A new version is available for Passliss, and it is the version 1.2.0.2104.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a notification when updates are available (#21)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set if Passliss should check updates on start (#22)&lt;/li&gt;
+&lt;li&gt;Added the possibility to export Password Configurations (#23)&lt;/li&gt;
+&lt;li&gt;Added the possibility to import Password Configurations (#23)&lt;/li&gt;
+&lt;li&gt;Added tooltips on buttons (#23)&lt;/li&gt;
+&lt;li&gt;Added the possibility to reset settings (#24)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Passliss crashes if there isn&amp;rsquo;t internet (#20)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated translations&lt;/li&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated icons (#23)&lt;/li&gt;
+&lt;li&gt;The &amp;ldquo;Load Password Configuration&amp;rdquo; popup will now behave just like a context menu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/passliss-version-1202104-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/passliss-version-1202104-is-now/cover_hueadcda6c5391f6190811f650f322d6e2_39660_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/passliss-version-1202104-is-now/cover_hueadcda6c5391f6190811f650f322d6e2_39660_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Generate page of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/passliss-version-1202104-is-now/2.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/passliss-version-1202104-is-now/2_hu97d87ad53af6d5b9d4a53f13fd546f9d_41668_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/passliss-version-1202104-is-now/2_hu97d87ad53af6d5b9d4a53f13fd546f9d_41668_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Update section of the Settings page of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/passliss-version-1202104-is-now/3.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/passliss-version-1202104-is-now/3_hu4f29ede18702ed9b54b0fc0a3ad1053f_40537_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/passliss-version-1202104-is-now/3_hu4f29ede18702ed9b54b0fc0a3ad1053f_40537_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Data section of the Settings page of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: The version 1.1.0.2103 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/03/passliss-version-1102103-is-now/</link>
+        <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/03/passliss-version-1102103-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/03/passliss-version-1102103-is-now/cover.png" alt="Featured image of post Passliss: The version 1.1.0.2103 is now available" /&gt;&lt;p&gt;A new version is available for Passliss, and it&amp;rsquo;s the version 1.1.0.2103.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Replace the &amp;ldquo;Theme&amp;rdquo; ComboBox to RadioButtons (#14)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Licenses&amp;rdquo; section in the &amp;ldquo;Settings&amp;rdquo; page (#14)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Random length&amp;rdquo; button (#16)&lt;/li&gt;
+&lt;li&gt;Added the possibility to hide the password in the &amp;ldquo;Strength&amp;rdquo; page (#17)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: In the &amp;ldquo;LoadPasswordConfiguration&amp;rdquo; window, the textblock is still black in dark theme (#12)&lt;/li&gt;
+&lt;li&gt;Fixed: Comboboxes in Settings in dark theme are unreadable (#13)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated translations&lt;/li&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Refactorization of code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.mediafire.com/file/ohcs00n2nv6zocn/PasslissSetup.exe/file&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/passliss-version-1102103-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/passliss-version-1102103-is-now/cover_hu769c1549b646079f336e07b018f4398a_42896_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/passliss-version-1102103-is-now/cover_hu769c1549b646079f336e07b018f4398a_42896_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Passliss in dark theme&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/passliss-version-1102103-is-now/2.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/passliss-version-1102103-is-now/2_hu295be02e9ab4239a0cbb3fc8784fc30a_41938_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/passliss-version-1102103-is-now/2_hu295be02e9ab4239a0cbb3fc8784fc30a_41938_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Strength&amp;rdquo; page of Passliss in dark theme&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Introducing Passliss</title>
+        <link>https://leo-corporation.github.io/Blog/2021/02/introducing-passliss/</link>
+        <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/02/introducing-passliss/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/02/introducing-passliss/cover.png" alt="Featured image of post Introducing Passliss" /&gt;&lt;p&gt;After a month of developpment, Passliss, the successor of Password Generator 3 is out and generaly available for the public.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Password Generator is part of our most popular softwares since the launch of the third version. This third version was designed to be built on a more modern platform (C# - Windows Forms) and also to deliver a more modern UI (Guna.UI) For Passliss, we chose to focus on one thing: innovation. Passliss is our second software to be built using WPF, and our first software to use our new design guidelines, which mainely focus on User eXperience (UX) but also on User Interface (UI). Thanks to this guidelines, Passliss is offering to our users an intuitive and modern experience.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/cover_huffb5f60309ff2ea485e3f5e3b98d2e90_38472_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/cover_huffb5f60309ff2ea485e3f5e3b98d2e90_38472_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Passliss&amp;rsquo; main window&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;p&gt;Passliss offers a few useful features to make password generation easier. Let&amp;rsquo;s start with the password generation customization system, the main page. You an easily customize the password that isgoing to be generated, you can choose if the password will include lower case, upper case, numbers and special caracters. You can also choose the length of the password. You can save your configuration by using Password Configurations, which allows you to save a specific password generation configuration.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/2.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/2_huf93430e73d63529cf08e5a397cb6c34a_44478_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/2_huf93430e73d63529cf08e5a397cb6c34a_44478_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Passliss&amp;rsquo; Password configuration feature&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Passliss can also evaluate the strenght of a password. There is multiples levels of strenght:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Low, you should change your password&lt;/li&gt;
+&lt;li&gt;Medium, adding more complexity to your password would be a nice addition&lt;/li&gt;
+&lt;li&gt;Good, you can safely use this password&lt;/li&gt;
+&lt;li&gt;Excellent, the chances of someone finding your password are near inexistant.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Passliss also has an auto-update system and a dark mode!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/3.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/3_hua77fc20e2ccb0faeebea776ab6a1568e_42317_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/3_hua77fc20e2ccb0faeebea776ab6a1568e_42317_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Passliss, in dark mode&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;open-source&#34;&gt;Open Source&lt;/h2&gt;
+&lt;p&gt;Passliss is also Open Source on &lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+</description>
+        </item>
         
     </channel>
 </rss>

@@ -492,6 +492,164 @@
 &gt;&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>Gerayis: The version 1.1.0.2104 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/04/gerayis-version-1102104-is-now-available/</link>
+        <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/04/gerayis-version-1102104-is-now-available/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/04/gerayis-version-1102104-is-now-available/cover.png" alt="Featured image of post Gerayis: The version 1.1.0.2104 is now available" /&gt;&lt;p&gt;A new version of Gerayis is available, and it is the version 1.1.0.2104.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a notification when updates are available (#6)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set if Gerayis should check updates on start (#7)&lt;/li&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added the possibility to reset settings (#8)&lt;/li&gt;
+&lt;li&gt;Added the possibility to change the bar code color (#10)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Gerayis shows error if there is not internet (#5)&lt;/li&gt;
+&lt;li&gt;Fixed text issues- Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://DownloadGerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/cover_hu02ffc9ad24a4d9b3f99cb5fad6d3d8ab_43100_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/cover_hu02ffc9ad24a4d9b3f99cb5fad6d3d8ab_43100_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Settings of Gerayis&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/2.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/2_hu6775ed1bc3e43624d599900d719e05ad_40738_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/2_hu6775ed1bc3e43624d599900d719e05ad_40738_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The bar code section in the settings of Gerayis&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/3.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/3_hub5000d54276b3f81d23f61dd970b1195_32920_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/3_hub5000d54276b3f81d23f61dd970b1195_32920_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A red and black bar code generated using Gerayis&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Introducing Gerayis</title>
+        <link>https://leo-corporation.github.io/Blog/2021/03/introducing-gerayis/</link>
+        <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/03/introducing-gerayis/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/03/introducing-gerayis/cover.png" alt="Featured image of post Introducing Gerayis" /&gt;&lt;p&gt;We are starting this month with the release of a new software: Gerayis. Gerayis is the next evolution of Bar Code Generator 2.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s been a few years already since we&amp;rsquo;ve released the first version of Bar Code Generator (at the time, named in french &amp;ldquo;Générateur de codes barre&amp;rdquo;). Then, last year, 2020, we&amp;rsquo;ve released Bar Code Generator 2, with a brand new design, and the possibility to generate QR Codes.&lt;/p&gt;
+&lt;p&gt;The second version main purpose was to deliver to our users, a brand new user experience, while also adding new features.
+Gerayis is the next of evolution of Bar Code Generator, with a design and user experience similar to &lt;a class=&#34;link&#34; href=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Passliss&lt;/a&gt;&#39;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/cover_hu0b071e93705d6c2f85cb089c7ad7697e_32262_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/cover_hu0b071e93705d6c2f85cb089c7ad7697e_32262_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Bar Code&amp;rdquo; page of Gerayis&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;p&gt;Gerayis has the same features than Bar Code Generator 2, but they are improved, like the QR Code generator which is using a different library than Bar Code Generator 2: &lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/QRCoder&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;QRCoder&lt;/a&gt;.
+Gerayis also includes an improved dark theme and an updated language system.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/2.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/2_huda3afdd284a24668dc6717a232a58de1_34035_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/2_huda3afdd284a24668dc6717a232a58de1_34035_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;QR Code&amp;rdquo; page of Gerayis&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;open-source&#34;&gt;Open Source&lt;/h2&gt;
+&lt;p&gt;Gerayis is Open-Source, and you can check the GitHub repo by &lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/Gerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;clicking here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/DownloadGerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Bar Code Generator 2: The version 1.5.1.0.2102 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/02/bar-code-generator-2-version-15102102/</link>
+        <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/02/bar-code-generator-2-version-15102102/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/02/bar-code-generator-2-version-15102102/cover.png" alt="Featured image of post Bar Code Generator 2: The version 1.5.1.0.2102 is now available" /&gt;&lt;p&gt;A new version of Bar Code Generator is now available, and it&amp;rsquo;s the version 1.5.1.2102.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed issues with the dark theme&lt;/li&gt;
+&lt;li&gt;The dark theme is now more dark&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated Léo Corporation&amp;rsquo;s logo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/GCode2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Bar Code Generator 2.&lt;/p&gt;
+&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/bar-code-generator-2-version-15102102/cover.png&#34;
+	width=&#34;621&#34;
+	height=&#34;399&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/bar-code-generator-2-version-15102102/cover_hu158778e8beb5a240d3eae08760dc9091_26048_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/bar-code-generator-2-version-15102102/cover_hu158778e8beb5a240d3eae08760dc9091_26048_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;About page of Bar code generator&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;155&#34;
+		data-flex-basis=&#34;373px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
         
     </channel>
 </rss>

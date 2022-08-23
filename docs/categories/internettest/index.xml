@@ -582,6 +582,279 @@
 &gt;&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>InternetTest: The version 5.1.0.2104 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/04/internettest-version-5102104-is-now/</link>
+        <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/04/internettest-version-5102104-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/04/internettest-version-5102104-is-now/cover.png" alt="Featured image of post InternetTest: The version 5.1.0.2104 is now available" /&gt;&lt;p&gt;A new version is available for InternetTest, and it is the version 5.1.0.2104.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added a notification when updates are available (#192)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set if InternetTest should check updates on start (#193)&lt;/li&gt;
+&lt;li&gt;Added the possibility to reset settings (#194)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get an IP&amp;rsquo;s details in the selected language (#196)&lt;/li&gt;
+&lt;li&gt;Added an error message when the specified IP isn&amp;rsquo;t valid (#197)&lt;/li&gt;
+&lt;li&gt;Added the possibility to enable or disable a test on start (#198)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: InternetTest shows error if there isn&amp;rsquo;t internet (#191)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated Setup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/internettest-version-5102104-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/internettest-version-5102104-is-now/cover_hu5acbf3e4323f3ddd31b54e00f2cccc04_46126_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/internettest-version-5102104-is-now/cover_hu5acbf3e4323f3ddd31b54e00f2cccc04_46126_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Update section of InternetTest&amp;rsquo;s settings&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/internettest-version-5102104-is-now/2.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/internettest-version-5102104-is-now/2_hu8f2636fea9c0313748e00ab5f41701b1_44814_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/internettest-version-5102104-is-now/2_hu8f2636fea9c0313748e00ab5f41701b1_44814_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The On Start section of InternetTest&amp;rsquo;s settings&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Introducing InternetTest 5</title>
+        <link>https://leo-corporation.github.io/Blog/2021/03/introducing-internettest-5/</link>
+        <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/03/introducing-internettest-5/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/03/introducing-internettest-5/cover.png" alt="Featured image of post Introducing InternetTest 5" /&gt;&lt;p&gt;Approximately a year ago, we have announced the fourth version of InternetTest. Today, we are proud to announce the InternetTest 5, the next evolution of the utility.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;InternetTest was one of our first software and is also one of the first open-sourced project that we have published on GitHub. InternetTest main purpose was to enable users to check if they are connected to Internet. Why? Because even if you can check it directly by looking to the icon in the Windows system tray, this icon can sometimes be misleading, and therefore we have created InternetTest.&lt;/p&gt;
+&lt;p&gt;Today, InternetTest features have diversified and now, you can also localize IPs, check if a website is down, and you can also customize features, such as dark theme and the default test site.&lt;/p&gt;
+&lt;h2 id=&#34;version-5-codename-syghroni&#34;&gt;Version 5 (Codename Syghroni)&lt;/h2&gt;
+&lt;p&gt;As you lately saw, we are redesigning a lot of our current software, and we are not done yet! InternetTest is now exception, and this fifth version does not include brand new features, but focuses on the user experience and user interface, to make you love InternetTest.&lt;/p&gt;
+&lt;p&gt;As you can see in the pictures below, the new design follows the same guidelines that Passliss or Gerayis uses.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The main window of InternetTest 5&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The main window of InternetTest 5, in dark theme&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Locate IP page of InternetTest 5&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The DownDetector page of InternetTest 5&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The settings of InternetTest 5&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;InternetTest 5 is also using darker colors for dark theme.&lt;/p&gt;
+&lt;h2 id=&#34;upgrading&#34;&gt;Upgrading&lt;/h2&gt;
+&lt;p&gt;Be aware that InternetTest 5 will not be proposed as an update of InternetTest 4, if you want to upgrade, you will have to do it manually by downloading InternetTest 5. After installing InternetTest 5, you can remove InternetTest 4, since no updates will be delivered to it.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download InternetTest 5.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>InternetTest 4: The version 4.11.1.2103 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/03/internettest-4-version-41112103-is-now/</link>
+        <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/03/internettest-4-version-41112103-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/03/internettest-4-version-41112103-is-now/cover.png" alt="Featured image of post InternetTest 4: The version 4.11.1.2103 is now available" /&gt;&lt;p&gt;A new version of InternetTest 4 is now available, and it&amp;rsquo;s the version 4.11.1.2103.
+This is a very small version with no new features. This version may also be the last one of InternetTest 4, since we&amp;rsquo;re starting the development of InternetTest 5 (Codename Syghroni).&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download InternetTest 4.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/internettest-4-version-41112103-is-now/cover.png&#34;
+	width=&#34;446&#34;
+	height=&#34;239&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/internettest-4-version-41112103-is-now/cover_hub3463494777f089c96e18ff478963d4d_13081_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/internettest-4-version-41112103-is-now/cover_hub3463494777f089c96e18ff478963d4d_13081_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The About window of InternetTest 4&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;186&#34;
+		data-flex-basis=&#34;447px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>InternetTest 4: The version 4.11.0.2102 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/02/internettest-4-version-41102102-is-now/</link>
+        <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/02/internettest-4-version-41102102-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/02/internettest-4-version-41102102-is-now/cover.png" alt="Featured image of post InternetTest 4: The version 4.11.0.2102 is now available" /&gt;&lt;p&gt;A new version of InternetTest is now available and it&amp;rsquo;s the version 4.11.0.2102.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a placeholder in the &amp;ldquo;Down Detector&amp;rdquo; window (#171)&lt;/li&gt;
+&lt;li&gt;Added the &amp;ldquo;OpenStreetMap&amp;rdquo; map provider (#172)&lt;/li&gt;
+&lt;li&gt;Changed the default map provider (#172)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Missing shadow in Down Detector window (#170)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated Setup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
+&lt;p&gt;Starting with version 4.11.0.2102, the default map provider will be &amp;ldquo;OpenStreetMap&amp;rdquo; instead of &amp;ldquo;Bing Maps&amp;rdquo;.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download InternetTest 4.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/internettest-4-version-41102102-is-now/cover.png&#34;
+	width=&#34;670&#34;
+	height=&#34;447&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/internettest-4-version-41102102-is-now/cover_hu574611bc2699fc2bb577e9b6d29c2f90_23831_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/internettest-4-version-41102102-is-now/cover_hu574611bc2699fc2bb577e9b6d29c2f90_23831_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Test&amp;rdquo; section of the Settings window&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;149&#34;
+		data-flex-basis=&#34;359px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>InternetTest 4: The version 4.10.0.2101 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/01/internettest-4-version-41002101-is-now/</link>
+        <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/01/internettest-4-version-41002101-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/01/internettest-4-version-41002101-is-now/cover.png" alt="Featured image of post InternetTest 4: The version 4.10.0.2101 is now available" /&gt;&lt;p&gt;A new version of InternetTest 4 is available and it&amp;rsquo;s the version 4.10.0.2101.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a &amp;ldquo;Down Detector&amp;rdquo; (#165)&lt;/li&gt;
+&lt;li&gt;Added dark theme to the Down Detector (#165)&lt;/li&gt;
+&lt;li&gt;Added translations to the &amp;ldquo;Down Detector&amp;rdquo; window (#165)&lt;/li&gt;
+&lt;li&gt;Added a link to the &amp;ldquo;Down Detector&amp;rdquo; window (#165)&lt;/li&gt;
+&lt;li&gt;Added an autofil in the &amp;ldquo;Down Detector&amp;rdquo; window (#165)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue with the auto-completing system&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated Copyright (#166)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download InternetTest 4.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/01/internettest-4-version-41002101-is-now/cover.png&#34;
+	width=&#34;524&#34;
+	height=&#34;275&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/01/internettest-4-version-41002101-is-now/cover_huffaff6b359c02e8b742e27ff20feb904_11313_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/01/internettest-4-version-41002101-is-now/cover_huffaff6b359c02e8b742e27ff20feb904_11313_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;DownDetector window&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;190&#34;
+		data-flex-basis=&#34;457px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
         
     </channel>
 </rss>

@@ -242,6 +242,446 @@
 </description>
         </item>
         <item>
+        <title>Introducing ColorPicker 3</title>
+        <link>https://leo-corporation.github.io/Blog/2021/04/introducing-colorpicker-3/</link>
+        <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/04/introducing-colorpicker-3/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/04/introducing-colorpicker-3/cover.png" alt="Featured image of post Introducing ColorPicker 3" /&gt;&lt;p&gt;A year ago, we have announced the second major version of ColorPicker, which was a big step forward for ColorPicker. Today, we are proud to announce the third version of ColorPicker, with a new design and new features.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;ColorPicker was the first software for developers. Its goal was to empower a part of the development and/or design process: Color selection. Sometimes, when you want to use a color in a project, and you do not know any information about it, like the RGB values, or the HEX color code, it is very frustrating. Therefore, we created ColorPicker. ColorPicker’s main goal was to solve this problem. Using your mouse pointer, you could point a place on your screen, and get information about the color, at the time, you could only get RGB values. Then, we have released ColorPicker 2, with a new design and new features, like the new manual color-picking tool, and the possibility to get HEX color code. With ColorPicker 3, we wanted to put all this features you love, and make them even better.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-new&#34;&gt;What is new?&lt;/h2&gt;
+&lt;p&gt;ColorPicker 3 introduces a brand-new design like &lt;a class=&#34;link&#34; href=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Passliss’&lt;/a&gt; design, with a navigation bar on the left, and the content on the other side. This minimalist approach is aiming to improve the user experience overall.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/cover_hu6d49e402343e0aa203165af3337feeff_37446_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/cover_hu6d49e402343e0aa203165af3337feeff_37446_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Picker&amp;rdquo; page of ColorPicker&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;ColorPicker 3 also adds a new “Converter” page, to help you convert different color types easier. For instance, you can convert a RGB color to HEX and HSV.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/2.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/2_huec19de53eabf445f82e1e5f5c1aa50b6_38186_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/2_huec19de53eabf445f82e1e5f5c1aa50b6_38186_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Converter&amp;rdquo; page of ColorPicker&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;ColorPicker 1 was only available in light mode, ColorPicker 2 was only available in dark mode, and ColorPicker is available in both. You can now set in ColorPicker’s settings if you want to use light or dark mode.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/3.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/3_hu53e4d7e9ab39922d2f2e2ef1d202128d_40172_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/3_hu53e4d7e9ab39922d2f2e2ef1d202128d_40172_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The dark mode of ColorPicker&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;open-source&#34;&gt;Open Source&lt;/h2&gt;
+&lt;p&gt;With this third version, we have decided to open-source ColorPicker 3, and the Git repository is – of course – available on &lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/ColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;upgrading&#34;&gt;Upgrading&lt;/h2&gt;
+&lt;p&gt;ColorPicker 3 is not an update and will not be proposed as an update of ColorPicker 2. If you want to upgrade to ColorPicker 3, you will need to download and install ColorPicker 3. Also, ColorPicker 2’s support will end soon, so no more updates will be delivered to it.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker 3.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Introducing InternetTest 5</title>
+        <link>https://leo-corporation.github.io/Blog/2021/03/introducing-internettest-5/</link>
+        <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/03/introducing-internettest-5/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/03/introducing-internettest-5/cover.png" alt="Featured image of post Introducing InternetTest 5" /&gt;&lt;p&gt;Approximately a year ago, we have announced the fourth version of InternetTest. Today, we are proud to announce the InternetTest 5, the next evolution of the utility.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;InternetTest was one of our first software and is also one of the first open-sourced project that we have published on GitHub. InternetTest main purpose was to enable users to check if they are connected to Internet. Why? Because even if you can check it directly by looking to the icon in the Windows system tray, this icon can sometimes be misleading, and therefore we have created InternetTest.&lt;/p&gt;
+&lt;p&gt;Today, InternetTest features have diversified and now, you can also localize IPs, check if a website is down, and you can also customize features, such as dark theme and the default test site.&lt;/p&gt;
+&lt;h2 id=&#34;version-5-codename-syghroni&#34;&gt;Version 5 (Codename Syghroni)&lt;/h2&gt;
+&lt;p&gt;As you lately saw, we are redesigning a lot of our current software, and we are not done yet! InternetTest is now exception, and this fifth version does not include brand new features, but focuses on the user experience and user interface, to make you love InternetTest.&lt;/p&gt;
+&lt;p&gt;As you can see in the pictures below, the new design follows the same guidelines that Passliss or Gerayis uses.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The main window of InternetTest 5&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The main window of InternetTest 5, in dark theme&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Locate IP page of InternetTest 5&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The DownDetector page of InternetTest 5&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The settings of InternetTest 5&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;InternetTest 5 is also using darker colors for dark theme.&lt;/p&gt;
+&lt;h2 id=&#34;upgrading&#34;&gt;Upgrading&lt;/h2&gt;
+&lt;p&gt;Be aware that InternetTest 5 will not be proposed as an update of InternetTest 4, if you want to upgrade, you will have to do it manually by downloading InternetTest 5. After installing InternetTest 5, you can remove InternetTest 4, since no updates will be delivered to it.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadInternetTest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download InternetTest 5.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Introducing Gerayis</title>
+        <link>https://leo-corporation.github.io/Blog/2021/03/introducing-gerayis/</link>
+        <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/03/introducing-gerayis/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/03/introducing-gerayis/cover.png" alt="Featured image of post Introducing Gerayis" /&gt;&lt;p&gt;We are starting this month with the release of a new software: Gerayis. Gerayis is the next evolution of Bar Code Generator 2.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s been a few years already since we&amp;rsquo;ve released the first version of Bar Code Generator (at the time, named in french &amp;ldquo;Générateur de codes barre&amp;rdquo;). Then, last year, 2020, we&amp;rsquo;ve released Bar Code Generator 2, with a brand new design, and the possibility to generate QR Codes.&lt;/p&gt;
+&lt;p&gt;The second version main purpose was to deliver to our users, a brand new user experience, while also adding new features.
+Gerayis is the next of evolution of Bar Code Generator, with a design and user experience similar to &lt;a class=&#34;link&#34; href=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Passliss&lt;/a&gt;&#39;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/cover_hu0b071e93705d6c2f85cb089c7ad7697e_32262_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/cover_hu0b071e93705d6c2f85cb089c7ad7697e_32262_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Bar Code&amp;rdquo; page of Gerayis&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;p&gt;Gerayis has the same features than Bar Code Generator 2, but they are improved, like the QR Code generator which is using a different library than Bar Code Generator 2: &lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/QRCoder&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;QRCoder&lt;/a&gt;.
+Gerayis also includes an improved dark theme and an updated language system.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/2.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/2_huda3afdd284a24668dc6717a232a58de1_34035_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/2_huda3afdd284a24668dc6717a232a58de1_34035_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;QR Code&amp;rdquo; page of Gerayis&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;open-source&#34;&gt;Open Source&lt;/h2&gt;
+&lt;p&gt;Gerayis is Open-Source, and you can check the GitHub repo by &lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/Gerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;clicking here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/DownloadGerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Password Generator 3: The last release is out</title>
+        <link>https://leo-corporation.github.io/Blog/2021/03/password-generator-3-last-release-is-out/</link>
+        <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/03/password-generator-3-last-release-is-out/</guid>
+        <description>&lt;p&gt;The release of Password Generator 3 is out, and it&amp;rsquo;s the version 3.7.1.2103.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a link to download Passliss&lt;/li&gt;
+&lt;li&gt;Added a message to download Passliss&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated version and copyright&lt;/li&gt;
+&lt;li&gt;Updated logo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.mediafire.com/file/jkgl5tsmf4us0x1/G%C3%A9n%C3%A9rateur&amp;#43;de&amp;#43;mots&amp;#43;de&amp;#43;passe&amp;#43;3&amp;#43;Setup.msi/file&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Password Generator 3.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.mediafire.com/file/ohcs00n2nv6zocn/PasslissSetup.exe/file&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Introducing Passliss</title>
+        <link>https://leo-corporation.github.io/Blog/2021/02/introducing-passliss/</link>
+        <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/02/introducing-passliss/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/02/introducing-passliss/cover.png" alt="Featured image of post Introducing Passliss" /&gt;&lt;p&gt;After a month of developpment, Passliss, the successor of Password Generator 3 is out and generaly available for the public.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Password Generator is part of our most popular softwares since the launch of the third version. This third version was designed to be built on a more modern platform (C# - Windows Forms) and also to deliver a more modern UI (Guna.UI) For Passliss, we chose to focus on one thing: innovation. Passliss is our second software to be built using WPF, and our first software to use our new design guidelines, which mainely focus on User eXperience (UX) but also on User Interface (UI). Thanks to this guidelines, Passliss is offering to our users an intuitive and modern experience.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/cover_huffb5f60309ff2ea485e3f5e3b98d2e90_38472_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/cover_huffb5f60309ff2ea485e3f5e3b98d2e90_38472_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Passliss&amp;rsquo; main window&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;p&gt;Passliss offers a few useful features to make password generation easier. Let&amp;rsquo;s start with the password generation customization system, the main page. You an easily customize the password that isgoing to be generated, you can choose if the password will include lower case, upper case, numbers and special caracters. You can also choose the length of the password. You can save your configuration by using Password Configurations, which allows you to save a specific password generation configuration.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/2.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/2_huf93430e73d63529cf08e5a397cb6c34a_44478_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/2_huf93430e73d63529cf08e5a397cb6c34a_44478_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Passliss&amp;rsquo; Password configuration feature&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Passliss can also evaluate the strenght of a password. There is multiples levels of strenght:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Low, you should change your password&lt;/li&gt;
+&lt;li&gt;Medium, adding more complexity to your password would be a nice addition&lt;/li&gt;
+&lt;li&gt;Good, you can safely use this password&lt;/li&gt;
+&lt;li&gt;Excellent, the chances of someone finding your password are near inexistant.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Passliss also has an auto-update system and a dark mode!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/3.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/3_hua77fc20e2ccb0faeebea776ab6a1568e_42317_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/3_hua77fc20e2ccb0faeebea776ab6a1568e_42317_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Passliss, in dark mode&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;open-source&#34;&gt;Open Source&lt;/h2&gt;
+&lt;p&gt;Passliss is also Open Source on &lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>A new look</title>
+        <link>https://leo-corporation.github.io/Blog/2021/02/a-new-look/</link>
+        <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/02/a-new-look/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/02/a-new-look/cover.png" alt="Featured image of post A new look" /&gt;&lt;p&gt;2021 is going to be a big year for Léo Corporation. And one of the big announcement this year is our new graphic identity. You may notice, but we&amp;rsquo;ve got a new logo and a new &lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/cover.png&#34;
+	width=&#34;1920&#34;
+	height=&#34;1080&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/cover_hu3fa0d624947acb53576bf457d0684c1d_54799_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/cover_hu3fa0d624947acb53576bf457d0684c1d_54799_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Our new logo&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;It is a part of our new direction for this year. The new logo is more coloful than the older one, and has a new font that we are starting to roll out to our customers: Montserrat.&lt;/p&gt;
+&lt;p&gt;But this is not only this. We&amp;rsquo;ve also updated some icons of our softwares:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/2.png&#34;
+	width=&#34;1000&#34;
+	height=&#34;1000&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/2_hu5e5743b854f82d16a5f0c05765f4eab5_236801_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/2_hu5e5743b854f82d16a5f0c05765f4eab5_236801_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Bar Code Generator 2 Logo&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/3.png&#34;
+	width=&#34;1000&#34;
+	height=&#34;1000&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/3_hua143cc6c98a4e9a9609db0061ab0decc_131706_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/3_hua143cc6c98a4e9a9609db0061ab0decc_131706_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;ColorPicker 2 Logo&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/4.png&#34;
+	width=&#34;1000&#34;
+	height=&#34;1000&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/4_hud74d484df1a19483567eb4f95c2386e0_194777_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/4_hud74d484df1a19483567eb4f95c2386e0_194777_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;InternetTest Logo&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/5.png&#34;
+	width=&#34;2000&#34;
+	height=&#34;2000&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/5_hu5325c5e40b6fa01ba016a035212ae06a_78519_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/5_hu5325c5e40b6fa01ba016a035212ae06a_78519_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Passliss Logo&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/6.png&#34;
+	width=&#34;1000&#34;
+	height=&#34;1000&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/6_hu6ea7d05127779493a3b07ef85ea17abc_264783_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/6_hu6ea7d05127779493a3b07ef85ea17abc_264783_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Xalyus Store Logo&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/7.png&#34;
+	width=&#34;1000&#34;
+	height=&#34;1000&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/7_hu5254a9c7ffc4bdcc763c54643b1fbfc0_178940_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/7_hu5254a9c7ffc4bdcc763c54643b1fbfc0_178940_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Xalyus Updater Logo&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;These new logos are going to roll out progressively to our users.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>The end of the &#34;Tooly Suite&#34;</title>
+        <link>https://leo-corporation.github.io/Blog/2021/02/the-end-of-tooly-suite/</link>
+        <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/02/the-end-of-tooly-suite/</guid>
+        <description>&lt;p&gt;Despite many attempts to create the concept of &amp;ldquo;Suite&amp;rdquo;, we annonce that starting the end of Febuary 2021, the Tooly Suite will no longer be maintained or supported.&lt;/p&gt;
+&lt;h2 id=&#34;a-look-back&#34;&gt;A look back&lt;/h2&gt;
+&lt;p&gt;We created the concept of &amp;ldquo;Suite&amp;rdquo; back in 2019, a vision to regroup our different softwares inside a &amp;ldquo;Hub&amp;rdquo;. There was two suite at the time: &amp;ldquo;Essential&amp;rdquo; and &amp;ldquo;Gestion&amp;rdquo;. The &amp;ldquo;Hub&amp;rdquo; is similar to an app launcher. The first attempt failed, and so did the second. It failed because mainly of this two reasons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bad UI/UX (User Interface/User eXperience)&lt;/li&gt;
+&lt;li&gt;Not enough promotion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is why, during summer 2020, we recreated completely the Essential suite under a new name, the Tooly Suite. This third version was shiped along a brand new design and user experience. Unfortunately, this third attempt also failed, mainly because there wasn&amp;rsquo;t a lot of updates, and also because the concept wasn&amp;rsquo;t being promoted. This third attempt will be our last one as Leo Corporation is going in a new direction.&lt;/p&gt;
+&lt;h2 id=&#34;what-does-the-end-of-support-means&#34;&gt;What does the end of support means?&lt;/h2&gt;
+&lt;p&gt;It means that there won&amp;rsquo;t be any updates anymore, and you won&amp;rsquo;t be able to download the Tooly Suite.
+It will be removed from our website and Xalyus Store later this month.&lt;/p&gt;
+&lt;h2 id=&#34;does-this-mean-that-i-wont-be-able-to-use-tooly-suite&#34;&gt;Does this mean that I won&amp;rsquo;t be able to use Tooly Suite?&lt;/h2&gt;
+&lt;p&gt;No. You can still continue to use it, but some features may not work in the future, like the auto-update system.&lt;/p&gt;
+&lt;h2 id=&#34;are-you-going-to-open-source-tooly-suite&#34;&gt;Are you going to Open Source Tooly Suite?&lt;/h2&gt;
+&lt;p&gt;There is no plans yet to do so.&lt;/p&gt;
+&lt;h2 id=&#34;moving-forward&#34;&gt;Moving forward&lt;/h2&gt;
+&lt;p&gt;We acknowledge the failure of this concept, and we hope that we will learn from the mistakes made so this won&amp;rsquo;t reproduce in the future again.
+Thank you to everyone who supported this project.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Introducing Gavilya</title>
         <link>https://leo-corporation.github.io/Blog/2020/12/introducing-gavilya/</link>
         <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>

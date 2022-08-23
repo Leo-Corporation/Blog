@@ -1563,6 +1563,376 @@
 </description>
         </item>
         <item>
+        <title>Introducing ColorPicker 3</title>
+        <link>https://leo-corporation.github.io/Blog/2021/04/introducing-colorpicker-3/</link>
+        <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/04/introducing-colorpicker-3/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/04/introducing-colorpicker-3/cover.png" alt="Featured image of post Introducing ColorPicker 3" /&gt;&lt;p&gt;A year ago, we have announced the second major version of ColorPicker, which was a big step forward for ColorPicker. Today, we are proud to announce the third version of ColorPicker, with a new design and new features.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;ColorPicker was the first software for developers. Its goal was to empower a part of the development and/or design process: Color selection. Sometimes, when you want to use a color in a project, and you do not know any information about it, like the RGB values, or the HEX color code, it is very frustrating. Therefore, we created ColorPicker. ColorPicker’s main goal was to solve this problem. Using your mouse pointer, you could point a place on your screen, and get information about the color, at the time, you could only get RGB values. Then, we have released ColorPicker 2, with a new design and new features, like the new manual color-picking tool, and the possibility to get HEX color code. With ColorPicker 3, we wanted to put all this features you love, and make them even better.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-new&#34;&gt;What is new?&lt;/h2&gt;
+&lt;p&gt;ColorPicker 3 introduces a brand-new design like &lt;a class=&#34;link&#34; href=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Passliss’&lt;/a&gt; design, with a navigation bar on the left, and the content on the other side. This minimalist approach is aiming to improve the user experience overall.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/cover_hu6d49e402343e0aa203165af3337feeff_37446_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/cover_hu6d49e402343e0aa203165af3337feeff_37446_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Picker&amp;rdquo; page of ColorPicker&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;ColorPicker 3 also adds a new “Converter” page, to help you convert different color types easier. For instance, you can convert a RGB color to HEX and HSV.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/2.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/2_huec19de53eabf445f82e1e5f5c1aa50b6_38186_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/2_huec19de53eabf445f82e1e5f5c1aa50b6_38186_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Converter&amp;rdquo; page of ColorPicker&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;ColorPicker 1 was only available in light mode, ColorPicker 2 was only available in dark mode, and ColorPicker is available in both. You can now set in ColorPicker’s settings if you want to use light or dark mode.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/3.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/3_hu53e4d7e9ab39922d2f2e2ef1d202128d_40172_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/3_hu53e4d7e9ab39922d2f2e2ef1d202128d_40172_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The dark mode of ColorPicker&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;open-source&#34;&gt;Open Source&lt;/h2&gt;
+&lt;p&gt;With this third version, we have decided to open-source ColorPicker 3, and the Git repository is – of course – available on &lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/ColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;upgrading&#34;&gt;Upgrading&lt;/h2&gt;
+&lt;p&gt;ColorPicker 3 is not an update and will not be proposed as an update of ColorPicker 2. If you want to upgrade to ColorPicker 3, you will need to download and install ColorPicker 3. Also, ColorPicker 2’s support will end soon, so no more updates will be delivered to it.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker 3.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ColorPicker 2: The version 2.10.1.2104 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/04/colorpicker-2-version-21012104-is-now/</link>
+        <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/04/colorpicker-2-version-21012104-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/04/colorpicker-2-version-21012104-is-now/cover.png" alt="Featured image of post ColorPicker 2: The version 2.10.1.2104 is now available" /&gt;&lt;p&gt;A new version of ColorPicker 2 is available and it is the version 2.10.1.2104. Note that this version is a minor one, with only bug fixes.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue with “Mini picker” where the “#” was on the “Blue” value instead of the “HEX” value&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated the icon of ColorPicker’s notifications&lt;/li&gt;
+&lt;li&gt;Updated Copyright&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker 2.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/colorpicker-2-version-21012104-is-now/cover.png&#34;
+	width=&#34;685&#34;
+	height=&#34;464&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/colorpicker-2-version-21012104-is-now/cover_hubf1edcbcd4b00ded7fef8e746443fd87_28828_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/colorpicker-2-version-21012104-is-now/cover_hubf1edcbcd4b00ded7fef8e746443fd87_28828_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The ColorPicker window&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;147&#34;
+		data-flex-basis=&#34;354px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: The version 3.5.0.2104 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/04/leocorplibrary-version-3502104-is-now/</link>
+        <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/04/leocorplibrary-version-3502104-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/04/leocorplibrary-version-3502104-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.5.0.2104 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it’s the version 3.5.0.2104.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added XML documentation&lt;/li&gt;
+&lt;li&gt;Added the possibility to get a triangle&amp;rsquo;s opposed side from an angle and its hypotenuse (#197)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get a triangle&amp;rsquo;s opposed side from an angle and its adjacent side (#197)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get a triangle&amp;rsquo;s adjacent side from an angle and its hypotenuse (#198)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get a triangle&amp;rsquo;s adjacent side from an angle and its opposed side (#198)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get a triangle&amp;rsquo;s hypotenuse from an angle and its opposed side (#199)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get a triangle&amp;rsquo;s hypotenuse from an angle and its adjacent side (#199)&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert radians to degrees (#200)- Added the possibility to convert degrees to radians (#200)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/leocorplibrary-version-3502104-is-now/cover.png&#34;
+	width=&#34;1716&#34;
+	height=&#34;480&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/leocorplibrary-version-3502104-is-now/cover_hu0ace100bce219375bc60080116158a0e_63891_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/leocorplibrary-version-3502104-is-now/cover_hu0ace100bce219375bc60080116158a0e_63891_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;357&#34;
+		data-flex-basis=&#34;858px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ColorPicker 2: The version 2.10.0.2103 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/03/colorpicker-2-version-21002103-is-now/</link>
+        <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/03/colorpicker-2-version-21002103-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/03/colorpicker-2-version-21002103-is-now/cover.png" alt="Featured image of post ColorPicker 2: The version 2.10.0.2103 is now available" /&gt;&lt;p&gt;A new version of ColorPicker 2 is available, and it&amp;rsquo;s the version 2.10.0.2103.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;New dark theme&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed issues with Setup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;new-dark-theme&#34;&gt;New dark theme&lt;/h2&gt;
+&lt;p&gt;Color picker dark theme, was still a bit to much bright, and we&amp;rsquo;ve decided to updated the dark mode to our new theme guidelines. The result is a more dark ColorPicker.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/colorpicker-2-version-21002103-is-now/cover.png&#34;
+	width=&#34;1475&#34;
+	height=&#34;582&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/colorpicker-2-version-21002103-is-now/cover_hu9ce0aaef3036751c404950ecfd249e53_55118_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/colorpicker-2-version-21002103-is-now/cover_hu9ce0aaef3036751c404950ecfd249e53_55118_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Comparison between old and new dark theme&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;253&#34;
+		data-flex-basis=&#34;608px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker 2.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: The version 3.4.0.2103 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/03/leocorplibrary-version-3402103-is-now/</link>
+        <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/03/leocorplibrary-version-3402103-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/03/leocorplibrary-version-3402103-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.4.0.2103 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary and LeoCorpLibrary.Core is now available, and it&amp;rsquo;s the version 3.4.0.2103.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to get the cursor position (#188)*&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the cursor position for WPF (#188)*&lt;/li&gt;
+&lt;li&gt;Added the possibility to convert UnixTime into a DateTime object (#190)&lt;/li&gt;
+&lt;li&gt;Added the possibility to check if a process is running (#191)&lt;/li&gt;
+&lt;li&gt;Added the possibility to check if a string is ending with the correct punctuation (#192)&lt;/li&gt;
+&lt;li&gt;Added checks to handle exceptions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: The UpperLettersAt() method doesn&amp;rsquo;t work (#195)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;*This change is only included for LeoCorpLibrary and is not available in LeoCorpLibrary.Core.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/leocorplibrary-version-3402103-is-now/cover.png&#34;
+	width=&#34;1260&#34;
+	height=&#34;588&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/leocorplibrary-version-3402103-is-now/cover_hu9488b7be0ac030fc6b123b9e2def254d_68957_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/leocorplibrary-version-3402103-is-now/cover_hu9488b7be0ac030fc6b123b9e2def254d_68957_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;214&#34;
+		data-flex-basis=&#34;514px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ColorPicker 2: The version 2.9.0.2102 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/02/colorpicker-2-version-2902102-is-now/</link>
+        <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/02/colorpicker-2-version-2902102-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/02/colorpicker-2-version-2902102-is-now/cover.png" alt="Featured image of post ColorPicker 2: The version 2.9.0.2102 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is available, and it&amp;rsquo;s the version 2.9.0.2102.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the ColorPicker icon&lt;/li&gt;
+&lt;li&gt;Added the &amp;ldquo;Converter&amp;rdquo; window&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;removed&#34;&gt;Removed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed the &amp;ldquo;Other otpions&amp;rdquo; window&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker 2.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/colorpicker-2-version-2902102-is-now/cover.png&#34;
+	width=&#34;685&#34;
+	height=&#34;464&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/colorpicker-2-version-2902102-is-now/cover_hu5a0c7f42fed4e0a03f7a58253138ac75_29702_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/colorpicker-2-version-2902102-is-now/cover_hu5a0c7f42fed4e0a03f7a58253138ac75_29702_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The converter window of ColorPicker&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;147&#34;
+		data-flex-basis=&#34;354px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LeoCorpLibrary: The version 3.3.0.2102 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/02/leocorplibrary-version-3302102-is-now/</link>
+        <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/02/leocorplibrary-version-3302102-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/02/leocorplibrary-version-3302102-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.3.0.2102 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it&amp;rsquo;s the version 3.3.0.2102&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to encrypt a string with RSA encryption (#184)&lt;/li&gt;
+&lt;li&gt;Added the possibility to decrypt a string with RSA encryption (#184)&lt;/li&gt;
+&lt;li&gt;Added the possibility to encrypt a string with AES encryption (#185)&lt;/li&gt;
+&lt;li&gt;Added the possibility to decrypt a string with AES encryption (#185)&lt;/li&gt;
+&lt;li&gt;Added exceptions to encrypt/decrypt methods (#184/#185)&lt;/li&gt;
+&lt;li&gt;Added exceptions to encrypt/decrypt methods (#184/#185)&lt;/li&gt;
+&lt;li&gt;Added a method that converts byte[] into string (#186)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed RSA encryption fails (#186)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet –LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/LeoCorpLibrary.Core&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/345951&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/LeoCorpLibrary/packages/530093&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/leocorplibrary-version-3302102-is-now/cover.png&#34;
+	width=&#34;1598&#34;
+	height=&#34;624&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/leocorplibrary-version-3302102-is-now/cover_hu05733a1a9d1d5ee1f036dec01558160d_99118_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/leocorplibrary-version-3302102-is-now/cover_hu05733a1a9d1d5ee1f036dec01558160d_99118_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A C# code sample using LeoCorpLibrary&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;256&#34;
+		data-flex-basis=&#34;614px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ColorPicker 2: The version 1.8.1.2101 is now available</title>
+        <link>https://leo-corporation.github.io/Blog/2021/01/colorpicker-2-version-1812101-is-now/</link>
+        <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://leo-corporation.github.io/Blog/2021/01/colorpicker-2-version-1812101-is-now/</guid>
+        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/01/colorpicker-2-version-1812101-is-now/cover.png" alt="Featured image of post ColorPicker 2: The version 1.8.1.2101 is now available" /&gt;&lt;p&gt;A new version of ColorPicker 2 is now available and it&amp;rsquo;s the version 1.8.1.2101.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a copyright mention in the &amp;ldquo;About&amp;rdquo; window&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where ColorPicker 2 crashed when trying to select a color&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated ColorPicker 2 dependencies (LeoCorpLibrary)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download ColorPicker 2.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/01/colorpicker-2-version-1812101-is-now/cover.png&#34;
+	width=&#34;685&#34;
+	height=&#34;464&#34;
+	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/01/colorpicker-2-version-1812101-is-now/cover_hud4ebef546a50e1b01aac3a62c7f22ec6_29034_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/01/colorpicker-2-version-1812101-is-now/cover_hud4ebef546a50e1b01aac3a62c7f22ec6_29034_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;About&amp;rdquo; window of ColorPicker&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;147&#34;
+		data-flex-basis=&#34;354px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>LeoCorpLibrary: The version 3.1.0.2012 is now available</title>
         <link>https://leo-corporation.github.io/Blog/2020/12/leocorplibrary-version-3102012-is-now/</link>
         <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
