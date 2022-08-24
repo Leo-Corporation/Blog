@@ -2,26 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Information on Blog | Léo Corporation</title>
-        <link>https://leo-corporation.github.io/Blog/categories/information/</link>
+        <link>https://blog.leocorporation.dev/categories/information/</link>
         <description>Recent content in Information on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://leo-corporation.github.io/Blog/categories/information/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 24 Aug 2022 09:33:41 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/information/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Our New Blog</title>
+        <link>https://blog.leocorporation.dev/2022/08/our-new-blog/</link>
+        <pubDate>Wed, 24 Aug 2022 09:33:41 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/08/our-new-blog/</guid>
+        <description>&lt;p&gt;Today, we are releasing a huge update to our blog: We are switching from Blogger to Hugo, a static website generator. This change will give us more control over our content and makes it easier to publish new and exciting articles.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-new&#34;&gt;What is new?&lt;/h2&gt;
+&lt;p&gt;The blog is now using a modern responsive theme that support both light and dark mode. We are introducing “Categories”; it is a new way to sort articles. There is now a table of content in every article, you can also see the estimated reading time next to the date. We have added links to our socials as well, and a brand new About page too.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-gone&#34;&gt;What is gone?&lt;/h2&gt;
+&lt;p&gt;With this new update, we have decided it is the best time to move on, so our older articles from 2018 to 2020, are no longer available, but they still are on the old blog which will stay accessible.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-next&#34;&gt;What is next?&lt;/h2&gt;
+&lt;p&gt;We hope that you will like the modern design; we are excited to post new and better articles on this blog, as a big announcement is coming soon.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>A slight update on our look</title>
-        <link>https://leo-corporation.github.io/Blog/2022/07/a-slight-update-on-our-look/</link>
+        <link>https://blog.leocorporation.dev/2022/07/a-slight-update-on-our-look/</link>
         <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/07/a-slight-update-on-our-look/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/07/a-slight-update-on-our-look/cover.png" alt="Featured image of post A slight update on our look" /&gt;&lt;h2 id=&#34;we-have-a-new-look&#34;&gt;We have a new look!&lt;/h2&gt;
+        <guid>https://blog.leocorporation.dev/2022/07/a-slight-update-on-our-look/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/a-slight-update-on-our-look/cover.png" alt="Featured image of post A slight update on our look" /&gt;&lt;h2 id=&#34;we-have-a-new-look&#34;&gt;We have a new look!&lt;/h2&gt;
 &lt;p&gt;As you may have noticed, we’ve updated our font in our logos and websites. We are announcing that we’re ditching the Montserrat font for Hauora Sans. This font gives more personality to our identity, since the old font was one of the most popular sans serif fonts used in apps, websites, and product. The new one is – indeed – like Montserrat, but it adds some small details that makes it better than the old one.&lt;/p&gt;
 &lt;h3 id=&#34;when-will-this-change-take-effect&#34;&gt;When will this change take effect?&lt;/h3&gt;
 &lt;p&gt;As we said, most of our websites have already received an update. However, our apps haven’t yet. An update should roll out to them this month.&lt;/p&gt;
 &lt;p&gt;Léo Corporation is always evolving, and we would like to thank our users for taking this journey with us.&lt;/p&gt;
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/a-slight-update-on-our-look/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/a-slight-update-on-our-look/cover.png&#34;
 	width=&#34;3438&#34;
 	height=&#34;1146&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/a-slight-update-on-our-look/cover_hu11d46245019c0cc4f6837ea1f8635293_782421_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/07/a-slight-update-on-our-look/cover_hu11d46245019c0cc4f6837ea1f8635293_782421_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/07/a-slight-update-on-our-look/cover_hu11d46245019c0cc4f6837ea1f8635293_782421_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/a-slight-update-on-our-look/cover_hu11d46245019c0cc4f6837ea1f8635293_782421_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Léo Corporation logo, updated with the new Hauora font.&#34;
@@ -36,11 +51,11 @@
         </item>
         <item>
         <title>We&#39;ve updated our visual identity</title>
-        <link>https://leo-corporation.github.io/Blog/2022/01/weve-updated-our-visual-identity/</link>
+        <link>https://blog.leocorporation.dev/2022/01/weve-updated-our-visual-identity/</link>
         <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/01/weve-updated-our-visual-identity/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/01/weve-updated-our-visual-identity/cover.png" alt="Featured image of post We&#39;ve updated our visual identity" /&gt;&lt;p&gt;2021 has been a busy year for Léo Corporation, and 2022 will be focused on how we can improve the user experience across our products.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/01/weve-updated-our-visual-identity/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/01/weve-updated-our-visual-identity/cover.png" alt="Featured image of post We&#39;ve updated our visual identity" /&gt;&lt;p&gt;2021 has been a busy year for Léo Corporation, and 2022 will be focused on how we can improve the user experience across our products.&lt;/p&gt;
 &lt;p&gt;To start this new year, we’ve slightly updated our visual identity to a more colorful one. You may have seen on our &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/LeoCorpNews&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Twitter&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com/LeoCorporationSoftwares/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Facebook&lt;/a&gt;, and &lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/leocorporation_/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -49,11 +64,11 @@
         </item>
         <item>
         <title>Introducing the new Status page</title>
-        <link>https://leo-corporation.github.io/Blog/2021/08/introducing-new-status-page/</link>
+        <link>https://blog.leocorporation.dev/2021/08/introducing-new-status-page/</link>
         <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/08/introducing-new-status-page/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/08/introducing-new-status-page/cover.png" alt="Featured image of post Introducing the new Status page" /&gt;&lt;p&gt;Software development is often punctuated with bugs, issues and incidents that may impact our users. It might be hard for them to understand why is one our software, service, isn’t working, or why they can’t access our website anymore for instance. We often inform our users of any issues impacting our services on our Twitter account &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/LeoCorpNews&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://blog.leocorporation.dev/2021/08/introducing-new-status-page/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/08/introducing-new-status-page/cover.png" alt="Featured image of post Introducing the new Status page" /&gt;&lt;p&gt;Software development is often punctuated with bugs, issues and incidents that may impact our users. It might be hard for them to understand why is one our software, service, isn’t working, or why they can’t access our website anymore for instance. We often inform our users of any issues impacting our services on our Twitter account &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/LeoCorpNews&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;@LeoCorpNews&lt;/a&gt;, but some people aren’t aware of the existence of this account, or don’t use Twitter. This is why we’ve created a new website dedicated to “status monitoring”.&lt;/p&gt;
 &lt;p&gt;This new website is available at &lt;a class=&#34;link&#34; href=&#34;https://status.leocorporation.dev&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;status.leocorporation.dev&lt;/a&gt; and is updated every day. You can quickly see which system is operating normally, and those who don’t. If you are having an issue with one of our services that depend on others, such as our update system, Gavilya’s integration with RAWG, you can come to this website and see if everything is working correctly or not.&lt;/p&gt;
@@ -62,16 +77,16 @@
         </item>
         <item>
         <title>Introducing Datalya</title>
-        <link>https://leo-corporation.github.io/Blog/2021/07/introducing-datalya/</link>
+        <link>https://blog.leocorporation.dev/2021/07/introducing-datalya/</link>
         <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/07/introducing-datalya/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/07/introducing-datalya/cover.png" alt="Featured image of post Introducing Datalya" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+        <guid>https://blog.leocorporation.dev/2021/07/introducing-datalya/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/07/introducing-datalya/cover.png" alt="Featured image of post Introducing Datalya" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Last year, we’ve launched two products: GestionBiblio X and GestionPerso X. They were specialized database management tools. They provided a brand new and modern user interface at the time. The goal was to rewrite the codebase from Visual Basic to C#, to introduce new features and a new design language. However, these two softwares were only available in French, not in English, and they weren’t receiving updates as much as other Léo Corporation’s softwares. This is why we are today introducing the next generation of database management at Léo Corporation: Datalya.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/cover.png&#34;
 	width=&#34;1100&#34;
 	height=&#34;650&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/cover_hu585b845bac6b9b98f4e385dce7b37f4b_23177_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/cover_hu585b845bac6b9b98f4e385dce7b37f4b_23177_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/cover_hu585b845bac6b9b98f4e385dce7b37f4b_23177_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/introducing-datalya/cover_hu585b845bac6b9b98f4e385dce7b37f4b_23177_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The home page of Datalya.&#34;
@@ -85,10 +100,10 @@
 &lt;h2 id=&#34;whats-datalya&#34;&gt;What&amp;rsquo;s Datalya?&lt;/h2&gt;
 &lt;p&gt;Datalya is a modern and yet simple database management software for Windows. The main innovation of Datalya is Blocks. Blocks are different types of input for a user. For instance, you can have a simple text input, to a checkbox input, without forgetting the dropdown input. These Blocks are customizable, you can name theme, add choices, and more. You can even export your Blocks as a Template, so you can reuse them quickly in other databases. In a nutshell, Blocks are used to create your Database.&lt;/p&gt;
 &lt;p&gt;You can find Blocks in the “Creator” part. Talking about parts, Datalya is divided into two parts: The Creator part, and the Database part. We’ve talked about the Creator part already, so let’s move on to the Database part.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/2.png&#34;
 	width=&#34;1100&#34;
 	height=&#34;650&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/2_hu2eef5c95aec75c556b3140a77e649b6b_53904_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/2_hu2eef5c95aec75c556b3140a77e649b6b_53904_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/2_hu2eef5c95aec75c556b3140a77e649b6b_53904_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/introducing-datalya/2_hu2eef5c95aec75c556b3140a77e649b6b_53904_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Creator part of Datalya.&#34;
@@ -100,10 +115,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The Database part is where the database is. You’ll notice a ribbon UI at the top, and the database’s content filling the rest of the window. By default, it’s empty: Indeed, we need to add an item to the database first. You can go to “Edit” tab in the ribbon, and then click on “Add”. You’ll see that a window with your Blocks has appeared, and in this window, you can fill the fields and then add the item.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/3.png&#34;
 	width=&#34;1100&#34;
 	height=&#34;650&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/3_hue7a0290966fbba52ed17248da6e91028_30750_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/3_hue7a0290966fbba52ed17248da6e91028_30750_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/3_hue7a0290966fbba52ed17248da6e91028_30750_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/introducing-datalya/3_hue7a0290966fbba52ed17248da6e91028_30750_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Database part of Datalya.&#34;
@@ -116,10 +131,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Once you’ve added the item, you can edit it, delete it, etc.&lt;/p&gt;
 &lt;p&gt;The other new feature is the possibility to export a database to an Excel spreadsheet. You can go to the “Export” tab of the ribbon and click on “Export to Excel”. Note that Datalya only supports .xlsx files.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/4.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/4.png&#34;
 	width=&#34;1100&#34;
 	height=&#34;650&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/4_hu585b845bac6b9b98f4e385dce7b37f4b_23177_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/4_hu585b845bac6b9b98f4e385dce7b37f4b_23177_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/4_hu585b845bac6b9b98f4e385dce7b37f4b_23177_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/introducing-datalya/4_hu585b845bac6b9b98f4e385dce7b37f4b_23177_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The home page of Datalya.&#34;
@@ -132,10 +147,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;When launching Datalya, you’ll see the home screen, this is where all your recent files are shown for you to jump into a database quickly. You can even pin your most important databases if you have a lot of them.&lt;/p&gt;
 &lt;p&gt;Datalya is also customizable: it is available in English and French, and it has a dark mode! You can also change update settings and reset them anytime.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/5.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/5.png&#34;
 	width=&#34;1100&#34;
 	height=&#34;650&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/5_huad7e4adbac23ae106fcf61238f387534_36323_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/5_huad7e4adbac23ae106fcf61238f387534_36323_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/5_huad7e4adbac23ae106fcf61238f387534_36323_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/introducing-datalya/5_huad7e4adbac23ae106fcf61238f387534_36323_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The dark theme of Datalya.&#34;
@@ -160,10 +175,10 @@
         </item>
         <item>
         <title>The next chapter for Educ&#39;Maths</title>
-        <link>https://leo-corporation.github.io/Blog/2021/07/the-next-chapter-for-educmaths/</link>
+        <link>https://blog.leocorporation.dev/2021/07/the-next-chapter-for-educmaths/</link>
         <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/07/the-next-chapter-for-educmaths/</guid>
+        <guid>https://blog.leocorporation.dev/2021/07/the-next-chapter-for-educmaths/</guid>
         <description>&lt;p&gt;Educ’Maths was a game to test your knowledge in math. It was developed back in 2018, and was released under the name “Educ’Maths”, and later renamed “Educ’Maths 2018”. At the time, Educ’Maths was one of our first and biggest software we’ve ever released. Then, Educ’Maths became a series of games: Educ’Maths 2019, 2020, and finally, 2021. For each edition, we tried to push the limit of the previous one, and we went from a simple quiz game to an interactive and fun game in 2021. In June 2021, 23% of downloaded softwares were Educ’Maths games.&lt;/p&gt;
 &lt;p&gt;However, we have decided to end the Educ’Maths series here.&lt;/p&gt;
 &lt;p&gt;In previous blog articles, we told you that 2021 is going to be a big year for Léo Corporation, and indeed, we’ve release in 2021 more softwares and software updates than ever. Our vision has through the years evolved, and today, we want to focus on software creation, not games. This doesn’t mean that we will never release games again, but for now, we want to follow a new path for Léo Corporation. This path is impacted by global changes: We are living in an era where computers are now the center of our lives. The vision of Léo Corporation is to improve people’s productivity. We are doing this by releasing each year, new softwares and new experiences.&lt;/p&gt;
@@ -176,19 +191,19 @@
         </item>
         <item>
         <title>Introducing The new Xalyus Store</title>
-        <link>https://leo-corporation.github.io/Blog/2021/05/introducing-new-xalyus-store/</link>
+        <link>https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/</link>
         <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/05/introducing-new-xalyus-store/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/introducing-new-xalyus-store/cover.png" alt="Featured image of post Introducing The new Xalyus Store" /&gt;&lt;p&gt;Last year, we have launched the successor of the “Léo Corporation Store”, Xalyus Store. It came out with a brand-new design and brand features. Today, we are happy to introduce the next evolution of Xalyus Store.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/cover.png" alt="Featured image of post Introducing The new Xalyus Store" /&gt;&lt;p&gt;Last year, we have launched the successor of the “Léo Corporation Store”, Xalyus Store. It came out with a brand-new design and brand features. Today, we are happy to introduce the next evolution of Xalyus Store.&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;When we started creating softwares, we always wanted a place where people could download them. We thought making a website was great, and we did so. But we also wanted a place on desktop, where we could showcase and display our apps. Therefore, we create a software called “Store”. With it, you could download any of our softwares directly from your computer. Then, we wanted to have a complete redesign of this app, and so we decided to modernize it by building a brand-new one: Xalyus Store.&lt;/p&gt;
 &lt;p&gt;Xalyus Store was our redesigned tore, with the same concepts but more polished. However, we encountered the same problem with the “Store”: If we want to add new softwares, update any informations, we needed to update Xalyus Store, which isn’t a great way of distributing new softwares. This is why we are here today, introducing the second major version of Xalyus Store.&lt;/p&gt;
 &lt;h2 id=&#34;completely-autonomous&#34;&gt;Completely autonomous&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/cover.png&#34;
 	width=&#34;1200&#34;
 	height=&#34;700&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/cover_hu7f09eeae559180f24b6b08c0accbe99d_69880_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/cover_hu7f09eeae559180f24b6b08c0accbe99d_69880_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/cover_hu7f09eeae559180f24b6b08c0accbe99d_69880_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/cover_hu7f09eeae559180f24b6b08c0accbe99d_69880_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Home&amp;rdquo; page of Xalyus Store&#34;
@@ -201,10 +216,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;This next evolution of Xalyus Store is complete autonomous: You don’t have to update it to check if new softwares are available, everything is automatic! You may not see a lot of changes compared to the first version, but they are massive since it is about an entire new infrastructure and delivering system.&lt;/p&gt;
 &lt;h2 id=&#34;modern-design&#34;&gt;Modern design&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/2.png&#34;
 	width=&#34;1200&#34;
 	height=&#34;700&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/2_huf051724bd68539e5d868d511866d11f8_69473_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/2_huf051724bd68539e5d868d511866d11f8_69473_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/2_huf051724bd68539e5d868d511866d11f8_69473_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/2_huf051724bd68539e5d868d511866d11f8_69473_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Apps&amp;rdquo; page of Xalyus Store&#34;
@@ -227,11 +242,11 @@
         </item>
         <item>
         <title>New website</title>
-        <link>https://leo-corporation.github.io/Blog/2021/05/new-website/</link>
+        <link>https://blog.leocorporation.dev/2021/05/new-website/</link>
         <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/05/new-website/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/new-website/cover.png" alt="Featured image of post New website" /&gt;&lt;p&gt;Starting today, leocorp.fr will no longer be our main website, and will be replace by leocorporation.dev.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/05/new-website/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/05/new-website/cover.png" alt="Featured image of post New website" /&gt;&lt;p&gt;Starting today, leocorp.fr will no longer be our main website, and will be replace by leocorporation.dev.&lt;/p&gt;
 &lt;p&gt;After a few years using a Wix website, we have made the decision to stop using Wix services and build instead our own website ourselves. We wanted a more personal website that entirely belongs to us, and this is now the case.&lt;/p&gt;
 &lt;p&gt;For a few weeks now, we have been working on a new website using GitHub Pages for the hosting. You could access the website by entering the “https://leo-corporation.github.io/Leo-Corporation-Web/” URL, but you can now access it by typing “leocorporation.dev” in your browser.&lt;/p&gt;
 &lt;p&gt;You will notice that the forum is no longer present.&lt;/p&gt;
@@ -243,20 +258,20 @@
         </item>
         <item>
         <title>Introducing ColorPicker 3</title>
-        <link>https://leo-corporation.github.io/Blog/2021/04/introducing-colorpicker-3/</link>
+        <link>https://blog.leocorporation.dev/2021/04/introducing-colorpicker-3/</link>
         <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/04/introducing-colorpicker-3/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/04/introducing-colorpicker-3/cover.png" alt="Featured image of post Introducing ColorPicker 3" /&gt;&lt;p&gt;A year ago, we have announced the second major version of ColorPicker, which was a big step forward for ColorPicker. Today, we are proud to announce the third version of ColorPicker, with a new design and new features.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/04/introducing-colorpicker-3/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/04/introducing-colorpicker-3/cover.png" alt="Featured image of post Introducing ColorPicker 3" /&gt;&lt;p&gt;A year ago, we have announced the second major version of ColorPicker, which was a big step forward for ColorPicker. Today, we are proud to announce the third version of ColorPicker, with a new design and new features.&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;ColorPicker was the first software for developers. Its goal was to empower a part of the development and/or design process: Color selection. Sometimes, when you want to use a color in a project, and you do not know any information about it, like the RGB values, or the HEX color code, it is very frustrating. Therefore, we created ColorPicker. ColorPicker’s main goal was to solve this problem. Using your mouse pointer, you could point a place on your screen, and get information about the color, at the time, you could only get RGB values. Then, we have released ColorPicker 2, with a new design and new features, like the new manual color-picking tool, and the possibility to get HEX color code. With ColorPicker 3, we wanted to put all this features you love, and make them even better.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-new&#34;&gt;What is new?&lt;/h2&gt;
 &lt;p&gt;ColorPicker 3 introduces a brand-new design like &lt;a class=&#34;link&#34; href=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Passliss’&lt;/a&gt; design, with a navigation bar on the left, and the content on the other side. This minimalist approach is aiming to improve the user experience overall.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/04/introducing-colorpicker-3/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/cover_hu6d49e402343e0aa203165af3337feeff_37446_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/cover_hu6d49e402343e0aa203165af3337feeff_37446_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/04/introducing-colorpicker-3/cover_hu6d49e402343e0aa203165af3337feeff_37446_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/04/introducing-colorpicker-3/cover_hu6d49e402343e0aa203165af3337feeff_37446_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Picker&amp;rdquo; page of ColorPicker&#34;
@@ -268,10 +283,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;ColorPicker 3 also adds a new “Converter” page, to help you convert different color types easier. For instance, you can convert a RGB color to HEX and HSV.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/04/introducing-colorpicker-3/2.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/2_huec19de53eabf445f82e1e5f5c1aa50b6_38186_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/2_huec19de53eabf445f82e1e5f5c1aa50b6_38186_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/04/introducing-colorpicker-3/2_huec19de53eabf445f82e1e5f5c1aa50b6_38186_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/04/introducing-colorpicker-3/2_huec19de53eabf445f82e1e5f5c1aa50b6_38186_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Converter&amp;rdquo; page of ColorPicker&#34;
@@ -283,10 +298,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;ColorPicker 1 was only available in light mode, ColorPicker 2 was only available in dark mode, and ColorPicker is available in both. You can now set in ColorPicker’s settings if you want to use light or dark mode.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/04/introducing-colorpicker-3/3.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/3_hu53e4d7e9ab39922d2f2e2ef1d202128d_40172_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/introducing-colorpicker-3/3_hu53e4d7e9ab39922d2f2e2ef1d202128d_40172_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/04/introducing-colorpicker-3/3_hu53e4d7e9ab39922d2f2e2ef1d202128d_40172_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/04/introducing-colorpicker-3/3_hu53e4d7e9ab39922d2f2e2ef1d202128d_40172_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The dark mode of ColorPicker&#34;
@@ -309,21 +324,21 @@
         </item>
         <item>
         <title>Introducing InternetTest 5</title>
-        <link>https://leo-corporation.github.io/Blog/2021/03/introducing-internettest-5/</link>
+        <link>https://blog.leocorporation.dev/2021/03/introducing-internettest-5/</link>
         <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/03/introducing-internettest-5/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/03/introducing-internettest-5/cover.png" alt="Featured image of post Introducing InternetTest 5" /&gt;&lt;p&gt;Approximately a year ago, we have announced the fourth version of InternetTest. Today, we are proud to announce the InternetTest 5, the next evolution of the utility.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/03/introducing-internettest-5/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/03/introducing-internettest-5/cover.png" alt="Featured image of post Introducing InternetTest 5" /&gt;&lt;p&gt;Approximately a year ago, we have announced the fourth version of InternetTest. Today, we are proud to announce the InternetTest 5, the next evolution of the utility.&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;InternetTest was one of our first software and is also one of the first open-sourced project that we have published on GitHub. InternetTest main purpose was to enable users to check if they are connected to Internet. Why? Because even if you can check it directly by looking to the icon in the Windows system tray, this icon can sometimes be misleading, and therefore we have created InternetTest.&lt;/p&gt;
 &lt;p&gt;Today, InternetTest features have diversified and now, you can also localize IPs, check if a website is down, and you can also customize features, such as dark theme and the default test site.&lt;/p&gt;
 &lt;h2 id=&#34;version-5-codename-syghroni&#34;&gt;Version 5 (Codename Syghroni)&lt;/h2&gt;
 &lt;p&gt;As you lately saw, we are redesigning a lot of our current software, and we are not done yet! InternetTest is now exception, and this fifth version does not include brand new features, but focuses on the user experience and user interface, to make you love InternetTest.&lt;/p&gt;
 &lt;p&gt;As you can see in the pictures below, the new design follows the same guidelines that Passliss or Gerayis uses.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/03/introducing-internettest-5/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The main window of InternetTest 5&#34;
@@ -334,10 +349,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/03/introducing-internettest-5/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The main window of InternetTest 5, in dark theme&#34;
@@ -348,10 +363,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;
-&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover.png&#34;
+&lt;img src=&#34;https://blog.leocorporation.dev/2021/03/introducing-internettest-5/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Locate IP page of InternetTest 5&#34;
@@ -362,10 +377,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;
-&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover.png&#34;
+&lt;img src=&#34;https://blog.leocorporation.dev/2021/03/introducing-internettest-5/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The DownDetector page of InternetTest 5&#34;
@@ -376,10 +391,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;
-&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover.png&#34;
+&lt;img src=&#34;https://blog.leocorporation.dev/2021/03/introducing-internettest-5/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/03/introducing-internettest-5/cover_hu6af9ea77f70ccf042c79c7fbd9e100f3_34252_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The settings of InternetTest 5&#34;
@@ -400,20 +415,20 @@
         </item>
         <item>
         <title>Introducing Gerayis</title>
-        <link>https://leo-corporation.github.io/Blog/2021/03/introducing-gerayis/</link>
+        <link>https://blog.leocorporation.dev/2021/03/introducing-gerayis/</link>
         <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/03/introducing-gerayis/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/03/introducing-gerayis/cover.png" alt="Featured image of post Introducing Gerayis" /&gt;&lt;p&gt;We are starting this month with the release of a new software: Gerayis. Gerayis is the next evolution of Bar Code Generator 2.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/03/introducing-gerayis/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/03/introducing-gerayis/cover.png" alt="Featured image of post Introducing Gerayis" /&gt;&lt;p&gt;We are starting this month with the release of a new software: Gerayis. Gerayis is the next evolution of Bar Code Generator 2.&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;It&amp;rsquo;s been a few years already since we&amp;rsquo;ve released the first version of Bar Code Generator (at the time, named in french &amp;ldquo;Générateur de codes barre&amp;rdquo;). Then, last year, 2020, we&amp;rsquo;ve released Bar Code Generator 2, with a brand new design, and the possibility to generate QR Codes.&lt;/p&gt;
 &lt;p&gt;The second version main purpose was to deliver to our users, a brand new user experience, while also adding new features.
 Gerayis is the next of evolution of Bar Code Generator, with a design and user experience similar to &lt;a class=&#34;link&#34; href=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Passliss&lt;/a&gt;&#39;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/03/introducing-gerayis/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/cover_hu0b071e93705d6c2f85cb089c7ad7697e_32262_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/cover_hu0b071e93705d6c2f85cb089c7ad7697e_32262_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/03/introducing-gerayis/cover_hu0b071e93705d6c2f85cb089c7ad7697e_32262_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/03/introducing-gerayis/cover_hu0b071e93705d6c2f85cb089c7ad7697e_32262_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Bar Code&amp;rdquo; page of Gerayis&#34;
@@ -428,10 +443,10 @@ Gerayis is the next of evolution of Bar Code Generator, with a design and user e
 &lt;p&gt;Gerayis has the same features than Bar Code Generator 2, but they are improved, like the QR Code generator which is using a different library than Bar Code Generator 2: &lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/QRCoder&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;QRCoder&lt;/a&gt;.
 Gerayis also includes an improved dark theme and an updated language system.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/03/introducing-gerayis/2.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/2_huda3afdd284a24668dc6717a232a58de1_34035_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/2_huda3afdd284a24668dc6717a232a58de1_34035_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/03/introducing-gerayis/2_huda3afdd284a24668dc6717a232a58de1_34035_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/03/introducing-gerayis/2_huda3afdd284a24668dc6717a232a58de1_34035_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;QR Code&amp;rdquo; page of Gerayis&#34;
@@ -452,10 +467,10 @@ Gerayis also includes an improved dark theme and an updated language system.&lt;
         </item>
         <item>
         <title>Password Generator 3: The last release is out</title>
-        <link>https://leo-corporation.github.io/Blog/2021/03/password-generator-3-last-release-is-out/</link>
+        <link>https://blog.leocorporation.dev/2021/03/password-generator-3-last-release-is-out/</link>
         <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/03/password-generator-3-last-release-is-out/</guid>
+        <guid>https://blog.leocorporation.dev/2021/03/password-generator-3-last-release-is-out/</guid>
         <description>&lt;p&gt;The release of Password Generator 3 is out, and it&amp;rsquo;s the version 3.7.1.2103.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
@@ -477,17 +492,17 @@ Gerayis also includes an improved dark theme and an updated language system.&lt;
         </item>
         <item>
         <title>Introducing Passliss</title>
-        <link>https://leo-corporation.github.io/Blog/2021/02/introducing-passliss/</link>
+        <link>https://blog.leocorporation.dev/2021/02/introducing-passliss/</link>
         <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/02/introducing-passliss/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/02/introducing-passliss/cover.png" alt="Featured image of post Introducing Passliss" /&gt;&lt;p&gt;After a month of developpment, Passliss, the successor of Password Generator 3 is out and generaly available for the public.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/02/introducing-passliss/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/02/introducing-passliss/cover.png" alt="Featured image of post Introducing Passliss" /&gt;&lt;p&gt;After a month of developpment, Passliss, the successor of Password Generator 3 is out and generaly available for the public.&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Password Generator is part of our most popular softwares since the launch of the third version. This third version was designed to be built on a more modern platform (C# - Windows Forms) and also to deliver a more modern UI (Guna.UI) For Passliss, we chose to focus on one thing: innovation. Passliss is our second software to be built using WPF, and our first software to use our new design guidelines, which mainely focus on User eXperience (UX) but also on User Interface (UI). Thanks to this guidelines, Passliss is offering to our users an intuitive and modern experience.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/cover_huffb5f60309ff2ea485e3f5e3b98d2e90_38472_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/cover_huffb5f60309ff2ea485e3f5e3b98d2e90_38472_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss/cover_huffb5f60309ff2ea485e3f5e3b98d2e90_38472_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/02/introducing-passliss/cover_huffb5f60309ff2ea485e3f5e3b98d2e90_38472_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Passliss&amp;rsquo; main window&#34;
@@ -500,10 +515,10 @@ Gerayis also includes an improved dark theme and an updated language system.&lt;
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 &lt;p&gt;Passliss offers a few useful features to make password generation easier. Let&amp;rsquo;s start with the password generation customization system, the main page. You an easily customize the password that isgoing to be generated, you can choose if the password will include lower case, upper case, numbers and special caracters. You can also choose the length of the password. You can save your configuration by using Password Configurations, which allows you to save a specific password generation configuration.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss/2.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/2_huf93430e73d63529cf08e5a397cb6c34a_44478_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/2_huf93430e73d63529cf08e5a397cb6c34a_44478_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss/2_huf93430e73d63529cf08e5a397cb6c34a_44478_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/02/introducing-passliss/2_huf93430e73d63529cf08e5a397cb6c34a_44478_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Passliss&amp;rsquo; Password configuration feature&#34;
@@ -522,10 +537,10 @@ Gerayis also includes an improved dark theme and an updated language system.&lt;
 &lt;li&gt;Excellent, the chances of someone finding your password are near inexistant.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Passliss also has an auto-update system and a dark mode!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss/3.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/3_hua77fc20e2ccb0faeebea776ab6a1568e_42317_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/introducing-passliss/3_hua77fc20e2ccb0faeebea776ab6a1568e_42317_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss/3_hua77fc20e2ccb0faeebea776ab6a1568e_42317_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/02/introducing-passliss/3_hua77fc20e2ccb0faeebea776ab6a1568e_42317_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Passliss, in dark mode&#34;
@@ -546,16 +561,16 @@ Gerayis also includes an improved dark theme and an updated language system.&lt;
         </item>
         <item>
         <title>A new look</title>
-        <link>https://leo-corporation.github.io/Blog/2021/02/a-new-look/</link>
+        <link>https://blog.leocorporation.dev/2021/02/a-new-look/</link>
         <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/02/a-new-look/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/02/a-new-look/cover.png" alt="Featured image of post A new look" /&gt;&lt;p&gt;2021 is going to be a big year for Léo Corporation. And one of the big announcement this year is our new graphic identity. You may notice, but we&amp;rsquo;ve got a new logo and a new &lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://blog.leocorporation.dev/2021/02/a-new-look/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/02/a-new-look/cover.png" alt="Featured image of post A new look" /&gt;&lt;p&gt;2021 is going to be a big year for Léo Corporation. And one of the big announcement this year is our new graphic identity. You may notice, but we&amp;rsquo;ve got a new logo and a new &lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;website&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/02/a-new-look/cover.png&#34;
 	width=&#34;1920&#34;
 	height=&#34;1080&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/cover_hu3fa0d624947acb53576bf457d0684c1d_54799_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/cover_hu3fa0d624947acb53576bf457d0684c1d_54799_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/02/a-new-look/cover_hu3fa0d624947acb53576bf457d0684c1d_54799_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/02/a-new-look/cover_hu3fa0d624947acb53576bf457d0684c1d_54799_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Our new logo&#34;
@@ -568,10 +583,10 @@ Gerayis also includes an improved dark theme and an updated language system.&lt;
 &gt;&lt;/p&gt;
 &lt;p&gt;It is a part of our new direction for this year. The new logo is more coloful than the older one, and has a new font that we are starting to roll out to our customers: Montserrat.&lt;/p&gt;
 &lt;p&gt;But this is not only this. We&amp;rsquo;ve also updated some icons of our softwares:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/02/a-new-look/2.png&#34;
 	width=&#34;1000&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/2_hu5e5743b854f82d16a5f0c05765f4eab5_236801_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/2_hu5e5743b854f82d16a5f0c05765f4eab5_236801_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/02/a-new-look/2_hu5e5743b854f82d16a5f0c05765f4eab5_236801_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/02/a-new-look/2_hu5e5743b854f82d16a5f0c05765f4eab5_236801_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Bar Code Generator 2 Logo&#34;
@@ -582,10 +597,10 @@ Gerayis also includes an improved dark theme and an updated language system.&lt;
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/02/a-new-look/3.png&#34;
 	width=&#34;1000&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/3_hua143cc6c98a4e9a9609db0061ab0decc_131706_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/3_hua143cc6c98a4e9a9609db0061ab0decc_131706_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/02/a-new-look/3_hua143cc6c98a4e9a9609db0061ab0decc_131706_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/02/a-new-look/3_hua143cc6c98a4e9a9609db0061ab0decc_131706_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;ColorPicker 2 Logo&#34;
@@ -596,10 +611,10 @@ Gerayis also includes an improved dark theme and an updated language system.&lt;
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/4.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/02/a-new-look/4.png&#34;
 	width=&#34;1000&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/4_hud74d484df1a19483567eb4f95c2386e0_194777_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/4_hud74d484df1a19483567eb4f95c2386e0_194777_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/02/a-new-look/4_hud74d484df1a19483567eb4f95c2386e0_194777_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/02/a-new-look/4_hud74d484df1a19483567eb4f95c2386e0_194777_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;InternetTest Logo&#34;
@@ -610,10 +625,10 @@ Gerayis also includes an improved dark theme and an updated language system.&lt;
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/5.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/02/a-new-look/5.png&#34;
 	width=&#34;2000&#34;
 	height=&#34;2000&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/5_hu5325c5e40b6fa01ba016a035212ae06a_78519_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/5_hu5325c5e40b6fa01ba016a035212ae06a_78519_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/02/a-new-look/5_hu5325c5e40b6fa01ba016a035212ae06a_78519_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/02/a-new-look/5_hu5325c5e40b6fa01ba016a035212ae06a_78519_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Passliss Logo&#34;
@@ -624,10 +639,10 @@ Gerayis also includes an improved dark theme and an updated language system.&lt;
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/6.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/02/a-new-look/6.png&#34;
 	width=&#34;1000&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/6_hu6ea7d05127779493a3b07ef85ea17abc_264783_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/6_hu6ea7d05127779493a3b07ef85ea17abc_264783_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/02/a-new-look/6_hu6ea7d05127779493a3b07ef85ea17abc_264783_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/02/a-new-look/6_hu6ea7d05127779493a3b07ef85ea17abc_264783_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Xalyus Store Logo&#34;
@@ -638,10 +653,10 @@ Gerayis also includes an improved dark theme and an updated language system.&lt;
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/7.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/02/a-new-look/7.png&#34;
 	width=&#34;1000&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/7_hu5254a9c7ffc4bdcc763c54643b1fbfc0_178940_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/a-new-look/7_hu5254a9c7ffc4bdcc763c54643b1fbfc0_178940_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/02/a-new-look/7_hu5254a9c7ffc4bdcc763c54643b1fbfc0_178940_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/02/a-new-look/7_hu5254a9c7ffc4bdcc763c54643b1fbfc0_178940_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Xalyus Updater Logo&#34;
@@ -657,10 +672,10 @@ Gerayis also includes an improved dark theme and an updated language system.&lt;
         </item>
         <item>
         <title>The end of the &#34;Tooly Suite&#34;</title>
-        <link>https://leo-corporation.github.io/Blog/2021/02/the-end-of-tooly-suite/</link>
+        <link>https://blog.leocorporation.dev/2021/02/the-end-of-tooly-suite/</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/02/the-end-of-tooly-suite/</guid>
+        <guid>https://blog.leocorporation.dev/2021/02/the-end-of-tooly-suite/</guid>
         <description>&lt;p&gt;Despite many attempts to create the concept of &amp;ldquo;Suite&amp;rdquo;, we annonce that starting the end of Febuary 2021, the Tooly Suite will no longer be maintained or supported.&lt;/p&gt;
 &lt;h2 id=&#34;a-look-back&#34;&gt;A look back&lt;/h2&gt;
 &lt;p&gt;We created the concept of &amp;ldquo;Suite&amp;rdquo; back in 2019, a vision to regroup our different softwares inside a &amp;ldquo;Hub&amp;rdquo;. There was two suite at the time: &amp;ldquo;Essential&amp;rdquo; and &amp;ldquo;Gestion&amp;rdquo;. The &amp;ldquo;Hub&amp;rdquo; is similar to an app launcher. The first attempt failed, and so did the second. It failed because mainly of this two reasons:&lt;/p&gt;
@@ -683,11 +698,11 @@ Thank you to everyone who supported this project.&lt;/p&gt;
         </item>
         <item>
         <title>Introducing Gavilya</title>
-        <link>https://leo-corporation.github.io/Blog/2020/12/introducing-gavilya/</link>
+        <link>https://blog.leocorporation.dev/2020/12/introducing-gavilya/</link>
         <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2020/12/introducing-gavilya/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2020/12/introducing-gavilya/cover.png" alt="Featured image of post Introducing Gavilya" /&gt;&lt;p&gt;We&amp;rsquo;ve been working on a new project for a few months, and if you follow us on GitHub, you may already know what it is, but let&amp;rsquo;s introduce what Gavilya is.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2020/12/introducing-gavilya/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2020/12/introducing-gavilya/cover.png" alt="Featured image of post Introducing Gavilya" /&gt;&lt;p&gt;We&amp;rsquo;ve been working on a new project for a few months, and if you follow us on GitHub, you may already know what it is, but let&amp;rsquo;s introduce what Gavilya is.&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Gavilya is a software that brings all your video games together in one place. Today, there is a lot of game launcher that you need to use depending on the game you wanna play. This is often annoying and this is why we created Gavilya.&lt;/p&gt;
 &lt;h2 id=&#34;integrations-and-features&#34;&gt;Integrations and Features&lt;/h2&gt;
@@ -699,10 +714,10 @@ Thank you to everyone who supported this project.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
 &lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2020/12/introducing-gavilya/cover.png&#34;
 	width=&#34;960&#34;
 	height=&#34;610&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/cover_hu31c6bb9887c2453f9b181d6f4b8f0637_198112_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/cover_hu31c6bb9887c2453f9b181d6f4b8f0637_198112_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2020/12/introducing-gavilya/cover_hu31c6bb9887c2453f9b181d6f4b8f0637_198112_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2020/12/introducing-gavilya/cover_hu31c6bb9887c2453f9b181d6f4b8f0637_198112_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Your Games&amp;rdquo; page of Gavilya.&#34;
@@ -713,10 +728,10 @@ Thank you to everyone who supported this project.&lt;/p&gt;
 		data-flex-basis=&#34;377px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2020/12/introducing-gavilya/2.png&#34;
 	width=&#34;960&#34;
 	height=&#34;610&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/2_hu1956a95ffff0923f57af8ca295105d09_344354_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/2_hu1956a95ffff0923f57af8ca295105d09_344354_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2020/12/introducing-gavilya/2_hu1956a95ffff0923f57af8ca295105d09_344354_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2020/12/introducing-gavilya/2_hu1956a95ffff0923f57af8ca295105d09_344354_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Game Information&amp;rdquo; page of Gavilya.&#34;
@@ -727,10 +742,10 @@ Thank you to everyone who supported this project.&lt;/p&gt;
 		data-flex-basis=&#34;377px&#34;
 	
 &gt;
-&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/3.png&#34;
+&lt;img src=&#34;https://blog.leocorporation.dev/2020/12/introducing-gavilya/3.png&#34;
 	width=&#34;960&#34;
 	height=&#34;610&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/3_hu1956a95ffff0923f57af8ca295105d09_205061_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/3_hu1956a95ffff0923f57af8ca295105d09_205061_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2020/12/introducing-gavilya/3_hu1956a95ffff0923f57af8ca295105d09_205061_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2020/12/introducing-gavilya/3_hu1956a95ffff0923f57af8ca295105d09_205061_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Games recently played&amp;rdquo; page of Gavilya.&#34;
@@ -741,10 +756,10 @@ Thank you to everyone who supported this project.&lt;/p&gt;
 		data-flex-basis=&#34;377px&#34;
 	
 &gt;
-&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/4.png&#34;
+&lt;img src=&#34;https://blog.leocorporation.dev/2020/12/introducing-gavilya/4.png&#34;
 	width=&#34;960&#34;
 	height=&#34;610&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/4_hu1956a95ffff0923f57af8ca295105d09_264185_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2020/12/introducing-gavilya/4_hu1956a95ffff0923f57af8ca295105d09_264185_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2020/12/introducing-gavilya/4_hu1956a95ffff0923f57af8ca295105d09_264185_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2020/12/introducing-gavilya/4_hu1956a95ffff0923f57af8ca295105d09_264185_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Your Games - List&amp;rdquo; page of Gavilya.&#34;

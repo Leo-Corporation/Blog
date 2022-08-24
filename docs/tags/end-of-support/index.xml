@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>End of support on Blog | Léo Corporation</title>
-        <link>https://leo-corporation.github.io/Blog/tags/end-of-support/</link>
+        <link>https://blog.leocorporation.dev/tags/end-of-support/</link>
         <description>Recent content in End of support on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leo-corporation.github.io/Blog/tags/end-of-support/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/end-of-support/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>The next chapter for Educ&#39;Maths</title>
-        <link>https://leo-corporation.github.io/Blog/2021/07/the-next-chapter-for-educmaths/</link>
+        <link>https://blog.leocorporation.dev/2021/07/the-next-chapter-for-educmaths/</link>
         <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/07/the-next-chapter-for-educmaths/</guid>
+        <guid>https://blog.leocorporation.dev/2021/07/the-next-chapter-for-educmaths/</guid>
         <description>&lt;p&gt;Educ’Maths was a game to test your knowledge in math. It was developed back in 2018, and was released under the name “Educ’Maths”, and later renamed “Educ’Maths 2018”. At the time, Educ’Maths was one of our first and biggest software we’ve ever released. Then, Educ’Maths became a series of games: Educ’Maths 2019, 2020, and finally, 2021. For each edition, we tried to push the limit of the previous one, and we went from a simple quiz game to an interactive and fun game in 2021. In June 2021, 23% of downloaded softwares were Educ’Maths games.&lt;/p&gt;
 &lt;p&gt;However, we have decided to end the Educ’Maths series here.&lt;/p&gt;
 &lt;p&gt;In previous blog articles, we told you that 2021 is going to be a big year for Léo Corporation, and indeed, we’ve release in 2021 more softwares and software updates than ever. Our vision has through the years evolved, and today, we want to focus on software creation, not games. This doesn’t mean that we will never release games again, but for now, we want to follow a new path for Léo Corporation. This path is impacted by global changes: We are living in an era where computers are now the center of our lives. The vision of Léo Corporation is to improve people’s productivity. We are doing this by releasing each year, new softwares and new experiences.&lt;/p&gt;
@@ -24,10 +24,10 @@
         </item>
         <item>
         <title>Password Generator 3: The last release is out</title>
-        <link>https://leo-corporation.github.io/Blog/2021/03/password-generator-3-last-release-is-out/</link>
+        <link>https://blog.leocorporation.dev/2021/03/password-generator-3-last-release-is-out/</link>
         <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/03/password-generator-3-last-release-is-out/</guid>
+        <guid>https://blog.leocorporation.dev/2021/03/password-generator-3-last-release-is-out/</guid>
         <description>&lt;p&gt;The release of Password Generator 3 is out, and it&amp;rsquo;s the version 3.7.1.2103.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
@@ -49,10 +49,10 @@
         </item>
         <item>
         <title>The end of the &#34;Tooly Suite&#34;</title>
-        <link>https://leo-corporation.github.io/Blog/2021/02/the-end-of-tooly-suite/</link>
+        <link>https://blog.leocorporation.dev/2021/02/the-end-of-tooly-suite/</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/02/the-end-of-tooly-suite/</guid>
+        <guid>https://blog.leocorporation.dev/2021/02/the-end-of-tooly-suite/</guid>
         <description>&lt;p&gt;Despite many attempts to create the concept of &amp;ldquo;Suite&amp;rdquo;, we annonce that starting the end of Febuary 2021, the Tooly Suite will no longer be maintained or supported.&lt;/p&gt;
 &lt;h2 id=&#34;a-look-back&#34;&gt;A look back&lt;/h2&gt;
 &lt;p&gt;We created the concept of &amp;ldquo;Suite&amp;rdquo; back in 2019, a vision to regroup our different softwares inside a &amp;ldquo;Hub&amp;rdquo;. There was two suite at the time: &amp;ldquo;Essential&amp;rdquo; and &amp;ldquo;Gestion&amp;rdquo;. The &amp;ldquo;Hub&amp;rdquo; is similar to an app launcher. The first attempt failed, and so did the second. It failed because mainly of this two reasons:&lt;/p&gt;

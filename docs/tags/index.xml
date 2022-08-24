@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Blog | Léo Corporation</title>
-        <link>https://leo-corporation.github.io/Blog/tags/</link>
+        <link>https://blog.leocorporation.dev/tags/</link>
         <description>Recent content in Tags on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://leo-corporation.github.io/Blog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>New Features</title>
-        <link>https://leo-corporation.github.io/Blog/tags/new-features/</link>
-        <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+        <lastBuildDate>Wed, 24 Aug 2022 09:33:41 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Identity</title>
+        <link>https://blog.leocorporation.dev/tags/identity/</link>
+        <pubDate>Wed, 24 Aug 2022 09:33:41 +0200</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/tags/new-features/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>OpenSource</title>
-        <link>https://leo-corporation.github.io/Blog/tags/opensource/</link>
-        <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://leo-corporation.github.io/Blog/tags/opensource/</guid>
+        <guid>https://blog.leocorporation.dev/tags/identity/</guid>
         <description></description>
         </item>
         <item>
         <title>Update</title>
-        <link>https://leo-corporation.github.io/Blog/tags/update/</link>
+        <link>https://blog.leocorporation.dev/tags/update/</link>
+        <pubDate>Wed, 24 Aug 2022 09:33:41 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/update/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>New Features</title>
+        <link>https://blog.leocorporation.dev/tags/new-features/</link>
         <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/tags/update/</guid>
+        <guid>https://blog.leocorporation.dev/tags/new-features/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>OpenSource</title>
+        <link>https://blog.leocorporation.dev/tags/opensource/</link>
+        <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/opensource/</guid>
         <description></description>
         </item>
         <item>
         <title>Gaming</title>
-        <link>https://leo-corporation.github.io/Blog/tags/gaming/</link>
+        <link>https://blog.leocorporation.dev/tags/gaming/</link>
         <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/tags/gaming/</guid>
+        <guid>https://blog.leocorporation.dev/tags/gaming/</guid>
         <description></description>
         </item>
         <item>
         <title>For devs</title>
-        <link>https://leo-corporation.github.io/Blog/tags/for-devs/</link>
+        <link>https://blog.leocorporation.dev/tags/for-devs/</link>
         <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/tags/for-devs/</guid>
+        <guid>https://blog.leocorporation.dev/tags/for-devs/</guid>
         <description></description>
         </item>
         <item>
         <title>Package</title>
-        <link>https://leo-corporation.github.io/Blog/tags/package/</link>
+        <link>https://blog.leocorporation.dev/tags/package/</link>
         <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/tags/package/</guid>
+        <guid>https://blog.leocorporation.dev/tags/package/</guid>
         <description></description>
         </item>
         <item>
         <title>Xalyus</title>
-        <link>https://leo-corporation.github.io/Blog/tags/xalyus/</link>
+        <link>https://blog.leocorporation.dev/tags/xalyus/</link>
         <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/tags/xalyus/</guid>
+        <guid>https://blog.leocorporation.dev/tags/xalyus/</guid>
         <description></description>
         </item>
         <item>
         <title>Patch</title>
-        <link>https://leo-corporation.github.io/Blog/tags/patch/</link>
+        <link>https://blog.leocorporation.dev/tags/patch/</link>
         <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/tags/patch/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Identity</title>
-        <link>https://leo-corporation.github.io/Blog/tags/identity/</link>
-        <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://leo-corporation.github.io/Blog/tags/identity/</guid>
+        <guid>https://blog.leocorporation.dev/tags/patch/</guid>
         <description></description>
         </item>
         <item>
         <title>Misc</title>
-        <link>https://leo-corporation.github.io/Blog/tags/misc/</link>
+        <link>https://blog.leocorporation.dev/tags/misc/</link>
         <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/tags/misc/</guid>
+        <guid>https://blog.leocorporation.dev/tags/misc/</guid>
         <description></description>
         </item>
         <item>
         <title>Major</title>
-        <link>https://leo-corporation.github.io/Blog/tags/major/</link>
+        <link>https://blog.leocorporation.dev/tags/major/</link>
         <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/tags/major/</guid>
+        <guid>https://blog.leocorporation.dev/tags/major/</guid>
         <description></description>
         </item>
         <item>
         <title>Status</title>
-        <link>https://leo-corporation.github.io/Blog/tags/status/</link>
+        <link>https://blog.leocorporation.dev/tags/status/</link>
         <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/tags/status/</guid>
+        <guid>https://blog.leocorporation.dev/tags/status/</guid>
         <description></description>
         </item>
         <item>
         <title>New application</title>
-        <link>https://leo-corporation.github.io/Blog/tags/new-application/</link>
+        <link>https://blog.leocorporation.dev/tags/new-application/</link>
         <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/tags/new-application/</guid>
+        <guid>https://blog.leocorporation.dev/tags/new-application/</guid>
         <description></description>
         </item>
         <item>
         <title>End of support</title>
-        <link>https://leo-corporation.github.io/Blog/tags/end-of-support/</link>
+        <link>https://blog.leocorporation.dev/tags/end-of-support/</link>
         <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/tags/end-of-support/</guid>
+        <guid>https://blog.leocorporation.dev/tags/end-of-support/</guid>
         <description></description>
         </item>
         

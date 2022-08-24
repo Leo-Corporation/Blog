@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Gerayis on Blog | Léo Corporation</title>
-        <link>https://leo-corporation.github.io/Blog/categories/gerayis/</link>
+        <link>https://blog.leocorporation.dev/categories/gerayis/</link>
         <description>Recent content in Gerayis on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://leo-corporation.github.io/Blog/categories/gerayis/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/gerayis/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Gerayis: Version 2.2.0.2207 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2022/07/gerayis-version-2202207-is-now-available/</link>
+        <link>https://blog.leocorporation.dev/2022/07/gerayis-version-2202207-is-now-available/</link>
         <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/07/gerayis-version-2202207-is-now-available/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/07/gerayis-version-2202207-is-now-available/cover.png" alt="Featured image of post Gerayis: Version 2.2.0.2207 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available, and it is the version 2.2.0.2207.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/07/gerayis-version-2202207-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/gerayis-version-2202207-is-now-available/cover.png" alt="Featured image of post Gerayis: Version 2.2.0.2207 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available, and it is the version 2.2.0.2207.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -42,10 +42,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/DownloadGerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/gerayis-version-2202207-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/gerayis-version-2202207-is-now-available/cover.png&#34;
 	width=&#34;1000&#34;
 	height=&#34;562&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/gerayis-version-2202207-is-now-available/cover_hucdd8dcb427176cd4548e310b9eee4fe9_47508_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/07/gerayis-version-2202207-is-now-available/cover_hucdd8dcb427176cd4548e310b9eee4fe9_47508_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/07/gerayis-version-2202207-is-now-available/cover_hucdd8dcb427176cd4548e310b9eee4fe9_47508_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/gerayis-version-2202207-is-now-available/cover_hucdd8dcb427176cd4548e310b9eee4fe9_47508_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;info&amp;rdquo; panel of the &amp;ldquo;Bar code&amp;rdquo; page of Gerayis&#34;
@@ -60,11 +60,11 @@
         </item>
         <item>
         <title>Gerayis: Version 2.1.0.2204 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2022/04/gerayis-version-2102204-is-now-available/</link>
+        <link>https://blog.leocorporation.dev/2022/04/gerayis-version-2102204-is-now-available/</link>
         <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/04/gerayis-version-2102204-is-now-available/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/04/gerayis-version-2102204-is-now-available/cover.png" alt="Featured image of post Gerayis: Version 2.1.0.2204 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available, and it bis the version 2.1.0.2204.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/04/gerayis-version-2102204-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/04/gerayis-version-2102204-is-now-available/cover.png" alt="Featured image of post Gerayis: Version 2.1.0.2204 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available, and it bis the version 2.1.0.2204.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -93,10 +93,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadGerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/04/gerayis-version-2102204-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/04/gerayis-version-2102204-is-now-available/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/04/gerayis-version-2102204-is-now-available/cover_hu2e1ae6bdbe58edf26ce24f473dc077d0_32274_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/04/gerayis-version-2102204-is-now-available/cover_hu2e1ae6bdbe58edf26ce24f473dc077d0_32274_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/04/gerayis-version-2102204-is-now-available/cover_hu2e1ae6bdbe58edf26ce24f473dc077d0_32274_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/04/gerayis-version-2102204-is-now-available/cover_hu2e1ae6bdbe58edf26ce24f473dc077d0_32274_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;QR code&amp;rdquo; page of Gerayis&#34;
@@ -111,11 +111,11 @@
         </item>
         <item>
         <title>Gerayis: Version 1.9.1.2201 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2022/01/gerayis-version-1912201/</link>
+        <link>https://blog.leocorporation.dev/2022/01/gerayis-version-1912201/</link>
         <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/01/gerayis-version-1912201/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/01/gerayis-version-1912201/cover.png" alt="Featured image of post Gerayis: Version 1.9.1.2201 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available, and it is the version 1.9.1.2201. Note that this version doesn’t include huge new features, but improvements, fixes, and new translations.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/01/gerayis-version-1912201/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/01/gerayis-version-1912201/cover.png" alt="Featured image of post Gerayis: Version 1.9.1.2201 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available, and it is the version 1.9.1.2201. Note that this version doesn’t include huge new features, but improvements, fixes, and new translations.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -132,10 +132,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadGerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/01/gerayis-version-1912201/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/01/gerayis-version-1912201/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/01/gerayis-version-1912201/cover_hud5766120e15588fd653ee344116d5621_30843_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/01/gerayis-version-1912201/cover_hud5766120e15588fd653ee344116d5621_30843_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/01/gerayis-version-1912201/cover_hud5766120e15588fd653ee344116d5621_30843_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/01/gerayis-version-1912201/cover_hud5766120e15588fd653ee344116d5621_30843_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Bar code&amp;rdquo; page of Gerayis, with the user interface in Chinese.&#34;
@@ -150,11 +150,11 @@
         </item>
         <item>
         <title>Gerayis: Version 1.9.0.2112 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/12/gerayis-version-1902112-is-now-available/</link>
+        <link>https://blog.leocorporation.dev/2021/12/gerayis-version-1902112-is-now-available/</link>
         <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/12/gerayis-version-1902112-is-now-available/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/12/gerayis-version-1902112-is-now-available/cover.png" alt="Featured image of post Gerayis: Version 1.9.0.2112 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available, and it is the version 1.9.0.2112.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/12/gerayis-version-1902112-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/12/gerayis-version-1902112-is-now-available/cover.png" alt="Featured image of post Gerayis: Version 1.9.0.2112 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available, and it is the version 1.9.0.2112.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -180,10 +180,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadGerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/12/gerayis-version-1902112-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/12/gerayis-version-1902112-is-now-available/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/12/gerayis-version-1902112-is-now-available/cover_hu3ae9cf418a0ffec02f00e6211acea6c7_44936_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/12/gerayis-version-1902112-is-now-available/cover_hu3ae9cf418a0ffec02f00e6211acea6c7_44936_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/12/gerayis-version-1902112-is-now-available/cover_hu3ae9cf418a0ffec02f00e6211acea6c7_44936_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/12/gerayis-version-1902112-is-now-available/cover_hu3ae9cf418a0ffec02f00e6211acea6c7_44936_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Gerayis.&#34;
@@ -198,11 +198,11 @@
         </item>
         <item>
         <title>Gerayis: Version 1.8.0.2111 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/11/gerayis-version-1802111-is-now-available/</link>
+        <link>https://blog.leocorporation.dev/2021/11/gerayis-version-1802111-is-now-available/</link>
         <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/11/gerayis-version-1802111-is-now-available/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/11/gerayis-version-1802111-is-now-available/cover.png" alt="Featured image of post Gerayis: Version 1.8.0.2111 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available and it is the version 1.8.0.2111.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/11/gerayis-version-1802111-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/11/gerayis-version-1802111-is-now-available/cover.png" alt="Featured image of post Gerayis: Version 1.8.0.2111 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available and it is the version 1.8.0.2111.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -226,10 +226,10 @@
 &lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;&#34; &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/gerayis-version-1802111-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/11/gerayis-version-1802111-is-now-available/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/gerayis-version-1802111-is-now-available/cover_hu28d7c00ea8bda67c40e6e49f7d6dc162_33305_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/11/gerayis-version-1802111-is-now-available/cover_hu28d7c00ea8bda67c40e6e49f7d6dc162_33305_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/11/gerayis-version-1802111-is-now-available/cover_hu28d7c00ea8bda67c40e6e49f7d6dc162_33305_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/11/gerayis-version-1802111-is-now-available/cover_hu28d7c00ea8bda67c40e6e49f7d6dc162_33305_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Bar code&amp;rdquo; page of Gerayis, with the &amp;ldquo;See full bar code&amp;rdquo; window opened&#34;
@@ -244,11 +244,11 @@
         </item>
         <item>
         <title>Gerayis: The version 1.7.0.2110 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/10/gerayis-version-1702110-is-now-available/</link>
+        <link>https://blog.leocorporation.dev/2021/10/gerayis-version-1702110-is-now-available/</link>
         <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/10/gerayis-version-1702110-is-now-available/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/10/gerayis-version-1702110-is-now-available/cover.PNG" alt="Featured image of post Gerayis: The version 1.7.0.2110 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available and it is the version 1.7.0.2110.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/10/gerayis-version-1702110-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/10/gerayis-version-1702110-is-now-available/cover.PNG" alt="Featured image of post Gerayis: The version 1.7.0.2110 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available and it is the version 1.7.0.2110.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -273,10 +273,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadGerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/gerayis-version-1702110-is-now-available/cover.PNG&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/10/gerayis-version-1702110-is-now-available/cover.PNG&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/gerayis-version-1702110-is-now-available/cover_hue353f4adab07c3ae9763f53e0c9e1c7f_31596_480x0_resize_box_3.PNG 480w, https://leo-corporation.github.io/Blog/Blog/2021/10/gerayis-version-1702110-is-now-available/cover_hue353f4adab07c3ae9763f53e0c9e1c7f_31596_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/10/gerayis-version-1702110-is-now-available/cover_hue353f4adab07c3ae9763f53e0c9e1c7f_31596_480x0_resize_box_3.PNG 480w, https://blog.leocorporation.dev/2021/10/gerayis-version-1702110-is-now-available/cover_hue353f4adab07c3ae9763f53e0c9e1c7f_31596_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;QR code&amp;rdquo; page of Gerayis&#34;
@@ -291,11 +291,11 @@
         </item>
         <item>
         <title>Gerayis: The version 1.6.0.2109 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/09/gerayis-version-1602109-is-now-available/</link>
+        <link>https://blog.leocorporation.dev/2021/09/gerayis-version-1602109-is-now-available/</link>
         <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/09/gerayis-version-1602109-is-now-available/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/09/gerayis-version-1602109-is-now-available/cover.png" alt="Featured image of post Gerayis: The version 1.6.0.2109 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available, and it is the version 1.6.0.2109.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/09/gerayis-version-1602109-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/09/gerayis-version-1602109-is-now-available/cover.png" alt="Featured image of post Gerayis: The version 1.6.0.2109 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available, and it is the version 1.6.0.2109.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -315,10 +315,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadGerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/gerayis-version-1602109-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/09/gerayis-version-1602109-is-now-available/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/gerayis-version-1602109-is-now-available/cover_hua42d384cc91a686c330cd3915f304fd6_47412_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/09/gerayis-version-1602109-is-now-available/cover_hua42d384cc91a686c330cd3915f304fd6_47412_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/09/gerayis-version-1602109-is-now-available/cover_hua42d384cc91a686c330cd3915f304fd6_47412_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/09/gerayis-version-1602109-is-now-available/cover_hua42d384cc91a686c330cd3915f304fd6_47412_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Gerayis.&#34;
@@ -333,11 +333,11 @@
         </item>
         <item>
         <title>Gerayis: The version 1.4.0.2107 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/07/gerayis-version-1402107-is-now-available/</link>
+        <link>https://blog.leocorporation.dev/2021/07/gerayis-version-1402107-is-now-available/</link>
         <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/07/gerayis-version-1402107-is-now-available/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/07/gerayis-version-1402107-is-now-available/cover.png" alt="Featured image of post Gerayis: The version 1.4.0.2107 is now available" /&gt;&lt;p&gt;A new version of Gerayis is available, and it is the version 1.4.0.2107.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/07/gerayis-version-1402107-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/07/gerayis-version-1402107-is-now-available/cover.png" alt="Featured image of post Gerayis: The version 1.4.0.2107 is now available" /&gt;&lt;p&gt;A new version of Gerayis is available, and it is the version 1.4.0.2107.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -357,10 +357,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadGerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/gerayis-version-1402107-is-now-available/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/cover_hu5031d07b3366d642be19b1e74d743071_30730_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/cover_hu5031d07b3366d642be19b1e74d743071_30730_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/gerayis-version-1402107-is-now-available/cover_hu5031d07b3366d642be19b1e74d743071_30730_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/gerayis-version-1402107-is-now-available/cover_hu5031d07b3366d642be19b1e74d743071_30730_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;QR Code&amp;rdquo; page of Gerayis&#34;
@@ -371,10 +371,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/gerayis-version-1402107-is-now-available/2.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/2_hu95ff1efb030322b15979adb3d5d540e1_30999_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/2_hu95ff1efb030322b15979adb3d5d540e1_30999_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/gerayis-version-1402107-is-now-available/2_hu95ff1efb030322b15979adb3d5d540e1_30999_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/gerayis-version-1402107-is-now-available/2_hu95ff1efb030322b15979adb3d5d540e1_30999_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The history of the &amp;ldquo;QR Code&amp;rdquo; page of Gerayis&#34;
@@ -385,10 +385,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;
-&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/3.png&#34;
+&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/gerayis-version-1402107-is-now-available/3.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/3_hucb7eb1259042b54d2230564581150a5e_38023_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/gerayis-version-1402107-is-now-available/3_hucb7eb1259042b54d2230564581150a5e_38023_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/gerayis-version-1402107-is-now-available/3_hucb7eb1259042b54d2230564581150a5e_38023_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/gerayis-version-1402107-is-now-available/3_hucb7eb1259042b54d2230564581150a5e_38023_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The settings of Gerayis&#34;
@@ -403,11 +403,11 @@
         </item>
         <item>
         <title>Gerayis: The version 1.3.0.2106 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/06/gerayis-version-1302106-is-now-available/</link>
+        <link>https://blog.leocorporation.dev/2021/06/gerayis-version-1302106-is-now-available/</link>
         <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/06/gerayis-version-1302106-is-now-available/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/06/gerayis-version-1302106-is-now-available/cover.png" alt="Featured image of post Gerayis: The version 1.3.0.2106 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available, and it is the version 1.3.0.2106.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/06/gerayis-version-1302106-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/06/gerayis-version-1302106-is-now-available/cover.png" alt="Featured image of post Gerayis: The version 1.3.0.2106 is now available" /&gt;&lt;p&gt;A new version of Gerayis is now available, and it is the version 1.3.0.2106.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -432,10 +432,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadGerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/gerayis-version-1302106-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/06/gerayis-version-1302106-is-now-available/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/gerayis-version-1302106-is-now-available/cover_hu75acbcbe9635734eea702483e1fc93e3_46268_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/06/gerayis-version-1302106-is-now-available/cover_hu75acbcbe9635734eea702483e1fc93e3_46268_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/06/gerayis-version-1302106-is-now-available/cover_hu75acbcbe9635734eea702483e1fc93e3_46268_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/06/gerayis-version-1302106-is-now-available/cover_hu75acbcbe9635734eea702483e1fc93e3_46268_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Gerayis&#34;
@@ -450,11 +450,11 @@
         </item>
         <item>
         <title>Gerayis: The version 1.2.0.2105 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/05/gerayis-version-1202105-is-now-available/</link>
+        <link>https://blog.leocorporation.dev/2021/05/gerayis-version-1202105-is-now-available/</link>
         <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/05/gerayis-version-1202105-is-now-available/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/gerayis-version-1202105-is-now-available/cover.png" alt="Featured image of post Gerayis: The version 1.2.0.2105 is now available" /&gt;&lt;p&gt;A new version of Gerayis is available, and it is the version 1.2.0.2105. Note that this version focuses on fixes, but still introduces small new features.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/05/gerayis-version-1202105-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/05/gerayis-version-1202105-is-now-available/cover.png" alt="Featured image of post Gerayis: The version 1.2.0.2105 is now available" /&gt;&lt;p&gt;A new version of Gerayis is available, and it is the version 1.2.0.2105. Note that this version focuses on fixes, but still introduces small new features.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -476,10 +476,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.mediafire.com/file/tn32k3ff6zdvqs4/GerayisSetup.exe/file&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/gerayis-version-1202105-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/05/gerayis-version-1202105-is-now-available/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/gerayis-version-1202105-is-now-available/cover_hufa12b15f53e355bb8b58530683b9263f_47044_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/gerayis-version-1202105-is-now-available/cover_hufa12b15f53e355bb8b58530683b9263f_47044_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/05/gerayis-version-1202105-is-now-available/cover_hufa12b15f53e355bb8b58530683b9263f_47044_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/05/gerayis-version-1202105-is-now-available/cover_hufa12b15f53e355bb8b58530683b9263f_47044_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The dark theme of Gerayis&#34;
@@ -494,11 +494,11 @@
         </item>
         <item>
         <title>Gerayis: The version 1.1.0.2104 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/04/gerayis-version-1102104-is-now-available/</link>
+        <link>https://blog.leocorporation.dev/2021/04/gerayis-version-1102104-is-now-available/</link>
         <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/04/gerayis-version-1102104-is-now-available/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/04/gerayis-version-1102104-is-now-available/cover.png" alt="Featured image of post Gerayis: The version 1.1.0.2104 is now available" /&gt;&lt;p&gt;A new version of Gerayis is available, and it is the version 1.1.0.2104.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/04/gerayis-version-1102104-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/04/gerayis-version-1102104-is-now-available/cover.png" alt="Featured image of post Gerayis: The version 1.1.0.2104 is now available" /&gt;&lt;p&gt;A new version of Gerayis is available, and it is the version 1.1.0.2104.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -517,10 +517,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://DownloadGerayis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Gerayis.&lt;/p&gt;
 &lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/04/gerayis-version-1102104-is-now-available/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/cover_hu02ffc9ad24a4d9b3f99cb5fad6d3d8ab_43100_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/cover_hu02ffc9ad24a4d9b3f99cb5fad6d3d8ab_43100_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/04/gerayis-version-1102104-is-now-available/cover_hu02ffc9ad24a4d9b3f99cb5fad6d3d8ab_43100_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/04/gerayis-version-1102104-is-now-available/cover_hu02ffc9ad24a4d9b3f99cb5fad6d3d8ab_43100_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Settings of Gerayis&#34;
@@ -531,10 +531,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/04/gerayis-version-1102104-is-now-available/2.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/2_hu6775ed1bc3e43624d599900d719e05ad_40738_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/2_hu6775ed1bc3e43624d599900d719e05ad_40738_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/04/gerayis-version-1102104-is-now-available/2_hu6775ed1bc3e43624d599900d719e05ad_40738_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/04/gerayis-version-1102104-is-now-available/2_hu6775ed1bc3e43624d599900d719e05ad_40738_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The bar code section in the settings of Gerayis&#34;
@@ -545,10 +545,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;
-&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/3.png&#34;
+&lt;img src=&#34;https://blog.leocorporation.dev/2021/04/gerayis-version-1102104-is-now-available/3.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/3_hub5000d54276b3f81d23f61dd970b1195_32920_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/gerayis-version-1102104-is-now-available/3_hub5000d54276b3f81d23f61dd970b1195_32920_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/04/gerayis-version-1102104-is-now-available/3_hub5000d54276b3f81d23f61dd970b1195_32920_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/04/gerayis-version-1102104-is-now-available/3_hub5000d54276b3f81d23f61dd970b1195_32920_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A red and black bar code generated using Gerayis&#34;
@@ -563,20 +563,20 @@
         </item>
         <item>
         <title>Introducing Gerayis</title>
-        <link>https://leo-corporation.github.io/Blog/2021/03/introducing-gerayis/</link>
+        <link>https://blog.leocorporation.dev/2021/03/introducing-gerayis/</link>
         <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/03/introducing-gerayis/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/03/introducing-gerayis/cover.png" alt="Featured image of post Introducing Gerayis" /&gt;&lt;p&gt;We are starting this month with the release of a new software: Gerayis. Gerayis is the next evolution of Bar Code Generator 2.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/03/introducing-gerayis/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/03/introducing-gerayis/cover.png" alt="Featured image of post Introducing Gerayis" /&gt;&lt;p&gt;We are starting this month with the release of a new software: Gerayis. Gerayis is the next evolution of Bar Code Generator 2.&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;It&amp;rsquo;s been a few years already since we&amp;rsquo;ve released the first version of Bar Code Generator (at the time, named in french &amp;ldquo;Générateur de codes barre&amp;rdquo;). Then, last year, 2020, we&amp;rsquo;ve released Bar Code Generator 2, with a brand new design, and the possibility to generate QR Codes.&lt;/p&gt;
 &lt;p&gt;The second version main purpose was to deliver to our users, a brand new user experience, while also adding new features.
 Gerayis is the next of evolution of Bar Code Generator, with a design and user experience similar to &lt;a class=&#34;link&#34; href=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Passliss&lt;/a&gt;&#39;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/03/introducing-gerayis/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/cover_hu0b071e93705d6c2f85cb089c7ad7697e_32262_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/cover_hu0b071e93705d6c2f85cb089c7ad7697e_32262_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/03/introducing-gerayis/cover_hu0b071e93705d6c2f85cb089c7ad7697e_32262_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/03/introducing-gerayis/cover_hu0b071e93705d6c2f85cb089c7ad7697e_32262_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Bar Code&amp;rdquo; page of Gerayis&#34;
@@ -591,10 +591,10 @@ Gerayis is the next of evolution of Bar Code Generator, with a design and user e
 &lt;p&gt;Gerayis has the same features than Bar Code Generator 2, but they are improved, like the QR Code generator which is using a different library than Bar Code Generator 2: &lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/QRCoder&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;QRCoder&lt;/a&gt;.
 Gerayis also includes an improved dark theme and an updated language system.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/03/introducing-gerayis/2.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/2_huda3afdd284a24668dc6717a232a58de1_34035_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/introducing-gerayis/2_huda3afdd284a24668dc6717a232a58de1_34035_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/03/introducing-gerayis/2_huda3afdd284a24668dc6717a232a58de1_34035_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/03/introducing-gerayis/2_huda3afdd284a24668dc6717a232a58de1_34035_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;QR Code&amp;rdquo; page of Gerayis&#34;
@@ -615,11 +615,11 @@ Gerayis also includes an improved dark theme and an updated language system.&lt;
         </item>
         <item>
         <title>Bar Code Generator 2: The version 1.5.1.0.2102 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/02/bar-code-generator-2-version-15102102/</link>
+        <link>https://blog.leocorporation.dev/2021/02/bar-code-generator-2-version-15102102/</link>
         <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/02/bar-code-generator-2-version-15102102/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/02/bar-code-generator-2-version-15102102/cover.png" alt="Featured image of post Bar Code Generator 2: The version 1.5.1.0.2102 is now available" /&gt;&lt;p&gt;A new version of Bar Code Generator is now available, and it&amp;rsquo;s the version 1.5.1.2102.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/02/bar-code-generator-2-version-15102102/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/02/bar-code-generator-2-version-15102102/cover.png" alt="Featured image of post Bar Code Generator 2: The version 1.5.1.0.2102 is now available" /&gt;&lt;p&gt;A new version of Bar Code Generator is now available, and it&amp;rsquo;s the version 1.5.1.2102.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
 &lt;ul&gt;
@@ -634,10 +634,10 @@ Gerayis also includes an improved dark theme and an updated language system.&lt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/GCode2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Bar Code Generator 2.&lt;/p&gt;
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/bar-code-generator-2-version-15102102/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/02/bar-code-generator-2-version-15102102/cover.png&#34;
 	width=&#34;621&#34;
 	height=&#34;399&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/bar-code-generator-2-version-15102102/cover_hu158778e8beb5a240d3eae08760dc9091_26048_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/bar-code-generator-2-version-15102102/cover_hu158778e8beb5a240d3eae08760dc9091_26048_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/02/bar-code-generator-2-version-15102102/cover_hu158778e8beb5a240d3eae08760dc9091_26048_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/02/bar-code-generator-2-version-15102102/cover_hu158778e8beb5a240d3eae08760dc9091_26048_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;About page of Bar code generator&#34;

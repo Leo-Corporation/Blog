@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Misc on Blog | Léo Corporation</title>
-        <link>https://leo-corporation.github.io/Blog/tags/misc/</link>
+        <link>https://blog.leocorporation.dev/tags/misc/</link>
         <description>Recent content in Misc on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://leo-corporation.github.io/Blog/tags/misc/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/misc/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>A slight update on our look</title>
-        <link>https://leo-corporation.github.io/Blog/2022/07/a-slight-update-on-our-look/</link>
+        <link>https://blog.leocorporation.dev/2022/07/a-slight-update-on-our-look/</link>
         <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/07/a-slight-update-on-our-look/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/07/a-slight-update-on-our-look/cover.png" alt="Featured image of post A slight update on our look" /&gt;&lt;h2 id=&#34;we-have-a-new-look&#34;&gt;We have a new look!&lt;/h2&gt;
+        <guid>https://blog.leocorporation.dev/2022/07/a-slight-update-on-our-look/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/a-slight-update-on-our-look/cover.png" alt="Featured image of post A slight update on our look" /&gt;&lt;h2 id=&#34;we-have-a-new-look&#34;&gt;We have a new look!&lt;/h2&gt;
 &lt;p&gt;As you may have noticed, we’ve updated our font in our logos and websites. We are announcing that we’re ditching the Montserrat font for Hauora Sans. This font gives more personality to our identity, since the old font was one of the most popular sans serif fonts used in apps, websites, and product. The new one is – indeed – like Montserrat, but it adds some small details that makes it better than the old one.&lt;/p&gt;
 &lt;h3 id=&#34;when-will-this-change-take-effect&#34;&gt;When will this change take effect?&lt;/h3&gt;
 &lt;p&gt;As we said, most of our websites have already received an update. However, our apps haven’t yet. An update should roll out to them this month.&lt;/p&gt;
 &lt;p&gt;Léo Corporation is always evolving, and we would like to thank our users for taking this journey with us.&lt;/p&gt;
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/a-slight-update-on-our-look/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/a-slight-update-on-our-look/cover.png&#34;
 	width=&#34;3438&#34;
 	height=&#34;1146&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/a-slight-update-on-our-look/cover_hu11d46245019c0cc4f6837ea1f8635293_782421_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/07/a-slight-update-on-our-look/cover_hu11d46245019c0cc4f6837ea1f8635293_782421_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/07/a-slight-update-on-our-look/cover_hu11d46245019c0cc4f6837ea1f8635293_782421_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/a-slight-update-on-our-look/cover_hu11d46245019c0cc4f6837ea1f8635293_782421_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Léo Corporation logo, updated with the new Hauora font.&#34;
@@ -36,11 +36,11 @@
         </item>
         <item>
         <title>We&#39;ve updated our visual identity</title>
-        <link>https://leo-corporation.github.io/Blog/2022/01/weve-updated-our-visual-identity/</link>
+        <link>https://blog.leocorporation.dev/2022/01/weve-updated-our-visual-identity/</link>
         <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/01/weve-updated-our-visual-identity/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/01/weve-updated-our-visual-identity/cover.png" alt="Featured image of post We&#39;ve updated our visual identity" /&gt;&lt;p&gt;2021 has been a busy year for Léo Corporation, and 2022 will be focused on how we can improve the user experience across our products.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/01/weve-updated-our-visual-identity/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/01/weve-updated-our-visual-identity/cover.png" alt="Featured image of post We&#39;ve updated our visual identity" /&gt;&lt;p&gt;2021 has been a busy year for Léo Corporation, and 2022 will be focused on how we can improve the user experience across our products.&lt;/p&gt;
 &lt;p&gt;To start this new year, we’ve slightly updated our visual identity to a more colorful one. You may have seen on our &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/LeoCorpNews&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Twitter&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com/LeoCorporationSoftwares/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Facebook&lt;/a&gt;, and &lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/leocorporation_/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Xalyus Store on Blog | Léo Corporation</title>
-        <link>https://leo-corporation.github.io/Blog/categories/xalyus-store/</link>
+        <link>https://blog.leocorporation.dev/categories/xalyus-store/</link>
         <description>Recent content in Xalyus Store on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://leo-corporation.github.io/Blog/categories/xalyus-store/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/xalyus-store/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Xalyus Store: Version 2.3.0.2207 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2022/07/xalyus-store-version-2302207-is-now/</link>
+        <link>https://blog.leocorporation.dev/2022/07/xalyus-store-version-2302207-is-now/</link>
         <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/07/xalyus-store-version-2302207-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/07/xalyus-store-version-2302207-is-now/cover.png" alt="Featured image of post Xalyus Store: Version 2.3.0.2207 is now available" /&gt;&lt;p&gt;A new version of Xalyus Store is now available, and it is the version 2.3.0.2207.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/07/xalyus-store-version-2302207-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/xalyus-store-version-2302207-is-now/cover.png" alt="Featured image of post Xalyus Store: Version 2.3.0.2207 is now available" /&gt;&lt;p&gt;A new version of Xalyus Store is now available, and it is the version 2.3.0.2207.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -38,10 +38,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/xalyus-store&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to learn more about Xalyus Store.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/xalyus-store-version-2302207-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/xalyus-store-version-2302207-is-now/cover.png&#34;
 	width=&#34;1200&#34;
 	height=&#34;700&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/xalyus-store-version-2302207-is-now/cover_hu0f9c7f36a6fcd2280f709212b7541ce8_65222_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/07/xalyus-store-version-2302207-is-now/cover_hu0f9c7f36a6fcd2280f709212b7541ce8_65222_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/07/xalyus-store-version-2302207-is-now/cover_hu0f9c7f36a6fcd2280f709212b7541ce8_65222_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/xalyus-store-version-2302207-is-now/cover_hu0f9c7f36a6fcd2280f709212b7541ce8_65222_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Xalyus Store&amp;rsquo;s &amp;ldquo;App&amp;rdquo; page.&#34;
@@ -56,11 +56,11 @@
         </item>
         <item>
         <title>Xalyus Store: Version 2.2.0.2111 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/11/xalyus-store-version-2202111-is-now/</link>
+        <link>https://blog.leocorporation.dev/2021/11/xalyus-store-version-2202111-is-now/</link>
         <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/11/xalyus-store-version-2202111-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/11/xalyus-store-version-2202111-is-now/cover.png" alt="Featured image of post Xalyus Store: Version 2.2.0.2111 is now available" /&gt;&lt;p&gt;A new version of Xalyus Store is now available, and it is the version 2.2.0.2111.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/11/xalyus-store-version-2202111-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/11/xalyus-store-version-2202111-is-now/cover.png" alt="Featured image of post Xalyus Store: Version 2.2.0.2111 is now available" /&gt;&lt;p&gt;A new version of Xalyus Store is now available, and it is the version 2.2.0.2111.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -84,10 +84,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/xalyus-store&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to learn more about Xalyus Store.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/xalyus-store-version-2202111-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/11/xalyus-store-version-2202111-is-now/cover.png&#34;
 	width=&#34;1200&#34;
 	height=&#34;700&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/xalyus-store-version-2202111-is-now/cover_hu4640f706cfdde5544e9bdac9fb92888f_64298_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/11/xalyus-store-version-2202111-is-now/cover_hu4640f706cfdde5544e9bdac9fb92888f_64298_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/11/xalyus-store-version-2202111-is-now/cover_hu4640f706cfdde5544e9bdac9fb92888f_64298_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/11/xalyus-store-version-2202111-is-now/cover_hu4640f706cfdde5544e9bdac9fb92888f_64298_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Xalyus Store&#34;
@@ -102,11 +102,11 @@
         </item>
         <item>
         <title>Xalyus Store: The version 2.1.0.2108 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/08/xalyus-store-version-2102108-is-now/</link>
+        <link>https://blog.leocorporation.dev/2021/08/xalyus-store-version-2102108-is-now/</link>
         <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/08/xalyus-store-version-2102108-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/08/xalyus-store-version-2102108-is-now/cover.png" alt="Featured image of post Xalyus Store: The version 2.1.0.2108 is now available" /&gt;&lt;p&gt;A new version of Xalyus Store is now available, and it is the version 2.1.0.2108.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/08/xalyus-store-version-2102108-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/08/xalyus-store-version-2102108-is-now/cover.png" alt="Featured image of post Xalyus Store: The version 2.1.0.2108 is now available" /&gt;&lt;p&gt;A new version of Xalyus Store is now available, and it is the version 2.1.0.2108.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -122,10 +122,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadXalyusStore&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Xalyus Store.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/08/xalyus-store-version-2102108-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/08/xalyus-store-version-2102108-is-now/cover.png&#34;
 	width=&#34;1200&#34;
 	height=&#34;700&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/08/xalyus-store-version-2102108-is-now/cover_hud242a234ceca0129abb5e660128f1b80_69464_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/08/xalyus-store-version-2102108-is-now/cover_hud242a234ceca0129abb5e660128f1b80_69464_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/08/xalyus-store-version-2102108-is-now/cover_hud242a234ceca0129abb5e660128f1b80_69464_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/08/xalyus-store-version-2102108-is-now/cover_hud242a234ceca0129abb5e660128f1b80_69464_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Xalyus Store.&#34;
@@ -140,19 +140,19 @@
         </item>
         <item>
         <title>Introducing The new Xalyus Store</title>
-        <link>https://leo-corporation.github.io/Blog/2021/05/introducing-new-xalyus-store/</link>
+        <link>https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/</link>
         <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/05/introducing-new-xalyus-store/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/introducing-new-xalyus-store/cover.png" alt="Featured image of post Introducing The new Xalyus Store" /&gt;&lt;p&gt;Last year, we have launched the successor of the “Léo Corporation Store”, Xalyus Store. It came out with a brand-new design and brand features. Today, we are happy to introduce the next evolution of Xalyus Store.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/cover.png" alt="Featured image of post Introducing The new Xalyus Store" /&gt;&lt;p&gt;Last year, we have launched the successor of the “Léo Corporation Store”, Xalyus Store. It came out with a brand-new design and brand features. Today, we are happy to introduce the next evolution of Xalyus Store.&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;When we started creating softwares, we always wanted a place where people could download them. We thought making a website was great, and we did so. But we also wanted a place on desktop, where we could showcase and display our apps. Therefore, we create a software called “Store”. With it, you could download any of our softwares directly from your computer. Then, we wanted to have a complete redesign of this app, and so we decided to modernize it by building a brand-new one: Xalyus Store.&lt;/p&gt;
 &lt;p&gt;Xalyus Store was our redesigned tore, with the same concepts but more polished. However, we encountered the same problem with the “Store”: If we want to add new softwares, update any informations, we needed to update Xalyus Store, which isn’t a great way of distributing new softwares. This is why we are here today, introducing the second major version of Xalyus Store.&lt;/p&gt;
 &lt;h2 id=&#34;completely-autonomous&#34;&gt;Completely autonomous&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/cover.png&#34;
 	width=&#34;1200&#34;
 	height=&#34;700&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/cover_hu7f09eeae559180f24b6b08c0accbe99d_69880_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/cover_hu7f09eeae559180f24b6b08c0accbe99d_69880_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/cover_hu7f09eeae559180f24b6b08c0accbe99d_69880_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/cover_hu7f09eeae559180f24b6b08c0accbe99d_69880_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Home&amp;rdquo; page of Xalyus Store&#34;
@@ -165,10 +165,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;This next evolution of Xalyus Store is complete autonomous: You don’t have to update it to check if new softwares are available, everything is automatic! You may not see a lot of changes compared to the first version, but they are massive since it is about an entire new infrastructure and delivering system.&lt;/p&gt;
 &lt;h2 id=&#34;modern-design&#34;&gt;Modern design&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/2.png&#34;
 	width=&#34;1200&#34;
 	height=&#34;700&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/2_huf051724bd68539e5d868d511866d11f8_69473_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/introducing-new-xalyus-store/2_huf051724bd68539e5d868d511866d11f8_69473_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/2_huf051724bd68539e5d868d511866d11f8_69473_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/05/introducing-new-xalyus-store/2_huf051724bd68539e5d868d511866d11f8_69473_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Apps&amp;rdquo; page of Xalyus Store&#34;
@@ -191,11 +191,11 @@
         </item>
         <item>
         <title>Xalyus Store: The version 1.3.0.2102 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/02/xalyus-store-version-1302102-is-now/</link>
+        <link>https://blog.leocorporation.dev/2021/02/xalyus-store-version-1302102-is-now/</link>
         <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/02/xalyus-store-version-1302102-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/02/xalyus-store-version-1302102-is-now/cover.png" alt="Featured image of post Xalyus Store: The version 1.3.0.2102 is now available" /&gt;&lt;p&gt;A new version of Xalyus Store is available and it&amp;rsquo;s the version 1.3.0.2102.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/02/xalyus-store-version-1302102-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/02/xalyus-store-version-1302102-is-now/cover.png" alt="Featured image of post Xalyus Store: The version 1.3.0.2102 is now available" /&gt;&lt;p&gt;A new version of Xalyus Store is available and it&amp;rsquo;s the version 1.3.0.2102.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -215,10 +215,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadXalyusStore&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Xalyus Store&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/xalyus-store-version-1302102-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/02/xalyus-store-version-1302102-is-now/cover.png&#34;
 	width=&#34;839&#34;
 	height=&#34;521&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/xalyus-store-version-1302102-is-now/cover_hu55d80e60571c8baa380a19035745606f_54335_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/xalyus-store-version-1302102-is-now/cover_hu55d80e60571c8baa380a19035745606f_54335_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/02/xalyus-store-version-1302102-is-now/cover_hu55d80e60571c8baa380a19035745606f_54335_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/02/xalyus-store-version-1302102-is-now/cover_hu55d80e60571c8baa380a19035745606f_54335_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Passliss shown in Xalyus Store&#34;
@@ -233,11 +233,11 @@
         </item>
         <item>
         <title>Xalyus Store: The version 1.2.8.2012 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2020/12/xalyus-store-version-1282012-is-now/</link>
+        <link>https://blog.leocorporation.dev/2020/12/xalyus-store-version-1282012-is-now/</link>
         <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2020/12/xalyus-store-version-1282012-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2020/12/xalyus-store-version-1282012-is-now/cover.png" alt="Featured image of post Xalyus Store: The version 1.2.8.2012 is now available" /&gt;&lt;p&gt;A new version is available for Xalyus Store, and it&amp;rsquo;s the version 1.2.8.2012.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2020/12/xalyus-store-version-1282012-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2020/12/xalyus-store-version-1282012-is-now/cover.png" alt="Featured image of post Xalyus Store: The version 1.2.8.2012 is now available" /&gt;&lt;p&gt;A new version is available for Xalyus Store, and it&amp;rsquo;s the version 1.2.8.2012.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Added Gavilya to the app list&lt;/li&gt;
@@ -246,10 +246,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadXalyusStore&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Xalyus Store.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/xalyus-store-version-1282012-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2020/12/xalyus-store-version-1282012-is-now/cover.png&#34;
 	width=&#34;610&#34;
 	height=&#34;418&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/xalyus-store-version-1282012-is-now/cover_hud1861479f9aeab24481ef0a5ebf73b8f_53037_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2020/12/xalyus-store-version-1282012-is-now/cover_hud1861479f9aeab24481ef0a5ebf73b8f_53037_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2020/12/xalyus-store-version-1282012-is-now/cover_hud1861479f9aeab24481ef0a5ebf73b8f_53037_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2020/12/xalyus-store-version-1282012-is-now/cover_hud1861479f9aeab24481ef0a5ebf73b8f_53037_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Xalyus Store.&#34;

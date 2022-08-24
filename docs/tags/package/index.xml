@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Package on Blog | Léo Corporation</title>
-        <link>https://leo-corporation.github.io/Blog/tags/package/</link>
+        <link>https://blog.leocorporation.dev/tags/package/</link>
         <description>Recent content in Package on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://leo-corporation.github.io/Blog/tags/package/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/package/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>LeoCorpLibrary: Version 4.9.0.2208 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2022/08/leocorplibrary-version-4902208-is-now/</link>
+        <link>https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/</link>
         <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/08/leocorplibrary-version-4902208-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/08/leocorplibrary-version-4902208-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.9.0.2208 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.9.0.2208.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.9.0.2208 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.9.0.2208.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -42,10 +42,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/08/leocorplibrary-version-4902208-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/cover.png&#34;
 	width=&#34;2002&#34;
 	height=&#34;784&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/08/leocorplibrary-version-4902208-is-now/cover_hu8ec85ac7d7b38adaf4922f5be605c2eb_104228_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/08/leocorplibrary-version-4902208-is-now/cover_hu8ec85ac7d7b38adaf4922f5be605c2eb_104228_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/cover_hu8ec85ac7d7b38adaf4922f5be605c2eb_104228_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/leocorplibrary-version-4902208-is-now/cover_hu8ec85ac7d7b38adaf4922f5be605c2eb_104228_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary.&#34;
@@ -60,11 +60,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.8.0.2207 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2022/07/leocorplibrary-version-4802207-is-now/</link>
+        <link>https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/</link>
         <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/07/leocorplibrary-version-4802207-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/07/leocorplibrary-version-4802207-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.8.0.2207 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.8.0.2207.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.8.0.2207 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.8.0.2207.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -90,10 +90,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/leocorplibrary-version-4802207-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/cover.png&#34;
 	width=&#34;1530&#34;
 	height=&#34;530&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/07/leocorplibrary-version-4802207-is-now/cover_hu5840edcea4a501edbdca28ad40512adc_88122_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/07/leocorplibrary-version-4802207-is-now/cover_hu5840edcea4a501edbdca28ad40512adc_88122_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/cover_hu5840edcea4a501edbdca28ad40512adc_88122_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/cover_hu5840edcea4a501edbdca28ad40512adc_88122_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary that gets the occupied space percentage of a specified drive.&#34;
@@ -108,11 +108,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.7.0.2206 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2022/06/leocorplibrary-version-4702206-is-now/</link>
+        <link>https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/</link>
         <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/06/leocorplibrary-version-4702206-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/06/leocorplibrary-version-4702206-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.7.0.2206 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.7.0.2206.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.7.0.2206 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.7.0.2206.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -141,10 +141,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to check the documentation of LeoCorpLibrary.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/06/leocorplibrary-version-4702206-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/cover.png&#34;
 	width=&#34;1530&#34;
 	height=&#34;578&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/06/leocorplibrary-version-4702206-is-now/cover_huc32a290cd18420283a48359c8800b992_81774_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/06/leocorplibrary-version-4702206-is-now/cover_huc32a290cd18420283a48359c8800b992_81774_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/cover_huc32a290cd18420283a48359c8800b992_81774_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/06/leocorplibrary-version-4702206-is-now/cover_huc32a290cd18420283a48359c8800b992_81774_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary Maths methods.&#34;
@@ -159,11 +159,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.6.0.2205 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2022/05/leocorplibrary-version-4602205-is-now/</link>
+        <link>https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/</link>
         <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/05/leocorplibrary-version-4602205-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/05/leocorplibrary-version-4602205-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.6.0.2205 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.6.0.2205.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.6.0.2205 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.6.0.2205.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -188,10 +188,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/05/leocorplibrary-version-4602205-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/cover.png&#34;
 	width=&#34;1362&#34;
 	height=&#34;578&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/05/leocorplibrary-version-4602205-is-now/cover_hu06be8c228248f08fbb8c4b657a3c34a1_73278_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/05/leocorplibrary-version-4602205-is-now/cover_hu06be8c228248f08fbb8c4b657a3c34a1_73278_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/cover_hu06be8c228248f08fbb8c4b657a3c34a1_73278_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/05/leocorplibrary-version-4602205-is-now/cover_hu06be8c228248f08fbb8c4b657a3c34a1_73278_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary Maths methods.&#34;
@@ -206,11 +206,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.5.0.2204 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2022/04/leocorplibrary-version-4502204-is-now/</link>
+        <link>https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/</link>
         <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/04/leocorplibrary-version-4502204-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/04/leocorplibrary-version-4502204-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.5.0.2204 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available and it is the version 4.5.0.2204.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.5.0.2204 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available and it is the version 4.5.0.2204.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -254,10 +254,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to see the documentation of LeoCorpLibrary.&lt;/p&gt;
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/04/leocorplibrary-version-4502204-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/cover.png&#34;
 	width=&#34;2048&#34;
 	height=&#34;710&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/04/leocorplibrary-version-4502204-is-now/cover_hudcc4343b434834987c0bb8ee4751530e_130185_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/04/leocorplibrary-version-4502204-is-now/cover_hudcc4343b434834987c0bb8ee4751530e_130185_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/cover_hudcc4343b434834987c0bb8ee4751530e_130185_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/04/leocorplibrary-version-4502204-is-now/cover_hudcc4343b434834987c0bb8ee4751530e_130185_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary NetworkConnection methods that can get the status code of a specific website.&#34;
@@ -272,11 +272,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.4.0.2203 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2022/03/leocorplibrary-version-4402203-is-now/</link>
+        <link>https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/03/leocorplibrary-version-4402203-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/03/leocorplibrary-version-4402203-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.4.0.2203 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.4.0.2203.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.4.0.2203 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.4.0.2203.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -306,10 +306,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to check the documentation of LeoCorpLibrary.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/03/leocorplibrary-version-4402203-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/cover.png&#34;
 	width=&#34;2048&#34;
 	height=&#34;524&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/03/leocorplibrary-version-4402203-is-now/cover_hu1d593e28476f24bb596a74f0af5f4da8_75324_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/03/leocorplibrary-version-4402203-is-now/cover_hu1d593e28476f24bb596a74f0af5f4da8_75324_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/cover_hu1d593e28476f24bb596a74f0af5f4da8_75324_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/03/leocorplibrary-version-4402203-is-now/cover_hu1d593e28476f24bb596a74f0af5f4da8_75324_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary. It downloads a file asynchronously using a method implemented in LeoCorpLibrary.&#34;
@@ -324,11 +324,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.3.0.2202 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2022/02/leocorplibrary-version-4302202-is-now/</link>
+        <link>https://blog.leocorporation.dev/2022/02/leocorplibrary-version-4302202-is-now/</link>
         <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/02/leocorplibrary-version-4302202-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/02/leocorplibrary-version-4302202-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.3.0.2202 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.3.0.2202.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/02/leocorplibrary-version-4302202-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/02/leocorplibrary-version-4302202-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.3.0.2202 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.3.0.2202.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -353,10 +353,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/leocorplibrary-version-4302202-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/02/leocorplibrary-version-4302202-is-now/cover.png&#34;
 	width=&#34;1092&#34;
 	height=&#34;562&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/02/leocorplibrary-version-4302202-is-now/cover_hu699787740fe0933e2406d07d19f2d949_72214_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/02/leocorplibrary-version-4302202-is-now/cover_hu699787740fe0933e2406d07d19f2d949_72214_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/02/leocorplibrary-version-4302202-is-now/cover_hu699787740fe0933e2406d07d19f2d949_72214_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/02/leocorplibrary-version-4302202-is-now/cover_hu699787740fe0933e2406d07d19f2d949_72214_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary extensions.&#34;
@@ -371,11 +371,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.2.0.2201 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2022/01/leocorplibrary-version-4202201-is-now/</link>
+        <link>https://blog.leocorporation.dev/2022/01/leocorplibrary-version-4202201-is-now/</link>
         <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/01/leocorplibrary-version-4202201-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/01/leocorplibrary-version-4202201-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.2.0.2201 is now available" /&gt;&lt;p&gt;A new version is now available for both LeoCorpLibrary and LeoCorpLibrary.Core, and it is version 4.2.0.2201.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/01/leocorplibrary-version-4202201-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/01/leocorplibrary-version-4202201-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.2.0.2201 is now available" /&gt;&lt;p&gt;A new version is now available for both LeoCorpLibrary and LeoCorpLibrary.Core, and it is version 4.2.0.2201.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -402,10 +402,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/01/leocorplibrary-version-4202201-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/01/leocorplibrary-version-4202201-is-now/cover.png&#34;
 	width=&#34;1886&#34;
 	height=&#34;1116&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/01/leocorplibrary-version-4202201-is-now/cover_hu70534cbcf8615895428af60149d9c03e_230722_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/01/leocorplibrary-version-4202201-is-now/cover_hu70534cbcf8615895428af60149d9c03e_230722_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/01/leocorplibrary-version-4202201-is-now/cover_hu70534cbcf8615895428af60149d9c03e_230722_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/01/leocorplibrary-version-4202201-is-now/cover_hu70534cbcf8615895428af60149d9c03e_230722_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary NetworkConnection methods.&#34;
@@ -420,11 +420,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.1.0.2112 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/12/leocorplibrary-version-4102112-is-now/</link>
+        <link>https://blog.leocorporation.dev/2021/12/leocorplibrary-version-4102112-is-now/</link>
         <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/12/leocorplibrary-version-4102112-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/12/leocorplibrary-version-4102112-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.1.0.2112 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.1.0.2112.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/12/leocorplibrary-version-4102112-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/12/leocorplibrary-version-4102112-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.1.0.2112 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 4.1.0.2112.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -455,10 +455,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/12/leocorplibrary-version-4102112-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/12/leocorplibrary-version-4102112-is-now/cover.png&#34;
 	width=&#34;1886&#34;
 	height=&#34;1116&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/12/leocorplibrary-version-4102112-is-now/cover_hu70534cbcf8615895428af60149d9c03e_230722_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/12/leocorplibrary-version-4102112-is-now/cover_hu70534cbcf8615895428af60149d9c03e_230722_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/12/leocorplibrary-version-4102112-is-now/cover_hu70534cbcf8615895428af60149d9c03e_230722_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/12/leocorplibrary-version-4102112-is-now/cover_hu70534cbcf8615895428af60149d9c03e_230722_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using NetworkConnection status code methods implemented by LeoCorpLibrary.&#34;
@@ -473,11 +473,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: Version 4.0.0.2111 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/11/leocorplibrary-version-4002111-is-now/</link>
+        <link>https://blog.leocorporation.dev/2021/11/leocorplibrary-version-4002111-is-now/</link>
         <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/11/leocorplibrary-version-4002111-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/11/leocorplibrary-version-4002111-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.0.0.2111 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available and it is the version 4.0.0.2111.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/11/leocorplibrary-version-4002111-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/11/leocorplibrary-version-4002111-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: Version 4.0.0.2111 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available and it is the version 4.0.0.2111.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -502,10 +502,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/leocorplibrary-version-4002111-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/11/leocorplibrary-version-4002111-is-now/cover.png&#34;
 	width=&#34;976&#34;
 	height=&#34;516&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/leocorplibrary-version-4002111-is-now/cover_hu3b37d487d069a6ad6e2c761d209672e3_57094_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/11/leocorplibrary-version-4002111-is-now/cover_hu3b37d487d069a6ad6e2c761d209672e3_57094_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/11/leocorplibrary-version-4002111-is-now/cover_hu3b37d487d069a6ad6e2c761d209672e3_57094_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/11/leocorplibrary-version-4002111-is-now/cover_hu3b37d487d069a6ad6e2c761d209672e3_57094_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary.&#34;
@@ -520,11 +520,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: The version 3.11.0.2110 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/10/leocorplibrary-version-31102110-is-now/</link>
+        <link>https://blog.leocorporation.dev/2021/10/leocorplibrary-version-31102110-is-now/</link>
         <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/10/leocorplibrary-version-31102110-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/10/leocorplibrary-version-31102110-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.11.0.2110 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available and it is the version 3.11.0.2110.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/10/leocorplibrary-version-31102110-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/10/leocorplibrary-version-31102110-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.11.0.2110 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available and it is the version 3.11.0.2110.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -555,10 +555,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to check the documentation of LeoCorpLibrary.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/leocorplibrary-version-31102110-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/10/leocorplibrary-version-31102110-is-now/cover.png&#34;
 	width=&#34;1396&#34;
 	height=&#34;632&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/10/leocorplibrary-version-31102110-is-now/cover_hud962e14dc609e0cae0afee76bce35446_83309_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/10/leocorplibrary-version-31102110-is-now/cover_hud962e14dc609e0cae0afee76bce35446_83309_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/10/leocorplibrary-version-31102110-is-now/cover_hud962e14dc609e0cae0afee76bce35446_83309_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/10/leocorplibrary-version-31102110-is-now/cover_hud962e14dc609e0cae0afee76bce35446_83309_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary.&#34;
@@ -573,11 +573,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: The version 3.10.0.2109 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/09/leocorplibrary-version-31002109-is-now/</link>
+        <link>https://blog.leocorporation.dev/2021/09/leocorplibrary-version-31002109-is-now/</link>
         <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/09/leocorplibrary-version-31002109-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/09/leocorplibrary-version-31002109-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.10.0.2109 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 3.10.0.2109.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/09/leocorplibrary-version-31002109-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/09/leocorplibrary-version-31002109-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.10.0.2109 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 3.10.0.2109.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -610,10 +610,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorplibrary.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to check the documentation of LeoCorpLibrary.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/leocorplibrary-version-31002109-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/09/leocorplibrary-version-31002109-is-now/cover.png&#34;
 	width=&#34;1144&#34;
 	height=&#34;408&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/leocorplibrary-version-31002109-is-now/cover_hu01220818ee8f2ff4de8830e142e4bc97_43235_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/09/leocorplibrary-version-31002109-is-now/cover_hu01220818ee8f2ff4de8830e142e4bc97_43235_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/09/leocorplibrary-version-31002109-is-now/cover_hu01220818ee8f2ff4de8830e142e4bc97_43235_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/09/leocorplibrary-version-31002109-is-now/cover_hu01220818ee8f2ff4de8830e142e4bc97_43235_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code snippet using LeoCorpLibrary.&#34;
@@ -628,11 +628,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: The version 3.8.0.2107 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/07/leocorplibrary-version-3802107-is-now/</link>
+        <link>https://blog.leocorporation.dev/2021/07/leocorplibrary-version-3802107-is-now/</link>
         <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/07/leocorplibrary-version-3802107-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/07/leocorplibrary-version-3802107-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.8.0.2107 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 3.8.0.2107.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/07/leocorplibrary-version-3802107-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/07/leocorplibrary-version-3802107-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.8.0.2107 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it is the version 3.8.0.2107.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -659,10 +659,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/leocorplibrary-version-3802107-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/leocorplibrary-version-3802107-is-now/cover.png&#34;
 	width=&#34;1328&#34;
 	height=&#34;912&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/leocorplibrary-version-3802107-is-now/cover_hu165fee7df3cb246f6e33119e8d3f229a_108979_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/leocorplibrary-version-3802107-is-now/cover_hu165fee7df3cb246f6e33119e8d3f229a_108979_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/leocorplibrary-version-3802107-is-now/cover_hu165fee7df3cb246f6e33119e8d3f229a_108979_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/leocorplibrary-version-3802107-is-now/cover_hu165fee7df3cb246f6e33119e8d3f229a_108979_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code snippet using LeoCorpLibrary&#34;
@@ -677,11 +677,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: The version 3.7.0.2106 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/06/internettest-version-6302207-is-now/</link>
+        <link>https://blog.leocorporation.dev/2021/06/internettest-version-6302207-is-now/</link>
         <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/06/internettest-version-6302207-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/06/internettest-version-6302207-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.7.0.2106 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary and LeoCorpLibrary.Core is available, and it is the version 3.7.0.2106.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/06/internettest-version-6302207-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/06/internettest-version-6302207-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.7.0.2106 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary and LeoCorpLibrary.Core is available, and it is the version 3.7.0.2106.&lt;/p&gt;
 &lt;h2 id=&#34;changelog-for-leocorplibrary&#34;&gt;Changelog for LeoCorpLibrary&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -726,10 +726,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/internettest-version-6302207-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/06/internettest-version-6302207-is-now/cover.png&#34;
 	width=&#34;1684&#34;
 	height=&#34;588&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/06/internettest-version-6302207-is-now/cover_hufaf4939621d62aa92724c566618c1807_86461_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/06/internettest-version-6302207-is-now/cover_hufaf4939621d62aa92724c566618c1807_86461_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/06/internettest-version-6302207-is-now/cover_hufaf4939621d62aa92724c566618c1807_86461_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/06/internettest-version-6302207-is-now/cover_hufaf4939621d62aa92724c566618c1807_86461_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code snippet using LeoCorpLibrary&#34;
@@ -744,11 +744,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: The version 3.6.0.2105 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/05/leocorplibrary-version-3602105-is-now/</link>
+        <link>https://blog.leocorporation.dev/2021/05/leocorplibrary-version-3602105-is-now/</link>
         <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/05/leocorplibrary-version-3602105-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/05/leocorplibrary-version-3602105-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.6.0.2105 is now available" /&gt;&lt;p&gt;A new version is available for LeoCorpLibrary and LeoCorpLibrary.Core, and it is the version 3.6.0.2105.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/05/leocorplibrary-version-3602105-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/05/leocorplibrary-version-3602105-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.6.0.2105 is now available" /&gt;&lt;p&gt;A new version is available for LeoCorpLibrary and LeoCorpLibrary.Core, and it is the version 3.6.0.2105.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -777,10 +777,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/leocorplibrary-version-3602105-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/05/leocorplibrary-version-3602105-is-now/cover.png&#34;
 	width=&#34;1548&#34;
 	height=&#34;444&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/05/leocorplibrary-version-3602105-is-now/cover_hu72f61bba461edb182f02b2ed8203722b_60521_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/05/leocorplibrary-version-3602105-is-now/cover_hu72f61bba461edb182f02b2ed8203722b_60521_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/05/leocorplibrary-version-3602105-is-now/cover_hu72f61bba461edb182f02b2ed8203722b_60521_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/05/leocorplibrary-version-3602105-is-now/cover_hu72f61bba461edb182f02b2ed8203722b_60521_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary&#34;
@@ -795,11 +795,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: The version 3.5.0.2104 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/04/leocorplibrary-version-3502104-is-now/</link>
+        <link>https://blog.leocorporation.dev/2021/04/leocorplibrary-version-3502104-is-now/</link>
         <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/04/leocorplibrary-version-3502104-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/04/leocorplibrary-version-3502104-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.5.0.2104 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it’s the version 3.5.0.2104.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/04/leocorplibrary-version-3502104-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/04/leocorplibrary-version-3502104-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.5.0.2104 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it’s the version 3.5.0.2104.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -826,10 +826,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/leocorplibrary-version-3502104-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/04/leocorplibrary-version-3502104-is-now/cover.png&#34;
 	width=&#34;1716&#34;
 	height=&#34;480&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/04/leocorplibrary-version-3502104-is-now/cover_hu0ace100bce219375bc60080116158a0e_63891_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/04/leocorplibrary-version-3502104-is-now/cover_hu0ace100bce219375bc60080116158a0e_63891_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/04/leocorplibrary-version-3502104-is-now/cover_hu0ace100bce219375bc60080116158a0e_63891_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/04/leocorplibrary-version-3502104-is-now/cover_hu0ace100bce219375bc60080116158a0e_63891_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary&#34;
@@ -844,11 +844,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: The version 3.4.0.2103 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/03/leocorplibrary-version-3402103-is-now/</link>
+        <link>https://blog.leocorporation.dev/2021/03/leocorplibrary-version-3402103-is-now/</link>
         <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/03/leocorplibrary-version-3402103-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/03/leocorplibrary-version-3402103-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.4.0.2103 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary and LeoCorpLibrary.Core is now available, and it&amp;rsquo;s the version 3.4.0.2103.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/03/leocorplibrary-version-3402103-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/03/leocorplibrary-version-3402103-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.4.0.2103 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary and LeoCorpLibrary.Core is now available, and it&amp;rsquo;s the version 3.4.0.2103.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -878,10 +878,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/leocorplibrary-version-3402103-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/03/leocorplibrary-version-3402103-is-now/cover.png&#34;
 	width=&#34;1260&#34;
 	height=&#34;588&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/03/leocorplibrary-version-3402103-is-now/cover_hu9488b7be0ac030fc6b123b9e2def254d_68957_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/03/leocorplibrary-version-3402103-is-now/cover_hu9488b7be0ac030fc6b123b9e2def254d_68957_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/03/leocorplibrary-version-3402103-is-now/cover_hu9488b7be0ac030fc6b123b9e2def254d_68957_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/03/leocorplibrary-version-3402103-is-now/cover_hu9488b7be0ac030fc6b123b9e2def254d_68957_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary&#34;
@@ -896,11 +896,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: The version 3.3.0.2102 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/02/leocorplibrary-version-3302102-is-now/</link>
+        <link>https://blog.leocorporation.dev/2021/02/leocorplibrary-version-3302102-is-now/</link>
         <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/02/leocorplibrary-version-3302102-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/02/leocorplibrary-version-3302102-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.3.0.2102 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it&amp;rsquo;s the version 3.3.0.2102&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/02/leocorplibrary-version-3302102-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/02/leocorplibrary-version-3302102-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.3.0.2102 is now available" /&gt;&lt;p&gt;A new version of LeoCorpLibrary is now available, and it&amp;rsquo;s the version 3.3.0.2102&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -930,10 +930,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/leocorplibrary-version-3302102-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/02/leocorplibrary-version-3302102-is-now/cover.png&#34;
 	width=&#34;1598&#34;
 	height=&#34;624&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/02/leocorplibrary-version-3302102-is-now/cover_hu05733a1a9d1d5ee1f036dec01558160d_99118_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/02/leocorplibrary-version-3302102-is-now/cover_hu05733a1a9d1d5ee1f036dec01558160d_99118_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/02/leocorplibrary-version-3302102-is-now/cover_hu05733a1a9d1d5ee1f036dec01558160d_99118_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/02/leocorplibrary-version-3302102-is-now/cover_hu05733a1a9d1d5ee1f036dec01558160d_99118_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary&#34;
@@ -948,11 +948,11 @@
         </item>
         <item>
         <title>LeoCorpLibrary: The version 3.1.0.2012 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2020/12/leocorplibrary-version-3102012-is-now/</link>
+        <link>https://blog.leocorporation.dev/2020/12/leocorplibrary-version-3102012-is-now/</link>
         <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2020/12/leocorplibrary-version-3102012-is-now/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2020/12/leocorplibrary-version-3102012-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.1.0.2012 is now available" /&gt;&lt;p&gt;A new version is available for LeoCorpLibrary and LeoCorpLibrary.Core. Here&amp;rsquo;s what&amp;rsquo;s new:&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2020/12/leocorplibrary-version-3102012-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2020/12/leocorplibrary-version-3102012-is-now/cover.png" alt="Featured image of post LeoCorpLibrary: The version 3.1.0.2012 is now available" /&gt;&lt;p&gt;A new version is available for LeoCorpLibrary and LeoCorpLibrary.Core. Here&amp;rsquo;s what&amp;rsquo;s new:&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -977,10 +977,10 @@
     &gt;GitHub Packages – LeoCorpLibrary.Core&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/leocorplibrary-version-3102012-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2020/12/leocorplibrary-version-3102012-is-now/cover.png&#34;
 	width=&#34;924&#34;
 	height=&#34;480&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2020/12/leocorplibrary-version-3102012-is-now/cover_hu5436fe7c88e8399ea3f2564c5eaefff3_54943_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2020/12/leocorplibrary-version-3102012-is-now/cover_hu5436fe7c88e8399ea3f2564c5eaefff3_54943_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2020/12/leocorplibrary-version-3102012-is-now/cover_hu5436fe7c88e8399ea3f2564c5eaefff3_54943_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2020/12/leocorplibrary-version-3102012-is-now/cover_hu5436fe7c88e8399ea3f2564c5eaefff3_54943_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A C# code sample using LeoCorpLibrary.&#34;

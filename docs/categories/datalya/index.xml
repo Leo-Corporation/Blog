@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Datalya on Blog | Léo Corporation</title>
-        <link>https://leo-corporation.github.io/Blog/categories/datalya/</link>
+        <link>https://blog.leocorporation.dev/categories/datalya/</link>
         <description>Recent content in Datalya on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://leo-corporation.github.io/Blog/categories/datalya/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/datalya/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Datalya: Version 1.6.0.2208 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2022/08/datalya-version-1602208-is-now-available/</link>
+        <link>https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/</link>
         <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/08/datalya-version-1602208-is-now-available/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/08/datalya-version-1602208-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.6.0.2208 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.6.0.2208.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.6.0.2208 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.6.0.2208.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -46,10 +46,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://datalya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to go to Datalya’s website.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/08/datalya-version-1602208-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/cover.png&#34;
 	width=&#34;1100&#34;
 	height=&#34;650&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/08/datalya-version-1602208-is-now-available/cover_hufb543a81c696a54459748e7f9bfbd549_62304_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/08/datalya-version-1602208-is-now-available/cover_hufb543a81c696a54459748e7f9bfbd549_62304_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/cover_hufb543a81c696a54459748e7f9bfbd549_62304_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/cover_hufb543a81c696a54459748e7f9bfbd549_62304_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Datalya&amp;rsquo;s creator page.&#34;
@@ -64,11 +64,11 @@
         </item>
         <item>
         <title>Datalya: Version 1.5.0.2206 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2022/06/datalya-version-1502206-is-now-available/</link>
+        <link>https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/</link>
         <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/06/datalya-version-1502206-is-now-available/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/06/datalya-version-1502206-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.5.0.2206 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.5.0.2206.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.5.0.2206 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.5.0.2206.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -107,10 +107,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://datalya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to see the website of Datalya.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/06/datalya-version-1502206-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/cover.png&#34;
 	width=&#34;1100&#34;
 	height=&#34;650&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/06/datalya-version-1502206-is-now-available/cover_hue1c9fb88263ff2db33fdc46760fef48c_41959_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/06/datalya-version-1502206-is-now-available/cover_hue1c9fb88263ff2db33fdc46760fef48c_41959_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/cover_hue1c9fb88263ff2db33fdc46760fef48c_41959_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/06/datalya-version-1502206-is-now-available/cover_hue1c9fb88263ff2db33fdc46760fef48c_41959_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Search&amp;rdquo; dialog of Datalya&#34;
@@ -125,11 +125,11 @@
         </item>
         <item>
         <title>Datalya: Version 1.4.2.2204 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2022/04/datalya-version-1422204-is-now-available/</link>
+        <link>https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/</link>
         <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/04/datalya-version-1422204-is-now-available/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/04/datalya-version-1422204-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.4.2.2204 is now available" /&gt;&lt;p&gt;A small update of Datalya is now available, and it is included in version 1.4.2.2204.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.4.2.2204 is now available" /&gt;&lt;p&gt;A small update of Datalya is now available, and it is included in version 1.4.2.2204.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -147,10 +147,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadDatalya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Datalya&lt;/p&gt;
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/04/datalya-version-1422204-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/cover.png&#34;
 	width=&#34;550&#34;
 	height=&#34;300&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/04/datalya-version-1422204-is-now-available/cover_hub353fb89defe48fe8e4dba4b350c9724_11052_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/04/datalya-version-1422204-is-now-available/cover_hub353fb89defe48fe8e4dba4b350c9724_11052_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/cover_hub353fb89defe48fe8e4dba4b350c9724_11052_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/04/datalya-version-1422204-is-now-available/cover_hub353fb89defe48fe8e4dba4b350c9724_11052_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;About&amp;rdquo; dialog of Datalya&#34;
@@ -165,11 +165,11 @@
         </item>
         <item>
         <title>Datalya: Version 1.4.0.2201 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2022/01/datalya-version-1402201-is-now-available/</link>
+        <link>https://blog.leocorporation.dev/2022/01/datalya-version-1402201-is-now-available/</link>
         <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2022/01/datalya-version-1402201-is-now-available/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2022/01/datalya-version-1402201-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.4.0.2201 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.4.0.2201.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/01/datalya-version-1402201-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/01/datalya-version-1402201-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.4.0.2201 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.4.0.2201.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -193,10 +193,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadDatalya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Datalya.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2022/01/datalya-version-1402201-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/01/datalya-version-1402201-is-now-available/cover.png&#34;
 	width=&#34;1100&#34;
 	height=&#34;650&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2022/01/datalya-version-1402201-is-now-available/cover_huacd1241c89f1efe8cb056a30a418bf48_43913_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2022/01/datalya-version-1402201-is-now-available/cover_huacd1241c89f1efe8cb056a30a418bf48_43913_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/01/datalya-version-1402201-is-now-available/cover_huacd1241c89f1efe8cb056a30a418bf48_43913_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/01/datalya-version-1402201-is-now-available/cover_huacd1241c89f1efe8cb056a30a418bf48_43913_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;New database&amp;rdquo; dialog of Datalya.&#34;
@@ -211,11 +211,11 @@
         </item>
         <item>
         <title>Datalya: Version 1.3.0.2111 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/11/datalya-version-1302111-is-now-available/</link>
+        <link>https://blog.leocorporation.dev/2021/11/datalya-version-1302111-is-now-available/</link>
         <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/11/datalya-version-1302111-is-now-available/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/11/datalya-version-1302111-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.3.0.2111 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.3.0.2111.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/11/datalya-version-1302111-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/11/datalya-version-1302111-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.3.0.2111 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.3.0.2111.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -235,10 +235,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadDatalya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download Datalya.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/datalya-version-1302111-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/11/datalya-version-1302111-is-now-available/cover.png&#34;
 	width=&#34;1100&#34;
 	height=&#34;650&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/11/datalya-version-1302111-is-now-available/cover_hu46218ffb232800790066ef3891368b15_69301_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/11/datalya-version-1302111-is-now-available/cover_hu46218ffb232800790066ef3891368b15_69301_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/11/datalya-version-1302111-is-now-available/cover_hu46218ffb232800790066ef3891368b15_69301_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/11/datalya-version-1302111-is-now-available/cover_hu46218ffb232800790066ef3891368b15_69301_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Database&amp;rdquo; tab of Datalya, with the &amp;ldquo;Settings&amp;rdquo; window opened&#34;
@@ -253,11 +253,11 @@
         </item>
         <item>
         <title>Datalya: The version 1.2.0.2109 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/09/datalya-version-1202109-is-now-available/</link>
+        <link>https://blog.leocorporation.dev/2021/09/datalya-version-1202109-is-now-available/</link>
         <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/09/datalya-version-1202109-is-now-available/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/09/datalya-version-1202109-is-now-available/cover.png" alt="Featured image of post Datalya: The version 1.2.0.2109 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.2.0.2109.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/09/datalya-version-1202109-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/09/datalya-version-1202109-is-now-available/cover.png" alt="Featured image of post Datalya: The version 1.2.0.2109 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.2.0.2109.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -284,10 +284,10 @@
 &lt;p&gt;Did you know that Datalya has a website? &lt;a class=&#34;link&#34; href=&#34;https://datalya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to check it out.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/datalya-version-1202109-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/09/datalya-version-1202109-is-now-available/cover.png&#34;
 	width=&#34;1100&#34;
 	height=&#34;650&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/09/datalya-version-1202109-is-now-available/cover_huee04e7ced6564bb062a8c185a6b26cd3_61897_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/09/datalya-version-1202109-is-now-available/cover_huee04e7ced6564bb062a8c185a6b26cd3_61897_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/09/datalya-version-1202109-is-now-available/cover_huee04e7ced6564bb062a8c185a6b26cd3_61897_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/09/datalya-version-1202109-is-now-available/cover_huee04e7ced6564bb062a8c185a6b26cd3_61897_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Content collections&amp;rdquo; window of Datalya.&#34;
@@ -302,11 +302,11 @@
         </item>
         <item>
         <title>Datalya: The version 1.1.0.2108 is now available</title>
-        <link>https://leo-corporation.github.io/Blog/2021/08/datalya-version-1102108-is-now-available/</link>
+        <link>https://blog.leocorporation.dev/2021/08/datalya-version-1102108-is-now-available/</link>
         <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/08/datalya-version-1102108-is-now-available/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/08/datalya-version-1102108-is-now-available/cover.png" alt="Featured image of post Datalya: The version 1.1.0.2108 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.1.0.2108.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2021/08/datalya-version-1102108-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/08/datalya-version-1102108-is-now-available/cover.png" alt="Featured image of post Datalya: The version 1.1.0.2108 is now available" /&gt;&lt;p&gt;A new version of Datalya is now available, and it is the version 1.1.0.2108.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -341,10 +341,10 @@
 &lt;p&gt;Did you know that Datalya has a website? &lt;a class=&#34;link&#34; href=&#34;https://datalya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to check it out.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/08/datalya-version-1102108-is-now-available/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/08/datalya-version-1102108-is-now-available/cover.png&#34;
 	width=&#34;1250&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/08/datalya-version-1102108-is-now-available/cover_hu03cd983527d92ee8cea8e9bd5c0b6d63_52316_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/08/datalya-version-1102108-is-now-available/cover_hu03cd983527d92ee8cea8e9bd5c0b6d63_52316_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/08/datalya-version-1102108-is-now-available/cover_hu03cd983527d92ee8cea8e9bd5c0b6d63_52316_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/08/datalya-version-1102108-is-now-available/cover_hu03cd983527d92ee8cea8e9bd5c0b6d63_52316_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Help&amp;rdquo; window of Datalya.&#34;
@@ -359,16 +359,16 @@
         </item>
         <item>
         <title>Introducing Datalya</title>
-        <link>https://leo-corporation.github.io/Blog/2021/07/introducing-datalya/</link>
+        <link>https://blog.leocorporation.dev/2021/07/introducing-datalya/</link>
         <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://leo-corporation.github.io/Blog/2021/07/introducing-datalya/</guid>
-        <description>&lt;img src="https://leo-corporation.github.io/Blog/2021/07/introducing-datalya/cover.png" alt="Featured image of post Introducing Datalya" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+        <guid>https://blog.leocorporation.dev/2021/07/introducing-datalya/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/07/introducing-datalya/cover.png" alt="Featured image of post Introducing Datalya" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Last year, we’ve launched two products: GestionBiblio X and GestionPerso X. They were specialized database management tools. They provided a brand new and modern user interface at the time. The goal was to rewrite the codebase from Visual Basic to C#, to introduce new features and a new design language. However, these two softwares were only available in French, not in English, and they weren’t receiving updates as much as other Léo Corporation’s softwares. This is why we are today introducing the next generation of database management at Léo Corporation: Datalya.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/cover.png&#34;
 	width=&#34;1100&#34;
 	height=&#34;650&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/cover_hu585b845bac6b9b98f4e385dce7b37f4b_23177_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/cover_hu585b845bac6b9b98f4e385dce7b37f4b_23177_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/cover_hu585b845bac6b9b98f4e385dce7b37f4b_23177_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/introducing-datalya/cover_hu585b845bac6b9b98f4e385dce7b37f4b_23177_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The home page of Datalya.&#34;
@@ -382,10 +382,10 @@
 &lt;h2 id=&#34;whats-datalya&#34;&gt;What&amp;rsquo;s Datalya?&lt;/h2&gt;
 &lt;p&gt;Datalya is a modern and yet simple database management software for Windows. The main innovation of Datalya is Blocks. Blocks are different types of input for a user. For instance, you can have a simple text input, to a checkbox input, without forgetting the dropdown input. These Blocks are customizable, you can name theme, add choices, and more. You can even export your Blocks as a Template, so you can reuse them quickly in other databases. In a nutshell, Blocks are used to create your Database.&lt;/p&gt;
 &lt;p&gt;You can find Blocks in the “Creator” part. Talking about parts, Datalya is divided into two parts: The Creator part, and the Database part. We’ve talked about the Creator part already, so let’s move on to the Database part.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/2.png&#34;
 	width=&#34;1100&#34;
 	height=&#34;650&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/2_hu2eef5c95aec75c556b3140a77e649b6b_53904_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/2_hu2eef5c95aec75c556b3140a77e649b6b_53904_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/2_hu2eef5c95aec75c556b3140a77e649b6b_53904_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/introducing-datalya/2_hu2eef5c95aec75c556b3140a77e649b6b_53904_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Creator part of Datalya.&#34;
@@ -397,10 +397,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The Database part is where the database is. You’ll notice a ribbon UI at the top, and the database’s content filling the rest of the window. By default, it’s empty: Indeed, we need to add an item to the database first. You can go to “Edit” tab in the ribbon, and then click on “Add”. You’ll see that a window with your Blocks has appeared, and in this window, you can fill the fields and then add the item.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/3.png&#34;
 	width=&#34;1100&#34;
 	height=&#34;650&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/3_hue7a0290966fbba52ed17248da6e91028_30750_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/3_hue7a0290966fbba52ed17248da6e91028_30750_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/3_hue7a0290966fbba52ed17248da6e91028_30750_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/introducing-datalya/3_hue7a0290966fbba52ed17248da6e91028_30750_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Database part of Datalya.&#34;
@@ -413,10 +413,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Once you’ve added the item, you can edit it, delete it, etc.&lt;/p&gt;
 &lt;p&gt;The other new feature is the possibility to export a database to an Excel spreadsheet. You can go to the “Export” tab of the ribbon and click on “Export to Excel”. Note that Datalya only supports .xlsx files.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/4.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/4.png&#34;
 	width=&#34;1100&#34;
 	height=&#34;650&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/4_hu585b845bac6b9b98f4e385dce7b37f4b_23177_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/4_hu585b845bac6b9b98f4e385dce7b37f4b_23177_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/4_hu585b845bac6b9b98f4e385dce7b37f4b_23177_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/introducing-datalya/4_hu585b845bac6b9b98f4e385dce7b37f4b_23177_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The home page of Datalya.&#34;
@@ -429,10 +429,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;When launching Datalya, you’ll see the home screen, this is where all your recent files are shown for you to jump into a database quickly. You can even pin your most important databases if you have a lot of them.&lt;/p&gt;
 &lt;p&gt;Datalya is also customizable: it is available in English and French, and it has a dark mode! You can also change update settings and reset them anytime.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/5.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/5.png&#34;
 	width=&#34;1100&#34;
 	height=&#34;650&#34;
-	srcset=&#34;https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/5_huad7e4adbac23ae106fcf61238f387534_36323_480x0_resize_box_3.png 480w, https://leo-corporation.github.io/Blog/Blog/2021/07/introducing-datalya/5_huad7e4adbac23ae106fcf61238f387534_36323_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/5_huad7e4adbac23ae106fcf61238f387534_36323_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/introducing-datalya/5_huad7e4adbac23ae106fcf61238f387534_36323_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The dark theme of Datalya.&#34;

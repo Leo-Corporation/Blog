@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://leo-corporation.github.io/Blog/"
+baseurl = "https://blog.leocorporation.dev/"
 languageCode = "en-us"
 paginate = 5
 title = "Blog | Léo Corporation"
