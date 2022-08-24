@@ -1,0 +1,28 @@
+{{ define "main" }}
+{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
+{{ $filtered := ($pages | intersect $notHidden) }}
+{{ $pag := .Paginate ($filtered) }}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416572564791547"
+    crossorigin="anonymous"></script>
+<!-- Blog1 -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7416572564791547" data-ad-slot="2794618217"
+    data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<section class="article-list">
+    {{ range $index, $element := $pag.Pages }}
+    {{ partial "article-list/default" . }}
+    {{ end }}
+</section>
+
+{{- partial "pagination.html" . -}}
+{{- partial "footer/footer" . -}}
+{{ end }}
+
+{{ define "right-sidebar" }}
+{{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}
