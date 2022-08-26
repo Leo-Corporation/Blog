@@ -6,7 +6,162 @@
         <description>Recent content in OpenSource on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 26 Aug 2022 11:19:43 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Introducing InternetTest Pro</title>
+        <link>https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/</link>
+        <pubDate>Fri, 26 Aug 2022 11:19:43 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/cover.png" alt="Featured image of post Introducing InternetTest Pro" /&gt;&lt;p&gt;We are excited to introduce you the next generation of the InternetTest application; it is called InternetTest Pro!&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;InternetTest is one of our oldest products still maintained and has evolved during all those years, from a simple utility to check if your internet connection is working as expected, to an app that helps you to locate an IP address, check if websites are working or not, and more.
+We are experience creators, and we are more than happy to share with you the pioneer of a new era, InternetTest Pro.&lt;/p&gt;
+&lt;h2 id=&#34;a-new-and-improved-user-interface&#34;&gt;A new and improved user interface&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/home.png&#34;
+	width=&#34;1260&#34;
+	height=&#34;711&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/home_hu2c7366a6a4a4f9eca05e2adf08b4862a_155819_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/home_hu2c7366a6a4a4f9eca05e2adf08b4862a_155819_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Home&amp;rdquo; dashboard of InternetTest&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;425px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;InternetTest Pro, also called InternetTest 7, offers a new user interface; you will notice a brand-new side bar with “pinned” actions and different menus. You can access your favorite functionalities using this new side bar, or by using the “Home” dashboard; it is a place specially made for you where you can quickly find useful actions and features. We have added subtle animations as well.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/dark_ping.png&#34;
+	width=&#34;925&#34;
+	height=&#34;572&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/dark_ping_huf57da0f3ee95b9c25608874b497d475b_377156_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/dark_ping_huf57da0f3ee95b9c25608874b497d475b_377156_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The dark theme of InternetTest Pro&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;161&#34;
+		data-flex-basis=&#34;388px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;We are also introducing an improved light and dark theme; the background of the window is no longer white: Instead, there is a subtle mesh gradient with different colors. The accent color is also more used in different part of the app. Finally, you will notice that there are less shades of gray, and more shades of blue used everywhere in InternetTest.&lt;/p&gt;
+&lt;h2 id=&#34;an-experience-conceived-for-you&#34;&gt;An experience conceived for you&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/gif.gif&#34;
+	width=&#34;1920&#34;
+	height=&#34;1080&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/gif_hu0bfa102810c46a57b06a55741c09d3bb_505742_480x0_resize_box.gif 480w, https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/gif_hu0bfa102810c46a57b06a55741c09d3bb_505742_1024x0_resize_box.gif 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A GIF that shows different Synethia configurations&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;We want our users to have the best experience possible when they use our apps. We believe that our products should adapt to their needs, and that our users should not have to adapt to the limitations of our applications. Therefore, we want to introduce you Synethia, an algorithm that can understand your habits and which features you’d like to use. When you are using InternetTest Pro, Synethia will collect data on how you spent time with each feature, and which interactions you have made. The data is then analyzed, and this how the “Home” dashboard shows you recommended actions and features. The more you use InternetTest Pro, the more Synethia will be able to understand your needs.&lt;/p&gt;
+&lt;p&gt;Now, we are aware that this feature will raise privacy concerns about the data collected, and we want to be fully transparent with you. The data is stored on your device anonymously and is NOT send to Léo Corporation. It is NOT used by any third-party application or company other than InternetTest itself. You have full control over your data; you can reset it or erase it completely. You can, at any time, disable Synethia in the Settings. Synethia cannot interact with other apps or program.&lt;/p&gt;
+&lt;h2 id=&#34;a-new-set-of-features&#34;&gt;A new set of features&lt;/h2&gt;
+&lt;p&gt;InternetTest Pro has all the features included in InternetTest 6, which are: Connection Status, Down Detector, My IP, and Locate an IP. With this new version we are introducing three new features: Ping, IP Config, and WiFi Passwords (recovery).&lt;/p&gt;
+&lt;h3 id=&#34;ping&#34;&gt;Ping&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/ping.png&#34;
+	width=&#34;1259&#34;
+	height=&#34;707&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/ping_hu853d6b890bcc3dc740451ed783f201ac_168588_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/ping_hu853d6b890bcc3dc740451ed783f201ac_168588_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The ping page&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;178&#34;
+		data-flex-basis=&#34;427px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The Ping feature allows you to send a ping request to specified IP address or URL. It works exactly like the “ping” command in Windows. You can get useful information when you make a ping, such as the maximum/minimum and average duration of each request, the number of packages sent, received, or lost, and the IP address if you provided an URL.&lt;/p&gt;
+&lt;h3 id=&#34;ip-config&#34;&gt;IP Config&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/ipconfig.png&#34;
+	width=&#34;1263&#34;
+	height=&#34;710&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/ipconfig_hubd67f62cf47da7ae3206913f38c55a6a_154361_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/ipconfig_hubd67f62cf47da7ae3206913f38c55a6a_154361_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new IP Config feature&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The IP Config feature works the same as the “ipconfig” command available in the Windows command prompt. You will be able to get a list of all the network interfaces registered on your system. By default, only the connected interfaces details are expanded. You can copy the information of each interface. This information contains: Status (connected/disconnected), the DNS Suffix, the local IPv4 and IPv6 address, the subnet mask, and the default gateway IP address (in IPv4 and IPv6).&lt;/p&gt;
+&lt;h3 id=&#34;wifi-passwords&#34;&gt;WiFi Passwords&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/wifi.png&#34;
+	width=&#34;1261&#34;
+	height=&#34;707&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/wifi_huf1d30c9a5728e99bb39cb108a1f38ea4_139280_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/wifi_huf1d30c9a5728e99bb39cb108a1f38ea4_139280_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new WiFi Passwords recovery feature&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;178&#34;
+		data-flex-basis=&#34;428px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;This feature allows you to recover all passwords of all the WiFi networks you have already been connected to. By default, the page is empty for security reasons, you will need to click on the “Get locally stored networks” button to see all registered networks on your device. You can then expand each network details to learn more about the encryption algorithm, the authentication mode, the connection type/mode, and most importantly, the network key. The key is hidden by default; click on the “eye” icon next to it to show the key.&lt;/p&gt;
+&lt;h2 id=&#34;a-new-history&#34;&gt;A new history&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/history.png&#34;
+	width=&#34;1260&#34;
+	height=&#34;711&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/history_hu68096e7bd2dd89c1e7c35690166843f7_139422_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/history_hu68096e7bd2dd89c1e7c35690166843f7_139422_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The history page of InternetTest Pro&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;425px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;We are also glad to announce a unified history page. On this page you will be able to see the results of each test made using the “Status” or “Down Detector” feature. You can erase the history at any time.&lt;/p&gt;
+&lt;h2 id=&#34;simplified-settings&#34;&gt;Simplified settings&lt;/h2&gt;
+&lt;p&gt;We are also committed to improvements of the settings page: Some sections are gone because we grouped them in a single category. For example, the default test website and the default HTTP protocol are now in the same “Web” category. The update system has also been reworked, so you can quickly see if InternetTest Pro is up to date or not. The theme and the default page picker have all been simplified.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/settings.png&#34;
+	width=&#34;1262&#34;
+	height=&#34;708&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/settings_huae478a23d0c943eb1125d3ede91da570_110040_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/settings_huae478a23d0c943eb1125d3ede91da570_110040_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The settings of InternetTest Pro&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;178&#34;
+		data-flex-basis=&#34;427px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-is-next-for-internettest-6&#34;&gt;What is next for InternetTest 6?&lt;/h2&gt;
+&lt;p&gt;The support for InternetTest 6 will end; it won’t receive new features anymore. InternetTest Pro will not be offered as an upgrade of InternetTest 6 because we consider it as a different product. We will let our users choose whether they want to upgrade or not.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadITP7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to explore your new experience with InternetTest Pro.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;Check the official trailer for InternetTest Pro.&lt;/p&gt;
+
+
+  &lt;center&gt;
+    &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/wXTGEAYaRh4&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;/center&gt;
+
+</description>
+        </item>
+        <item>
         <title>Datalya: Version 1.6.0.2208 is now available</title>
         <link>https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/</link>
         <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>

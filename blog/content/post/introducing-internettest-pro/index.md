@@ -73,3 +73,12 @@ The support for InternetTest 6 will end; it won’t receive new features anymore
 
 ## Download
 [Click here](https://tinyurl.com/DownloadITP7) to explore your new experience with InternetTest Pro.
+
+## Video
+Check the official trailer for InternetTest Pro.
+
+{{< rawhtml >}}
+  <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wXTGEAYaRh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </center>
+{{< /rawhtml >}}

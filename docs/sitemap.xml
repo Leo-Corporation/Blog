@@ -3,27 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.leocorporation.dev/</loc>
-    <lastmod>2022-08-24T09:33:41+02:00</lastmod>
+    <lastmod>2022-08-26T11:19:43+02:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/</loc>
-    <lastmod>2022-08-24T09:33:41+02:00</lastmod>
+    <lastmod>2022-08-26T11:19:43+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/categories/information/</loc>
+    <lastmod>2022-08-26T11:19:43+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/categories/internettest/</loc>
+    <lastmod>2022-08-26T11:19:43+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/</loc>
+    <lastmod>2022-08-26T11:19:43+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/new-features/</loc>
+    <lastmod>2022-08-26T11:19:43+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
+    <lastmod>2022-08-26T11:19:43+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/post/</loc>
+    <lastmod>2022-08-26T11:19:43+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/</loc>
+    <lastmod>2022-08-26T11:19:43+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/update/</loc>
+    <lastmod>2022-08-26T11:19:43+02:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/identity/</loc>
     <lastmod>2022-08-24T09:33:41+02:00</lastmod>
   </url><url>
-    <loc>https://blog.leocorporation.dev/categories/information/</loc>
-    <lastmod>2022-08-24T09:33:41+02:00</lastmod>
-  </url><url>
     <loc>https://blog.leocorporation.dev/2022/08/our-new-blog/</loc>
-    <lastmod>2022-08-24T09:33:41+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/post/</loc>
-    <lastmod>2022-08-24T09:33:41+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/</loc>
-    <lastmod>2022-08-24T09:33:41+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/update/</loc>
     <lastmod>2022-08-24T09:33:41+02:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/website/</loc>
@@ -39,12 +51,6 @@
     <lastmod>2022-08-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/</loc>
-    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/new-features/</loc>
-    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
     <lastmod>2022-08-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/gaming/</loc>
@@ -103,9 +109,6 @@
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/07/colorpicker-version-4302207-is-now/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/categories/internettest/</loc>
-    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/07/internettest-version-6302207-is-now/</loc>
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
