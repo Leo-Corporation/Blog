@@ -6,7 +6,63 @@
         <description>Recent content in OpenSource on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 26 Aug 2022 11:19:43 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 04 Sep 2022 10:56:30 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Gavilya: Version 2.9.0.2209 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/09/gavilya-version-2.9.0.2209-is-now-available/</link>
+        <pubDate>Sun, 04 Sep 2022 10:56:30 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/09/gavilya-version-2.9.0.2209-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/09/gavilya-version-2.9.0.2209-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 2.9.0.2209 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 2.9.0.2209.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added FPS Counter (#278) (From &lt;a class=&#34;link&#34; href=&#34;https://github.com/DareathX&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DareathX&lt;/a&gt; / &lt;a class=&#34;link&#34; href=&#34;https://github.com/DareathX/CustomFpsCounter&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CustomFpsCounter&lt;/a&gt;) (Press Ctrl+Shift+F to toggle)&lt;/li&gt;
+&lt;li&gt;Added the possibility to show/hide the FPS Counter (#279)&lt;/li&gt;
+&lt;li&gt;Added translations (#280)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;FPS&amp;rdquo; settings page (#280)&lt;/li&gt;
+&lt;li&gt;Added slider styles (#280)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the opacity of the FPS Counter (#280)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue when selecting a cover&lt;/li&gt;
+&lt;li&gt;Fixed topmost issues&lt;/li&gt;
+&lt;li&gt;The &amp;ldquo;Opacity&amp;rdquo; slider only accepts integers (#280)&lt;/li&gt;
+&lt;li&gt;Fixed issue with counter not working&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated API Key&lt;/li&gt;
+&lt;li&gt;Made the app smoother when exiting it (#281)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;fps-counter&#34;&gt;FPS Counter&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;ve added an FPS Counter. To toggle it, press Ctrl+Shift+F. Note that not all games are supported, and that the frame rate might not be totally accurate, as it is showing the average FPS (not 100% real time).&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gavilya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to go the website of Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/09/gavilya-version-2.9.0.2209-is-now-available/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/09/gavilya-version-2.9.0.2209-is-now-available/cover_hufd3e6f50b9c56c049b80c917376cef6b_33130_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/09/gavilya-version-2.9.0.2209-is-now-available/cover_hufd3e6f50b9c56c049b80c917376cef6b_33130_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Gavilya&amp;rsquo;s FPS settings page.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Introducing InternetTest Pro</title>
         <link>https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/</link>
         <pubDate>Fri, 26 Aug 2022 11:19:43 +0200</pubDate>
@@ -245,7 +301,8 @@ We are experience creators, and we are more than happy to share with you the pio
 &lt;li&gt;The apply button in Settings &amp;gt; Language is no longer visible by default (#270)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;&#34; &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
 &lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gavilya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to go the website of Gavilya.&lt;/p&gt;

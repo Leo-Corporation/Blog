@@ -6,10 +6,18 @@
         <description>Recent content in Tags on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 26 Aug 2022 11:19:43 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 04 Sep 2022 10:56:30 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Gaming</title>
+        <link>https://blog.leocorporation.dev/tags/gaming/</link>
+        <pubDate>Sun, 04 Sep 2022 10:56:30 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/gaming/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>New Features</title>
         <link>https://blog.leocorporation.dev/tags/new-features/</link>
-        <pubDate>Fri, 26 Aug 2022 11:19:43 +0200</pubDate>
+        <pubDate>Sun, 04 Sep 2022 10:56:30 +0200</pubDate>
         
         <guid>https://blog.leocorporation.dev/tags/new-features/</guid>
         <description></description>
@@ -17,7 +25,7 @@
         <item>
         <title>OpenSource</title>
         <link>https://blog.leocorporation.dev/tags/opensource/</link>
-        <pubDate>Fri, 26 Aug 2022 11:19:43 +0200</pubDate>
+        <pubDate>Sun, 04 Sep 2022 10:56:30 +0200</pubDate>
         
         <guid>https://blog.leocorporation.dev/tags/opensource/</guid>
         <description></description>
@@ -25,7 +33,7 @@
         <item>
         <title>Update</title>
         <link>https://blog.leocorporation.dev/tags/update/</link>
-        <pubDate>Fri, 26 Aug 2022 11:19:43 +0200</pubDate>
+        <pubDate>Sun, 04 Sep 2022 10:56:30 +0200</pubDate>
         
         <guid>https://blog.leocorporation.dev/tags/update/</guid>
         <description></description>
@@ -36,14 +44,6 @@
         <pubDate>Wed, 24 Aug 2022 09:33:41 +0200</pubDate>
         
         <guid>https://blog.leocorporation.dev/tags/identity/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Gaming</title>
-        <link>https://blog.leocorporation.dev/tags/gaming/</link>
-        <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/tags/gaming/</guid>
         <description></description>
         </item>
         <item>

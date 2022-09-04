@@ -6,7 +6,15 @@
         <description>Recent content in Categories on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 26 Aug 2022 11:19:43 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 04 Sep 2022 10:56:30 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Gavilya</title>
+        <link>https://blog.leocorporation.dev/categories/gavilya/</link>
+        <pubDate>Sun, 04 Sep 2022 10:56:30 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/categories/gavilya/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/categories/gavilya/gavilya.png" alt="Featured image of post Gavilya" /&gt;</description>
+        </item>
+        <item>
         <title>Information</title>
         <link>https://blog.leocorporation.dev/categories/information/</link>
         <pubDate>Fri, 26 Aug 2022 11:19:43 +0200</pubDate>
@@ -37,14 +45,6 @@
         
         <guid>https://blog.leocorporation.dev/categories/datalya/</guid>
         <description>&lt;img src="https://blog.leocorporation.dev/categories/datalya/datalya.png" alt="Featured image of post Datalya" /&gt;</description>
-        </item>
-        <item>
-        <title>Gavilya</title>
-        <link>https://blog.leocorporation.dev/categories/gavilya/</link>
-        <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/categories/gavilya/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/categories/gavilya/gavilya.png" alt="Featured image of post Gavilya" /&gt;</description>
         </item>
         <item>
         <title>ColorPicker</title>

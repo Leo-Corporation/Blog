@@ -40,7 +40,7 @@ A new version of Gavilya is now available, and it is the version 2.8.0.2208.
 
 ## Download
 
-[Click here]() to download Gavilya.
+[Click here](https://bit.ly/Gavilya) to download Gavilya.
 
 ## Website
 
