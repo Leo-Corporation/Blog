@@ -6,7 +6,15 @@
         <description>Recent content in Categories on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 04 Sep 2022 10:56:30 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 04 Sep 2022 11:29:35 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Gerayis</title>
+        <link>https://blog.leocorporation.dev/categories/gerayis/</link>
+        <pubDate>Sun, 04 Sep 2022 11:29:35 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/categories/gerayis/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/categories/gerayis/gerayis.png" alt="Featured image of post Gerayis" /&gt;</description>
+        </item>
+        <item>
         <title>Gavilya</title>
         <link>https://blog.leocorporation.dev/categories/gavilya/</link>
         <pubDate>Sun, 04 Sep 2022 10:56:30 +0200</pubDate>
@@ -77,14 +85,6 @@
         
         <guid>https://blog.leocorporation.dev/categories/passliss/</guid>
         <description>&lt;img src="https://blog.leocorporation.dev/categories/passliss/passliss.png" alt="Featured image of post Passliss" /&gt;</description>
-        </item>
-        <item>
-        <title>Gerayis</title>
-        <link>https://blog.leocorporation.dev/categories/gerayis/</link>
-        <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/categories/gerayis/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/categories/gerayis/gerayis.png" alt="Featured image of post Gerayis" /&gt;</description>
         </item>
         <item>
         <title>Educ&#39;Maths</title>
