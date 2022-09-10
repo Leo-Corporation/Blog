@@ -14,10 +14,14 @@
         <guid>https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/</guid>
         <description>&lt;img src="https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/cover.png" alt="Featured image of post Passliss: Version 2.5.2.2207 is now available " /&gt;&lt;p&gt;A small new version of Passliss is now available, and it is version 2.5.2.2207.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Added font files (#176)&lt;/li&gt;
 &lt;li&gt;Added translations (#179)&lt;/li&gt;
 &lt;li&gt;Added Open-Source mention (#179)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
 &lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
 &lt;li&gt;Updated font (#176)&lt;/li&gt;
 &lt;li&gt;Removed old font files (#176)&lt;/li&gt;

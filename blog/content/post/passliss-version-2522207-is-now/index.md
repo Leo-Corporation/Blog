@@ -17,10 +17,11 @@ tags:
 A small new version of Passliss is now available, and it is version 2.5.2.2207.
 
 ## Changelog
-
+### New
 - Added font files (#176)
 - Added translations (#179)
 - Added Open-Source mention (#179)
+### Updated
 - Updated LeoCorpLibrary
 - Updated font (#176)
 - Removed old font files (#176)
