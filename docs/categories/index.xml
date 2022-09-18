@@ -6,7 +6,15 @@
         <description>Recent content in Categories on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 10 Sep 2022 10:20:09 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 18 Sep 2022 12:07:09 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>InternetTest</title>
+        <link>https://blog.leocorporation.dev/categories/internettest/</link>
+        <pubDate>Sun, 18 Sep 2022 12:07:09 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/categories/internettest/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/categories/internettest/internettest.png" alt="Featured image of post InternetTest" /&gt;</description>
+        </item>
+        <item>
         <title>Passliss</title>
         <link>https://blog.leocorporation.dev/categories/passliss/</link>
         <pubDate>Sat, 10 Sep 2022 10:20:09 +0200</pubDate>
@@ -37,14 +45,6 @@
         
         <guid>https://blog.leocorporation.dev/categories/information/</guid>
         <description>&lt;img src="https://blog.leocorporation.dev/categories/information/default.png" alt="Featured image of post Information" /&gt;</description>
-        </item>
-        <item>
-        <title>InternetTest</title>
-        <link>https://blog.leocorporation.dev/categories/internettest/</link>
-        <pubDate>Fri, 26 Aug 2022 11:19:43 +0200</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/categories/internettest/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/categories/internettest/internettest.png" alt="Featured image of post InternetTest" /&gt;</description>
         </item>
         <item>
         <title>Website</title>

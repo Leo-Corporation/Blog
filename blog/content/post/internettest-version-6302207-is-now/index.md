@@ -37,7 +37,7 @@ A new version of InternetTest is now available, and it is the version 6.3.0.2207
 
 ## Download
 
-Click here to download InternetTest.
+[Click here](tinyurl.com/DownloadInternetTest) to download InternetTest.
 
 ## Screenshot
 ![The new locate IP page of InternetTest](cover.png)
