@@ -34,7 +34,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;confidential-mode&#34;&gt;Confidential Mode&lt;/h2&gt;
 &lt;p&gt;The Confidential Mode is a new feature of InternetTest which aims to protect the privacy and sensitive information of our users.
-It can be toggled from anywhere in the app; by clicking the button in the title bar. Once it is enabled, IP addresses (and their details), WiFi networks SSIDs, and some IP Config information will be hidden. You can sill retrieve these information by disabling Confidential Mode.&lt;/p&gt;
+It can be toggled from anywhere in the app; by clicking the button in the title bar. Once it is enabled, IP addresses (and their details), WiFi networks SSIDs, and some IP Config information will be hidden. You can still retrieve these information by disabling Confidential Mode.&lt;/p&gt;
 &lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;tinyurl.com/DownloadITP7&#34; &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
