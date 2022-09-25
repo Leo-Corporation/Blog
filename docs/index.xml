@@ -37,6 +37,14 @@
 It can be toggled from anywhere in the app; by clicking the button in the title bar. Once it is enabled, IP addresses (and their details), WiFi networks SSIDs, and some IP Config information will be hidden. You can still retrieve this information by disabling Confidential Mode.&lt;/p&gt;
 &lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;tinyurl.com/DownloadITP7&#34; &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;ve made a video explaining in more details what Confidential Mode is.&lt;/p&gt;
+
+
+  &lt;center&gt;
+    &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/rZx9S7lp94A&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;/center&gt;
+
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/09/internettest-version-7.1.0.2209-is-now-available/cover.png&#34;
 	width=&#34;950&#34;

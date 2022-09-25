@@ -37,5 +37,14 @@ It can be toggled from anywhere in the app; by clicking the button in the title 
 
 [Click here](tinyurl.com/DownloadITP7) to download InternetTest.
 
+## Video
+We've made a video explaining in more details what Confidential Mode is.
+
+{{< rawhtml >}}
+  <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/rZx9S7lp94A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </center>
+{{< /rawhtml >}}
+
 ## Screenshot
 ![The new Confidential Mode of InternetTest in action](cover.png)
