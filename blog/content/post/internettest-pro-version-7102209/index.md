@@ -31,7 +31,7 @@ A new version of InternetTest Pro is now available and brings several new featur
 
 ## Confidential Mode
 The Confidential Mode is a new feature of InternetTest which aims to protect the privacy and sensitive information of our users.
-It can be toggled from anywhere in the app; by clicking the button in the title bar. Once it is enabled, IP addresses (and their details), WiFi networks SSIDs, and some IP Config information will be hidden. You can still retrieve these information by disabling Confidential Mode.
+It can be toggled from anywhere in the app; by clicking the button in the title bar. Once it is enabled, IP addresses (and their details), WiFi networks SSIDs, and some IP Config information will be hidden. You can still retrieve this information by disabling Confidential Mode.
 
 ## Download
 
