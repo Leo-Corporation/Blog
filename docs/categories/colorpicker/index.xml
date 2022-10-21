@@ -7,12 +7,12 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Fri, 21 Oct 2022 13:33:15 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/colorpicker/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>ColorPicker: Version 4.4.0.2208 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/10/colorpicker-version-4402208-is-now/</link>
+        <title>ColorPicker: Version 4.5.0.2210 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/10/colorpicker-version-4.5.0.2210-is-now-available/</link>
         <pubDate>Fri, 21 Oct 2022 13:33:15 +0200</pubDate>
         
-        <guid>https://blog.leocorporation.dev/2022/10/colorpicker-version-4402208-is-now/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/10/colorpicker-version-4402208-is-now/cover.png" alt="Featured image of post ColorPicker: Version 4.4.0.2208 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 4.5.0.2210.&lt;/p&gt;
+        <guid>https://blog.leocorporation.dev/2022/10/colorpicker-version-4.5.0.2210-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/10/colorpicker-version-4.5.0.2210-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 4.5.0.2210 is now available" /&gt;&lt;p&gt;A new version of ColorPicker is now available, and it is the version 4.5.0.2210.&lt;/p&gt;
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
@@ -36,10 +36,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadColorPicker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here&lt;/a&gt; to download ColorPicker&lt;/p&gt;
 &lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/10/colorpicker-version-4402208-is-now/cover.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/10/colorpicker-version-4.5.0.2210-is-now-available/cover.png&#34;
 	width=&#34;800&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2022/10/colorpicker-version-4402208-is-now/cover_huce9a9bf74522a0a54d5f12a28907a43a_33850_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/10/colorpicker-version-4402208-is-now/cover_huce9a9bf74522a0a54d5f12a28907a43a_33850_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/10/colorpicker-version-4.5.0.2210-is-now-available/cover_huce9a9bf74522a0a54d5f12a28907a43a_33850_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/10/colorpicker-version-4.5.0.2210-is-now-available/cover_huce9a9bf74522a0a54d5f12a28907a43a_33850_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;ColorPicker&amp;rsquo;s &amp;ldquo;Palette&amp;rdquo; page with XYZ color type selected.&#34;
