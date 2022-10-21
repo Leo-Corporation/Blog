@@ -6,7 +6,15 @@
         <description>Recent content in Categories on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 18 Sep 2022 12:07:09 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 21 Oct 2022 13:33:15 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ColorPicker</title>
+        <link>https://blog.leocorporation.dev/categories/colorpicker/</link>
+        <pubDate>Fri, 21 Oct 2022 13:33:15 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/categories/colorpicker/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/categories/colorpicker/colorpicker.png" alt="Featured image of post ColorPicker" /&gt;</description>
+        </item>
+        <item>
         <title>InternetTest</title>
         <link>https://blog.leocorporation.dev/categories/internettest/</link>
         <pubDate>Sun, 18 Sep 2022 12:07:09 +0200</pubDate>
@@ -61,14 +69,6 @@
         
         <guid>https://blog.leocorporation.dev/categories/datalya/</guid>
         <description>&lt;img src="https://blog.leocorporation.dev/categories/datalya/datalya.png" alt="Featured image of post Datalya" /&gt;</description>
-        </item>
-        <item>
-        <title>ColorPicker</title>
-        <link>https://blog.leocorporation.dev/categories/colorpicker/</link>
-        <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/categories/colorpicker/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/categories/colorpicker/colorpicker.png" alt="Featured image of post ColorPicker" /&gt;</description>
         </item>
         <item>
         <title>LeoCorpLibrary</title>
