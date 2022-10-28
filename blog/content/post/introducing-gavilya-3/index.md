@@ -43,3 +43,12 @@ You can find the full changelog of this release [here](https://github.com/Leo-Co
 
 ## Download
 [Click here](https://bit.ly/Gavilya) to download Gavilya.
+
+## Video
+Check the official trailer for Gavilya 3.
+
+{{< rawhtml >}}
+  <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/kDGLLng3lCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </center>
+{{< /rawhtml >}}
