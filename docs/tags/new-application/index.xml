@@ -6,7 +6,89 @@
         <description>Recent content in New application on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-application/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 28 Oct 2022 11:17:28 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-application/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Introducing Gavilya 3</title>
+        <link>https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/</link>
+        <pubDate>Fri, 28 Oct 2022 11:17:28 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/cover.png" alt="Featured image of post Introducing Gavilya 3" /&gt;&lt;p&gt;Almost two years after its first stable release, we&amp;rsquo;re proud to introduce you Gavilya 3, the next evolution of our game launcher.&lt;/p&gt;
+&lt;h2 id=&#34;a-new-design&#34;&gt;A new design&lt;/h2&gt;
+&lt;p&gt;With this new iteration of Gavilya, we decided to improve the user experience alongside with the user interface. Gavilya 3 now features a sidebar where you can find the home page, your games, those you played recently, and also your favorites. You can access you notifications directly from sidebar too. Located on the left side of the app, the sidebar gathers all of Gavilya&amp;rsquo;s features in one place. With the new sidebar, all buttons and menus in the title bar have been removed.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/2.png&#34;
+	width=&#34;1913&#34;
+	height=&#34;1025&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/2_hu819e2668b60520cfe33743a1a07197ab_614917_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/2_hu819e2668b60520cfe33743a1a07197ab_614917_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new sidebar&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;186&#34;
+		data-flex-basis=&#34;447px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;improved-profiles&#34;&gt;Improved profiles&lt;/h2&gt;
+&lt;p&gt;Profiles are an important feature of Gavilya. In version 3, the profile experience has been improved; we merged your profile page with the profile switcher, making it easier than ever to create and manage profiles in Gavilya.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/3.png&#34;
+	width=&#34;1913&#34;
+	height=&#34;1025&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/3_hufeeae3064479e206e2eea974655124f7_161502_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/3_hufeeae3064479e206e2eea974655124f7_161502_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The profile page&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;186&#34;
+		data-flex-basis=&#34;447px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;modern-settings&#34;&gt;Modern settings&lt;/h2&gt;
+&lt;p&gt;The settings window of Gavilya wasn&amp;rsquo;t really intuitive; therefore, we completely re-imagined the settings experience. Settings can now be access straight from the sidebar, and it will shows up in a new page instead of a window. You can now focus more on what you want to do with the new settings page design: It&amp;rsquo;s simple and intuitive. The design is similar to the one used in our other apps.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/4.png&#34;
+	width=&#34;1913&#34;
+	height=&#34;1025&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/4_huce001343679281f0ca22f9da9a68f6d9_74330_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/4_huce001343679281f0ca22f9da9a68f6d9_74330_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new settings page of Gavilya&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;186&#34;
+		data-flex-basis=&#34;447px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;new-card-view&#34;&gt;New card view&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;ve also redesigned a key part of Gavilya: The card view. You will notice that the play button is no longer visible by default: To bring it back, simply hover the card and it will show up again. When hovering a card, you can also now see the name of the game at a glance.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/5.png&#34;
+	width=&#34;1913&#34;
+	height=&#34;1025&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/5_hu29fed4cacc38e6931e5bdb2b1db76ad6_1578028_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/5_hu29fed4cacc38e6931e5bdb2b1db76ad6_1578028_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The redesigned card view&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;186&#34;
+		data-flex-basis=&#34;447px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sorting-options&#34;&gt;Sorting options&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;ve also added sorting options to Gavilya: You can sort your games by the alphabetical order or not.&lt;/p&gt;
+&lt;h2 id=&#34;other-improvements&#34;&gt;Other improvements&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;ve also improved the design consistency across all the pages of Gavilya. We made improvements to performances and fixed some issues. You can now disable notifications as well.&lt;/p&gt;
+&lt;p&gt;You can find the full changelog of this release &lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/Gavilya/releases/tag/3.0.0.2210&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Introducing Datalya</title>
         <link>https://blog.leocorporation.dev/2021/07/introducing-datalya/</link>
         <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>

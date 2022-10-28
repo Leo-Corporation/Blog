@@ -3,10 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.leocorporation.dev/</loc>
-    <lastmod>2022-10-21T13:33:15+02:00</lastmod>
+    <lastmod>2022-10-28T11:17:28+02:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/</loc>
-    <lastmod>2022-10-21T13:33:15+02:00</lastmod>
+    <lastmod>2022-10-28T11:17:28+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/gaming/</loc>
+    <lastmod>2022-10-28T11:17:28+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/categories/gavilya/</loc>
+    <lastmod>2022-10-28T11:17:28+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/categories/information/</loc>
+    <lastmod>2022-10-28T11:17:28+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/</loc>
+    <lastmod>2022-10-28T11:17:28+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/new-application/</loc>
+    <lastmod>2022-10-28T11:17:28+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
+    <lastmod>2022-10-28T11:17:28+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/post/</loc>
+    <lastmod>2022-10-28T11:17:28+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/</loc>
+    <lastmod>2022-10-28T11:17:28+02:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/colorpicker/</loc>
     <lastmod>2022-10-21T13:33:15+02:00</lastmod>
@@ -18,15 +42,6 @@
     <lastmod>2022-10-21T13:33:15+02:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/new-features/</loc>
-    <lastmod>2022-10-21T13:33:15+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
-    <lastmod>2022-10-21T13:33:15+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/post/</loc>
-    <lastmod>2022-10-21T13:33:15+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/</loc>
     <lastmod>2022-10-21T13:33:15+02:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/update/</loc>
@@ -50,17 +65,8 @@
     <loc>https://blog.leocorporation.dev/2022/09/gerayis-version-2.3.0.2209-is-now-available/</loc>
     <lastmod>2022-09-04T11:29:35+02:00</lastmod>
   </url><url>
-    <loc>https://blog.leocorporation.dev/tags/gaming/</loc>
-    <lastmod>2022-09-04T10:56:30+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/categories/gavilya/</loc>
-    <lastmod>2022-09-04T10:56:30+02:00</lastmod>
-  </url><url>
     <loc>https://blog.leocorporation.dev/2022/09/gavilya-version-2.9.0.2209-is-now-available/</loc>
     <lastmod>2022-09-04T10:56:30+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/categories/information/</loc>
-    <lastmod>2022-08-26T11:19:43+02:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/</loc>
     <lastmod>2022-08-26T11:19:43+02:00</lastmod>
@@ -342,9 +348,6 @@
     <lastmod>2021-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2021/07/introducing-datalya/</loc>
-    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/new-application/</loc>
     <lastmod>2021-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/educmaths/</loc>
