@@ -11,7 +11,6 @@ tags:
     - OpenSource
     - For devs
 ---
-
 A new version of ColorPicker is now available, and it is the version 4.5.0.2210.
 
 ## Changelog
@@ -30,6 +29,11 @@ A new version of ColorPicker is now available, and it is the version 4.5.0.2210.
 ### Fixed
 - Fixed a translation issue
 - Made the app smoother when closing it (#174)
+
+----
+
+### Update of October 30, 2022
+Version 4.5.1.2210 has released, bringing the Italian language to ColorPicker thanks to [@OCTIPI1](https://github.com/OCTIPI1).
 
 ## Download
 
