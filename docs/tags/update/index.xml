@@ -6250,7 +6250,7 @@ This is a very small version with no new features. This version may also be the 
         <description>&lt;img src="https://blog.leocorporation.dev/2021/03/introducing-gerayis/cover.png" alt="Featured image of post Introducing Gerayis" /&gt;&lt;p&gt;We are starting this month with the release of a new software: Gerayis. Gerayis is the next evolution of Bar Code Generator 2.&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;It&amp;rsquo;s been a few years already since we&amp;rsquo;ve released the first version of Bar Code Generator (at the time, named in french &amp;ldquo;Générateur de codes barre&amp;rdquo;). Then, last year, 2020, we&amp;rsquo;ve released Bar Code Generator 2, with a brand new design, and the possibility to generate QR Codes.&lt;/p&gt;
-&lt;p&gt;The second version main purpose was to deliver to our users, a brand new user experience, while also adding new features. 
+&lt;p&gt;The second version main purpose was to deliver to our users, a brand new user experience, while also adding new features.
 Gerayis is the next of evolution of Bar Code Generator, with a design and user experience similar to &lt;a class=&#34;link&#34; href=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Passliss&lt;/a&gt;&#39;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/03/introducing-gerayis/cover.png&#34;

@@ -6,7 +6,113 @@
         <description>Recent content on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 28 Oct 2022 11:17:28 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 03 Nov 2022 11:36:34 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Introducing PeyrSharp</title>
+        <link>https://blog.leocorporation.dev/2022/11/introducing-peyrsharp/</link>
+        <pubDate>Thu, 03 Nov 2022 11:36:34 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/11/introducing-peyrsharp/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/11/introducing-peyrsharp/cover.png" alt="Featured image of post Introducing PeyrSharp" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Léo Corporation has been committed to software development for years and has always learn to evolve and improve. We are developing apps and services in C# .NET, and we know it can be frustrating sometimes. We, as software developers, always had this though: “if only they were a library for this.” Therefore, in March 2020, we published LeoCorpLibrary, which was a C# library that contained useful methods. When we started the development of it, we didn&amp;rsquo;t know where the project will go yet. Over the releases, we&amp;rsquo;ve added more and more methods and new features. However, the meaning and the purpose of LeoCorpLibrary was becoming less clear for everyone; it was becoming a mess. This is why we decided to rather not release it fifth version, but instead, we decided to make a brand-new .NET Library, PeyrSharp.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-peyrsharp&#34;&gt;What is PeyrSharp?&lt;/h2&gt;
+&lt;p&gt;PeyrSharp is a C# written library designed to make developers&amp;rsquo; life easier. We&amp;rsquo;ve all written code that we wish we hadn&amp;rsquo;t. PeyrSharp is here to respond to this need; by implementing useful methods in various domains: Mathematics, Web/HTTP requests, unit converters, extensions, environment-related operations, and more!&lt;/p&gt;
+&lt;h2 id=&#34;a-new-way-to-use-a-library&#34;&gt;A new way to use a library&lt;/h2&gt;
+&lt;p&gt;Unlike LeoCorpLibrary, PeyrSharp is divided in multiples packages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Core - the basic methods and features of PeyrSharp&lt;/li&gt;
+&lt;li&gt;Env - methods related to the file system and to the current execution environment.&lt;/li&gt;
+&lt;li&gt;Enums - all enumerations used by PeyrSharp&lt;/li&gt;
+&lt;li&gt;Exceptions - all exceptions used by PeyrSharp&lt;/li&gt;
+&lt;li&gt;Extensions - extension methods that extends basic types such as string, int, double or arrays (T[]).&lt;/li&gt;
+&lt;li&gt;UiHelpers - methods related to Windows Forms or to the Windows Presentation Framework (WPF).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All of these modules are included in PeyrSharp; however, PeyrSharp.UiHelpers is only included if you download the package on Windows.&lt;/p&gt;
+&lt;h2 id=&#34;compatibility&#34;&gt;Compatibility&lt;/h2&gt;
+&lt;p&gt;Some modules of PeyrSharp are targeting features only available in specific operating systems. Thus, some packages aren&amp;rsquo;t available on all platforms.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Package/Platform&lt;/th&gt;
+&lt;th&gt;Windows&lt;/th&gt;
+&lt;th&gt;macOS&lt;/th&gt;
+&lt;th&gt;Linux + others&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Core&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Env&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;td&gt;⚠️&lt;/td&gt;
+&lt;td&gt;⚠️&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Enums&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Exceptions&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Extensions&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;UiHelpers&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Caption:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Full Support&lt;/li&gt;
+&lt;li&gt;⚠️ Partial Support&lt;/li&gt;
+&lt;li&gt;❌ Unsupported platform&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;frameworks&#34;&gt;Frameworks&lt;/h2&gt;
+&lt;p&gt;PeyrSharp is designed to be a modern library, therefore, we decided to ditch support for .NET Framework and .NET Core in favor of .NET 5, 6 and 7.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note: .NET Framework and .NET Core are not targeted by PeyrSharp, since they are no longer supported.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;PeyrSharp has a documentation, making it easy for developers to use it. &lt;a class=&#34;link&#34; href=&#34;https://peyrsharp.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to check the documentation of PeyrSharp.&lt;/p&gt;
+&lt;h2 id=&#34;packages&#34;&gt;Packages&lt;/h2&gt;
+&lt;p&gt;PeyrSharp is available on NuGet and &lt;a class=&#34;link&#34; href=&#34;https://github.com/orgs/Leo-Corporation/packages?repo_name=PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Packages&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PeyrSharp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Core/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PeyrSharp.Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Enums/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PeyrSharp.Enums&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Env/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PeyrSharp.Env&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Exceptions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PeyrSharp.Exceptions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Extensions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PeyrSharp.Extensions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.UiHelpers/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PeyrSharp.UiHelpers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>Introducing Gavilya 3</title>
         <link>https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/</link>
         <pubDate>Fri, 28 Oct 2022 11:17:28 +0200</pubDate>
@@ -6520,7 +6626,7 @@ This is a very small version with no new features. This version may also be the 
         <description>&lt;img src="https://blog.leocorporation.dev/2021/03/introducing-gerayis/cover.png" alt="Featured image of post Introducing Gerayis" /&gt;&lt;p&gt;We are starting this month with the release of a new software: Gerayis. Gerayis is the next evolution of Bar Code Generator 2.&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;It&amp;rsquo;s been a few years already since we&amp;rsquo;ve released the first version of Bar Code Generator (at the time, named in french &amp;ldquo;Générateur de codes barre&amp;rdquo;). Then, last year, 2020, we&amp;rsquo;ve released Bar Code Generator 2, with a brand new design, and the possibility to generate QR Codes.&lt;/p&gt;
-&lt;p&gt;The second version main purpose was to deliver to our users, a brand new user experience, while also adding new features. 
+&lt;p&gt;The second version main purpose was to deliver to our users, a brand new user experience, while also adding new features.
 Gerayis is the next of evolution of Bar Code Generator, with a design and user experience similar to &lt;a class=&#34;link&#34; href=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Passliss&lt;/a&gt;&#39;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/03/introducing-gerayis/cover.png&#34;
