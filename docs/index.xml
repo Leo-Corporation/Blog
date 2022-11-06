@@ -6,7 +6,57 @@
         <description>Recent content on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 03 Nov 2022 11:36:34 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 06 Nov 2022 16:38:58 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Passliss: Version 2.7.0.2211 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/11/passliss-version-2.7.0.2211-is-now-available/</link>
+        <pubDate>Sun, 06 Nov 2022 16:38:58 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/11/passliss-version-2.7.0.2211-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/11/passliss-version-2.7.0.2211-is-now-available/cover.png" alt="Featured image of post Passliss: Version 2.7.0.2211 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.7.0.2211.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &amp;ldquo;Confidential Mode&amp;rdquo; (#193)&lt;/li&gt;
+&lt;li&gt;Added translations (#193)&lt;/li&gt;
+&lt;li&gt;Added the possibility to toggle on Confidential mode on start (#193)&lt;/li&gt;
+&lt;li&gt;Added translations (#194)&lt;/li&gt;
+&lt;li&gt;Added the possibility to generate multiple passwords (#194)&lt;/li&gt;
+&lt;li&gt;Merged the &amp;ldquo;New&amp;rdquo; and &amp;ldquo;Load&amp;rdquo; buttons (#195)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Font isn&amp;rsquo;t applied in Password Configuration (#192)&lt;/li&gt;
+&lt;li&gt;Fixed an issue with Confidential mode (#193)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed old windows (#195)&lt;/li&gt;
+&lt;li&gt;Replaced LeoCorpLibrary with PeyrSharp (#196)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/store/passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to learn more about Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/11/passliss-version-2.7.0.2211-is-now-available/1.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/11/passliss-version-2.7.0.2211-is-now-available/1_hu3316c0e446889ac23e737968b9b39636_34054_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/11/passliss-version-2.7.0.2211-is-now-available/1_hu3316c0e446889ac23e737968b9b39636_34054_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;History&amp;rdquo; of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Introducing PeyrSharp</title>
         <link>https://blog.leocorporation.dev/2022/11/introducing-peyrsharp/</link>
         <pubDate>Thu, 03 Nov 2022 11:36:34 +0100</pubDate>
