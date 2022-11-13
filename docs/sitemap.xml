@@ -3,30 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.leocorporation.dev/</loc>
-    <lastmod>2022-11-06T16:38:58+01:00</lastmod>
+    <lastmod>2022-11-13T11:52:06+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/</loc>
-    <lastmod>2022-11-06T16:38:58+01:00</lastmod>
+    <lastmod>2022-11-13T11:52:06+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/categories/internettest/</loc>
+    <lastmod>2022-11-13T11:52:06+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/2022/11/internettest-version-7.2.0.2211-is-now-available/</loc>
+    <lastmod>2022-11-13T11:52:06+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/new-features/</loc>
-    <lastmod>2022-11-06T16:38:58+01:00</lastmod>
+    <lastmod>2022-11-13T11:52:06+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
-    <lastmod>2022-11-06T16:38:58+01:00</lastmod>
+    <lastmod>2022-11-13T11:52:06+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/post/</loc>
+    <lastmod>2022-11-13T11:52:06+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/</loc>
+    <lastmod>2022-11-13T11:52:06+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/update/</loc>
+    <lastmod>2022-11-13T11:52:06+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/passliss/</loc>
     <lastmod>2022-11-06T16:38:58+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/11/passliss-version-2.7.0.2211-is-now-available/</loc>
-    <lastmod>2022-11-06T16:38:58+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/post/</loc>
-    <lastmod>2022-11-06T16:38:58+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/</loc>
-    <lastmod>2022-11-06T16:38:58+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/update/</loc>
     <lastmod>2022-11-06T16:38:58+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/for-devs/</loc>
@@ -58,9 +64,6 @@
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/10/colorpicker-version-4.5.0.2210-is-now-available/</loc>
     <lastmod>2022-10-21T13:33:15+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/categories/internettest/</loc>
-    <lastmod>2022-09-18T12:07:09+02:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/09/internettest-version-7.1.0.2209-is-now-available/</loc>
     <lastmod>2022-09-18T12:07:09+02:00</lastmod>
