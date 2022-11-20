@@ -3,30 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.leocorporation.dev/</loc>
-    <lastmod>2022-11-13T11:52:06+01:00</lastmod>
+    <lastmod>2022-11-20T11:19:52+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/</loc>
-    <lastmod>2022-11-13T11:52:06+01:00</lastmod>
+    <lastmod>2022-11-20T11:19:52+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/categories/datalya/</loc>
+    <lastmod>2022-11-20T11:19:52+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/2022/11/datalya-version-1.7.0.2211-is-now-available/</loc>
+    <lastmod>2022-11-20T11:19:52+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/new-features/</loc>
+    <lastmod>2022-11-20T11:19:52+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
+    <lastmod>2022-11-20T11:19:52+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/post/</loc>
+    <lastmod>2022-11-20T11:19:52+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/</loc>
+    <lastmod>2022-11-20T11:19:52+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/update/</loc>
+    <lastmod>2022-11-20T11:19:52+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/internettest/</loc>
     <lastmod>2022-11-13T11:52:06+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/11/internettest-version-7.2.0.2211-is-now-available/</loc>
-    <lastmod>2022-11-13T11:52:06+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/new-features/</loc>
-    <lastmod>2022-11-13T11:52:06+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
-    <lastmod>2022-11-13T11:52:06+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/post/</loc>
-    <lastmod>2022-11-13T11:52:06+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/</loc>
-    <lastmod>2022-11-13T11:52:06+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/update/</loc>
     <lastmod>2022-11-13T11:52:06+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/passliss/</loc>
@@ -97,9 +103,6 @@
   </url><url>
     <loc>https://blog.leocorporation.dev/page/</loc>
     <lastmod>2022-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/categories/datalya/</loc>
-    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/08/datalya-version-1602208-is-now-available/</loc>
     <lastmod>2022-08-08T00:00:00+00:00</lastmod>
