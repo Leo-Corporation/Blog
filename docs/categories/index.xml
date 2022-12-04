@@ -6,7 +6,15 @@
         <description>Recent content in Categories on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 20 Nov 2022 11:19:52 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 04 Dec 2022 10:41:50 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PeyrSharp</title>
+        <link>https://blog.leocorporation.dev/categories/peyrsharp/</link>
+        <pubDate>Sun, 04 Dec 2022 10:41:50 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/categories/peyrsharp/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/categories/peyrsharp/PeyrSharp.png" alt="Featured image of post PeyrSharp" /&gt;</description>
+        </item>
+        <item>
         <title>Datalya</title>
         <link>https://blog.leocorporation.dev/categories/datalya/</link>
         <pubDate>Sun, 20 Nov 2022 11:19:52 +0100</pubDate>
@@ -37,14 +45,6 @@
         
         <guid>https://blog.leocorporation.dev/categories/information/</guid>
         <description>&lt;img src="https://blog.leocorporation.dev/categories/information/default.png" alt="Featured image of post Information" /&gt;</description>
-        </item>
-        <item>
-        <title>PeyrSharp</title>
-        <link>https://blog.leocorporation.dev/categories/peyrsharp/</link>
-        <pubDate>Thu, 03 Nov 2022 11:36:34 +0100</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/categories/peyrsharp/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/categories/peyrsharp/PeyrSharp.png" alt="Featured image of post PeyrSharp" /&gt;</description>
         </item>
         <item>
         <title>Gavilya</title>

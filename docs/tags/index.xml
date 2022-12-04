@@ -6,10 +6,18 @@
         <description>Recent content in Tags on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 20 Nov 2022 11:19:52 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 04 Dec 2022 10:41:50 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>For devs</title>
+        <link>https://blog.leocorporation.dev/tags/for-devs/</link>
+        <pubDate>Sun, 04 Dec 2022 10:41:50 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/for-devs/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>New Features</title>
         <link>https://blog.leocorporation.dev/tags/new-features/</link>
-        <pubDate>Sun, 20 Nov 2022 11:19:52 +0100</pubDate>
+        <pubDate>Sun, 04 Dec 2022 10:41:50 +0100</pubDate>
         
         <guid>https://blog.leocorporation.dev/tags/new-features/</guid>
         <description></description>
@@ -17,9 +25,17 @@
         <item>
         <title>OpenSource</title>
         <link>https://blog.leocorporation.dev/tags/opensource/</link>
-        <pubDate>Sun, 20 Nov 2022 11:19:52 +0100</pubDate>
+        <pubDate>Sun, 04 Dec 2022 10:41:50 +0100</pubDate>
         
         <guid>https://blog.leocorporation.dev/tags/opensource/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Package</title>
+        <link>https://blog.leocorporation.dev/tags/package/</link>
+        <pubDate>Sun, 04 Dec 2022 10:41:50 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/package/</guid>
         <description></description>
         </item>
         <item>
@@ -28,14 +44,6 @@
         <pubDate>Sun, 20 Nov 2022 11:19:52 +0100</pubDate>
         
         <guid>https://blog.leocorporation.dev/tags/update/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>For devs</title>
-        <link>https://blog.leocorporation.dev/tags/for-devs/</link>
-        <pubDate>Thu, 03 Nov 2022 11:36:34 +0100</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/tags/for-devs/</guid>
         <description></description>
         </item>
         <item>
@@ -60,14 +68,6 @@
         <pubDate>Wed, 24 Aug 2022 09:33:41 +0200</pubDate>
         
         <guid>https://blog.leocorporation.dev/tags/identity/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Package</title>
-        <link>https://blog.leocorporation.dev/tags/package/</link>
-        <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/tags/package/</guid>
         <description></description>
         </item>
         <item>
