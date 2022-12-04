@@ -3,19 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.leocorporation.dev/</loc>
-    <lastmod>2022-12-04T10:41:50+01:00</lastmod>
+    <lastmod>2022-12-04T13:43:03+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/</loc>
-    <lastmod>2022-12-04T10:41:50+01:00</lastmod>
+    <lastmod>2022-12-04T13:43:03+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/categories/colorpicker/</loc>
+    <lastmod>2022-12-04T13:43:03+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/2022/12/colorpicker-version-4.6.0.2212-is-now-available/</loc>
+    <lastmod>2022-12-04T13:43:03+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/for-devs/</loc>
-    <lastmod>2022-12-04T10:41:50+01:00</lastmod>
+    <lastmod>2022-12-04T13:43:03+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/new-features/</loc>
-    <lastmod>2022-12-04T10:41:50+01:00</lastmod>
+    <lastmod>2022-12-04T13:43:03+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
-    <lastmod>2022-12-04T10:41:50+01:00</lastmod>
+    <lastmod>2022-12-04T13:43:03+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/post/</loc>
+    <lastmod>2022-12-04T13:43:03+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/</loc>
+    <lastmod>2022-12-04T13:43:03+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/update/</loc>
+    <lastmod>2022-12-04T13:43:03+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/package/</loc>
     <lastmod>2022-12-04T10:41:50+01:00</lastmod>
@@ -26,19 +41,10 @@
     <loc>https://blog.leocorporation.dev/2022/12/peyrsharp-version-1.1.0.2212-is-now-available/</loc>
     <lastmod>2022-12-04T10:41:50+01:00</lastmod>
   </url><url>
-    <loc>https://blog.leocorporation.dev/post/</loc>
-    <lastmod>2022-12-04T10:41:50+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/</loc>
-    <lastmod>2022-12-04T10:41:50+01:00</lastmod>
-  </url><url>
     <loc>https://blog.leocorporation.dev/categories/datalya/</loc>
     <lastmod>2022-11-20T11:19:52+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/11/datalya-version-1.7.0.2211-is-now-available/</loc>
-    <lastmod>2022-11-20T11:19:52+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/update/</loc>
     <lastmod>2022-11-20T11:19:52+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/internettest/</loc>
@@ -70,9 +76,6 @@
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/new-application/</loc>
     <lastmod>2022-10-28T11:17:28+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/categories/colorpicker/</loc>
-    <lastmod>2022-10-21T13:33:15+02:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/10/colorpicker-version-4.5.0.2210-is-now-available/</loc>
     <lastmod>2022-10-21T13:33:15+02:00</lastmod>
