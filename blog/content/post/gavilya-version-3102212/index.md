@@ -14,6 +14,7 @@ tags:
 
 A new version of Gavilya is now available, and it is the version 3.1.0.2212.
 
+## Changelog
 ### New
 - Added GameTag class (#320)
 - Added translations (#320)

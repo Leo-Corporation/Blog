@@ -13,6 +13,7 @@
         
         <guid>https://blog.leocorporation.dev/2022/12/gavilya-version-3.1.0.2212-is-now-available/</guid>
         <description>&lt;img src="https://blog.leocorporation.dev/2022/12/gavilya-version-3.1.0.2212-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 3.1.0.2212 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 3.1.0.2212.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
 &lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Added GameTag class (#320)&lt;/li&gt;
