@@ -3,10 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.leocorporation.dev/</loc>
-    <lastmod>2022-12-11T14:33:36+01:00</lastmod>
+    <lastmod>2022-12-18T10:36:53+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/</loc>
-    <lastmod>2022-12-11T14:33:36+01:00</lastmod>
+    <lastmod>2022-12-18T10:36:53+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/new-features/</loc>
+    <lastmod>2022-12-18T10:36:53+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
+    <lastmod>2022-12-18T10:36:53+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/categories/passliss/</loc>
+    <lastmod>2022-12-18T10:36:53+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/2022/12/passliss-version-2.8.0.2212-is-now-available/</loc>
+    <lastmod>2022-12-18T10:36:53+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/post/</loc>
+    <lastmod>2022-12-18T10:36:53+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/</loc>
+    <lastmod>2022-12-18T10:36:53+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/update/</loc>
+    <lastmod>2022-12-18T10:36:53+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/gaming/</loc>
     <lastmod>2022-12-11T14:33:36+01:00</lastmod>
@@ -15,21 +36,6 @@
     <lastmod>2022-12-11T14:33:36+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/12/gavilya-version-3.1.0.2212-is-now-available/</loc>
-    <lastmod>2022-12-11T14:33:36+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/new-features/</loc>
-    <lastmod>2022-12-11T14:33:36+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
-    <lastmod>2022-12-11T14:33:36+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/post/</loc>
-    <lastmod>2022-12-11T14:33:36+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/</loc>
-    <lastmod>2022-12-11T14:33:36+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/update/</loc>
     <lastmod>2022-12-11T14:33:36+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/colorpicker/</loc>
@@ -61,9 +67,6 @@
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/11/internettest-version-7.2.0.2211-is-now-available/</loc>
     <lastmod>2022-11-13T11:52:06+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/categories/passliss/</loc>
-    <lastmod>2022-11-06T16:38:58+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/11/passliss-version-2.7.0.2211-is-now-available/</loc>
     <lastmod>2022-11-06T16:38:58+01:00</lastmod>

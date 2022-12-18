@@ -6,7 +6,15 @@
         <description>Recent content in Categories on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 11 Dec 2022 14:33:36 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 18 Dec 2022 10:36:53 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Passliss</title>
+        <link>https://blog.leocorporation.dev/categories/passliss/</link>
+        <pubDate>Sun, 18 Dec 2022 10:36:53 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/categories/passliss/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/categories/passliss/passliss.png" alt="Featured image of post Passliss" /&gt;</description>
+        </item>
+        <item>
         <title>Gavilya</title>
         <link>https://blog.leocorporation.dev/categories/gavilya/</link>
         <pubDate>Sun, 11 Dec 2022 14:33:36 +0100</pubDate>
@@ -45,14 +53,6 @@
         
         <guid>https://blog.leocorporation.dev/categories/internettest/</guid>
         <description>&lt;img src="https://blog.leocorporation.dev/categories/internettest/internettest.png" alt="Featured image of post InternetTest" /&gt;</description>
-        </item>
-        <item>
-        <title>Passliss</title>
-        <link>https://blog.leocorporation.dev/categories/passliss/</link>
-        <pubDate>Sun, 06 Nov 2022 16:38:58 +0100</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/categories/passliss/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/categories/passliss/passliss.png" alt="Featured image of post Passliss" /&gt;</description>
         </item>
         <item>
         <title>Information</title>

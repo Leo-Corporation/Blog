@@ -6,7 +6,52 @@
         <description>Recent content on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 11 Dec 2022 14:33:36 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 18 Dec 2022 10:36:53 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Passliss: Version 2.8.0.2212 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/12/passliss-version-2.8.0.2212-is-now-available/</link>
+        <pubDate>Sun, 18 Dec 2022 10:36:53 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/12/passliss-version-2.8.0.2212-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/12/passliss-version-2.8.0.2212-is-now-available/cover.png" alt="Featured image of post Passliss: Version 2.8.0.2212 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.8.0.2212.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Redesigned TextBoxes (#206)&lt;/li&gt;
+&lt;li&gt;Added translations (#207)&lt;/li&gt;
+&lt;li&gt;Added tooltips on the title bar buttons (#207)&lt;/li&gt;
+&lt;li&gt;Improved the &amp;ldquo;characters&amp;rdquo; textboxes in dark mode (#208)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated PeyrSharp.Env (#204)&lt;/li&gt;
+&lt;li&gt;Updated PeyrSharp.Core (#205)&lt;/li&gt;
+&lt;li&gt;Updated theme resources (#206)&lt;/li&gt;
+&lt;li&gt;Updated TextBox style (#206)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/store/passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to learn more about Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/12/passliss-version-2.8.0.2212-is-now-available/1.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/12/passliss-version-2.8.0.2212-is-now-available/1_hu200b037967258b13fe01a8df0d6558fe_37500_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/12/passliss-version-2.8.0.2212-is-now-available/1_hu200b037967258b13fe01a8df0d6558fe_37500_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Encrypt&amp;rdquo; page of Passliss with new TextBoxes&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Gavilya: Version 3.1.0.2212 is now available</title>
         <link>https://blog.leocorporation.dev/2022/12/gavilya-version-3.1.0.2212-is-now-available/</link>
         <pubDate>Sun, 11 Dec 2022 14:33:36 +0100</pubDate>
