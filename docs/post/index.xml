@@ -6,7 +6,35 @@
         <description>Recent content in Posts on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 18 Dec 2022 10:36:53 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 19 Dec 2022 17:24:09 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Synethia: Now Available for developers</title>
+        <link>https://blog.leocorporation.dev/2022/12/synethia-now-available-for-developers/</link>
+        <pubDate>Mon, 19 Dec 2022 17:24:09 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/12/synethia-now-available-for-developers/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/12/synethia-now-available-for-developers/cover.png" alt="Featured image of post Synethia: Now Available for developers" /&gt;&lt;h2 id=&#34;announcement&#34;&gt;Announcement&lt;/h2&gt;
+&lt;p&gt;Attention all developers!&lt;/p&gt;
+&lt;p&gt;We are excited to announce that Synethia is now available as a &lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/Synethia&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet package&lt;/a&gt; for your .NET projects. Synethia is a powerful C# algorithm that helps you understand and optimize the behavior of your users with your application.&lt;/p&gt;
+&lt;p&gt;With Synethia, you can detect how long your users are spending on each part of your app, as well as how many interactions they have with it. Based on these two factors, Synethia calculates a score for each page or part of your app, allowing you to customize the experience of your users and understand which features they use the most.&lt;/p&gt;
+&lt;p&gt;Using Synethia in your project is easy and intuitive, making it a valuable tool for any developer looking to improve the user experience of their application. Plus, with support for .NET 5 and higher, Synethia is a reliable choice for your Windows projects.&lt;/p&gt;
+&lt;p&gt;Don&amp;rsquo;t miss out on the opportunity to enhance your users&amp;rsquo; experience with Synethia. Get started today by downloading the &lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/Synethia&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet package&lt;/a&gt; and incorporating Synethia into your .NET project.&lt;/p&gt;
+&lt;p&gt;Synethia is already integrated into &lt;a class=&#34;link&#34; href=&#34;https://blog.leocorporation.dev/2022/08/introducing-internettest-pro/#an-experience-conceived-for-you&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;InternetTest Pro&lt;/a&gt;, where it is used to provide personalized recommendations and improve the overall user experience. By collecting data on how users interact with the app, Synethia is able to understand their needs and preferences, leading to a more tailored and efficient experience.&lt;/p&gt;
+&lt;p&gt;As a developer, you can easily integrate Synethia into your own apps to provide a similar level of customization and adaptability. With the new &lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/Synethia&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NuGet package&lt;/a&gt; now available, it has never been easier to incorporate Synethia into your .NET projects. Simply download the package and follow the &lt;a class=&#34;link&#34; href=&#34;https://synethia.leocorporation.dev/get-started.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;easy-to-use integration instructions&lt;/a&gt; to start leveraging the power of Synethia in your own applications.&lt;/p&gt;
+&lt;h2 id=&#34;useful-resources&#34;&gt;Useful resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://synethia.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to access the documentation of Synethia.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/Synethia/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to go to the GitHub repository.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>Passliss: Version 2.8.0.2212 is now available</title>
         <link>https://blog.leocorporation.dev/2022/12/passliss-version-2.8.0.2212-is-now-available/</link>
         <pubDate>Sun, 18 Dec 2022 10:36:53 +0100</pubDate>
