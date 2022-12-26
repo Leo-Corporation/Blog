@@ -6,7 +6,23 @@
         <description>Recent content in Tags on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 19 Dec 2022 17:24:09 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 26 Dec 2022 18:17:33 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Misc</title>
+        <link>https://blog.leocorporation.dev/tags/misc/</link>
+        <pubDate>Mon, 26 Dec 2022 18:17:33 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/misc/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Update</title>
+        <link>https://blog.leocorporation.dev/tags/update/</link>
+        <pubDate>Mon, 26 Dec 2022 18:17:33 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/update/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>For devs</title>
         <link>https://blog.leocorporation.dev/tags/for-devs/</link>
         <pubDate>Mon, 19 Dec 2022 17:24:09 +0100</pubDate>
@@ -20,14 +36,6 @@
         <pubDate>Mon, 19 Dec 2022 17:24:09 +0100</pubDate>
         
         <guid>https://blog.leocorporation.dev/tags/opensource/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Update</title>
-        <link>https://blog.leocorporation.dev/tags/update/</link>
-        <pubDate>Mon, 19 Dec 2022 17:24:09 +0100</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/tags/update/</guid>
         <description></description>
         </item>
         <item>
@@ -84,14 +92,6 @@
         <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
         
         <guid>https://blog.leocorporation.dev/tags/patch/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Misc</title>
-        <link>https://blog.leocorporation.dev/tags/misc/</link>
-        <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/tags/misc/</guid>
         <description></description>
         </item>
         <item>

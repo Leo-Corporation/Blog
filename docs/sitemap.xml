@@ -3,10 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.leocorporation.dev/</loc>
-    <lastmod>2022-12-19T17:24:09+01:00</lastmod>
+    <lastmod>2022-12-26T18:17:33+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/2022/12/a-year-in-review-and-a-look-to-the-future/</loc>
+    <lastmod>2022-12-26T18:17:33+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/</loc>
-    <lastmod>2022-12-19T17:24:09+01:00</lastmod>
+    <lastmod>2022-12-26T18:17:33+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/categories/information/</loc>
+    <lastmod>2022-12-26T18:17:33+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/misc/</loc>
+    <lastmod>2022-12-26T18:17:33+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/post/</loc>
+    <lastmod>2022-12-26T18:17:33+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/</loc>
+    <lastmod>2022-12-26T18:17:33+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/update/</loc>
+    <lastmod>2022-12-26T18:17:33+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/for-devs/</loc>
     <lastmod>2022-12-19T17:24:09+01:00</lastmod>
@@ -14,19 +32,10 @@
     <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
     <lastmod>2022-12-19T17:24:09+01:00</lastmod>
   </url><url>
-    <loc>https://blog.leocorporation.dev/post/</loc>
-    <lastmod>2022-12-19T17:24:09+01:00</lastmod>
-  </url><url>
     <loc>https://blog.leocorporation.dev/categories/synethia/</loc>
     <lastmod>2022-12-19T17:24:09+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/12/synethia-now-available-for-developers/</loc>
-    <lastmod>2022-12-19T17:24:09+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/</loc>
-    <lastmod>2022-12-19T17:24:09+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/update/</loc>
     <lastmod>2022-12-19T17:24:09+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/new-features/</loc>
@@ -76,9 +85,6 @@
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/11/passliss-version-2.7.0.2211-is-now-available/</loc>
     <lastmod>2022-11-06T16:38:58+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/categories/information/</loc>
-    <lastmod>2022-11-03T11:36:34+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/11/introducing-peyrsharp/</loc>
     <lastmod>2022-11-03T11:36:34+01:00</lastmod>
@@ -168,9 +174,6 @@
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/07/a-slight-update-on-our-look/</loc>
-    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/misc/</loc>
     <lastmod>2022-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/07/leocorplibrary-version-4802207-is-now/</loc>
