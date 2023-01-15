@@ -6,7 +6,66 @@
         <description>Recent content in InternetTest on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 13 Nov 2022 11:52:06 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/internettest/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 15 Jan 2023 12:37:15 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/internettest/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>InternetTest: Version 7.3.0.2301 is now available</title>
+        <link>https://blog.leocorporation.dev/2023/01/internettest-version-7.3.0.2301-is-now-available/</link>
+        <pubDate>Sun, 15 Jan 2023 12:37:15 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2023/01/internettest-version-7.3.0.2301-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2023/01/internettest-version-7.3.0.2301-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 7.3.0.2301 is now available" /&gt;&lt;p&gt;A new version of InternetTest Pro is now available and brings new features and improvements.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a new history system that works across languages (#390)&lt;/li&gt;
+&lt;li&gt;Added copyright to Setup&lt;/li&gt;
+&lt;li&gt;Added Italian language (#394)&lt;/li&gt;
+&lt;li&gt;Added Italian in Setup (#394)&lt;/li&gt;
+&lt;li&gt;Added the possibility to search the History (#391)&lt;/li&gt;
+&lt;li&gt;Added translations (#392)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Filters&amp;rdquo; Popup (#392)&lt;/li&gt;
+&lt;li&gt;Added the possibility to filter dates through the history (#392)&lt;/li&gt;
+&lt;li&gt;Added an error message if the date range is invalid (#392)&lt;/li&gt;
+&lt;li&gt;Added copyright to Setup&lt;/li&gt;
+&lt;li&gt;Added Italian language (#394)&lt;/li&gt;
+&lt;li&gt;Added Italian in Setup (#394)&lt;/li&gt;
+&lt;li&gt;Added the possibility to search the History (#391)&lt;/li&gt;
+&lt;li&gt;Added translations (#392)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Filters&amp;rdquo; Popup (#392)&lt;/li&gt;
+&lt;li&gt;Added the possibility to filter dates through the history (#392)&lt;/li&gt;
+&lt;li&gt;Added an error message if the date range is invalid (#392)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue when loading the old history (#390)&lt;/li&gt;
+&lt;li&gt;Fixed an issue with display name in Setup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated PeyrSharp.Env (#388)&lt;/li&gt;
+&lt;li&gt;Updated PeyrSharp.Core (#389)&lt;/li&gt;
+&lt;li&gt;Updated copyright&lt;/li&gt;
+&lt;li&gt;Improved Setup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;tinyurl.com/DownloadITP7&#34; &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2023/01/internettest-version-7.3.0.2301-is-now-available/1.png&#34;
+	width=&#34;950&#34;
+	height=&#34;600&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2023/01/internettest-version-7.3.0.2301-is-now-available/1_huff2ceef029cdd7bd0366d5124258b4d4_147918_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/01/internettest-version-7.3.0.2301-is-now-available/1_huff2ceef029cdd7bd0366d5124258b4d4_147918_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new search feature of InternetTest Pro&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;158&#34;
+		data-flex-basis=&#34;380px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>InternetTest: Version 7.2.0.2211 is now available</title>
         <link>https://blog.leocorporation.dev/2022/11/internettest-version-7.2.0.2211-is-now-available/</link>
         <pubDate>Sun, 13 Nov 2022 11:52:06 +0100</pubDate>

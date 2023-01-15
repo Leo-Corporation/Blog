@@ -3,18 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.leocorporation.dev/</loc>
-    <lastmod>2023-01-08T13:54:42+01:00</lastmod>
+    <lastmod>2023-01-15T12:37:15+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/</loc>
-    <lastmod>2023-01-08T13:54:42+01:00</lastmod>
+    <lastmod>2023-01-15T12:37:15+01:00</lastmod>
   </url><url>
-    <loc>https://blog.leocorporation.dev/tags/for-devs/</loc>
-    <lastmod>2023-01-08T13:54:42+01:00</lastmod>
+    <loc>https://blog.leocorporation.dev/categories/internettest/</loc>
+    <lastmod>2023-01-15T12:37:15+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/2023/01/internettest-version-7.3.0.2301-is-now-available/</loc>
+    <lastmod>2023-01-15T12:37:15+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/new-features/</loc>
-    <lastmod>2023-01-08T13:54:42+01:00</lastmod>
+    <lastmod>2023-01-15T12:37:15+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
+    <lastmod>2023-01-15T12:37:15+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/post/</loc>
+    <lastmod>2023-01-15T12:37:15+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/</loc>
+    <lastmod>2023-01-15T12:37:15+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/update/</loc>
+    <lastmod>2023-01-15T12:37:15+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/for-devs/</loc>
     <lastmod>2023-01-08T13:54:42+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/package/</loc>
@@ -26,12 +41,6 @@
     <loc>https://blog.leocorporation.dev/2023/01/peyrsharp-version-1.2.0.2301-is-now-available/</loc>
     <lastmod>2023-01-08T13:54:42+01:00</lastmod>
   </url><url>
-    <loc>https://blog.leocorporation.dev/post/</loc>
-    <lastmod>2023-01-08T13:54:42+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/</loc>
-    <lastmod>2023-01-08T13:54:42+01:00</lastmod>
-  </url><url>
     <loc>https://blog.leocorporation.dev/2022/12/a-year-in-review-and-a-look-to-the-future/</loc>
     <lastmod>2022-12-26T18:17:33+01:00</lastmod>
   </url><url>
@@ -39,9 +48,6 @@
     <lastmod>2022-12-26T18:17:33+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/misc/</loc>
-    <lastmod>2022-12-26T18:17:33+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/update/</loc>
     <lastmod>2022-12-26T18:17:33+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/synethia/</loc>
@@ -79,9 +85,6 @@
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/11/datalya-version-1.7.0.2211-is-now-available/</loc>
     <lastmod>2022-11-20T11:19:52+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/categories/internettest/</loc>
-    <lastmod>2022-11-13T11:52:06+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/11/internettest-version-7.2.0.2211-is-now-available/</loc>
     <lastmod>2022-11-13T11:52:06+01:00</lastmod>

@@ -6,18 +6,10 @@
         <description>Recent content in Tags on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 08 Jan 2023 13:54:42 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>For devs</title>
-        <link>https://blog.leocorporation.dev/tags/for-devs/</link>
-        <pubDate>Sun, 08 Jan 2023 13:54:42 +0100</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/tags/for-devs/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Sun, 15 Jan 2023 12:37:15 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>New Features</title>
         <link>https://blog.leocorporation.dev/tags/new-features/</link>
-        <pubDate>Sun, 08 Jan 2023 13:54:42 +0100</pubDate>
+        <pubDate>Sun, 15 Jan 2023 12:37:15 +0100</pubDate>
         
         <guid>https://blog.leocorporation.dev/tags/new-features/</guid>
         <description></description>
@@ -25,9 +17,25 @@
         <item>
         <title>OpenSource</title>
         <link>https://blog.leocorporation.dev/tags/opensource/</link>
-        <pubDate>Sun, 08 Jan 2023 13:54:42 +0100</pubDate>
+        <pubDate>Sun, 15 Jan 2023 12:37:15 +0100</pubDate>
         
         <guid>https://blog.leocorporation.dev/tags/opensource/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Update</title>
+        <link>https://blog.leocorporation.dev/tags/update/</link>
+        <pubDate>Sun, 15 Jan 2023 12:37:15 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/update/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>For devs</title>
+        <link>https://blog.leocorporation.dev/tags/for-devs/</link>
+        <pubDate>Sun, 08 Jan 2023 13:54:42 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/for-devs/</guid>
         <description></description>
         </item>
         <item>
@@ -44,14 +52,6 @@
         <pubDate>Mon, 26 Dec 2022 18:17:33 +0100</pubDate>
         
         <guid>https://blog.leocorporation.dev/tags/misc/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Update</title>
-        <link>https://blog.leocorporation.dev/tags/update/</link>
-        <pubDate>Mon, 26 Dec 2022 18:17:33 +0100</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/tags/update/</guid>
         <description></description>
         </item>
         <item>
