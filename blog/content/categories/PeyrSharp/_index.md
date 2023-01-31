@@ -5,6 +5,6 @@ image: PeyrSharp.png
 
 # Badge style
 style:
-    background: "#F81FC8"
+    background: "#00FF57"
     color: "#fff"
 ---

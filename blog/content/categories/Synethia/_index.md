@@ -5,6 +5,6 @@ image: synethia.png
 
 # Badge style
 style:
-    background: "#1d9a26"
+    background: "#00A3FF"
     color: "#fff"
 ---
