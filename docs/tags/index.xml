@@ -6,7 +6,15 @@
         <description>Recent content in Tags on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 31 Jan 2023 18:58:05 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 01 Feb 2023 10:38:15 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Stats</title>
+        <link>https://blog.leocorporation.dev/tags/stats/</link>
+        <pubDate>Wed, 01 Feb 2023 10:38:15 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/stats/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>For devs</title>
         <link>https://blog.leocorporation.dev/tags/for-devs/</link>
         <pubDate>Tue, 31 Jan 2023 18:58:05 +0100</pubDate>
