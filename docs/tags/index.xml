@@ -6,20 +6,44 @@
         <description>Recent content in Tags on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 01 Feb 2023 10:38:15 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 05 Feb 2023 10:48:14 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>For devs</title>
+        <link>https://blog.leocorporation.dev/tags/for-devs/</link>
+        <pubDate>Sun, 05 Feb 2023 10:48:14 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/for-devs/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>New Features</title>
+        <link>https://blog.leocorporation.dev/tags/new-features/</link>
+        <pubDate>Sun, 05 Feb 2023 10:48:14 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/new-features/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>OpenSource</title>
+        <link>https://blog.leocorporation.dev/tags/opensource/</link>
+        <pubDate>Sun, 05 Feb 2023 10:48:14 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/opensource/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Package</title>
+        <link>https://blog.leocorporation.dev/tags/package/</link>
+        <pubDate>Sun, 05 Feb 2023 10:48:14 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/package/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Stats</title>
         <link>https://blog.leocorporation.dev/tags/stats/</link>
         <pubDate>Wed, 01 Feb 2023 10:38:15 +0100</pubDate>
         
         <guid>https://blog.leocorporation.dev/tags/stats/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>For devs</title>
-        <link>https://blog.leocorporation.dev/tags/for-devs/</link>
-        <pubDate>Tue, 31 Jan 2023 18:58:05 +0100</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/tags/for-devs/</guid>
         <description></description>
         </item>
         <item>
@@ -31,14 +55,6 @@
         <description></description>
         </item>
         <item>
-        <title>OpenSource</title>
-        <link>https://blog.leocorporation.dev/tags/opensource/</link>
-        <pubDate>Tue, 31 Jan 2023 18:58:05 +0100</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/tags/opensource/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Gaming</title>
         <link>https://blog.leocorporation.dev/tags/gaming/</link>
         <pubDate>Sun, 22 Jan 2023 16:55:14 +0100</pubDate>
@@ -47,27 +63,11 @@
         <description></description>
         </item>
         <item>
-        <title>New Features</title>
-        <link>https://blog.leocorporation.dev/tags/new-features/</link>
-        <pubDate>Sun, 22 Jan 2023 16:55:14 +0100</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/tags/new-features/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Update</title>
         <link>https://blog.leocorporation.dev/tags/update/</link>
         <pubDate>Sun, 22 Jan 2023 16:55:14 +0100</pubDate>
         
         <guid>https://blog.leocorporation.dev/tags/update/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Package</title>
-        <link>https://blog.leocorporation.dev/tags/package/</link>
-        <pubDate>Sun, 08 Jan 2023 13:54:42 +0100</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/tags/package/</guid>
         <description></description>
         </item>
         <item>

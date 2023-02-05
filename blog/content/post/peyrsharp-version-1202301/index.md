@@ -12,7 +12,7 @@ tags:
     - For devs
 ---
 
-A new version of PeyrSharp is now available, and it is the version 1.1.0.2212.
+A new version of PeyrSharp is now available, and it is the version 1.2.0.2301.
 
 ## Changelog
 ### PeyrSharp.Core
