@@ -40,3 +40,12 @@ With Passliss 2.9, we are introducing a new way to generate easily passwords by 
 ## Website
 
 [Click here](https://leocorporation.dev/store/passliss) to learn more about Passliss.
+
+## Quick demo
+Watch a quick demo about the new Generate by strength feature.
+
+{{< rawhtml >}}
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Go1TSXRaJ18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+{{</ rawhtml >}}
