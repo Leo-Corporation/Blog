@@ -3,10 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.leocorporation.dev/</loc>
-    <lastmod>2023-02-16T13:17:39+01:00</lastmod>
+    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/</loc>
-    <lastmod>2023-02-16T13:17:39+01:00</lastmod>
+    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/categories/colorpicker/</loc>
+    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/for-devs/</loc>
+    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/categories/information/</loc>
+    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/2023/02/introducing-colorpicker-max/</loc>
+    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/new-features/</loc>
+    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
+    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/post/</loc>
+    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/</loc>
+    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/update/</loc>
+    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/gerayis/</loc>
     <lastmod>2023-02-16T13:17:39+01:00</lastmod>
@@ -14,29 +41,11 @@
     <loc>https://blog.leocorporation.dev/2023/02/gerayis-version-2.4.0.2302-is-now-available/</loc>
     <lastmod>2023-02-16T13:17:39+01:00</lastmod>
   </url><url>
-    <loc>https://blog.leocorporation.dev/tags/new-features/</loc>
-    <lastmod>2023-02-16T13:17:39+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
-    <lastmod>2023-02-16T13:17:39+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/post/</loc>
-    <lastmod>2023-02-16T13:17:39+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/</loc>
-    <lastmod>2023-02-16T13:17:39+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/update/</loc>
-    <lastmod>2023-02-16T13:17:39+01:00</lastmod>
-  </url><url>
     <loc>https://blog.leocorporation.dev/categories/passliss/</loc>
     <lastmod>2023-02-14T14:04:35+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2023/02/passliss-version-2.9.0.2302-is-now-available/</loc>
     <lastmod>2023-02-14T14:04:35+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/for-devs/</loc>
-    <lastmod>2023-02-05T10:48:14+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/package/</loc>
     <lastmod>2023-02-05T10:48:14+01:00</lastmod>
@@ -48,9 +57,6 @@
     <lastmod>2023-02-05T10:48:14+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2023/02/a-look-at-the-latest-download-trends/</loc>
-    <lastmod>2023-02-01T10:38:15+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/categories/information/</loc>
     <lastmod>2023-02-01T10:38:15+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/stats/</loc>
@@ -100,9 +106,6 @@
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/12/gavilya-version-3.1.0.2212-is-now-available/</loc>
     <lastmod>2022-12-11T14:33:36+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/categories/colorpicker/</loc>
-    <lastmod>2022-12-04T13:43:03+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2022/12/colorpicker-version-4.6.0.2212-is-now-available/</loc>
     <lastmod>2022-12-04T13:43:03+01:00</lastmod>
