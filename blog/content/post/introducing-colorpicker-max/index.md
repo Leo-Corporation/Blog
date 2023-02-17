@@ -75,3 +75,12 @@ Once installed, you can launch ColorPicker Max from your applications folder or 
 It's important to note that ColorPicker Max is not simply an upgrade to ColorPicker 4. While it does share some similarities with its predecessor, ColorPicker Max is a standalone application that needs to be installed manually. Users of ColorPicker 4 will not be able to upgrade to ColorPicker Max through their current application and will need to download and install ColorPicker Max separately.
 
 Despite the need for a manual installation, we believe that the new features and enhancements offered by ColorPicker Max make it worth the effort. The powerful and flexible new tools, as well as the improved user interface and user experience, are designed to help users work more efficiently and effectively with color. So, if you're ready to take your color work to the next level, we encourage you to [download and install ColorPicker Max today](https://tinyurl.com/DownloadColorPickerMax).
+
+## Video
+Check the official trailer for ColorPicker Max.
+
+{{< rawhtml >}}
+  <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VRGkiRKs88k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </center>
+{{< /rawhtml >}}
