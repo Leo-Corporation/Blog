@@ -3,33 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.leocorporation.dev/</loc>
-    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
+    <lastmod>2023-03-05T14:21:49+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/</loc>
-    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/categories/colorpicker/</loc>
-    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
+    <lastmod>2023-03-05T14:21:49+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/for-devs/</loc>
+    <lastmod>2023-03-05T14:21:49+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/new-features/</loc>
+    <lastmod>2023-03-05T14:21:49+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
+    <lastmod>2023-03-05T14:21:49+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/package/</loc>
+    <lastmod>2023-03-05T14:21:49+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/categories/peyrsharp/</loc>
+    <lastmod>2023-03-05T14:21:49+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/2023/03/peyrsharp-version-1.4.0.2303-is-now-available/</loc>
+    <lastmod>2023-03-05T14:21:49+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/post/</loc>
+    <lastmod>2023-03-05T14:21:49+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/</loc>
+    <lastmod>2023-03-05T14:21:49+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/categories/colorpicker/</loc>
     <lastmod>2023-02-17T12:57:52+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/information/</loc>
     <lastmod>2023-02-17T12:57:52+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2023/02/introducing-colorpicker-max/</loc>
-    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/new-features/</loc>
-    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
-    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/post/</loc>
-    <lastmod>2023-02-17T12:57:52+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/</loc>
     <lastmod>2023-02-17T12:57:52+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/update/</loc>
@@ -46,12 +55,6 @@
   </url><url>
     <loc>https://blog.leocorporation.dev/2023/02/passliss-version-2.9.0.2302-is-now-available/</loc>
     <lastmod>2023-02-14T14:04:35+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/package/</loc>
-    <lastmod>2023-02-05T10:48:14+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/categories/peyrsharp/</loc>
-    <lastmod>2023-02-05T10:48:14+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2023/02/peyrsharp-version-1.3.0.2302-is-now-available/</loc>
     <lastmod>2023-02-05T10:48:14+01:00</lastmod>
