@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>New application on Blog | Léo Corporation</title>
+        <link>https://blog.leocorporation.dev/tags/new-application/</link>
+        <description>Recent content in New application on Blog | Léo Corporation</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 31 Jan 2023 18:58:05 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-application/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Introducing Devyus</title>
+        <link>https://blog.leocorporation.dev/2023/01/introducing-devyus/</link>
+        <pubDate>Tue, 31 Jan 2023 18:58:05 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2023/01/introducing-devyus/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2023/01/introducing-devyus/cover.png" alt="Featured image of post Introducing Devyus" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Léo Corporation is excited to announce the launch of Devyus, a new division dedicated to developing products and projects for developers. As technology continues to evolve and the role of developers becomes increasingly critical to businesses and organizations, Devyus is committed to improving the workflow and productivity of developers around the world.&lt;/p&gt;
+&lt;p&gt;At the heart of Devyus are two innovative products - PeyrSharp, a C# library designed to make developers&amp;rsquo; jobs easier, and Synethia, a basic C# algorithm that can determine the behavior of a user with an application. These products are designed to streamline the development process, helping developers work more efficiently and effectively.&lt;/p&gt;
+&lt;p&gt;PeyrSharp is a comprehensive library that simplifies many of the common tasks developers face on a daily basis. With PeyrSharp, developers can write code faster and with fewer errors, allowing them to focus on more important tasks. And with Synethia, developers can gain valuable insights into how users interact with their applications, allowing them to make data-driven decisions and create unique experiences for each user.&lt;/p&gt;
+&lt;p&gt;At Devyus, we understand that the role of developers is constantly evolving, and we are committed to staying ahead of the curve. Our team of experts is constantly exploring new technologies and techniques, so that we can bring the best products to market. And because we believe in the power of collaboration, we are always open to feedback and suggestions from the developer community.&lt;/p&gt;
+&lt;p&gt;So whether you are a seasoned developer or just starting out, Devyus is here to help. With our innovative products, expert team, and commitment to improving the workflow of developers, we are confident that we can make a real difference in the lives of developers everywhere.&lt;/p&gt;
+&lt;p&gt;We look forward to working with you!&lt;/p&gt;
+&lt;h2 id=&#34;devyus-products&#34;&gt;Devyus Products&lt;/h2&gt;
+&lt;p&gt;We already have interesting product for you!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://peyrsharp.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PeyrSharp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://synethia.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Synethia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2023/01/introducing-devyus/synethia.png&#34;
+	width=&#34;1920&#34;
+	height=&#34;1080&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2023/01/introducing-devyus/synethia_hu6eaee102f9b00e1034b723db4d774224_497213_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/01/introducing-devyus/synethia_hu6eaee102f9b00e1034b723db4d774224_497213_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Synethia is now part of Devyus&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+&lt;img src=&#34;https://blog.leocorporation.dev/2023/01/introducing-devyus/ps.png&#34;
+	width=&#34;1920&#34;
+	height=&#34;1080&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2023/01/introducing-devyus/ps_hu6eaee102f9b00e1034b723db4d774224_454850_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/01/introducing-devyus/ps_hu6eaee102f9b00e1034b723db4d774224_454850_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;PeyrSharp is now part of Devyus&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-does-that-mean-for-léo-corporation&#34;&gt;What does that mean for Léo Corporation?&lt;/h2&gt;
+&lt;p&gt;As a subsidiary of Léo Corporation, Devyus will continue to be backed by the resources and expertise of our parent company. This means that all Devyus products, including PeyrSharp and Synethia, will continue to be published under the Léo Corporation name.&lt;/p&gt;
+&lt;p&gt;However, with Devyus, we aim to streamline our development-focused offerings and create a more cohesive and dedicated platform for developers. Future products developed by Devyus will be published under the Devyus name, further solidifying our commitment to improving the workflow and experience of developers.&lt;/p&gt;
+&lt;p&gt;For current users of PeyrSharp and Synethia, rest assured that nothing has changed. These products will continue to be supported by Léo Corporation and Devyus, ensuring that developers can continue to use them with confidence.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Introducing Gavilya 3</title>
+        <link>https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/</link>
+        <pubDate>Fri, 28 Oct 2022 11:17:28 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/cover.png" alt="Featured image of post Introducing Gavilya 3" /&gt;&lt;p&gt;Almost two years after its first stable release, we&amp;rsquo;re proud to introduce you Gavilya 3, the next evolution of our game launcher.&lt;/p&gt;
+&lt;h2 id=&#34;a-new-design&#34;&gt;A new design&lt;/h2&gt;
+&lt;p&gt;With this new iteration of Gavilya, we decided to improve the user experience alongside with the user interface. Gavilya 3 now features a sidebar where you can find the home page, your games, those you played recently, and also your favorites. You can access you notifications directly from sidebar too. Located on the left side of the app, the sidebar gathers all of Gavilya&amp;rsquo;s features in one place. With the new sidebar, all buttons and menus in the title bar have been removed.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/2.png&#34;
+	width=&#34;1913&#34;
+	height=&#34;1025&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/2_hu819e2668b60520cfe33743a1a07197ab_614917_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/2_hu819e2668b60520cfe33743a1a07197ab_614917_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new sidebar&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;186&#34;
+		data-flex-basis=&#34;447px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;improved-profiles&#34;&gt;Improved profiles&lt;/h2&gt;
+&lt;p&gt;Profiles are an important feature of Gavilya. In version 3, the profile experience has been improved; we merged your profile page with the profile switcher, making it easier than ever to create and manage profiles in Gavilya.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/3.png&#34;
+	width=&#34;1913&#34;
+	height=&#34;1025&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/3_hufeeae3064479e206e2eea974655124f7_161502_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/3_hufeeae3064479e206e2eea974655124f7_161502_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The profile page&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;186&#34;
+		data-flex-basis=&#34;447px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;modern-settings&#34;&gt;Modern settings&lt;/h2&gt;
+&lt;p&gt;The settings window of Gavilya wasn&amp;rsquo;t really intuitive; therefore, we completely re-imagined the settings experience. Settings can now be access straight from the sidebar, and it will shows up in a new page instead of a window. You can now focus more on what you want to do with the new settings page design: It&amp;rsquo;s simple and intuitive. The design is similar to the one used in our other apps.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/4.png&#34;
+	width=&#34;1913&#34;
+	height=&#34;1025&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/4_huce001343679281f0ca22f9da9a68f6d9_74330_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/4_huce001343679281f0ca22f9da9a68f6d9_74330_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new settings page of Gavilya&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;186&#34;
+		data-flex-basis=&#34;447px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;new-card-view&#34;&gt;New card view&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;ve also redesigned a key part of Gavilya: The card view. You will notice that the play button is no longer visible by default: To bring it back, simply hover the card and it will show up again. When hovering a card, you can also now see the name of the game at a glance.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/5.png&#34;
+	width=&#34;1913&#34;
+	height=&#34;1025&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/5_hu29fed4cacc38e6931e5bdb2b1db76ad6_1578028_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/10/introducing-gavilya-3/5_hu29fed4cacc38e6931e5bdb2b1db76ad6_1578028_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The redesigned card view&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;186&#34;
+		data-flex-basis=&#34;447px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sorting-options&#34;&gt;Sorting options&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;ve also added sorting options to Gavilya: You can sort your games by the alphabetical order or not.&lt;/p&gt;
+&lt;h2 id=&#34;other-improvements&#34;&gt;Other improvements&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;ve also improved the design consistency across all the pages of Gavilya. We made improvements to performances and fixed some issues. You can now disable notifications as well.&lt;/p&gt;
+&lt;p&gt;You can find the full changelog of this release &lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/Gavilya/releases/tag/3.0.0.2210&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;Check the official trailer for Gavilya 3.&lt;/p&gt;
+
+
+  &lt;center&gt;
+    &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/kDGLLng3lCE&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;/center&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Introducing Datalya</title>
+        <link>https://blog.leocorporation.dev/2021/07/introducing-datalya/</link>
+        <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2021/07/introducing-datalya/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/07/introducing-datalya/cover.png" alt="Featured image of post Introducing Datalya" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Last year, we’ve launched two products: GestionBiblio X and GestionPerso X. They were specialized database management tools. They provided a brand new and modern user interface at the time. The goal was to rewrite the codebase from Visual Basic to C#, to introduce new features and a new design language. However, these two softwares were only available in French, not in English, and they weren’t receiving updates as much as other Léo Corporation’s softwares. This is why we are today introducing the next generation of database management at Léo Corporation: Datalya.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/cover.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/cover_hu585b845bac6b9b98f4e385dce7b37f4b_23177_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/introducing-datalya/cover_hu585b845bac6b9b98f4e385dce7b37f4b_23177_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The home page of Datalya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;whats-datalya&#34;&gt;What&amp;rsquo;s Datalya?&lt;/h2&gt;
+&lt;p&gt;Datalya is a modern and yet simple database management software for Windows. The main innovation of Datalya is Blocks. Blocks are different types of input for a user. For instance, you can have a simple text input, to a checkbox input, without forgetting the dropdown input. These Blocks are customizable, you can name theme, add choices, and more. You can even export your Blocks as a Template, so you can reuse them quickly in other databases. In a nutshell, Blocks are used to create your Database.&lt;/p&gt;
+&lt;p&gt;You can find Blocks in the “Creator” part. Talking about parts, Datalya is divided into two parts: The Creator part, and the Database part. We’ve talked about the Creator part already, so let’s move on to the Database part.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/2.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/2_hu2eef5c95aec75c556b3140a77e649b6b_53904_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/introducing-datalya/2_hu2eef5c95aec75c556b3140a77e649b6b_53904_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Creator part of Datalya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The Database part is where the database is. You’ll notice a ribbon UI at the top, and the database’s content filling the rest of the window. By default, it’s empty: Indeed, we need to add an item to the database first. You can go to “Edit” tab in the ribbon, and then click on “Add”. You’ll see that a window with your Blocks has appeared, and in this window, you can fill the fields and then add the item.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/3.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/3_hue7a0290966fbba52ed17248da6e91028_30750_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/introducing-datalya/3_hue7a0290966fbba52ed17248da6e91028_30750_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Database part of Datalya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Once you’ve added the item, you can edit it, delete it, etc.&lt;/p&gt;
+&lt;p&gt;The other new feature is the possibility to export a database to an Excel spreadsheet. You can go to the “Export” tab of the ribbon and click on “Export to Excel”. Note that Datalya only supports .xlsx files.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/4.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/4_hu585b845bac6b9b98f4e385dce7b37f4b_23177_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/introducing-datalya/4_hu585b845bac6b9b98f4e385dce7b37f4b_23177_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The home page of Datalya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;When launching Datalya, you’ll see the home screen, this is where all your recent files are shown for you to jump into a database quickly. You can even pin your most important databases if you have a lot of them.&lt;/p&gt;
+&lt;p&gt;Datalya is also customizable: it is available in English and French, and it has a dark mode! You can also change update settings and reset them anytime.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/5.png&#34;
+	width=&#34;1100&#34;
+	height=&#34;650&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/introducing-datalya/5_huad7e4adbac23ae106fcf61238f387534_36323_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/introducing-datalya/5_huad7e4adbac23ae106fcf61238f387534_36323_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The dark theme of Datalya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;There is still a lot of features that we didn’t covered in this article, but we will let you discover them by yourself. We’ve been working on Datalya for a few months now, and we focused on the design and on the user experience with the product, to deliver you an enjoyable experience while working on a database.&lt;/p&gt;
+&lt;p&gt;As always, Datalya will be free and Open-Source.&lt;/p&gt;
+&lt;h2 id=&#34;whats-next-for-gestionbiblio-x-and-gestionperso-x&#34;&gt;What’s next for GestionBiblio X and GestionPerso X&lt;/h2&gt;
+&lt;p&gt;The release of Datalya also means that our old GestionBiblio X and GestionPerso X softwares are now deprecated, and we recommend that the users of theses products switch to Datalya. If you are a user of one of these products, you can create a new database in Datalya by selecting ether the “Books” template or the “People” template.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://datalya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to go the website of Datalya.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/DownloadDatalya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Datalya.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Introducing Gavilya</title>
+        <link>https://blog.leocorporation.dev/2020/12/introducing-gavilya/</link>
+        <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2020/12/introducing-gavilya/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2020/12/introducing-gavilya/cover.png" alt="Featured image of post Introducing Gavilya" /&gt;&lt;p&gt;We&amp;rsquo;ve been working on a new project for a few months, and if you follow us on GitHub, you may already know what it is, but let&amp;rsquo;s introduce what Gavilya is.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Gavilya is a software that brings all your video games together in one place. Today, there is a lot of game launcher that you need to use depending on the game you wanna play. This is often annoying and this is why we created Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;integrations-and-features&#34;&gt;Integrations and Features&lt;/h2&gt;
+&lt;p&gt;Gavilya uses the RAWG.io video games database to get all your games informations automatically. Gavilya uses the RAWG API to get the background image of a game, the game&amp;rsquo;s description and even on wich platforms the game is available on. If you think that the game found by Gavilya in the RAWG database is wrong, you can change the associated game in the &amp;ldquo;Edit&amp;rdquo; window.&lt;/p&gt;
+&lt;p&gt;You can also know which games you played recently, or even know how long you&amp;rsquo;ve played a specific game. Gavilya uses a system that can detect if you are playing a game and count the time you&amp;rsquo;ve been playing it. Sometimes this system doesn&amp;rsquo;t works with games that have a different process name than it&amp;rsquo;s executable file (like Minecraft). This is why you can manually set the process to look for (for Minecraft it&amp;rsquo;s &amp;ldquo;javaw&amp;rdquo;).&lt;/p&gt;
+&lt;h2 id=&#34;open-source&#34;&gt;Open Source&lt;/h2&gt;
+&lt;p&gt;Gavilya is also one of our open-source projects. You can contribute to the code, report issues and bugs with Gavilya and more. Click here to go to the GitHub repo.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2020/12/introducing-gavilya/cover.png&#34;
+	width=&#34;960&#34;
+	height=&#34;610&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2020/12/introducing-gavilya/cover_hu31c6bb9887c2453f9b181d6f4b8f0637_198112_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2020/12/introducing-gavilya/cover_hu31c6bb9887c2453f9b181d6f4b8f0637_198112_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Your Games&amp;rdquo; page of Gavilya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;157&#34;
+		data-flex-basis=&#34;377px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2020/12/introducing-gavilya/2.png&#34;
+	width=&#34;960&#34;
+	height=&#34;610&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2020/12/introducing-gavilya/2_hu1956a95ffff0923f57af8ca295105d09_344354_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2020/12/introducing-gavilya/2_hu1956a95ffff0923f57af8ca295105d09_344354_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Game Information&amp;rdquo; page of Gavilya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;157&#34;
+		data-flex-basis=&#34;377px&#34;
+	
+&gt;
+&lt;img src=&#34;https://blog.leocorporation.dev/2020/12/introducing-gavilya/3.png&#34;
+	width=&#34;960&#34;
+	height=&#34;610&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2020/12/introducing-gavilya/3_hu1956a95ffff0923f57af8ca295105d09_205061_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2020/12/introducing-gavilya/3_hu1956a95ffff0923f57af8ca295105d09_205061_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Games recently played&amp;rdquo; page of Gavilya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;157&#34;
+		data-flex-basis=&#34;377px&#34;
+	
+&gt;
+&lt;img src=&#34;https://blog.leocorporation.dev/2020/12/introducing-gavilya/4.png&#34;
+	width=&#34;960&#34;
+	height=&#34;610&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2020/12/introducing-gavilya/4_hu1956a95ffff0923f57af8ca295105d09_264185_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2020/12/introducing-gavilya/4_hu1956a95ffff0923f57af8ca295105d09_264185_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Your Games - List&amp;rdquo; page of Gavilya.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;157&#34;
+		data-flex-basis=&#34;377px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

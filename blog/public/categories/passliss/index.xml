@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Passliss on Blog | Léo Corporation</title>
+        <link>https://blog.leocorporation.dev/categories/passliss/</link>
+        <description>Recent content in Passliss on Blog | Léo Corporation</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 23 Mar 2023 13:07:30 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/passliss/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Introducing Passliss for the Web – The Ultimate Password Generator</title>
+        <link>https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/</link>
+        <pubDate>Thu, 23 Mar 2023 13:07:30 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/cover.png" alt="Featured image of post Introducing Passliss for the Web – The Ultimate Password Generator" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Are you tired of struggling to come up with strong and unique passwords for all of your accounts? Look no further than Passliss for the Web, the latest and greatest iteration of Léo Corporation&amp;rsquo;s simple yet powerful password generator.&lt;/p&gt;
+&lt;h2 id=&#34;new-features&#34;&gt;New features&lt;/h2&gt;
+&lt;h3 id=&#34;the-new-home-page&#34;&gt;The new Home page&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/1.jpeg&#34;
+	width=&#34;1788&#34;
+	height=&#34;865&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/1_hu3f93ebbcd400ebec1e0c6a5c8406f433_64655_480x0_resize_q75_box.jpeg 480w, https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/1_hu3f93ebbcd400ebec1e0c6a5c8406f433_64655_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new Home dashboard&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;206&#34;
+		data-flex-basis=&#34;496px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;With Passliss for the Web, you can generate a strong password with just a click of a button. The home dashboard allows for quick generation, giving you the option to generate a password as soon as you load the page or by clicking a button. Plus, with the recommended features displayed as cards, you can easily explore and customize your password to fit your needs.&lt;/p&gt;
+&lt;h3 id=&#34;introducing-activities&#34;&gt;Introducing Activities&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/2.jpeg&#34;
+	width=&#34;1788&#34;
+	height=&#34;865&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/2_hufb664a14f03bfa947ed6f6be6e018650_114503_480x0_resize_q75_box.jpeg 480w, https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/2_hufb664a14f03bfa947ed6f6be6e018650_114503_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new Activity page&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;206&#34;
+		data-flex-basis=&#34;496px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The Activity page in Passliss for the Web allows you to keep track of all the passwords you&amp;rsquo;ve generated so far. This feature provides you with a list of your recently generated passwords along with their strength ratings. With this information at your fingertips, you can quickly identify which passwords are weak and need to be updated.&lt;/p&gt;
+&lt;h3 id=&#34;generate-passwords-easily&#34;&gt;Generate passwords easily&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/3-1.jpeg&#34;
+	width=&#34;1788&#34;
+	height=&#34;865&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/3-1_hu73a1c59f7c341ddc1524d99d15ac0549_51203_480x0_resize_q75_box.jpeg 480w, https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/3-1_hu73a1c59f7c341ddc1524d99d15ac0549_51203_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Simple section of Generate page&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;206&#34;
+		data-flex-basis=&#34;496px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The Generate page in Passliss for the Web is designed to make password generation easy and customizable. The basic view allows you to generate a password by strength, where you can select the desired strength with a slider and generate and copy buttons. The password strength rating is displayed in real-time, allowing you to adjust the strength slider to your desired level.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/3-2.jpeg&#34;
+	width=&#34;1788&#34;
+	height=&#34;865&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/3-2_hufbc807ecc39d1351bd4360a314c6d3cf_51893_480x0_resize_q75_box.jpeg 480w, https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/3-2_hufbc807ecc39d1351bd4360a314c6d3cf_51893_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Advanced section of Generate page&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;206&#34;
+		data-flex-basis=&#34;496px&#34;
+	
+&gt;
+However, if you want more control over your passwords, the advanced view is where you should be. Here, you can customize the password characters to your liking, including uppercases, lowercases, numbers, and special characters. You can even input custom characters to create unique passwords. Additionally, you can choose the length of the password and generate multiple passwords at once. Whether you want a quick and easy password or a fully customized one, Passliss for the Web has you covered.&lt;/p&gt;
+&lt;h3 id=&#34;ensure-your-safety&#34;&gt;Ensure your safety&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/4.jpeg&#34;
+	width=&#34;1788&#34;
+	height=&#34;865&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/4_hub479d3db51f55e1a5be65d55a32a64cd_58551_480x0_resize_q75_box.jpeg 480w, https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/4_hub479d3db51f55e1a5be65d55a32a64cd_58551_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Strength page&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;206&#34;
+		data-flex-basis=&#34;496px&#34;
+	
+&gt;
+But Passliss for the Web doesn&amp;rsquo;t just stop at password generation. The strength page allows you to estimate the strength of your current passwords and provides you with a detailed view of their strength with different colors. With this feature, you can identify weak passwords and take action to make them stronger. Passliss for the Web reminds you that the strength estimation is just an estimate, so you should always use your best judgment when creating and using passwords.&lt;/p&gt;
+&lt;h3 id=&#34;encrypt-your-secrets&#34;&gt;Encrypt your secrets&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/5.jpeg&#34;
+	width=&#34;1788&#34;
+	height=&#34;865&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/5_huef9dcdd5bf6f0c2e431667560bd62158_64094_480x0_resize_q75_box.jpeg 480w, https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/5_huef9dcdd5bf6f0c2e431667560bd62158_64094_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Encrypt page&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;206&#34;
+		data-flex-basis=&#34;496px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Passliss also has another great feature: The encryption page. It allows you to encrypt and decrypt strings using different encryption algorithms, including AES and Triple-DES. These are widely recognized as some of the most secure and reliable encryption algorithms available today.&lt;/p&gt;
+&lt;p&gt;AES, or Advanced Encryption Standard, is a symmetric-key encryption algorithm that is used to protect sensitive data. It is widely considered to be one of the most secure encryption algorithms available, and is used by governments, financial institutions, and other organizations to secure their data.&lt;/p&gt;
+&lt;p&gt;Triple-DES, or Triple Data Encryption Standard, is another symmetric-key encryption algorithm that uses three individual keys for increased security. While it is not as widely used as AES, it is still a reliable encryption algorithm that provides strong protection for your data.&lt;/p&gt;
+&lt;h3 id=&#34;customize-your-experience&#34;&gt;Customize your experience&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/6.jpeg&#34;
+	width=&#34;1788&#34;
+	height=&#34;865&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/6_hu0e407c0baf7ad9f1dc2ffd2deb849c62_78304_480x0_resize_q75_box.jpeg 480w, https://blog.leocorporation.dev/2023/03/introducing-passliss-for-the-web-the-ultimate-password-generator/6_hu0e407c0baf7ad9f1dc2ffd2deb849c62_78304_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new Settings page&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;206&#34;
+		data-flex-basis=&#34;496px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Passliss for the Web also comes with a settings page, allowing you to set your preferred theme, language, default random length, list of characters, and even your default encryption algorithm. And with the ability to export and import settings, you can easily transfer your preferences to other devices.&lt;/p&gt;
+&lt;h3 id=&#34;built-using-innovative-technologies&#34;&gt;Built using innovative technologies&lt;/h3&gt;
+&lt;p&gt;Built using NextJS, TypeScript, and Shadcn/ui with TailwindCSS and RadixUI, Passliss for the Web is also a progressive web application available for both desktop and mobile devices. Plus, the responsive UI ensures a seamless experience across all devices.&lt;/p&gt;
+&lt;h2 id=&#34;launch-now&#34;&gt;Launch now!&lt;/h2&gt;
+&lt;p&gt;Don&amp;rsquo;t settle for weak and easily hackable passwords. Upgrade to Passliss for the Web and secure your online presence today! &lt;a class=&#34;link&#34; href=&#34;https://passliss.leocorporation.dev&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to launch Passliss in your browser.&lt;/p&gt;
+&lt;h2 id=&#34;qna&#34;&gt;QnA&lt;/h2&gt;
+&lt;h3 id=&#34;whats-the-future-of-passliss-desktop&#34;&gt;What’s the future of Passliss Desktop?&lt;/h3&gt;
+&lt;p&gt;Passliss Desktop is going to be discontinued in favor of Passliss for the Web. This means that users will need to use the new web experience to generate and manage their passwords. Passliss for the Web offers more features, more security, and more convenience than Passliss Desktop.&lt;/p&gt;
+&lt;p&gt;However, users can still enjoy a desktop-like experience by installing Passliss for the Web as a progressive web application (PWA). This will allow them to access Passliss for the Web from their desktop or mobile device without opening a browser. To install Passliss for the Web as a PWA, users simply need to &lt;a class=&#34;link&#34; href=&#34;https://passliss.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;visit the website&lt;/a&gt; and follow the instructions on their device.&lt;/p&gt;
+&lt;p&gt;We hope that users will enjoy using Passliss for the Web and appreciate its benefits over Passliss Desktop. We thank them for their support and feedback over the years and look forward to providing them with the best password generator possible.&lt;/p&gt;
+&lt;h3 id=&#34;can-i-upgrade-directly-from-passliss-desktop-to-passliss-for-the-web&#34;&gt;Can I upgrade directly from Passliss Desktop to Passliss for the Web?&lt;/h3&gt;
+&lt;p&gt;No, you cannot upgrade from Passliss Desktop to Passliss Web because they are two different products. Passliss Desktop is a standalone application that runs on Windows and generates passwords locally. Passliss Web is a web-based application that runs on any device with a browser and generates passwords online. They have different features, settings, and interfaces.&lt;/p&gt;
+&lt;p&gt;However, you can still use both products if you wish. You can keep using Passliss Desktop until it is discontinued and then switch to Passliss Web. Or you can start using Passliss Web right away and enjoy its benefits over Passliss Desktop. The choice is yours.&lt;/p&gt;
+&lt;h3 id=&#34;is-passliss-for-the-web-free&#34;&gt;Is Passliss for the Web free?&lt;/h3&gt;
+&lt;p&gt;Yes, Passliss for the Web is free and open source. You can use it without paying anything or registering anything. You can also access the source code and contribute to the development of Passliss for the Web on &lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;. We believe in making password security accessible and transparent for everyone.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: Version 2.9.0.2302 is now available</title>
+        <link>https://blog.leocorporation.dev/2023/02/passliss-version-2.9.0.2302-is-now-available/</link>
+        <pubDate>Tue, 14 Feb 2023 14:04:35 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2023/02/passliss-version-2.9.0.2302-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2023/02/passliss-version-2.9.0.2302-is-now-available/cover.png" alt="Featured image of post Passliss: Version 2.9.0.2302 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.9.0.2302.&lt;/p&gt;
+&lt;h1 id=&#34;whats-new&#34;&gt;What&amp;rsquo;s new?&lt;/h1&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to generate a password by strength (#218)&lt;/li&gt;
+&lt;li&gt;Added the &amp;ldquo;By strength&amp;rdquo; section (#219)&lt;/li&gt;
+&lt;li&gt;Added the &amp;ldquo;Advanced&amp;rdquo; section (#220)&lt;/li&gt;
+&lt;li&gt;Improved padding (#220)&lt;/li&gt;
+&lt;li&gt;Added translations (#221)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the default password strength (#221)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated PeyrSharp.Core (#216)&lt;/li&gt;
+&lt;li&gt;Updated PeyrSharp.Env (#217)&lt;/li&gt;
+&lt;li&gt;Updated copyright (#222)&lt;/li&gt;
+&lt;li&gt;Updated Licenses (#222)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;generate-by-strength&#34;&gt;Generate by strength&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2023/02/passliss-version-2.9.0.2302-is-now-available/1.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2023/02/passliss-version-2.9.0.2302-is-now-available/1_hu8fff82e25bc2f340947e9660457c92e8_64918_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/02/passliss-version-2.9.0.2302-is-now-available/1_hu8fff82e25bc2f340947e9660457c92e8_64918_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new &amp;ldquo;Generate by strength&amp;rdquo; section of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;With Passliss 2.9, we are introducing a new way to generate easily passwords by simply providing Passliss with a target strength, making it easier to generate strong passwords. The old options are still available under the &amp;ldquo;Advanced&amp;rdquo; section of the Generate page.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/store/passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to learn more about Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;quick-demo&#34;&gt;Quick demo&lt;/h2&gt;
+&lt;p&gt;Watch a quick demo about the new Generate by strength feature.&lt;/p&gt;
+
+
+&lt;center&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/Go1TSXRaJ18&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Passliss: Version 2.8.0.2212 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/12/passliss-version-2.8.0.2212-is-now-available/</link>
+        <pubDate>Sun, 18 Dec 2022 10:36:53 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/12/passliss-version-2.8.0.2212-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/12/passliss-version-2.8.0.2212-is-now-available/cover.png" alt="Featured image of post Passliss: Version 2.8.0.2212 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.8.0.2212.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Redesigned TextBoxes (#206)&lt;/li&gt;
+&lt;li&gt;Added translations (#207)&lt;/li&gt;
+&lt;li&gt;Added tooltips on the title bar buttons (#207)&lt;/li&gt;
+&lt;li&gt;Improved the &amp;ldquo;characters&amp;rdquo; textboxes in dark mode (#208)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated PeyrSharp.Env (#204)&lt;/li&gt;
+&lt;li&gt;Updated PeyrSharp.Core (#205)&lt;/li&gt;
+&lt;li&gt;Updated theme resources (#206)&lt;/li&gt;
+&lt;li&gt;Updated TextBox style (#206)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/store/passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to learn more about Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/12/passliss-version-2.8.0.2212-is-now-available/1.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/12/passliss-version-2.8.0.2212-is-now-available/1_hu200b037967258b13fe01a8df0d6558fe_37500_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/12/passliss-version-2.8.0.2212-is-now-available/1_hu200b037967258b13fe01a8df0d6558fe_37500_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Encrypt&amp;rdquo; page of Passliss with new TextBoxes&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: Version 2.7.0.2211 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/11/passliss-version-2.7.0.2211-is-now-available/</link>
+        <pubDate>Sun, 06 Nov 2022 16:38:58 +0100</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/11/passliss-version-2.7.0.2211-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/11/passliss-version-2.7.0.2211-is-now-available/cover.png" alt="Featured image of post Passliss: Version 2.7.0.2211 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.7.0.2211.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &amp;ldquo;Confidential Mode&amp;rdquo; (#193)&lt;/li&gt;
+&lt;li&gt;Added translations (#193)&lt;/li&gt;
+&lt;li&gt;Added the possibility to toggle on Confidential mode on start (#193)&lt;/li&gt;
+&lt;li&gt;Added translations (#194)&lt;/li&gt;
+&lt;li&gt;Added the possibility to generate multiple passwords (#194)&lt;/li&gt;
+&lt;li&gt;Merged the &amp;ldquo;New&amp;rdquo; and &amp;ldquo;Load&amp;rdquo; buttons (#195)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Font isn&amp;rsquo;t applied in Password Configuration (#192)&lt;/li&gt;
+&lt;li&gt;Fixed an issue with Confidential mode (#193)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed old windows (#195)&lt;/li&gt;
+&lt;li&gt;Replaced LeoCorpLibrary with PeyrSharp (#196)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/store/passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to learn more about Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/11/passliss-version-2.7.0.2211-is-now-available/1.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/11/passliss-version-2.7.0.2211-is-now-available/1_hu3316c0e446889ac23e737968b9b39636_34054_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/11/passliss-version-2.7.0.2211-is-now-available/1_hu3316c0e446889ac23e737968b9b39636_34054_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;History&amp;rdquo; of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: Version 2.6.0.2209 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/09/passliss-version-2.6.0.2209-is-now-available/</link>
+        <pubDate>Sat, 10 Sep 2022 10:20:09 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/09/passliss-version-2.6.0.2209-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/09/passliss-version-2.6.0.2209-is-now-available/cover.png" alt="Featured image of post Passliss: Version 2.6.0.2209 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.6.0.2209.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to pin the window (#184)&lt;/li&gt;
+&lt;li&gt;The app is smoother when exiting it (#186)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed crash issue with update system (#187)&lt;/li&gt;
+&lt;li&gt;Fixed hovering issue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Merged the strength indicator with button (#183)&lt;/li&gt;
+&lt;li&gt;Updated button style to secondary style in Strength (#185)&lt;/li&gt;
+&lt;li&gt;Updated button style to secondary style in Crypt (#185)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/store/passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to learn more about Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/09/passliss-version-2.6.0.2209-is-now-available/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/09/passliss-version-2.6.0.2209-is-now-available/cover_hu5b6d1a11af8e5f59820b00f8febadbb7_66969_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/09/passliss-version-2.6.0.2209-is-now-available/cover_hu5b6d1a11af8e5f59820b00f8febadbb7_66969_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Generate&amp;rdquo; page of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: Version 2.5.2.2207 is now available </title>
+        <link>https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/</link>
+        <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/cover.png" alt="Featured image of post Passliss: Version 2.5.2.2207 is now available " /&gt;&lt;p&gt;A small new version of Passliss is now available, and it is version 2.5.2.2207.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added font files (#176)&lt;/li&gt;
+&lt;li&gt;Added translations (#179)&lt;/li&gt;
+&lt;li&gt;Added Open-Source mention (#179)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated font (#176)&lt;/li&gt;
+&lt;li&gt;Removed old font files (#176)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/store/passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to learn more about Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/cover_hua380f1f2cdb350ef465828b867608698_37541_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/07/passliss-version-2522207-is-now/cover_hua380f1f2cdb350ef465828b867608698_37541_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: Version 2.5.0.2206 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/</link>
+        <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/cover.png" alt="Featured image of post Passliss: Version 2.5.0.2206 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.5.0.2206.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a strength indicator in &amp;ldquo;Generate&amp;rdquo; page (#163)&lt;/li&gt;
+&lt;li&gt;Added translations (#164)&lt;/li&gt;
+&lt;li&gt;Added taskbar jump list (#164)&lt;/li&gt;
+&lt;li&gt;Added logic for taskbar jump lists (#164)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;simpler&amp;rdquo; special characters (#165)&lt;/li&gt;
+&lt;li&gt;Added translations (#165)&lt;/li&gt;
+&lt;li&gt;Added the possibility to toggle simpler characters (#165)&lt;/li&gt;
+&lt;li&gt;Added the possibility to save the user&amp;rsquo;s custom characters (#166)&lt;/li&gt;
+&lt;li&gt;Added the possibility to disable custom character save (#166)&lt;/li&gt;
+&lt;li&gt;Added default characters (#167)&lt;/li&gt;
+&lt;li&gt;Added TextBoxes to edit each character (#167)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set every default character (#167)&lt;/li&gt;
+&lt;li&gt;Added the possibility to toggle user defined characters (#167)&lt;/li&gt;
+&lt;li&gt;Added the possibility to edit every default character (#167)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed wrong Tooltip in &amp;ldquo;Strength&amp;rdquo; page button (#162)&lt;/li&gt;
+&lt;li&gt;Fixed a typo in localized strings&lt;/li&gt;
+&lt;li&gt;Fixed icon inconsistency&lt;/li&gt;
+&lt;li&gt;Fixed text wrapping issues&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated localized strings (#166)&lt;/li&gt;
+&lt;li&gt;Removed blank lines&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;learn-more&#34;&gt;Learn more&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev/store/passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to learn more about Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/cover_hu9b915286d8e78c3115293b96e7d05397_47566_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/06/passliss-version-2502206-is-now/cover_hu9b915286d8e78c3115293b96e7d05397_47566_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: Version 2.4.0.2204 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/</link>
+        <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/cover.png" alt="Featured image of post Passliss: Version 2.4.0.2204 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.4.0.2204.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Moved &amp;ldquo;Import&amp;rdquo; and &amp;ldquo;Export&amp;rdquo; buttons (#152)&lt;/li&gt;
+&lt;li&gt;Added translations (#153)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;See more&amp;rdquo; section in &amp;ldquo;Strength&amp;rdquo; page (#153)&lt;/li&gt;
+&lt;li&gt;Added more details in the &amp;ldquo;Strength&amp;rdquo; page (#153)&lt;/li&gt;
+&lt;li&gt;The &amp;ldquo;See more&amp;rdquo; button is only visible when a password is provided (#153)&lt;/li&gt;
+&lt;li&gt;Added new colors (#154)&lt;/li&gt;
+&lt;li&gt;Added colors to &amp;ldquo;Strength&amp;rdquo; page (#154)&lt;/li&gt;
+&lt;li&gt;Added syntax coloring in &amp;ldquo;Strength&amp;rdquo; page (#154)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue with the icon of the &amp;ldquo;See more&amp;rdquo; button (#153)&lt;/li&gt;
+&lt;li&gt;Fixed green color in light mode (#154)&lt;/li&gt;
+&lt;li&gt;Fixed an issue with &amp;ldquo;Strength&amp;rdquo; page (#154)&lt;/li&gt;
+&lt;li&gt;Fixed an issue when testing strength from &amp;ldquo;Generate&amp;rdquo; page&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated Chinese translation&lt;/li&gt;
+&lt;li&gt;Replaced orange with green (#154)&lt;/li&gt;
+&lt;li&gt;Refactored code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/cover_hu0716fecc172baf7c61696a89c403aa69_44112_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/04/passliss-version-2402204-is-now/cover_hu0716fecc172baf7c61696a89c403aa69_44112_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Strength&amp;rdquo; page of Passliss, with the &amp;ldquo;Info&amp;rdquo; panel opened.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: Version 2.3.0.2203 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/</link>
+        <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/cover.png" alt="Featured image of post Passliss: Version 2.3.0.2203 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.3.0.2203.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved animations on sidebar (#140)&lt;/li&gt;
+&lt;li&gt;Added translations (#141)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Generate key&amp;rdquo; button in &amp;ldquo;Encryption&amp;rdquo; page (#141)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Test strength&amp;rdquo; button in &amp;ldquo;Generate&amp;rdquo; page (#142)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set a default encryption mode (#143)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Slide in&amp;rdquo; animation when browsing Passliss (#144)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated Setup&lt;/li&gt;
+&lt;li&gt;Upgraded to .NET 6 (#139)&lt;/li&gt;
+&lt;li&gt;Code cleanup for .NET 6&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/cover_hu4866257e6726c82c13964a8ea237e26f_37643_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/03/passliss-version-2302203-is-now/cover_hu4866257e6726c82c13964a8ea237e26f_37643_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: Version 2.2.0.2202 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/02/passliss-version-2202202-is-now/</link>
+        <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/02/passliss-version-2202202-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/02/passliss-version-2202202-is-now/cover.png" alt="Featured image of post Passliss: Version 2.2.0.2202 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.2.0.2202.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations (#127)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;First run&amp;rdquo; window (#127)&lt;/li&gt;
+&lt;li&gt;First run window shows up on first run (#127)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Welcome&amp;rdquo; page (#127)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Tutorial&amp;rdquo; page (#127)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Theme&amp;rdquo; page (#127)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Language&amp;rdquo; page (#127)&lt;/li&gt;
+&lt;li&gt;Added the possibility to end the &amp;ldquo;First run&amp;rdquo; experience (#127)&lt;/li&gt;
+&lt;li&gt;Added the &amp;ldquo;Update&amp;rdquo; page (#127)&lt;/li&gt;
+&lt;li&gt;Improved design of the &amp;ldquo;First run&amp;rdquo; experience (#127)&lt;/li&gt;
+&lt;li&gt;Added animations (#127)&lt;/li&gt;
+&lt;li&gt;Added Expander style (#128)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Theme&amp;rdquo; category in Settings (#128)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Password length&amp;rdquo; category in Settings (#128)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Language&amp;rdquo; category in Settings (#128)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Startup&amp;rdquo; category in Settings (#128)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Password Configuration&amp;rdquo; category in Settings (#128)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;History&amp;rdquo; category in Settings (#128)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Data&amp;rdquo; category in Settings (#128)&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Licenses&amp;rdquo; category (#128)&lt;/li&gt;
+&lt;li&gt;Added a minimum width for the &amp;ldquo;About&amp;rdquo; section in Settings (#129)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue with &amp;ldquo;Apply&amp;rdquo; buttons (#127)&lt;/li&gt;
+&lt;li&gt;When resetting settings, the &amp;ldquo;First run&amp;rdquo; experience no longer shows up (#127)&lt;/li&gt;
+&lt;li&gt;Fixed resizing issues (#128)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated Simplified Chinese translation (Thanks to @wcxu21)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/02/passliss-version-2202202-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/02/passliss-version-2202202-is-now/cover_huec55953af070827bc4b418c96a15d8c4_45338_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/02/passliss-version-2202202-is-now/cover_huec55953af070827bc4b418c96a15d8c4_45338_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Settings&amp;rdquo; page of Passliss.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: Version 2.1.0.2201 is now available</title>
+        <link>https://blog.leocorporation.dev/2022/01/passliss-version-2102201-is-now/</link>
+        <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2022/01/passliss-version-2102201-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2022/01/passliss-version-2102201-is-now/cover.png" alt="Featured image of post Passliss: Version 2.1.0.2201 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.1.0.2201.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added description- Added tooltips on &amp;ldquo;Copy&amp;rdquo; buttons in &amp;ldquo;Crypt&amp;rdquo; page (#117)&lt;/li&gt;
+&lt;li&gt;Added translations (#118)&lt;/li&gt;
+&lt;li&gt;Added the possibility to disable the history (#118)&lt;/li&gt;
+&lt;li&gt;Added Simplified Chinese translation (#120) (Thanks to @wcxu21)&lt;/li&gt;
+&lt;li&gt;Passliss no longer checks for updates on start by default (#121)&lt;/li&gt;
+&lt;li&gt;Added a message box that ask the user if they want automatic updates (#121)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: The Password Configuration buttons aren&amp;rsquo;t visible (#116)&lt;/li&gt;
+&lt;li&gt;Fixed French translation typo (#119)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated copyright&lt;/li&gt;
+&lt;li&gt;Updated Licenses copyright(s) (#115)&lt;/li&gt;
+&lt;li&gt;Refactored code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2022/01/passliss-version-2102201-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2022/01/passliss-version-2102201-is-now/cover_hu71b487b609454ecfdbc7f3670d12ebe5_38444_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2022/01/passliss-version-2102201-is-now/cover_hu71b487b609454ecfdbc7f3670d12ebe5_38444_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Generate&amp;rdquo; page of Passliss with the user interface in Chinese.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: Version 2.0.0.2112 is now available</title>
+        <link>https://blog.leocorporation.dev/2021/12/passliss-version-2002112-is-now/</link>
+        <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2021/12/passliss-version-2002112-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/12/passliss-version-2002112-is-now/cover.png" alt="Featured image of post Passliss: Version 2.0.0.2112 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 2.0.0.2112.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Redesigned links (#99)&lt;/li&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added an &amp;ldquo;Encrypt&amp;rdquo; page (#100)&lt;/li&gt;
+&lt;li&gt;Added the possibility to encrypt a string with a key using AES encryption (#101)&lt;/li&gt;
+&lt;li&gt;Improved the design of the &amp;ldquo;Encryption&amp;rdquo; page (#100)- Added a placeholder on the &amp;ldquo;String to encrypt&amp;rdquo; TextBox (#100)&lt;/li&gt;
+&lt;li&gt;Added messages when some fields are empty (#100)&lt;/li&gt;
+&lt;li&gt;Added the possibility to encrypt a string with a key using Triple-DES encryption (#102)&lt;/li&gt;
+&lt;li&gt;Added the possibility to copy the encrypted string&lt;/li&gt;
+&lt;li&gt;Added a tab system (#100)&lt;/li&gt;
+&lt;li&gt;Added the possibility to decrypt a string using AES encryption (#103)&lt;/li&gt;
+&lt;li&gt;Add the possibility to decrypt a string using Triple-DES encryption (#104)&lt;/li&gt;
+&lt;li&gt;Added error messages in case of an error&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the &amp;ldquo;Encryption&amp;rdquo; page as a startup page&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Can&amp;rsquo;t see the &amp;ldquo;Licenses&amp;rdquo; section (#98)&lt;/li&gt;
+&lt;li&gt;Fixed an issue with system theme not working on Windows 11&lt;/li&gt;
+&lt;li&gt;Fixed format issues&lt;/li&gt;
+&lt;li&gt;Fixed an issue with dark theme&lt;/li&gt;
+&lt;li&gt;Fixed scroll bar issues (#100)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/12/passliss-version-2002112-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/12/passliss-version-2002112-is-now/cover_hu02cb7d8d1432597ead64eb3f620c5819_34910_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/12/passliss-version-2002112-is-now/cover_hu02cb7d8d1432597ead64eb3f620c5819_34910_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Encryption&amp;rdquo; page of Passliss.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: Version 1.9.0.2111 is now available</title>
+        <link>https://blog.leocorporation.dev/2021/11/passliss-version-1902111-is-now/</link>
+        <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2021/11/passliss-version-1902111-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/11/passliss-version-1902111-is-now/cover.png" alt="Featured image of post Passliss: Version 1.9.0.2111 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 1.9.0.2111.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to hide password by default in &amp;ldquo;Strength&amp;rdquo; page (#88)&lt;/li&gt;
+&lt;li&gt;Added an option in &amp;ldquo;Settings&amp;rdquo; page to hide/show password in &amp;ldquo;Strength&amp;rdquo; (#88)&lt;/li&gt;
+&lt;li&gt;Added the possibility to mask/show password in &amp;ldquo;History&amp;rdquo; (#89)&lt;/li&gt;
+&lt;li&gt;The &amp;ldquo;Hide/Show password&amp;rdquo; button is only visible when the history is open (#89)&lt;/li&gt;
+&lt;li&gt;Added the possibility to always hide generated password in &amp;ldquo;History&amp;rdquo; (#90)&lt;/li&gt;
+&lt;li&gt;Added an option in &amp;ldquo;Settings&amp;rdquo; page to hide/show password in history (#90)&lt;/li&gt;
+&lt;li&gt;Added a textbox to add other characters (#91)&lt;/li&gt;
+&lt;li&gt;Added the possibility to add other characters (#91)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: &amp;ldquo;Caracters&amp;rdquo; should be &amp;ldquo;Characters&amp;rdquo; (#87)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/11/passliss-version-1902111-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/11/passliss-version-1902111-is-now/cover_hu1ef844b79e6f40836783685f6a160d95_44312_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/11/passliss-version-1902111-is-now/cover_hu1ef844b79e6f40836783685f6a160d95_44312_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Generate&amp;rdquo; page of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: The version 1.8.0.2110 is now available</title>
+        <link>https://blog.leocorporation.dev/2021/10/passliss-version-1802110-is-now/</link>
+        <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2021/10/passliss-version-1802110-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/10/passliss-version-1802110-is-now/cover.png" alt="Featured image of post Passliss: The version 1.8.0.2110 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 1.8.0.2110.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Changed &amp;ldquo;Strength&amp;rdquo; page icons to filled icons (#78)&lt;/li&gt;
+&lt;li&gt;The &amp;ldquo;History&amp;rdquo; button is hidden when the history is empty (#79)&lt;/li&gt;
+&lt;li&gt;Redesigned &amp;ldquo;Startup page&amp;rdquo; section in &amp;ldquo;Settings&amp;rdquo; page (#80)&lt;/li&gt;
+&lt;li&gt;Added tooltips on &amp;ldquo;icons-only&amp;rdquo; buttons (#81)&lt;/li&gt;
+&lt;li&gt;Made the TextBox in &amp;ldquo;See full Password&amp;rdquo; window read-only (#82)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where icons weren&amp;rsquo;t visible (#78)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated &amp;ldquo;Stregnth&amp;rdquo; page &amp;ldquo;Very good&amp;rdquo; icon (#78)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/10/passliss-version-1802110-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/10/passliss-version-1802110-is-now/cover_hu8b243d3cd295083f4617ae22f1b403c5_43303_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/10/passliss-version-1802110-is-now/cover_hu8b243d3cd295083f4617ae22f1b403c5_43303_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Generate&amp;rdquo; page of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: The version 1.7.0.2109 is now available</title>
+        <link>https://blog.leocorporation.dev/2021/09/passliss-version-1702108-is-now/</link>
+        <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2021/09/passliss-version-1702108-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/09/passliss-version-1702108-is-now/cover.png" alt="Featured image of post Passliss: The version 1.7.0.2109 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available and it is the version 1.7.0.2109.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to edit a Password Configuration (#68)&lt;/li&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added a window to see long passwords (#69)&lt;/li&gt;
+&lt;li&gt;Added a button in &amp;ldquo;Generate&amp;rdquo; page that opens the &amp;ldquo;See full password&amp;rdquo; window&amp;quot; (#69)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Forecolor is wrong in light mode in Password Configuration Item (#66)&lt;/li&gt;
+&lt;li&gt;Fixed: The &amp;ldquo;star&amp;rdquo; icon isn&amp;rsquo;t updated on start (#67)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Made default theme &amp;ldquo;System&amp;rdquo; (#70)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/09/passliss-version-1702108-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/09/passliss-version-1702108-is-now/cover_hu9ad3ee48f8530a636630cb6fbf7a71b4_31884_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/09/passliss-version-1702108-is-now/cover_hu9ad3ee48f8530a636630cb6fbf7a71b4_31884_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;See full password&amp;rdquo; window of Passliss.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: The version 1.6.0.2108 is now available</title>
+        <link>https://blog.leocorporation.dev/2021/08/passliss-version-1602108-is-now/</link>
+        <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2021/08/passliss-version-1602108-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/08/passliss-version-1602108-is-now/cover.png" alt="Featured image of post Passliss: The version 1.6.0.2108 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 1.6.0.2108.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added the possibility to set a default Password Configuration (#56)&lt;/li&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Removed &amp;ldquo;Presets&amp;rdquo; section (#57)&lt;/li&gt;
+&lt;li&gt;Added the possibility to reset the default Password Configuration (#57)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Randomize&amp;rdquo; button (#58)&lt;/li&gt;
+&lt;li&gt;Added animations on Tab buttons (#61)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated Setup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/08/passliss-version-1602108-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/08/passliss-version-1602108-is-now/cover_hu8459a89678244d7365f375b2dd6077b4_40477_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/08/passliss-version-1602108-is-now/cover_hu8459a89678244d7365f375b2dd6077b4_40477_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Generate&amp;rdquo; page of Passliss.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: The version 1.5.0.2107 is now available</title>
+        <link>https://blog.leocorporation.dev/2021/07/passliss-version-1502107-is-now/</link>
+        <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2021/07/passliss-version-1502107-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/07/passliss-version-1502107-is-now/cover.png" alt="Featured image of post Passliss: The version 1.5.0.2107 is now available" /&gt;&lt;p&gt;A new version of Passliss is available, and it is the version 1.5.0.2107.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the theme to system (#45)&lt;/li&gt;
+&lt;li&gt;Redesigned the theme picking UI (#46)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the default startup page (#47)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Randomize&amp;rdquo; button on the length field in the Password Configurations creator UI (#48)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved theme assets (#46)&lt;/li&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/07/passliss-version-1502107-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/07/passliss-version-1502107-is-now/cover_hu98128a85d8ee8c9cbdfa67133e954f1c_46629_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/07/passliss-version-1502107-is-now/cover_hu98128a85d8ee8c9cbdfa67133e954f1c_46629_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The settings of Passliss (in dark theme)&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: The version 1.4.0.2106 is now available</title>
+        <link>https://blog.leocorporation.dev/2021/06/passliss-version-1402106-is-now/</link>
+        <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2021/06/passliss-version-1402106-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/06/passliss-version-1402106-is-now/cover.png" alt="Featured image of post Passliss: The version 1.4.0.2106 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available and it is the version 1.4.0.2106.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Redesigned &amp;ldquo;About&amp;rdquo; section in settings (#35)&lt;/li&gt;
+&lt;li&gt;Added the possibility to export settings (#36)&lt;/li&gt;
+&lt;li&gt;Added the possibility to import settings (#36)&lt;/li&gt;
+&lt;li&gt;Added translations&lt;/li&gt;
+&lt;li&gt;Added an historic of generated passwords (#37)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/06/passliss-version-1402106-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/06/passliss-version-1402106-is-now/cover_hu8d75f1feaa15b627f0dd6ac821ab24da_45054_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/06/passliss-version-1402106-is-now/cover_hu8d75f1feaa15b627f0dd6ac821ab24da_45054_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The history of the &amp;ldquo;Generate&amp;rdquo; page of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: The version 1.3.0.2105 is now available</title>
+        <link>https://blog.leocorporation.dev/2021/05/passliss-version-1302105-is-now/</link>
+        <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2021/05/passliss-version-1302105-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/05/passliss-version-1302105-is-now/cover.png" alt="Featured image of post Passliss: The version 1.3.0.2105 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 1.3.0.2105.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved the dark theme color of Import/Export Password Configurations (#28)&lt;/li&gt;
+&lt;li&gt;Added translations- Added the possibility to set a default preset (#29)&lt;/li&gt;
+&lt;li&gt;Added the possibility to edit the default preset (#29)&lt;/li&gt;
+&lt;li&gt;Added the possibility to edit random length values (#30)&lt;/li&gt;
+&lt;li&gt;Added the possibility to use a random length value on start (#31)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/05/passliss-version-1302105-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/05/passliss-version-1302105-is-now/cover_hu28102a76f6b33e32231865cfc519fc0f_47361_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/05/passliss-version-1302105-is-now/cover_hu28102a76f6b33e32231865cfc519fc0f_47361_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The settings of Passliss.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: The version 1.2.0.2104 is now available</title>
+        <link>https://blog.leocorporation.dev/2021/04/passliss-version-1202104-is-now/</link>
+        <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2021/04/passliss-version-1202104-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/04/passliss-version-1202104-is-now/cover.png" alt="Featured image of post Passliss: The version 1.2.0.2104 is now available" /&gt;&lt;p&gt;A new version is available for Passliss, and it is the version 1.2.0.2104.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a notification when updates are available (#21)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set if Passliss should check updates on start (#22)&lt;/li&gt;
+&lt;li&gt;Added the possibility to export Password Configurations (#23)&lt;/li&gt;
+&lt;li&gt;Added the possibility to import Password Configurations (#23)&lt;/li&gt;
+&lt;li&gt;Added tooltips on buttons (#23)&lt;/li&gt;
+&lt;li&gt;Added the possibility to reset settings (#24)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: Passliss crashes if there isn&amp;rsquo;t internet (#20)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated translations&lt;/li&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Updated icons (#23)&lt;/li&gt;
+&lt;li&gt;The &amp;ldquo;Load Password Configuration&amp;rdquo; popup will now behave just like a context menu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/04/passliss-version-1202104-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/04/passliss-version-1202104-is-now/cover_hueadcda6c5391f6190811f650f322d6e2_39660_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/04/passliss-version-1202104-is-now/cover_hueadcda6c5391f6190811f650f322d6e2_39660_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Generate page of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/04/passliss-version-1202104-is-now/2.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/04/passliss-version-1202104-is-now/2_hu97d87ad53af6d5b9d4a53f13fd546f9d_41668_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/04/passliss-version-1202104-is-now/2_hu97d87ad53af6d5b9d4a53f13fd546f9d_41668_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Update section of the Settings page of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+&lt;img src=&#34;https://blog.leocorporation.dev/2021/04/passliss-version-1202104-is-now/3.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/04/passliss-version-1202104-is-now/3_hu4f29ede18702ed9b54b0fc0a3ad1053f_40537_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/04/passliss-version-1202104-is-now/3_hu4f29ede18702ed9b54b0fc0a3ad1053f_40537_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Data section of the Settings page of Passliss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Passliss: The version 1.1.0.2103 is now available</title>
+        <link>https://blog.leocorporation.dev/2021/03/passliss-version-1102103-is-now/</link>
+        <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2021/03/passliss-version-1102103-is-now/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/03/passliss-version-1102103-is-now/cover.png" alt="Featured image of post Passliss: The version 1.1.0.2103 is now available" /&gt;&lt;p&gt;A new version is available for Passliss, and it&amp;rsquo;s the version 1.1.0.2103.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Replace the &amp;ldquo;Theme&amp;rdquo; ComboBox to RadioButtons (#14)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Licenses&amp;rdquo; section in the &amp;ldquo;Settings&amp;rdquo; page (#14)&lt;/li&gt;
+&lt;li&gt;Added a &amp;ldquo;Random length&amp;rdquo; button (#16)&lt;/li&gt;
+&lt;li&gt;Added the possibility to hide the password in the &amp;ldquo;Strength&amp;rdquo; page (#17)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: In the &amp;ldquo;LoadPasswordConfiguration&amp;rdquo; window, the textblock is still black in dark theme (#12)&lt;/li&gt;
+&lt;li&gt;Fixed: Comboboxes in Settings in dark theme are unreadable (#13)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated translations&lt;/li&gt;
+&lt;li&gt;Updated LeoCorpLibrary&lt;/li&gt;
+&lt;li&gt;Refactorization of code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.mediafire.com/file/ohcs00n2nv6zocn/PasslissSetup.exe/file&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/03/passliss-version-1102103-is-now/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/03/passliss-version-1102103-is-now/cover_hu769c1549b646079f336e07b018f4398a_42896_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/03/passliss-version-1102103-is-now/cover_hu769c1549b646079f336e07b018f4398a_42896_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Passliss in dark theme&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/03/passliss-version-1102103-is-now/2.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/03/passliss-version-1102103-is-now/2_hu295be02e9ab4239a0cbb3fc8784fc30a_41938_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/03/passliss-version-1102103-is-now/2_hu295be02e9ab4239a0cbb3fc8784fc30a_41938_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The &amp;ldquo;Strength&amp;rdquo; page of Passliss in dark theme&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Introducing Passliss</title>
+        <link>https://blog.leocorporation.dev/2021/02/introducing-passliss/</link>
+        <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2021/02/introducing-passliss/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2021/02/introducing-passliss/cover.png" alt="Featured image of post Introducing Passliss" /&gt;&lt;p&gt;After a month of developpment, Passliss, the successor of Password Generator 3 is out and generaly available for the public.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Password Generator is part of our most popular softwares since the launch of the third version. This third version was designed to be built on a more modern platform (C# - Windows Forms) and also to deliver a more modern UI (Guna.UI) For Passliss, we chose to focus on one thing: innovation. Passliss is our second software to be built using WPF, and our first software to use our new design guidelines, which mainely focus on User eXperience (UX) but also on User Interface (UI). Thanks to this guidelines, Passliss is offering to our users an intuitive and modern experience.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss/cover.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss/cover_huffb5f60309ff2ea485e3f5e3b98d2e90_38472_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/02/introducing-passliss/cover_huffb5f60309ff2ea485e3f5e3b98d2e90_38472_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Passliss&amp;rsquo; main window&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;p&gt;Passliss offers a few useful features to make password generation easier. Let&amp;rsquo;s start with the password generation customization system, the main page. You an easily customize the password that isgoing to be generated, you can choose if the password will include lower case, upper case, numbers and special caracters. You can also choose the length of the password. You can save your configuration by using Password Configurations, which allows you to save a specific password generation configuration.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss/2.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss/2_huf93430e73d63529cf08e5a397cb6c34a_44478_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/02/introducing-passliss/2_huf93430e73d63529cf08e5a397cb6c34a_44478_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Passliss&amp;rsquo; Password configuration feature&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Passliss can also evaluate the strenght of a password. There is multiples levels of strenght:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Low, you should change your password&lt;/li&gt;
+&lt;li&gt;Medium, adding more complexity to your password would be a nice addition&lt;/li&gt;
+&lt;li&gt;Good, you can safely use this password&lt;/li&gt;
+&lt;li&gt;Excellent, the chances of someone finding your password are near inexistant.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Passliss also has an auto-update system and a dark mode!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss/3.png&#34;
+	width=&#34;800&#34;
+	height=&#34;450&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss/3_hua77fc20e2ccb0faeebea776ab6a1568e_42317_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/02/introducing-passliss/3_hua77fc20e2ccb0faeebea776ab6a1568e_42317_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Passliss, in dark mode&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;open-source&#34;&gt;Open Source&lt;/h2&gt;
+&lt;p&gt;Passliss is also Open Source on &lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/Passliss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Passliss.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
