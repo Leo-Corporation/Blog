@@ -6,7 +6,53 @@
         <description>Recent content on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 10 Apr 2023 12:32:02 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 16 Apr 2023 14:33:02 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Gavilya: Version 3.4.0.2304 is now available</title>
+        <link>https://blog.leocorporation.dev/2023/04/gavilya-version-3.4.0.2304-is-now-available/</link>
+        <pubDate>Sun, 16 Apr 2023 14:33:02 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2023/04/gavilya-version-3.4.0.2304-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2023/04/gavilya-version-3.4.0.2304-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 3.4.0.2304 is now available" /&gt;&lt;p&gt;A new version of Gavilya is now available, and it is the version 3.4.0.2304.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved RAWG.io integration (#363)&lt;/li&gt;
+&lt;li&gt;Added translations (#364)&lt;/li&gt;
+&lt;li&gt;Added Sidebar position system (#364)&lt;/li&gt;
+&lt;li&gt;Added the possibility to set the position of the sidebar (#364)&lt;/li&gt;
+&lt;li&gt;Added a placeholder when there are no ratings (#365)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated PeyrSharp.Core (#357)&lt;/li&gt;
+&lt;li&gt;Updated PeyrSharp.Env (#358)&lt;/li&gt;
+&lt;li&gt;Updated RestSharp (#361)&lt;/li&gt;
+&lt;li&gt;Updated MouseKeyHook (#362)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/Gavilya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to download Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gavilya.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to go the website of Gavilya.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2023/04/gavilya-version-3.4.0.2304-is-now-available/1.png&#34;
+	width=&#34;1185&#34;
+	height=&#34;700&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2023/04/gavilya-version-3.4.0.2304-is-now-available/1_hu9789ee7feeff04a969fda42a74c76549_430030_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/04/gavilya-version-3.4.0.2304-is-now-available/1_hu9789ee7feeff04a969fda42a74c76549_430030_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Gavilya&amp;rsquo;s sidebar on the right.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;406px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>ColorPicker: Version 5.1.0.2304 is now available</title>
         <link>https://blog.leocorporation.dev/2023/04/colorpicker-version-5.1.0.2304-is-now-available/</link>
         <pubDate>Mon, 10 Apr 2023 12:32:02 +0200</pubDate>
@@ -8092,7 +8138,7 @@ This is a very small version with no new features. This version may also be the 
         <description>&lt;img src="https://blog.leocorporation.dev/2021/03/introducing-gerayis/cover.png" alt="Featured image of post Introducing Gerayis" /&gt;&lt;p&gt;We are starting this month with the release of a new software: Gerayis. Gerayis is the next evolution of Bar Code Generator 2.&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;It&amp;rsquo;s been a few years already since we&amp;rsquo;ve released the first version of Bar Code Generator (at the time, named in french &amp;ldquo;Générateur de codes barre&amp;rdquo;). Then, last year, 2020, we&amp;rsquo;ve released Bar Code Generator 2, with a brand new design, and the possibility to generate QR Codes.&lt;/p&gt;
-&lt;p&gt;The second version main purpose was to deliver to our users, a brand new user experience, while also adding new features. 
+&lt;p&gt;The second version main purpose was to deliver to our users, a brand new user experience, while also adding new features.
 Gerayis is the next of evolution of Bar Code Generator, with a design and user experience similar to &lt;a class=&#34;link&#34; href=&#34;https://blog.leocorporation.dev/2021/02/introducing-passliss.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Passliss&lt;/a&gt;&#39;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/03/introducing-gerayis/cover.png&#34;

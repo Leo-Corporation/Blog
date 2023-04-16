@@ -3,10 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.leocorporation.dev/</loc>
-    <lastmod>2023-04-10T12:32:02+02:00</lastmod>
+    <lastmod>2023-04-16T14:33:02+02:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/</loc>
-    <lastmod>2023-04-10T12:32:02+02:00</lastmod>
+    <lastmod>2023-04-16T14:33:02+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/gaming/</loc>
+    <lastmod>2023-04-16T14:33:02+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/categories/gavilya/</loc>
+    <lastmod>2023-04-16T14:33:02+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/2023/04/gavilya-version-3.4.0.2304-is-now-available/</loc>
+    <lastmod>2023-04-16T14:33:02+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/new-features/</loc>
+    <lastmod>2023-04-16T14:33:02+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
+    <lastmod>2023-04-16T14:33:02+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/post/</loc>
+    <lastmod>2023-04-16T14:33:02+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/</loc>
+    <lastmod>2023-04-16T14:33:02+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.leocorporation.dev/tags/update/</loc>
+    <lastmod>2023-04-16T14:33:02+02:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/colorpicker/</loc>
     <lastmod>2023-04-10T12:32:02+02:00</lastmod>
@@ -15,21 +39,6 @@
     <lastmod>2023-04-10T12:32:02+02:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/for-devs/</loc>
-    <lastmod>2023-04-10T12:32:02+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/new-features/</loc>
-    <lastmod>2023-04-10T12:32:02+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/opensource/</loc>
-    <lastmod>2023-04-10T12:32:02+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/post/</loc>
-    <lastmod>2023-04-10T12:32:02+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/</loc>
-    <lastmod>2023-04-10T12:32:02+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/update/</loc>
     <lastmod>2023-04-10T12:32:02+02:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/tags/package/</loc>
@@ -49,12 +58,6 @@
   </url><url>
     <loc>https://blog.leocorporation.dev/categories/passliss/</loc>
     <lastmod>2023-03-23T13:07:30+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/tags/gaming/</loc>
-    <lastmod>2023-03-12T13:41:10+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.leocorporation.dev/categories/gavilya/</loc>
-    <lastmod>2023-03-12T13:41:10+01:00</lastmod>
   </url><url>
     <loc>https://blog.leocorporation.dev/2023/03/gavilya-version-3.3.0.2303-is-now-available/</loc>
     <lastmod>2023-03-12T13:41:10+01:00</lastmod>

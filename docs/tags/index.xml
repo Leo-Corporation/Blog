@@ -6,7 +6,39 @@
         <description>Recent content in Tags on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 10 Apr 2023 12:32:02 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 16 Apr 2023 14:33:02 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Gaming</title>
+        <link>https://blog.leocorporation.dev/tags/gaming/</link>
+        <pubDate>Sun, 16 Apr 2023 14:33:02 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/gaming/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>New Features</title>
+        <link>https://blog.leocorporation.dev/tags/new-features/</link>
+        <pubDate>Sun, 16 Apr 2023 14:33:02 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/new-features/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>OpenSource</title>
+        <link>https://blog.leocorporation.dev/tags/opensource/</link>
+        <pubDate>Sun, 16 Apr 2023 14:33:02 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/opensource/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Update</title>
+        <link>https://blog.leocorporation.dev/tags/update/</link>
+        <pubDate>Sun, 16 Apr 2023 14:33:02 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/tags/update/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>For devs</title>
         <link>https://blog.leocorporation.dev/tags/for-devs/</link>
         <pubDate>Mon, 10 Apr 2023 12:32:02 +0200</pubDate>
@@ -15,43 +47,11 @@
         <description></description>
         </item>
         <item>
-        <title>New Features</title>
-        <link>https://blog.leocorporation.dev/tags/new-features/</link>
-        <pubDate>Mon, 10 Apr 2023 12:32:02 +0200</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/tags/new-features/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>OpenSource</title>
-        <link>https://blog.leocorporation.dev/tags/opensource/</link>
-        <pubDate>Mon, 10 Apr 2023 12:32:02 +0200</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/tags/opensource/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Update</title>
-        <link>https://blog.leocorporation.dev/tags/update/</link>
-        <pubDate>Mon, 10 Apr 2023 12:32:02 +0200</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/tags/update/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Package</title>
         <link>https://blog.leocorporation.dev/tags/package/</link>
         <pubDate>Sun, 02 Apr 2023 12:37:26 +0200</pubDate>
         
         <guid>https://blog.leocorporation.dev/tags/package/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Gaming</title>
-        <link>https://blog.leocorporation.dev/tags/gaming/</link>
-        <pubDate>Sun, 12 Mar 2023 13:41:10 +0100</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/tags/gaming/</guid>
         <description></description>
         </item>
         <item>
