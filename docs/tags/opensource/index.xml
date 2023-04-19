@@ -6,7 +6,95 @@
         <description>Recent content in OpenSource on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 16 Apr 2023 14:33:02 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 19 Apr 2023 13:13:19 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>InternetTest: Version 7.5.0.2304 is now available</title>
+        <link>https://blog.leocorporation.dev/2023/04/internettest-version-7.5.0.2304-is-now-available/</link>
+        <pubDate>Wed, 19 Apr 2023 13:13:19 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2023/04/internettest-version-7.5.0.2304-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2023/04/internettest-version-7.5.0.2304-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 7.5.0.2304 is now available" /&gt;&lt;p&gt;A new version of InternetTest Pro is now available and brings new features and improvements.&lt;/p&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations (#416)&lt;/li&gt;
+&lt;li&gt;Added DNS page in Synethia (#416)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the IP of the host (#417)&lt;/li&gt;
+&lt;li&gt;Added translations (#418)&lt;/li&gt;
+&lt;li&gt;Added the DNS record item (#418)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the DNS records of the domain name (#418)&lt;/li&gt;
+&lt;li&gt;Added the possibility to get the WHOIS of a domain (#419)&lt;/li&gt;
+&lt;li&gt;Added code to avoid errors&lt;/li&gt;
+&lt;li&gt;Fixed an issue when looking for multiple websites (#418)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue with SynethiaManager (#416)&lt;/li&gt;
+&lt;li&gt;Fixed an issue with the Action Card&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated PeyrSharp.Env (#414)&lt;/li&gt;
+&lt;li&gt;Updated PeyrSharp.Core (#415)&lt;/li&gt;
+&lt;li&gt;Improved consistency&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dns-tool&#34;&gt;DNS Tool&lt;/h2&gt;
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;If you are a web developer or a network administrator, you know how important it is to test the performance and security of your websites and servers. That&amp;rsquo;s why you need InternetTest Pro, the ultimate tool for internet testing and troubleshooting.&lt;/p&gt;
+&lt;p&gt;But InternetTest Pro is not just a testing tool. It also helps you to improve your websites and servers with its new DNS Tool feature, introduced in version 7.5. The DNS Tool feature allows you to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Get the IP from a domain name&lt;/li&gt;
+&lt;li&gt;Get information about the WHOIS of the domain&lt;/li&gt;
+&lt;li&gt;Get the DNS records&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let&amp;rsquo;s see how these features work and how they can help you.&lt;/p&gt;
+&lt;h3 id=&#34;get-the-ip-from-a-domain-name&#34;&gt;Get the IP from a domain name&lt;/h3&gt;
+&lt;p&gt;Sometimes you need to know the IP address of a website or a server, for example, to check if it is online or to bypass a firewall. With InternetTest Pro, you can easily get the IP from any domain name with just one click.&lt;/p&gt;
+&lt;p&gt;To do this, simply enter the domain name in the DNS Tool field and click on the &amp;ldquo;Get DNS Information&amp;rdquo; button. InternetTest Pro will show you the IP address of the domain name.&lt;/p&gt;
+&lt;h3 id=&#34;get-information-about-the-whois-of-the-domain&#34;&gt;Get information about the WHOIS of the domain&lt;/h3&gt;
+&lt;p&gt;Another useful feature of InternetTest Pro is the ability to get information about the WHOIS of any domain name. The WHOIS is a database that contains information about the owner and registrar of a domain name, such as their name, address, phone number, email, and expiration date.&lt;/p&gt;
+&lt;p&gt;This information can help you to identify the owner of a domain name, to contact them in case of any issues or disputes, or to check if a domain name is available for registration.&lt;/p&gt;
+&lt;p&gt;To get information about the WHOIS of a domain name, enter the domain name in the DNS Tool field and click on the &amp;ldquo;Get DNS Information&amp;rdquo; button. InternetTest Pro will show you the most important information available in the WHOIS database for that domain name.&lt;/p&gt;
+&lt;h3 id=&#34;get-the-dns-records&#34;&gt;Get the DNS records&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2023/04/internettest-version-7.5.0.2304-is-now-available/2.png&#34;
+	width=&#34;950&#34;
+	height=&#34;600&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2023/04/internettest-version-7.5.0.2304-is-now-available/2_hu174ffded3e4db58c6686d27a3739e250_123311_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/04/internettest-version-7.5.0.2304-is-now-available/2_hu174ffded3e4db58c6686d27a3739e250_123311_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The records section of the new DNS Tool.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;158&#34;
+		data-flex-basis=&#34;380px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The DNS records are the settings that control how a domain name is resolved to an IP address and how it interacts with other services on the internet. For example, the A record specifies the IP address of a domain name, the MX record specifies the mail server of a domain name, and the TXT record specifies various verification and configuration data.&lt;/p&gt;
+&lt;p&gt;The DNS records are essential for ensuring that your websites and servers work properly and securely. With InternetTest Pro, you can easily get the DNS records of any domain name with just one click.&lt;/p&gt;
+&lt;p&gt;To do this, enter the domain name in the DNS Tool field and click on the &amp;ldquo;Get DNS Information&amp;rdquo; button. InternetTest Pro will show you all the DNS records of that domain name, such as A, AAAA, CNAME, MX, NS, SOA, SRV, and TXT.&lt;/p&gt;
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;As you can see, InternetTest Pro is more than just a testing tool. It also helps you to improve your websites and servers with its new DNS Tool feature. With this feature, you can easily get the IP from a domain name, get information about the WHOIS of the domain name, and get the DNS records of any domain name.&lt;/p&gt;
+&lt;p&gt;If you want to try out this feature yourself, download InternetTest Pro today. You will be amazed by how much InternetTest Pro can do for you.&lt;/p&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;tinyurl.com/DownloadITP7&#34; &gt;Click here&lt;/a&gt; to download InternetTest.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2023/04/internettest-version-7.5.0.2304-is-now-available/1.png&#34;
+	width=&#34;950&#34;
+	height=&#34;600&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2023/04/internettest-version-7.5.0.2304-is-now-available/1_hu1b37ff9fcf1f7b52ce29423eb6f52b87_151825_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/04/internettest-version-7.5.0.2304-is-now-available/1_hu1b37ff9fcf1f7b52ce29423eb6f52b87_151825_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The new &amp;ldquo;DNS Tool&amp;rdquo; feature of InternetTest Pro&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;158&#34;
+		data-flex-basis=&#34;380px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Gavilya: Version 3.4.0.2304 is now available</title>
         <link>https://blog.leocorporation.dev/2023/04/gavilya-version-3.4.0.2304-is-now-available/</link>
         <pubDate>Sun, 16 Apr 2023 14:33:02 +0200</pubDate>
