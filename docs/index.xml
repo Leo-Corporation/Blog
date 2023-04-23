@@ -6,7 +6,52 @@
         <description>Recent content on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 21 Apr 2023 14:18:35 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 23 Apr 2023 11:27:29 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Passliss: Version 3.1.0.2304 is now available</title>
+        <link>https://blog.leocorporation.dev/2023/04/passliss-version-3.1.0.2304-is-now-available/</link>
+        <pubDate>Sun, 23 Apr 2023 11:27:29 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/2023/04/passliss-version-3.1.0.2304-is-now-available/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/2023/04/passliss-version-3.1.0.2304-is-now-available/cover.png" alt="Featured image of post Passliss: Version 3.1.0.2304 is now available" /&gt;&lt;p&gt;A new version of Passliss is now available, and it is the version 3.1.0.2304.&lt;/p&gt;
+&lt;h1 id=&#34;whats-new&#34;&gt;What&amp;rsquo;s new?&lt;/h1&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added translations (#267)&lt;/li&gt;
+&lt;li&gt;Added Hide password settings system (#267)&lt;/li&gt;
+&lt;li&gt;Added Hide password section in Settings (#267)&lt;/li&gt;
+&lt;li&gt;Added the possibility to hide the generated passwords (#267)&lt;/li&gt;
+&lt;li&gt;Added password box for the key field in &amp;ldquo;Encryption&amp;rdquo; (#268)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: The dashboard items should be centered on mobile devices (#266)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated dependencies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;launch&#34;&gt;Launch&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://passliss.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here&lt;/a&gt; to launch Passliss in your web browser.&lt;/p&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2023/04/passliss-version-3.1.0.2304-is-now-available/1.jpeg&#34;
+	width=&#34;1788&#34;
+	height=&#34;865&#34;
+	srcset=&#34;https://blog.leocorporation.dev/2023/04/passliss-version-3.1.0.2304-is-now-available/1_hu01ffa0a20c2c2ccac2a6871a8a16b4eb_101219_480x0_resize_q75_box.jpeg 480w, https://blog.leocorporation.dev/2023/04/passliss-version-3.1.0.2304-is-now-available/1_hu01ffa0a20c2c2ccac2a6871a8a16b4eb_101219_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The activity page when the hide password option is toggled.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;206&#34;
+		data-flex-basis=&#34;496px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Gerayis: Version 2.5.0.2304 is now available</title>
         <link>https://blog.leocorporation.dev/2023/04/gerayis-version-2.5.0.2304-is-now-available/</link>
         <pubDate>Fri, 21 Apr 2023 14:18:35 +0200</pubDate>

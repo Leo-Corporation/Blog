@@ -6,7 +6,15 @@
         <description>Recent content in Categories on Blog | Léo Corporation</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 21 Apr 2023 14:18:35 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 23 Apr 2023 11:27:29 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Passliss</title>
+        <link>https://blog.leocorporation.dev/categories/passliss/</link>
+        <pubDate>Sun, 23 Apr 2023 11:27:29 +0200</pubDate>
+        
+        <guid>https://blog.leocorporation.dev/categories/passliss/</guid>
+        <description>&lt;img src="https://blog.leocorporation.dev/categories/passliss/passliss.png" alt="Featured image of post Passliss" /&gt;</description>
+        </item>
+        <item>
         <title>Gerayis</title>
         <link>https://blog.leocorporation.dev/categories/gerayis/</link>
         <pubDate>Fri, 21 Apr 2023 14:18:35 +0200</pubDate>
@@ -53,14 +61,6 @@
         
         <guid>https://blog.leocorporation.dev/categories/information/</guid>
         <description>&lt;img src="https://blog.leocorporation.dev/categories/information/default.png" alt="Featured image of post Information" /&gt;</description>
-        </item>
-        <item>
-        <title>Passliss</title>
-        <link>https://blog.leocorporation.dev/categories/passliss/</link>
-        <pubDate>Thu, 23 Mar 2023 13:07:30 +0100</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/categories/passliss/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/categories/passliss/passliss.png" alt="Featured image of post Passliss" /&gt;</description>
         </item>
         <item>
         <title>Devyus</title>
