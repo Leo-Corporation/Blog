@@ -1,2 +1,1 @@
-cd blog
-hugo --destination ../docs
+hugo --destination /docs --minify
