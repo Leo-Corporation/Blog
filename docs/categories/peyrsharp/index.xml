@@ -1,383 +1,319 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>PeyrSharp on Blog | Léo Corporation</title>
-        <link>https://blog.leocorporation.dev/categories/peyrsharp/</link>
-        <description>Recent content in PeyrSharp on Blog | Léo Corporation</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Sun, 02 Apr 2023 12:37:26 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/peyrsharp/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>PeyrSharp: Version 1.5.0.2304 is now available</title>
-        <link>https://blog.leocorporation.dev/2023/04/peyrsharp-version-1.5.0.2304-is-now-available/</link>
-        <pubDate>Sun, 02 Apr 2023 12:37:26 +0200</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/2023/04/peyrsharp-version-1.5.0.2304-is-now-available/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2023/04/peyrsharp-version-1.5.0.2304-is-now-available/cover.png" alt="Featured image of post PeyrSharp: Version 1.5.0.2304 is now available" /&gt;&lt;p&gt;A new version of PeyrSharp is now available, and it is the version 1.5.0.2304.&lt;/p&gt;
-&lt;h2 id=&#34;peyrsharpenv&#34;&gt;PeyrSharp.Env&lt;/h2&gt;
-&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Added the possibility to format the logged message (#89)&lt;/li&gt;
-&lt;li&gt;Added the possibility to generate a log message depending on the &lt;code&gt;LogLevel&lt;/code&gt; (#91)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;peyrsharpenums&#34;&gt;PeyrSharp.Enums&lt;/h2&gt;
-&lt;h3 id=&#34;new-1&#34;&gt;New&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Added the &lt;code&gt;LogLevel&lt;/code&gt; enumeration (#90)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;peyrsharpextensions&#34;&gt;PeyrSharp.Extensions&lt;/h2&gt;
-&lt;h3 id=&#34;new-2&#34;&gt;New&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Added &lt;code&gt;Mean()&lt;/code&gt; extension method for &lt;code&gt;int[]&lt;/code&gt; and &lt;code&gt;double[]&lt;/code&gt; (#92)&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;Median()&lt;/code&gt; extension method for &lt;code&gt;int[]&lt;/code&gt; and &lt;code&gt;double[]&lt;/code&gt; (#93)&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;Mode()&lt;/code&gt; extension method for &lt;code&gt;int[]&lt;/code&gt; and &lt;code&gt;double[]&lt;/code&gt; (#94)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;nuget-packages&#34;&gt;NuGet Packages&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Core/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Core&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Enums/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Enums&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Env/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Env&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Exceptions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Exceptions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Extensions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Extensions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.UiHelpers/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.UiHelpers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://peyrsharp.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/orgs/Leo-Corporation/packages?repo_name=PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub Packages&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>PeyrSharp: Version 1.4.0.2303 is now available</title>
-        <link>https://blog.leocorporation.dev/2023/03/peyrsharp-version-1.4.0.2303-is-now-available/</link>
-        <pubDate>Sun, 05 Mar 2023 14:21:49 +0100</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/2023/03/peyrsharp-version-1.4.0.2303-is-now-available/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2023/03/peyrsharp-version-1.4.0.2303-is-now-available/cover.png" alt="Featured image of post PeyrSharp: Version 1.4.0.2303 is now available" /&gt;&lt;p&gt;A new version of PeyrSharp is now available, and it is the version 1.4.0.2303.&lt;/p&gt;
-&lt;h2 id=&#34;peyrsharpcore&#34;&gt;PeyrSharp.Core&lt;/h2&gt;
-&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Added &lt;code&gt;CaloriesToJoules()&lt;/code&gt; method (#79)&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;JoulesToCalories()&lt;/code&gt; method (#79)&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;KnotsToKilometersPerHour()&lt;/code&gt; method (#80)&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;KilometersPerHourToKnots()&lt;/code&gt; method (#80)&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;KnotsToMilesPerHour()&lt;/code&gt; method (#81)&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;MilesPerHourToKnots()&lt;/code&gt; method (#81)&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;KilometersPerHourToMetersPerSecond()&lt;/code&gt; method (#82)&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;MetersPerSecondToKilometersPerHour()&lt;/code&gt; method (#82)&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;MilesPerHourToKilometersPerHour()&lt;/code&gt; (#83)&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;KilometersPerHourToMilesPerHour()&lt;/code&gt; (#83)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;peyrsharpextensions&#34;&gt;PeyrSharp.Extensions&lt;/h2&gt;
-&lt;h3 id=&#34;new-1&#34;&gt;New&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Added the &lt;code&gt;Reverse()&lt;/code&gt; extension method (&lt;code&gt;string&lt;/code&gt;) (#78)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;nuget-packages&#34;&gt;NuGet Packages&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Core/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Core&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Enums/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Enums&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Env/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Env&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Exceptions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Exceptions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Extensions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Extensions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.UiHelpers/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.UiHelpers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://peyrsharp.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/orgs/Leo-Corporation/packages?repo_name=PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub Packages&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>PeyrSharp: Version 1.3.0.2302 is now available</title>
-        <link>https://blog.leocorporation.dev/2023/02/peyrsharp-version-1.3.0.2302-is-now-available/</link>
-        <pubDate>Sun, 05 Feb 2023 10:48:14 +0100</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/2023/02/peyrsharp-version-1.3.0.2302-is-now-available/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2023/02/peyrsharp-version-1.3.0.2302-is-now-available/cover.png" alt="Featured image of post PeyrSharp: Version 1.3.0.2302 is now available" /&gt;&lt;p&gt;A new version of PeyrSharp is now available, and it is the version 1.3.0.2302.&lt;/p&gt;
-&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
-&lt;h3 id=&#34;peyrsharpcore&#34;&gt;PeyrSharp.Core&lt;/h3&gt;
-&lt;h4 id=&#34;new&#34;&gt;New&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Added the possibility to generate a random value based on probabilities (#71)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;peyrsharpenv&#34;&gt;PeyrSharp.Env&lt;/h3&gt;
-&lt;h4 id=&#34;new-1&#34;&gt;New&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Added the possibility to check if a process is running (#67)&lt;/li&gt;
-&lt;li&gt;Added the possibility to get the current directory (#68)&lt;/li&gt;
-&lt;li&gt;Added the possibility to get the name of the computer (#69)&lt;/li&gt;
-&lt;li&gt;Added the possibility to terminate a process (#70)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You will also notice in this update that we are beginning to roll-out the new icons of PeyrSharp. Devyus will also appear in the &amp;ldquo;Owners&amp;rdquo; category on &lt;a class=&#34;link&#34; href=&#34;https://nuget.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;NuGet&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;nuget-packages&#34;&gt;NuGet Packages&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Core/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Core&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Enums/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Enums&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Env/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Env&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Exceptions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Exceptions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Extensions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Extensions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.UiHelpers/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.UiHelpers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://peyrsharp.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/orgs/Leo-Corporation/packages?repo_name=PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub Packages&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>PeyrSharp: Version 1.2.0.2301 is now available</title>
-        <link>https://blog.leocorporation.dev/2023/01/peyrsharp-version-1.2.0.2301-is-now-available/</link>
-        <pubDate>Sun, 08 Jan 2023 13:54:42 +0100</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/2023/01/peyrsharp-version-1.2.0.2301-is-now-available/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2023/01/peyrsharp-version-1.2.0.2301-is-now-available/cover.png" alt="Featured image of post PeyrSharp: Version 1.2.0.2301 is now available" /&gt;&lt;p&gt;A new version of PeyrSharp is now available, and it is the version 1.2.0.2301.&lt;/p&gt;
-&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
-&lt;h3 id=&#34;peyrsharpcore&#34;&gt;PeyrSharp.Core&lt;/h3&gt;
-&lt;h4 id=&#34;new&#34;&gt;New&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Created Stats class (#52)&lt;/li&gt;
-&lt;li&gt;Added the Mean() method (#53)&lt;/li&gt;
-&lt;li&gt;Added the Median() method (#54)&lt;/li&gt;
-&lt;li&gt;Added the Mode() method (#55)&lt;/li&gt;
-&lt;li&gt;Added XML documentation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;peyrsharpextensions&#34;&gt;PeyrSharp.Extensions&lt;/h3&gt;
-&lt;h4 id=&#34;new-1&#34;&gt;New&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Added the UnSplit() extension method (#56)&lt;/li&gt;
-&lt;li&gt;Added the ToUpperAt() method (#57)&lt;/li&gt;
-&lt;li&gt;Added the CenterWindow() method (#58)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;nuget-packages&#34;&gt;NuGet Packages&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Core/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Core&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Enums/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Enums&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Env/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Env&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Exceptions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Exceptions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Extensions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Extensions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.UiHelpers/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.UiHelpers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://peyrsharp.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/orgs/Leo-Corporation/packages?repo_name=PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub Packages&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>PeyrSharp: Version 1.1.0.2212 is now available</title>
-        <link>https://blog.leocorporation.dev/2022/12/peyrsharp-version-1.1.0.2212-is-now-available/</link>
-        <pubDate>Sun, 04 Dec 2022 10:41:50 +0100</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/2022/12/peyrsharp-version-1.1.0.2212-is-now-available/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/12/peyrsharp-version-1.1.0.2212-is-now-available/cover.png" alt="Featured image of post PeyrSharp: Version 1.1.0.2212 is now available" /&gt;&lt;p&gt;A new version of PeyrSharp is now available, and it is the version 1.1.0.2212.&lt;/p&gt;
-&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
-&lt;h3 id=&#34;peyrsharp-global&#34;&gt;PeyrSharp (global)&lt;/h3&gt;
-&lt;h4 id=&#34;new&#34;&gt;New&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Added .NET 7 support (#44)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;peyrsharpcore&#34;&gt;PeyrSharp.Core&lt;/h3&gt;
-&lt;h4 id=&#34;new-1&#34;&gt;New&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Added UnixTimeToDateTime() method (#43)&lt;/li&gt;
-&lt;li&gt;Added DateTimeToUnixTime() method (#43)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;peyrsharpenv&#34;&gt;PeyrSharp.Env&lt;/h3&gt;
-&lt;h4 id=&#34;new-2&#34;&gt;New&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Added the possibility to get current directory (#38)&lt;/li&gt;
-&lt;li&gt;Added the possibility to get the drive with the lowest available free space (#39)&lt;/li&gt;
-&lt;li&gt;Added the possibility to get the drive with the highest available free space (#40)&lt;/li&gt;
-&lt;li&gt;Added the possibility to check if a drive is a DVD/CD-ROM (#41)&lt;/li&gt;
-&lt;li&gt;Added the possibility to get the StorageUnits of a drive (#42)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;nuget-packages&#34;&gt;NuGet Packages&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Core/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Core&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Enums/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Enums&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Env/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Env&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Exceptions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Exceptions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Extensions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Extensions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.UiHelpers/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.UiHelpers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://peyrsharp.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Leo-Corporation/PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/orgs/Leo-Corporation/packages?repo_name=PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub Packages&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>Introducing PeyrSharp</title>
-        <link>https://blog.leocorporation.dev/2022/11/introducing-peyrsharp/</link>
-        <pubDate>Thu, 03 Nov 2022 11:36:34 +0100</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/2022/11/introducing-peyrsharp/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2022/11/introducing-peyrsharp/cover.png" alt="Featured image of post Introducing PeyrSharp" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Léo Corporation has been committed to software development for years and has always learn to evolve and improve. We are developing apps and services in C# .NET, and we know it can be frustrating sometimes. We, as software developers, always had this though: “if only they were a library for this.” Therefore, in March 2020, we published LeoCorpLibrary, which was a C# library that contained useful methods. When we started the development of it, we didn&amp;rsquo;t know where the project will go yet. Over the releases, we&amp;rsquo;ve added more and more methods and new features. However, the meaning and the purpose of LeoCorpLibrary was becoming less clear for everyone; it was becoming a mess. This is why we decided to rather not release it fifth version, but instead, we decided to make a brand-new .NET Library, PeyrSharp.&lt;/p&gt;
-&lt;h2 id=&#34;what-is-peyrsharp&#34;&gt;What is PeyrSharp?&lt;/h2&gt;
-&lt;p&gt;PeyrSharp is a C# written library designed to make developers&amp;rsquo; life easier. We&amp;rsquo;ve all written code that we wish we hadn&amp;rsquo;t. PeyrSharp is here to respond to this need; by implementing useful methods in various domains: Mathematics, Web/HTTP requests, unit converters, extensions, environment-related operations, and more!&lt;/p&gt;
-&lt;h2 id=&#34;a-new-way-to-use-a-library&#34;&gt;A new way to use a library&lt;/h2&gt;
-&lt;p&gt;Unlike LeoCorpLibrary, PeyrSharp is divided in multiples packages:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Core - the basic methods and features of PeyrSharp&lt;/li&gt;
-&lt;li&gt;Env - methods related to the file system and to the current execution environment.&lt;/li&gt;
-&lt;li&gt;Enums - all enumerations used by PeyrSharp&lt;/li&gt;
-&lt;li&gt;Exceptions - all exceptions used by PeyrSharp&lt;/li&gt;
-&lt;li&gt;Extensions - extension methods that extends basic types such as string, int, double or arrays (T[]).&lt;/li&gt;
-&lt;li&gt;UiHelpers - methods related to Windows Forms or to the Windows Presentation Framework (WPF).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;All of these modules are included in PeyrSharp; however, PeyrSharp.UiHelpers is only included if you download the package on Windows.&lt;/p&gt;
-&lt;h2 id=&#34;compatibility&#34;&gt;Compatibility&lt;/h2&gt;
-&lt;p&gt;Some modules of PeyrSharp are targeting features only available in specific operating systems. Thus, some packages aren&amp;rsquo;t available on all platforms.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Package/Platform&lt;/th&gt;
-&lt;th&gt;Windows&lt;/th&gt;
-&lt;th&gt;macOS&lt;/th&gt;
-&lt;th&gt;Linux + others&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Core&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Env&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;⚠️&lt;/td&gt;
-&lt;td&gt;⚠️&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Enums&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Exceptions&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Extensions&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;UiHelpers&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;❌&lt;/td&gt;
-&lt;td&gt;❌&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Caption:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;✅ Full Support&lt;/li&gt;
-&lt;li&gt;⚠️ Partial Support&lt;/li&gt;
-&lt;li&gt;❌ Unsupported platform&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;frameworks&#34;&gt;Frameworks&lt;/h2&gt;
-&lt;p&gt;PeyrSharp is designed to be a modern library, therefore, we decided to ditch support for .NET Framework and .NET Core in favor of .NET 5, 6 and 7.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Note: .NET Framework and .NET Core are not targeted by PeyrSharp, since they are no longer supported.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
-&lt;p&gt;PeyrSharp has a documentation, making it easy for developers to use it. &lt;a class=&#34;link&#34; href=&#34;https://peyrsharp.leocorporation.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Click here&lt;/a&gt; to check the documentation of PeyrSharp.&lt;/p&gt;
-&lt;h2 id=&#34;packages&#34;&gt;Packages&lt;/h2&gt;
-&lt;p&gt;PeyrSharp is available on NuGet and &lt;a class=&#34;link&#34; href=&#34;https://github.com/orgs/Leo-Corporation/packages?repo_name=PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub Packages&lt;/a&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Core/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Core&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Enums/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Enums&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Env/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Env&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Exceptions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Exceptions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.Extensions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.Extensions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nuget.org/packages/PeyrSharp.UiHelpers/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;PeyrSharp.UiHelpers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PeyrSharp on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/peyrsharp/</link><description>Recent content in PeyrSharp on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Apr 2023 12:37:26 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/peyrsharp/index.xml" rel="self" type="application/rss+xml"/><item><title>PeyrSharp: Version 1.5.0.2304 is now available</title><link>https://blog.leocorporation.dev/2023/04/peyrsharp-version-1.5.0.2304-is-now-available/</link><pubDate>Sun, 02 Apr 2023 12:37:26 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/04/peyrsharp-version-1.5.0.2304-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/04/peyrsharp-version-1.5.0.2304-is-now-available/cover.png" alt="Featured image of post PeyrSharp: Version 1.5.0.2304 is now available" />&lt;p>A new version of PeyrSharp is now available, and it is the version 1.5.0.2304.&lt;/p>
+&lt;h2 id="peyrsharpenv">PeyrSharp.Env&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added the possibility to format the logged message (#89)&lt;/li>
+&lt;li>Added the possibility to generate a log message depending on the &lt;code>LogLevel&lt;/code> (#91)&lt;/li>
+&lt;/ul>
+&lt;h2 id="peyrsharpenums">PeyrSharp.Enums&lt;/h2>
+&lt;h3 id="new-1">New&lt;/h3>
+&lt;ul>
+&lt;li>Added the &lt;code>LogLevel&lt;/code> enumeration (#90)&lt;/li>
+&lt;/ul>
+&lt;h2 id="peyrsharpextensions">PeyrSharp.Extensions&lt;/h2>
+&lt;h3 id="new-2">New&lt;/h3>
+&lt;ul>
+&lt;li>Added &lt;code>Mean()&lt;/code> extension method for &lt;code>int[]&lt;/code> and &lt;code>double[]&lt;/code> (#92)&lt;/li>
+&lt;li>Added &lt;code>Median()&lt;/code> extension method for &lt;code>int[]&lt;/code> and &lt;code>double[]&lt;/code> (#93)&lt;/li>
+&lt;li>Added &lt;code>Mode()&lt;/code> extension method for &lt;code>int[]&lt;/code> and &lt;code>double[]&lt;/code> (#94)&lt;/li>
+&lt;/ul>
+&lt;h2 id="nuget-packages">NuGet Packages&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp" target="_blank" rel="noopener"
+>PeyrSharp&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Core/" target="_blank" rel="noopener"
+>PeyrSharp.Core&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Enums/" target="_blank" rel="noopener"
+>PeyrSharp.Enums&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Env/" target="_blank" rel="noopener"
+>PeyrSharp.Env&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Exceptions/" target="_blank" rel="noopener"
+>PeyrSharp.Exceptions&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Extensions/" target="_blank" rel="noopener"
+>PeyrSharp.Extensions&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.UiHelpers/" target="_blank" rel="noopener"
+>PeyrSharp.UiHelpers&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://peyrsharp.leocorporation.dev/" target="_blank" rel="noopener"
+>Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/Leo-Corporation/PeyrSharp" target="_blank" rel="noopener"
+>GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/orgs/Leo-Corporation/packages?repo_name=PeyrSharp" target="_blank" rel="noopener"
+>GitHub Packages&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>PeyrSharp: Version 1.4.0.2303 is now available</title><link>https://blog.leocorporation.dev/2023/03/peyrsharp-version-1.4.0.2303-is-now-available/</link><pubDate>Sun, 05 Mar 2023 14:21:49 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/03/peyrsharp-version-1.4.0.2303-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/03/peyrsharp-version-1.4.0.2303-is-now-available/cover.png" alt="Featured image of post PeyrSharp: Version 1.4.0.2303 is now available" />&lt;p>A new version of PeyrSharp is now available, and it is the version 1.4.0.2303.&lt;/p>
+&lt;h2 id="peyrsharpcore">PeyrSharp.Core&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added &lt;code>CaloriesToJoules()&lt;/code> method (#79)&lt;/li>
+&lt;li>Added &lt;code>JoulesToCalories()&lt;/code> method (#79)&lt;/li>
+&lt;li>Added &lt;code>KnotsToKilometersPerHour()&lt;/code> method (#80)&lt;/li>
+&lt;li>Added &lt;code>KilometersPerHourToKnots()&lt;/code> method (#80)&lt;/li>
+&lt;li>Added &lt;code>KnotsToMilesPerHour()&lt;/code> method (#81)&lt;/li>
+&lt;li>Added &lt;code>MilesPerHourToKnots()&lt;/code> method (#81)&lt;/li>
+&lt;li>Added &lt;code>KilometersPerHourToMetersPerSecond()&lt;/code> method (#82)&lt;/li>
+&lt;li>Added &lt;code>MetersPerSecondToKilometersPerHour()&lt;/code> method (#82)&lt;/li>
+&lt;li>Added &lt;code>MilesPerHourToKilometersPerHour()&lt;/code> (#83)&lt;/li>
+&lt;li>Added &lt;code>KilometersPerHourToMilesPerHour()&lt;/code> (#83)&lt;/li>
+&lt;/ul>
+&lt;h2 id="peyrsharpextensions">PeyrSharp.Extensions&lt;/h2>
+&lt;h3 id="new-1">New&lt;/h3>
+&lt;ul>
+&lt;li>Added the &lt;code>Reverse()&lt;/code> extension method (&lt;code>string&lt;/code>) (#78)&lt;/li>
+&lt;/ul>
+&lt;h2 id="nuget-packages">NuGet Packages&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp" target="_blank" rel="noopener"
+>PeyrSharp&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Core/" target="_blank" rel="noopener"
+>PeyrSharp.Core&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Enums/" target="_blank" rel="noopener"
+>PeyrSharp.Enums&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Env/" target="_blank" rel="noopener"
+>PeyrSharp.Env&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Exceptions/" target="_blank" rel="noopener"
+>PeyrSharp.Exceptions&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Extensions/" target="_blank" rel="noopener"
+>PeyrSharp.Extensions&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.UiHelpers/" target="_blank" rel="noopener"
+>PeyrSharp.UiHelpers&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://peyrsharp.leocorporation.dev/" target="_blank" rel="noopener"
+>Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/Leo-Corporation/PeyrSharp" target="_blank" rel="noopener"
+>GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/orgs/Leo-Corporation/packages?repo_name=PeyrSharp" target="_blank" rel="noopener"
+>GitHub Packages&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>PeyrSharp: Version 1.3.0.2302 is now available</title><link>https://blog.leocorporation.dev/2023/02/peyrsharp-version-1.3.0.2302-is-now-available/</link><pubDate>Sun, 05 Feb 2023 10:48:14 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/02/peyrsharp-version-1.3.0.2302-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/02/peyrsharp-version-1.3.0.2302-is-now-available/cover.png" alt="Featured image of post PeyrSharp: Version 1.3.0.2302 is now available" />&lt;p>A new version of PeyrSharp is now available, and it is the version 1.3.0.2302.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="peyrsharpcore">PeyrSharp.Core&lt;/h3>
+&lt;h4 id="new">New&lt;/h4>
+&lt;ul>
+&lt;li>Added the possibility to generate a random value based on probabilities (#71)&lt;/li>
+&lt;/ul>
+&lt;h3 id="peyrsharpenv">PeyrSharp.Env&lt;/h3>
+&lt;h4 id="new-1">New&lt;/h4>
+&lt;ul>
+&lt;li>Added the possibility to check if a process is running (#67)&lt;/li>
+&lt;li>Added the possibility to get the current directory (#68)&lt;/li>
+&lt;li>Added the possibility to get the name of the computer (#69)&lt;/li>
+&lt;li>Added the possibility to terminate a process (#70)&lt;/li>
+&lt;/ul>
+&lt;p>You will also notice in this update that we are beginning to roll-out the new icons of PeyrSharp. Devyus will also appear in the &amp;ldquo;Owners&amp;rdquo; category on &lt;a class="link" href="https://nuget.org" target="_blank" rel="noopener"
+>NuGet&lt;/a>.&lt;/p>
+&lt;h2 id="nuget-packages">NuGet Packages&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp" target="_blank" rel="noopener"
+>PeyrSharp&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Core/" target="_blank" rel="noopener"
+>PeyrSharp.Core&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Enums/" target="_blank" rel="noopener"
+>PeyrSharp.Enums&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Env/" target="_blank" rel="noopener"
+>PeyrSharp.Env&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Exceptions/" target="_blank" rel="noopener"
+>PeyrSharp.Exceptions&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Extensions/" target="_blank" rel="noopener"
+>PeyrSharp.Extensions&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.UiHelpers/" target="_blank" rel="noopener"
+>PeyrSharp.UiHelpers&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://peyrsharp.leocorporation.dev/" target="_blank" rel="noopener"
+>Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/Leo-Corporation/PeyrSharp" target="_blank" rel="noopener"
+>GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/orgs/Leo-Corporation/packages?repo_name=PeyrSharp" target="_blank" rel="noopener"
+>GitHub Packages&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>PeyrSharp: Version 1.2.0.2301 is now available</title><link>https://blog.leocorporation.dev/2023/01/peyrsharp-version-1.2.0.2301-is-now-available/</link><pubDate>Sun, 08 Jan 2023 13:54:42 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/01/peyrsharp-version-1.2.0.2301-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/01/peyrsharp-version-1.2.0.2301-is-now-available/cover.png" alt="Featured image of post PeyrSharp: Version 1.2.0.2301 is now available" />&lt;p>A new version of PeyrSharp is now available, and it is the version 1.2.0.2301.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="peyrsharpcore">PeyrSharp.Core&lt;/h3>
+&lt;h4 id="new">New&lt;/h4>
+&lt;ul>
+&lt;li>Created Stats class (#52)&lt;/li>
+&lt;li>Added the Mean() method (#53)&lt;/li>
+&lt;li>Added the Median() method (#54)&lt;/li>
+&lt;li>Added the Mode() method (#55)&lt;/li>
+&lt;li>Added XML documentation&lt;/li>
+&lt;/ul>
+&lt;h3 id="peyrsharpextensions">PeyrSharp.Extensions&lt;/h3>
+&lt;h4 id="new-1">New&lt;/h4>
+&lt;ul>
+&lt;li>Added the UnSplit() extension method (#56)&lt;/li>
+&lt;li>Added the ToUpperAt() method (#57)&lt;/li>
+&lt;li>Added the CenterWindow() method (#58)&lt;/li>
+&lt;/ul>
+&lt;h2 id="nuget-packages">NuGet Packages&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp" target="_blank" rel="noopener"
+>PeyrSharp&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Core/" target="_blank" rel="noopener"
+>PeyrSharp.Core&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Enums/" target="_blank" rel="noopener"
+>PeyrSharp.Enums&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Env/" target="_blank" rel="noopener"
+>PeyrSharp.Env&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Exceptions/" target="_blank" rel="noopener"
+>PeyrSharp.Exceptions&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Extensions/" target="_blank" rel="noopener"
+>PeyrSharp.Extensions&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.UiHelpers/" target="_blank" rel="noopener"
+>PeyrSharp.UiHelpers&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://peyrsharp.leocorporation.dev/" target="_blank" rel="noopener"
+>Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/Leo-Corporation/PeyrSharp" target="_blank" rel="noopener"
+>GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/orgs/Leo-Corporation/packages?repo_name=PeyrSharp" target="_blank" rel="noopener"
+>GitHub Packages&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>PeyrSharp: Version 1.1.0.2212 is now available</title><link>https://blog.leocorporation.dev/2022/12/peyrsharp-version-1.1.0.2212-is-now-available/</link><pubDate>Sun, 04 Dec 2022 10:41:50 +0100</pubDate><guid>https://blog.leocorporation.dev/2022/12/peyrsharp-version-1.1.0.2212-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2022/12/peyrsharp-version-1.1.0.2212-is-now-available/cover.png" alt="Featured image of post PeyrSharp: Version 1.1.0.2212 is now available" />&lt;p>A new version of PeyrSharp is now available, and it is the version 1.1.0.2212.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="peyrsharp-global">PeyrSharp (global)&lt;/h3>
+&lt;h4 id="new">New&lt;/h4>
+&lt;ul>
+&lt;li>Added .NET 7 support (#44)&lt;/li>
+&lt;/ul>
+&lt;h3 id="peyrsharpcore">PeyrSharp.Core&lt;/h3>
+&lt;h4 id="new-1">New&lt;/h4>
+&lt;ul>
+&lt;li>Added UnixTimeToDateTime() method (#43)&lt;/li>
+&lt;li>Added DateTimeToUnixTime() method (#43)&lt;/li>
+&lt;/ul>
+&lt;h3 id="peyrsharpenv">PeyrSharp.Env&lt;/h3>
+&lt;h4 id="new-2">New&lt;/h4>
+&lt;ul>
+&lt;li>Added the possibility to get current directory (#38)&lt;/li>
+&lt;li>Added the possibility to get the drive with the lowest available free space (#39)&lt;/li>
+&lt;li>Added the possibility to get the drive with the highest available free space (#40)&lt;/li>
+&lt;li>Added the possibility to check if a drive is a DVD/CD-ROM (#41)&lt;/li>
+&lt;li>Added the possibility to get the StorageUnits of a drive (#42)&lt;/li>
+&lt;/ul>
+&lt;h2 id="nuget-packages">NuGet Packages&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp" target="_blank" rel="noopener"
+>PeyrSharp&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Core/" target="_blank" rel="noopener"
+>PeyrSharp.Core&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Enums/" target="_blank" rel="noopener"
+>PeyrSharp.Enums&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Env/" target="_blank" rel="noopener"
+>PeyrSharp.Env&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Exceptions/" target="_blank" rel="noopener"
+>PeyrSharp.Exceptions&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Extensions/" target="_blank" rel="noopener"
+>PeyrSharp.Extensions&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.UiHelpers/" target="_blank" rel="noopener"
+>PeyrSharp.UiHelpers&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://peyrsharp.leocorporation.dev/" target="_blank" rel="noopener"
+>Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/Leo-Corporation/PeyrSharp" target="_blank" rel="noopener"
+>GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/orgs/Leo-Corporation/packages?repo_name=PeyrSharp" target="_blank" rel="noopener"
+>GitHub Packages&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Introducing PeyrSharp</title><link>https://blog.leocorporation.dev/2022/11/introducing-peyrsharp/</link><pubDate>Thu, 03 Nov 2022 11:36:34 +0100</pubDate><guid>https://blog.leocorporation.dev/2022/11/introducing-peyrsharp/</guid><description>&lt;img src="https://blog.leocorporation.dev/2022/11/introducing-peyrsharp/cover.png" alt="Featured image of post Introducing PeyrSharp" />&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Léo Corporation has been committed to software development for years and has always learn to evolve and improve. We are developing apps and services in C# .NET, and we know it can be frustrating sometimes. We, as software developers, always had this though: “if only they were a library for this.” Therefore, in March 2020, we published LeoCorpLibrary, which was a C# library that contained useful methods. When we started the development of it, we didn&amp;rsquo;t know where the project will go yet. Over the releases, we&amp;rsquo;ve added more and more methods and new features. However, the meaning and the purpose of LeoCorpLibrary was becoming less clear for everyone; it was becoming a mess. This is why we decided to rather not release it fifth version, but instead, we decided to make a brand-new .NET Library, PeyrSharp.&lt;/p>
+&lt;h2 id="what-is-peyrsharp">What is PeyrSharp?&lt;/h2>
+&lt;p>PeyrSharp is a C# written library designed to make developers&amp;rsquo; life easier. We&amp;rsquo;ve all written code that we wish we hadn&amp;rsquo;t. PeyrSharp is here to respond to this need; by implementing useful methods in various domains: Mathematics, Web/HTTP requests, unit converters, extensions, environment-related operations, and more!&lt;/p>
+&lt;h2 id="a-new-way-to-use-a-library">A new way to use a library&lt;/h2>
+&lt;p>Unlike LeoCorpLibrary, PeyrSharp is divided in multiples packages:&lt;/p>
+&lt;ul>
+&lt;li>Core - the basic methods and features of PeyrSharp&lt;/li>
+&lt;li>Env - methods related to the file system and to the current execution environment.&lt;/li>
+&lt;li>Enums - all enumerations used by PeyrSharp&lt;/li>
+&lt;li>Exceptions - all exceptions used by PeyrSharp&lt;/li>
+&lt;li>Extensions - extension methods that extends basic types such as string, int, double or arrays (T[]).&lt;/li>
+&lt;li>UiHelpers - methods related to Windows Forms or to the Windows Presentation Framework (WPF).&lt;/li>
+&lt;/ul>
+&lt;p>All of these modules are included in PeyrSharp; however, PeyrSharp.UiHelpers is only included if you download the package on Windows.&lt;/p>
+&lt;h2 id="compatibility">Compatibility&lt;/h2>
+&lt;p>Some modules of PeyrSharp are targeting features only available in specific operating systems. Thus, some packages aren&amp;rsquo;t available on all platforms.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Package/Platform&lt;/th>
+&lt;th>Windows&lt;/th>
+&lt;th>macOS&lt;/th>
+&lt;th>Linux + others&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Core&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Env&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;td>⚠️&lt;/td>
+&lt;td>⚠️&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Enums&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Exceptions&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Extensions&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>UiHelpers&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;td>❌&lt;/td>
+&lt;td>❌&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Caption:&lt;/p>
+&lt;ul>
+&lt;li>✅ Full Support&lt;/li>
+&lt;li>⚠️ Partial Support&lt;/li>
+&lt;li>❌ Unsupported platform&lt;/li>
+&lt;/ul>
+&lt;h2 id="frameworks">Frameworks&lt;/h2>
+&lt;p>PeyrSharp is designed to be a modern library, therefore, we decided to ditch support for .NET Framework and .NET Core in favor of .NET 5, 6 and 7.&lt;/p>
+&lt;blockquote>
+&lt;p>Note: .NET Framework and .NET Core are not targeted by PeyrSharp, since they are no longer supported.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="documentation">Documentation&lt;/h2>
+&lt;p>PeyrSharp has a documentation, making it easy for developers to use it. &lt;a class="link" href="https://peyrsharp.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to check the documentation of PeyrSharp.&lt;/p>
+&lt;h2 id="packages">Packages&lt;/h2>
+&lt;p>PeyrSharp is available on NuGet and &lt;a class="link" href="https://github.com/orgs/Leo-Corporation/packages?repo_name=PeyrSharp" target="_blank" rel="noopener"
+>GitHub Packages&lt;/a>.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp" target="_blank" rel="noopener"
+>PeyrSharp&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Core/" target="_blank" rel="noopener"
+>PeyrSharp.Core&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Enums/" target="_blank" rel="noopener"
+>PeyrSharp.Enums&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Env/" target="_blank" rel="noopener"
+>PeyrSharp.Env&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Exceptions/" target="_blank" rel="noopener"
+>PeyrSharp.Exceptions&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.Extensions/" target="_blank" rel="noopener"
+>PeyrSharp.Extensions&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.nuget.org/packages/PeyrSharp.UiHelpers/" target="_blank" rel="noopener"
+>PeyrSharp.UiHelpers&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

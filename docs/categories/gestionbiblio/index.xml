@@ -1,128 +1,79 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>GestionBiblio on Blog | Léo Corporation</title>
-        <link>https://blog.leocorporation.dev/categories/gestionbiblio/</link>
-        <description>Recent content in GestionBiblio on Blog | Léo Corporation</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/gestionbiblio/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>GestionBiblio X Basic: The version 1.6.3.2105 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/05/gestionbiblio-x-basic-version-16302105/</link>
-        <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/2021/05/gestionbiblio-x-basic-version-16302105/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/05/gestionbiblio-x-basic-version-16302105/cover.png" alt="Featured image of post GestionBiblio X Basic: The version 1.6.3.2105 is now available" /&gt;&lt;p&gt;A new version of GestionBiblio X Basic is now available and it is the version 1.6.3.2105.&lt;/p&gt;
-&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
-&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Added a new look for the “About” window&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Updated support and website links to &lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://leocorporation.dev&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Updated logo&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://bit.ly/GestionBiblioX&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Click here&lt;/a&gt; to download GestionBiblio X Basic.&lt;/p&gt;
-&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/05/gestionbiblio-x-basic-version-16302105/cover.png&#34;
-	width=&#34;603&#34;
-	height=&#34;349&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/05/gestionbiblio-x-basic-version-16302105/cover_huc43518abdd4b2153913848892f6b2c87_19158_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/05/gestionbiblio-x-basic-version-16302105/cover_huc43518abdd4b2153913848892f6b2c87_19158_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The &amp;ldquo;About&amp;rdquo; window of GestionBiblio&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;172&#34;
-		data-flex-basis=&#34;414px&#34;
-	
-&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>GestionBiblio X Ultra: The version 1.4.1.2105 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/05/gestionbiblio-x-ultra-version-1412105/</link>
-        <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/2021/05/gestionbiblio-x-ultra-version-1412105/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/05/gestionbiblio-x-ultra-version-1412105/cover.png" alt="Featured image of post GestionBiblio X Ultra: The version 1.4.1.2105 is now available" /&gt;&lt;p&gt;A new version of GestionBiblio X Ultra is now available and it is the version 1.4.1.2105.&lt;/p&gt;
-&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
-&lt;h3 id=&#34;added&#34;&gt;Added&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Added a new look for the “About” window&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Updated copyright&lt;/li&gt;
-&lt;li&gt;Updated logo&lt;/li&gt;
-&lt;li&gt;Updated support links to &lt;a class=&#34;link&#34; href=&#34;https://leocorporation.dev&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://leocorporation.dev&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/GBXUltra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Click here&lt;/a&gt; to download GestionBiblio X Ultra.&lt;/p&gt;
-&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/05/gestionbiblio-x-ultra-version-1412105/cover.png&#34;
-	width=&#34;603&#34;
-	height=&#34;349&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/05/gestionbiblio-x-ultra-version-1412105/cover_hu7297a0815b3ffb7cd04d6aef238b16d5_19544_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/05/gestionbiblio-x-ultra-version-1412105/cover_hu7297a0815b3ffb7cd04d6aef238b16d5_19544_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The &amp;ldquo;About&amp;rdquo; window of GestionBiblio X Ultra&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;172&#34;
-		data-flex-basis=&#34;414px&#34;
-	
-&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>GestionBiblio X, Basic edition: The version 1.6.2.2101 is now available</title>
-        <link>https://blog.leocorporation.dev/2021/01/gestionbiblio-x-basic-edition-version/</link>
-        <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.leocorporation.dev/2021/01/gestionbiblio-x-basic-edition-version/</guid>
-        <description>&lt;img src="https://blog.leocorporation.dev/2021/01/gestionbiblio-x-basic-edition-version/cover.png" alt="Featured image of post GestionBiblio X, Basic edition: The version 1.6.2.2101 is now available" /&gt;&lt;p&gt;A new version of GestionBiblio X, Basic edition is now available and it&amp;rsquo;s the version 1.6.2.2101.&lt;/p&gt;
-&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
-&lt;h3 id=&#34;new&#34;&gt;New&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Added the &amp;ldquo;Duplicate Item&amp;rdquo; help page&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;fixed&#34;&gt;Fixed&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixed typos in the &amp;ldquo;Help&amp;rdquo; window&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;updated&#34;&gt;Updated&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Updated the copyright notice in the &amp;ldquo;About&amp;rdquo; window&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://bit.ly/GestionBiblioX&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Click here&lt;/a&gt; to download GestionBiblio X, Basic Edition (only in french)&lt;/p&gt;
-&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.leocorporation.dev/2021/01/gestionbiblio-x-basic-edition-version/cover.png&#34;
-	width=&#34;847&#34;
-	height=&#34;545&#34;
-	srcset=&#34;https://blog.leocorporation.dev/2021/01/gestionbiblio-x-basic-edition-version/cover_hud72b2636d51697e68eea17c3b964b26e_31831_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/01/gestionbiblio-x-basic-edition-version/cover_hud72b2636d51697e68eea17c3b964b26e_31831_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Help window of GestionBilbio X&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;155&#34;
-		data-flex-basis=&#34;372px&#34;
-	
-&gt;&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GestionBiblio on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/gestionbiblio/</link><description>Recent content in GestionBiblio on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/gestionbiblio/index.xml" rel="self" type="application/rss+xml"/><item><title>GestionBiblio X Basic: The version 1.6.3.2105 is now available</title><link>https://blog.leocorporation.dev/2021/05/gestionbiblio-x-basic-version-16302105/</link><pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate><guid>https://blog.leocorporation.dev/2021/05/gestionbiblio-x-basic-version-16302105/</guid><description>&lt;img src="https://blog.leocorporation.dev/2021/05/gestionbiblio-x-basic-version-16302105/cover.png" alt="Featured image of post GestionBiblio X Basic: The version 1.6.3.2105 is now available" />&lt;p>A new version of GestionBiblio X Basic is now available and it is the version 1.6.3.2105.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added a new look for the “About” window&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated support and website links to &lt;a class="link" href="https://leocorporation.dev" target="_blank" rel="noopener"
+>https://leocorporation.dev&lt;/a>&lt;/li>
+&lt;li>Updated logo&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="http://bit.ly/GestionBiblioX" target="_blank" rel="noopener"
+>Click here&lt;/a> to download GestionBiblio X Basic.&lt;/p>
+&lt;h2 id="screenshot">Screenshot&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2021/05/gestionbiblio-x-basic-version-16302105/cover.png"
+width="603"
+height="349"
+srcset="https://blog.leocorporation.dev/2021/05/gestionbiblio-x-basic-version-16302105/cover_huc43518abdd4b2153913848892f6b2c87_19158_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/05/gestionbiblio-x-basic-version-16302105/cover_huc43518abdd4b2153913848892f6b2c87_19158_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The &amp;ldquo;About&amp;rdquo; window of GestionBiblio"
+class="gallery-image"
+data-flex-grow="172"
+data-flex-basis="414px"
+>&lt;/p></description></item><item><title>GestionBiblio X Ultra: The version 1.4.1.2105 is now available</title><link>https://blog.leocorporation.dev/2021/05/gestionbiblio-x-ultra-version-1412105/</link><pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate><guid>https://blog.leocorporation.dev/2021/05/gestionbiblio-x-ultra-version-1412105/</guid><description>&lt;img src="https://blog.leocorporation.dev/2021/05/gestionbiblio-x-ultra-version-1412105/cover.png" alt="Featured image of post GestionBiblio X Ultra: The version 1.4.1.2105 is now available" />&lt;p>A new version of GestionBiblio X Ultra is now available and it is the version 1.4.1.2105.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="added">Added&lt;/h3>
+&lt;ul>
+&lt;li>Added a new look for the “About” window&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated copyright&lt;/li>
+&lt;li>Updated logo&lt;/li>
+&lt;li>Updated support links to &lt;a class="link" href="https://leocorporation.dev" target="_blank" rel="noopener"
+>https://leocorporation.dev&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://bit.ly/GBXUltra" target="_blank" rel="noopener"
+>Click here&lt;/a> to download GestionBiblio X Ultra.&lt;/p>
+&lt;h2 id="image">Image&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2021/05/gestionbiblio-x-ultra-version-1412105/cover.png"
+width="603"
+height="349"
+srcset="https://blog.leocorporation.dev/2021/05/gestionbiblio-x-ultra-version-1412105/cover_hu7297a0815b3ffb7cd04d6aef238b16d5_19544_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/05/gestionbiblio-x-ultra-version-1412105/cover_hu7297a0815b3ffb7cd04d6aef238b16d5_19544_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The &amp;ldquo;About&amp;rdquo; window of GestionBiblio X Ultra"
+class="gallery-image"
+data-flex-grow="172"
+data-flex-basis="414px"
+>&lt;/p></description></item><item><title>GestionBiblio X, Basic edition: The version 1.6.2.2101 is now available</title><link>https://blog.leocorporation.dev/2021/01/gestionbiblio-x-basic-edition-version/</link><pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate><guid>https://blog.leocorporation.dev/2021/01/gestionbiblio-x-basic-edition-version/</guid><description>&lt;img src="https://blog.leocorporation.dev/2021/01/gestionbiblio-x-basic-edition-version/cover.png" alt="Featured image of post GestionBiblio X, Basic edition: The version 1.6.2.2101 is now available" />&lt;p>A new version of GestionBiblio X, Basic edition is now available and it&amp;rsquo;s the version 1.6.2.2101.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added the &amp;ldquo;Duplicate Item&amp;rdquo; help page&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed typos in the &amp;ldquo;Help&amp;rdquo; window&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated the copyright notice in the &amp;ldquo;About&amp;rdquo; window&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="http://bit.ly/GestionBiblioX" target="_blank" rel="noopener"
+>Click here&lt;/a> to download GestionBiblio X, Basic Edition (only in french)&lt;/p>
+&lt;h2 id="screenshot">Screenshot&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2021/01/gestionbiblio-x-basic-edition-version/cover.png"
+width="847"
+height="545"
+srcset="https://blog.leocorporation.dev/2021/01/gestionbiblio-x-basic-edition-version/cover_hud72b2636d51697e68eea17c3b964b26e_31831_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2021/01/gestionbiblio-x-basic-edition-version/cover_hud72b2636d51697e68eea17c3b964b26e_31831_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Help window of GestionBilbio X"
+class="gallery-image"
+data-flex-grow="155"
+data-flex-basis="372px"
+>&lt;/p></description></item></channel></rss>
