@@ -1,4 +1,66 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gaming on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/gaming/</link><description>Recent content in Gaming on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 Apr 2023 14:33:02 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/gaming/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 3.4.0.2304 is now available</title><link>https://blog.leocorporation.dev/2023/04/gavilya-version-3.4.0.2304-is-now-available/</link><pubDate>Sun, 16 Apr 2023 14:33:02 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/04/gavilya-version-3.4.0.2304-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/04/gavilya-version-3.4.0.2304-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 3.4.0.2304 is now available" />&lt;p>A new version of Gavilya is now available, and it is the version 3.4.0.2304.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gaming on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/gaming/</link><description>Recent content in Gaming on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 19 May 2023 12:17:19 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/gaming/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 3.5.0.2305 is now available</title><link>https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/</link><pubDate>Fri, 19 May 2023 12:17:19 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 3.5.0.2305 is now available" />&lt;p>A new version of Gavilya is now available, and it is the version 3.5.0.2305.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added basic theme file (#373)&lt;/li>
+&lt;li>Added Background and Accent color (#374)&lt;/li>
+&lt;li>Added Foreground theme color (#374)&lt;/li>
+&lt;li>Added second background level (#374)&lt;/li>
+&lt;li>Added second foreground theme (#374)&lt;/li>
+&lt;li>Added Selected background theme (#374)&lt;/li>
+&lt;li>Added Light foreground color (#374)&lt;/li>
+&lt;li>Improved Play Button theme (#374)&lt;/li>
+&lt;li>Added the theme system all across the app (#374)&lt;/li>
+&lt;li>Added Theme information system (#375)&lt;/li>
+&lt;li>Added translations&lt;/li>
+&lt;li>Added the possibility to import a theme (#375)&lt;/li>
+&lt;li>Added the possibility to set a default theme (#375)&lt;/li>
+&lt;li>Added an animation when choosing a random game (#376)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed an issue with background color&lt;/li>
+&lt;li>Fixed an issue with Linear gradients (#374)&lt;/li>
+&lt;li>Fixed tooltip issue&lt;/li>
+&lt;li>Fixed an issue with default theme&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated PeyrSharp.Core (#371)&lt;/li>
+&lt;li>Updated PeyrSharp.Env (#372)&lt;/li>
+&lt;li>Updated default theme template&lt;/li>
+&lt;/ul>
+&lt;h2 id="introducing-themes">Introducing Themes&lt;/h2>
+&lt;p>Gavilya, the innovative game launcher that lets you organize and launch your games from one place, has just introduced a new feature that will make your gaming experience even more awesome: Themes!&lt;/p>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/1.png"
+width="1185"
+height="700"
+srcset="https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/1_hu2110d60f8d2a03f812eb8f6e61375b99_254924_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/1_hu2110d60f8d2a03f812eb8f6e61375b99_254924_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The &amp;ldquo;Alternative Dark&amp;rdquo; theme"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;p>Themes allow you to customize the appearance of Gavilya according to your preferences and style. You can import custom themes from other users or create your own!&lt;/p>
+&lt;p>To access the Themes feature, simply go to the Settings menu and click on Themes. There you will find a list of available themes that you can preview and apply. In the future, we also plan to release a theme store and editor on our website.&lt;/p>
+&lt;p>Themes are a great way to personalize your Gavilya experience and make it more fun and immersive. Whether you want to match your game launcher with your games, your personality, or your mood, Themes have got you covered. Try them out today and let us know what you think!&lt;/p>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/2.png"
+width="1185"
+height="700"
+srcset="https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/2_hu95b7d0e34011deacd36be1e858bf537e_159730_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/2_hu95b7d0e34011deacd36be1e858bf537e_159730_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="A possible &amp;ldquo;light&amp;rdquo; theme for Gavilya"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://bit.ly/Gavilya" target="_blank" rel="noopener"
+>Click here&lt;/a> to download Gavilya.&lt;/p>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>&lt;a class="link" href="https://gavilya.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to go the website of Gavilya.&lt;/p></description></item><item><title>Gavilya: Version 3.4.0.2304 is now available</title><link>https://blog.leocorporation.dev/2023/04/gavilya-version-3.4.0.2304-is-now-available/</link><pubDate>Sun, 16 Apr 2023 14:33:02 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/04/gavilya-version-3.4.0.2304-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/04/gavilya-version-3.4.0.2304-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 3.4.0.2304 is now available" />&lt;p>A new version of Gavilya is now available, and it is the version 3.4.0.2304.&lt;/p>
 &lt;h2 id="changelog">Changelog&lt;/h2>
 &lt;h3 id="new">New&lt;/h3>
 &lt;ul>
