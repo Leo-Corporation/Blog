@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/</link><description>Recent content on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 19 May 2023 12:17:19 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 3.5.0.2305 is now available</title><link>https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/</link><pubDate>Fri, 19 May 2023 12:17:19 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 3.5.0.2305 is now available" />&lt;p>A new version of Gavilya is now available, and it is the version 3.5.0.2305.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/</link><description>Recent content on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 28 May 2023 11:24:51 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 5.2.0.2305 is now available</title><link>https://blog.leocorporation.dev/2023/05/colorpicker-version-5.2.0.2305-is-now-available/</link><pubDate>Sun, 28 May 2023 11:24:51 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/05/colorpicker-version-5.2.0.2305-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/05/colorpicker-version-5.2.0.2305-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.2.0.2305 is now available" />&lt;p>A new version of ColorPicker Max is now available, and it is the version 5.2.0.2305.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added new theme resources (#271)&lt;/li>
+&lt;li>Added the possibility to select HSV values with slider (#271)&lt;/li>
+&lt;li>Added the possibility to select HSL values with slider (#272)&lt;/li>
+&lt;li>The sliders are initialized with user preferences (#272)&lt;/li>
+&lt;li>Added link to palette page in chromatic wheel (#273)&lt;/li>
+&lt;li>Added link to palette page in selector (#273)&lt;/li>
+&lt;li>Added a button to generate a palette from a color (#273)&lt;/li>
+&lt;li>Added the text bookmark system (#274)&lt;/li>
+&lt;li>Added the possibility to bookmark text combination (#274)&lt;/li>
+&lt;li>Added Text bookmark item (#274)&lt;/li>
+&lt;li>Added Text section in Bookmark page (#274)&lt;/li>
+&lt;li>Added translations (#275)&lt;/li>
+&lt;li>Added keyboard shortcuts hints on the home page (#275)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed an issue when loading a text bookmark (#274)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated PeyrSharp.Core (#269)&lt;/li>
+&lt;li>Updated PeyrSharp.Env (#270)&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DownloadColorPickerMax" target="_blank" rel="noopener"
+>Click here&lt;/a> to download ColorPicker Max.&lt;/p>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/colorpickermax" target="_blank" rel="noopener"
+>Learn More&lt;/a> about ColorPicker Max.&lt;/p>
+&lt;h2 id="screenshot">Screenshot&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/05/colorpicker-version-5.2.0.2305-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2023/05/colorpicker-version-5.2.0.2305-is-now-available/1_hu4a562ea6e9189827bc5622ac1e0fc301_197593_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/05/colorpicker-version-5.2.0.2305-is-now-available/1_hu4a562ea6e9189827bc5622ac1e0fc301_197593_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The &amp;ldquo;Text&amp;rdquo; section of the Bookmark page of ColorPicker Max."
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p></description></item><item><title>Gavilya: Version 3.5.0.2305 is now available</title><link>https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/</link><pubDate>Fri, 19 May 2023 12:17:19 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 3.5.0.2305 is now available" />&lt;p>A new version of Gavilya is now available, and it is the version 3.5.0.2305.&lt;/p>
 &lt;h2 id="changelog">Changelog&lt;/h2>
 &lt;h3 id="new">New&lt;/h3>
 &lt;ul>
