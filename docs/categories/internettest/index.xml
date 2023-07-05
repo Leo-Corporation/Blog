@@ -1,4 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>InternetTest on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/internettest/</link><description>Recent content in InternetTest on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 19 Apr 2023 13:13:19 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/internettest/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 7.5.0.2304 is now available</title><link>https://blog.leocorporation.dev/2023/04/internettest-version-7.5.0.2304-is-now-available/</link><pubDate>Wed, 19 Apr 2023 13:13:19 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/04/internettest-version-7.5.0.2304-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/04/internettest-version-7.5.0.2304-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 7.5.0.2304 is now available" />&lt;p>A new version of InternetTest Pro is now available and brings new features and improvements.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>InternetTest on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/internettest/</link><description>Recent content in InternetTest on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 05 Jul 2023 12:56:41 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/internettest/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 7.6.0.2307 is now available</title><link>https://blog.leocorporation.dev/2023/07/internettest-version-7.6.0.2307-is-now-available/</link><pubDate>Wed, 05 Jul 2023 12:56:41 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/07/internettest-version-7.6.0.2307-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/07/internettest-version-7.6.0.2307-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 7.6.0.2307 is now available" />&lt;p>A new version of InternetTest Pro is now available and brings new features and improvements alongside with bug fixes.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added translations (#442)&lt;/li>
+&lt;li>Added the possibility to make a speed test (#442)&lt;/li>
+&lt;li>Test button is disabled when making a speed test (#442)&lt;/li>
+&lt;li>Speed field is now rounding the result (#442)&lt;/li>
+&lt;li>Added translations (#443)&lt;/li>
+&lt;li>Added TraceRouteItem (#443)&lt;/li>
+&lt;li>Added TraceRoute page (#443)&lt;/li>
+&lt;li>Added trace route system (#444)&lt;/li>
+&lt;li>Added the possibility to make a trace route (#444)&lt;/li>
+&lt;li>Added Overview panel (#444)&lt;/li>
+&lt;li>Added placeholder in Trace route page (#444)&lt;/li>
+&lt;li>Added the possibility to set the max number of hops (#445)&lt;/li>
+&lt;li>Added the possibility to set the maximum timeout (#446)&lt;/li>
+&lt;li>Added missing startup options in Settings&lt;/li>
+&lt;li>Added the possibility to copy the addresses (#444)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed: Details don&amp;rsquo;t get cleared in DNS page (#441)&lt;/li>
+&lt;li>Fixed an issue with error displaying twice (#444)&lt;/li>
+&lt;li>Fixed an issue with Synethia&lt;/li>
+&lt;li>Fixed an issue with the UI on start&lt;/li>
+&lt;li>Fixed an issue with Overview section in Traceroute&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated PeyrSharp.Core&lt;/li>
+&lt;li>Updated PeyrSharp.Env&lt;/li>
+&lt;/ul>
+&lt;h2 id="traceroute-page">Traceroute page&lt;/h2>
+&lt;p>The Traceroute page in InternetTest Pro incorporates an intuitive user interface that simplifies the process of tracing the path to a destination. At the heart of the page lies a textbox where users can input either a website address or an IP address. Once the user clicks on the accompanying button, the tool initiates a traceroute operation, analyzing the network path taken by data packets to reach the specified destination.&lt;/p>
+&lt;h3 id="clear-visual-representation">Clear Visual Representation&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/07/internettest-version-7.6.0.2307-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2023/07/internettest-version-7.6.0.2307-is-now-available/1_hu6b3f8bf69a41735358c493fe70bb8068_126190_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/07/internettest-version-7.6.0.2307-is-now-available/1_hu6b3f8bf69a41735358c493fe70bb8068_126190_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The Traceroute page of InternetTest Pro, with a traceroute result for google.com"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>InternetTest Pro&amp;rsquo;s Traceroute page presents the results of the traceroute operation in an easily comprehensible and visually appealing manner. The outcomes are displayed within a series of boxes that are connected to form a pathway, mimicking the route taken by the data packets. Each box represents a particular address encountered along the way, providing valuable information such as the status and time it took to reach that specific node.&lt;/p>
+&lt;h3 id="insightful-overview-section">Insightful Overview Section&lt;/h3>
+&lt;p>In addition to the visual representation of the traceroute path, InternetTest Pro offers an informative overview section. This section enables users to quickly assess the overall performance and characteristics of the traced path. It provides essential statistics, including the number of successful and failed hops, the time it took for each hop, and the total number of hops encountered during the journey.&lt;/p>
+&lt;h3 id="conclusion">Conclusion&lt;/h3>
+&lt;p>The introduction of InternetTest Pro&amp;rsquo;s Traceroute page marks a significant advancement in network analysis tools, providing users with a powerful and user-friendly solution to unravel the path their data takes across the internet. With its intuitive interface, clear visual representation, and informative overview section, this feature equips users with valuable insights into their network performance.
+By effortlessly tracing the route to a destination and presenting the results in a visually appealing manner, InternetTest Pro simplifies the process of troubleshooting network issues.
+Moreover, the Traceroute page in InternetTest Pro is particularly beneficial for users who prefer not to navigate the intricacies of the Windows command prompt. With its user-friendly interface and straightforward functionality, this feature eliminates the need for users to memorize and type complex command line instructions.&lt;/p>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="tinyurl.com/DownloadITP7" >Click here&lt;/a> to download InternetTest.&lt;/p></description></item><item><title>InternetTest: Version 7.5.0.2304 is now available</title><link>https://blog.leocorporation.dev/2023/04/internettest-version-7.5.0.2304-is-now-available/</link><pubDate>Wed, 19 Apr 2023 13:13:19 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/04/internettest-version-7.5.0.2304-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/04/internettest-version-7.5.0.2304-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 7.5.0.2304 is now available" />&lt;p>A new version of InternetTest Pro is now available and brings new features and improvements.&lt;/p>
 &lt;h2 id="changelog">Changelog&lt;/h2>
 &lt;h3 id="new">New&lt;/h3>
 &lt;ul>
