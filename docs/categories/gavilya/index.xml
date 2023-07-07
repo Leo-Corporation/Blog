@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gavilya on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/gavilya/</link><description>Recent content in Gavilya on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 19 May 2023 12:17:19 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/gavilya/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 3.5.0.2305 is now available</title><link>https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/</link><pubDate>Fri, 19 May 2023 12:17:19 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 3.5.0.2305 is now available" />&lt;p>A new version of Gavilya is now available, and it is the version 3.5.0.2305.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gavilya on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/gavilya/</link><description>Recent content in Gavilya on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 07 Jul 2023 10:26:14 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/gavilya/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 3.6.0.2307 is now available</title><link>https://blog.leocorporation.dev/2023/07/gavilya-version-3.6.0.2307-is-now-available/</link><pubDate>Fri, 07 Jul 2023 10:26:14 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/07/gavilya-version-3.6.0.2307-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/07/gavilya-version-3.6.0.2307-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 3.6.0.2307 is now available" />&lt;p>A new version of Gavilya is now available, and it is the version 3.6.0.2307. We’ve been working hard to bring you some exciting new features and improvements. In this post, we’ll be highlighting some of the most significant changes we’ve made to Gavilya. From redesigned achievement items to added translations, we’ve got a lot to cover. We’ll also be sharing some of the issues we’ve fixed and the updates we’ve made. So, let’s dive in!&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Redesigned the achievement item (#387)&lt;/li>
+&lt;li>Added Golden border when the achievement is rare (#387)&lt;/li>
+&lt;li>Added translations (#388)&lt;/li>
+&lt;li>Added a third page when adding/editing a game (#388)&lt;/li>
+&lt;li>Added the possibility to set the process name when adding a game (#388)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed: Wrong tooltip on profile switcher (#383)&lt;/li>
+&lt;li>Fixed: The window isn&amp;rsquo;t correctly maximized (#386)&lt;/li>
+&lt;li>Fixed a style error&lt;/li>
+&lt;li>Fixed an issue with the layout (#387)&lt;/li>
+&lt;li>Fixed an issue with recommended games section&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated PeyrSharp.Env (#384)&lt;/li>
+&lt;li>Updated PeyrSharp.Core (#385)&lt;/li>
+&lt;li>Moved enumeration to appropriate namespace&lt;/li>
+&lt;li>Removed legacy code&lt;/li>
+&lt;li>Refactorization of the &amp;ldquo;Add game&amp;rdquo; process&lt;/li>
+&lt;li>Merged Definitions to Global&lt;/li>
+&lt;/ul>
+&lt;h2 id="the-new-achievement-card">The new achievement card&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/07/gavilya-version-3.6.0.2307-is-now-available/1.png"
+width="1185"
+height="700"
+srcset="https://blog.leocorporation.dev/2023/07/gavilya-version-3.6.0.2307-is-now-available/1_hub3bb14523283e0e001422a31ea3b6b71_404810_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/07/gavilya-version-3.6.0.2307-is-now-available/1_hub3bb14523283e0e001422a31ea3b6b71_404810_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new achievement card displayed in the game info page"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;p>The achievement item has been redesigned to look like a card. The card will have an image, name, description and other information. When the achievement is obtained less than 1%, there will be a gold effect on the card border.&lt;/p>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://bit.ly/Gavilya" target="_blank" rel="noopener"
+>Click here&lt;/a> to download Gavilya.&lt;/p>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>&lt;a class="link" href="https://gavilya.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to go the website of Gavilya.&lt;/p></description></item><item><title>Gavilya: Version 3.5.0.2305 is now available</title><link>https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/</link><pubDate>Fri, 19 May 2023 12:17:19 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/05/gavilya-version-3.5.0.2305-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 3.5.0.2305 is now available" />&lt;p>A new version of Gavilya is now available, and it is the version 3.5.0.2305.&lt;/p>
 &lt;h2 id="changelog">Changelog&lt;/h2>
 &lt;h3 id="new">New&lt;/h3>
 &lt;ul>
