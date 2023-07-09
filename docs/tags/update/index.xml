@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 07 Jul 2023 10:26:14 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 3.6.0.2307 is now available</title><link>https://blog.leocorporation.dev/2023/07/gavilya-version-3.6.0.2307-is-now-available/</link><pubDate>Fri, 07 Jul 2023 10:26:14 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/07/gavilya-version-3.6.0.2307-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/07/gavilya-version-3.6.0.2307-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 3.6.0.2307 is now available" />&lt;p>A new version of Gavilya is now available, and it is the version 3.6.0.2307. We’ve been working hard to bring you some exciting new features and improvements. In this post, we’ll be highlighting some of the most significant changes we’ve made to Gavilya. From redesigned achievement items to added translations, we’ve got a lot to cover. We’ll also be sharing some of the issues we’ve fixed and the updates we’ve made. So, let’s dive in!&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 09 Jul 2023 11:22:58 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 5.3.0.2307 is now available</title><link>https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/</link><pubDate>Sun, 09 Jul 2023 11:22:58 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.3.0.2307 is now available" />&lt;p>A new version of ColorPicker Max is now available, and it is the version 5.3.0.2307.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added translations (#284)&lt;/li>
+&lt;li>Added ContextMenu styles (#284)&lt;/li>
+&lt;li>Added a context menu in bookmarks (#284)&lt;/li>
+&lt;li>Added a recently selected colors section in Selector page (#285)&lt;/li>
+&lt;li>Added a color detail window (#286)&lt;/li>
+&lt;li>Added the possibility to get color details in Text tool (#286)&lt;/li>
+&lt;li>Added the possibility to get color details in Gradient (#286)&lt;/li>
+&lt;li>Added the possibility to get color details in Palette (#286)&lt;/li>
+&lt;li>Added translations (#287)&lt;/li>
+&lt;li>Added tooltips on Details window (#287)&lt;/li>
+&lt;li>Added tooltips on pages (#287)&lt;/li>
+&lt;li>Added tooltips on user controls (#287)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated PeyrSharp.Core (#282)&lt;/li>
+&lt;li>Updated PeyrSharp.Env (#283)&lt;/li>
+&lt;/ul>
+&lt;h2 id="new-details-window">New Details window&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/1.gif"
+width="450"
+height="450"
+srcset="https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/1_hu2ef1afad3516a815c48fd1b8f13a5a86_134443_480x0_resize_box.gif 480w, https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/1_hu2ef1afad3516a815c48fd1b8f13a5a86_134443_1024x0_resize_box.gif 1024w"
+loading="lazy"
+alt="The new detail window with different colors"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>We are thrilled to announce the introduction of our new feature, the &amp;ldquo;Details&amp;rdquo; window. This exciting addition aims to empower designers, artists, and enthusiasts with a deeper understanding of colors right at their fingertips.&lt;/p>
+&lt;p>With the &amp;ldquo;Details&amp;rdquo; window, users can now explore colors in greater detail by simply right-clicking on a color area in the Text tool, gradient, or palette page. This action triggers a window that unveils a wealth of information about the selected color, including its precise RGB values and hexadecimal code.&lt;/p>
+&lt;p>By displaying the color&amp;rsquo;s composition in such a detailed manner, the &amp;ldquo;Details&amp;rdquo; window enables users to make more informed decisions when selecting and matching colors for their projects. Whether it&amp;rsquo;s designing a logo, creating digital artwork, or planning an aesthetically pleasing color palette, this feature serves as an invaluable resource.&lt;/p>
+&lt;p>Not only does the &amp;ldquo;Details&amp;rdquo; window provide valuable insights, but it also enhances the overall workflow efficiency. No longer do users have to search for color information through separate tools or external resources. With a simple right-click, all the necessary details are instantly presented, allowing for a seamless color exploration experience.&lt;/p>
+&lt;p>We believe that the &amp;ldquo;Details&amp;rdquo; window feature will improve the way users interact with colors in ColorPicker Max. It is our ongoing commitment to empower our users with innovative tools and features that elevate their creative endeavors. We can&amp;rsquo;t wait to see how this enhancement will unlock new possibilities and inspire stunning visual compositions.&lt;/p>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DownloadColorPickerMax" target="_blank" rel="noopener"
+>Click here&lt;/a> to download ColorPicker Max.&lt;/p>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/colorpickermax" target="_blank" rel="noopener"
+>Learn More&lt;/a> about ColorPicker Max.&lt;/p></description></item><item><title>Gavilya: Version 3.6.0.2307 is now available</title><link>https://blog.leocorporation.dev/2023/07/gavilya-version-3.6.0.2307-is-now-available/</link><pubDate>Fri, 07 Jul 2023 10:26:14 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/07/gavilya-version-3.6.0.2307-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/07/gavilya-version-3.6.0.2307-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 3.6.0.2307 is now available" />&lt;p>A new version of Gavilya is now available, and it is the version 3.6.0.2307. We’ve been working hard to bring you some exciting new features and improvements. In this post, we’ll be highlighting some of the most significant changes we’ve made to Gavilya. From redesigned achievement items to added translations, we’ve got a lot to cover. We’ll also be sharing some of the issues we’ve fixed and the updates we’ve made. So, let’s dive in!&lt;/p>
 &lt;h2 id="changelog">Changelog&lt;/h2>
 &lt;h3 id="new">New&lt;/h3>
 &lt;ul>
