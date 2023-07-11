@@ -1,4 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 09 Jul 2023 11:22:58 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 5.3.0.2307 is now available</title><link>https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/</link><pubDate>Sun, 09 Jul 2023 11:22:58 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.3.0.2307 is now available" />&lt;p>A new version of ColorPicker Max is now available, and it is the version 5.3.0.2307.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 11 Jul 2023 10:18:52 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 3.3.0.2307 is now available</title><link>https://blog.leocorporation.dev/2023/07/passliss-version-3.3.0.2307-is-now-available/</link><pubDate>Tue, 11 Jul 2023 10:18:52 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/07/passliss-version-3.3.0.2307-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/07/passliss-version-3.3.0.2307-is-now-available/cover.png" alt="Featured image of post Passliss: Version 3.3.0.2307 is now available" />&lt;p>A new version of Passliss is now available, and it is the version 3.3.0.2307. This version brings an exciting feature to Passliss: AI Password Generation!&lt;/p>
+&lt;h1 id="whats-new">What&amp;rsquo;s new?&lt;/h1>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added translations (#432)&lt;/li>
+&lt;li>Added Password item component (#432)&lt;/li>
+&lt;li>Added AI section in Generate page (#432)&lt;/li>
+&lt;li>Added the possibility to set the OpenAI API key (#433)&lt;/li>
+&lt;li>Added the possibility to generate a password with AI (#432)&lt;/li>
+&lt;li>Added suggestions for new users (#434)&lt;/li>
+&lt;li>Added UI when no API key is provided&lt;/li>
+&lt;li>Added a loading UI (#435)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed an issue with AI settings&lt;/li>
+&lt;li>Fixed an issue when the response isn&amp;rsquo;t properly formatted&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Improved design of prompt item&lt;/li>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="introducing-ai-password-generation">Introducing AI password generation&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/07/passliss-version-3.3.0.2307-is-now-available/1.jpeg"
+width="2428"
+height="1222"
+srcset="https://blog.leocorporation.dev/2023/07/passliss-version-3.3.0.2307-is-now-available/1_hu8e9506483a24a07fd2c90e28f0f4b714_90893_480x0_resize_q75_box.jpeg 480w, https://blog.leocorporation.dev/2023/07/passliss-version-3.3.0.2307-is-now-available/1_hu8e9506483a24a07fd2c90e28f0f4b714_90893_1024x0_resize_q75_box.jpeg 1024w"
+loading="lazy"
+alt="The AI section of the Generate page."
+class="gallery-image"
+data-flex-grow="198"
+data-flex-basis="476px"
+>
+If you are like most people, you probably have dozens of online accounts that require passwords. And if you are like most people, you probably use the same password or a few variations of it for all your accounts. This is a bad practice that can compromise your security and privacy. But creating and remembering strong and unique passwords for each account is not easy either. That&amp;rsquo;s why we added artificial intelligence for password generation in Passliss, to create secure and memorable passwords for you.&lt;/p>
+&lt;p>Passliss is powered by OpenAI&amp;rsquo;s GPT-3.5, one of the most advanced language model in the world. GPT-3.5 can generate natural and coherent text on any topic, given some keywords or a prompt. We use this technology to generate passwords that are not only strong and random, but also meaningful and easy to remember.&lt;/p>
+&lt;p>How does it work? It&amp;rsquo;s simple. Just go to our &lt;a class="link" href="passliss.leocorporation.dev" >website&lt;/a> and enter a prompt that is related to the account you want to create a password for. For example, if you want to create a password for your Netflix account, you can enter something like &amp;ldquo;I love watching movies and shows on Netflix&amp;rdquo;. Then, click on the &amp;ldquo;Generate&amp;rdquo; button and wait for a few seconds. Passliss will generate three passwords based on your prompt, each with a different level of security and memorability. You can choose the one that suits your needs best, or generate more passwords if you are not satisfied.&lt;/p>
+&lt;p>Here are some examples of passwords generated by Passliss:&lt;/p>
+&lt;p>&lt;strong>Prompt:&lt;/strong> I love watching movies and shows on Netflix&lt;/p>
+&lt;p>Passwords:&lt;/p>
+&lt;ul>
+&lt;li>M0v13L0v3r!&lt;/li>
+&lt;li>N3tf1xAddict@&lt;/li>
+&lt;li>Str34m1ngQu33n!&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Prompt:&lt;/strong> My favorite sport is soccer and I play every weekend&lt;/p>
+&lt;p>Passwords:&lt;/p>
+&lt;ul>
+&lt;li>S0cc3rW33k3nd&lt;/li>
+&lt;li>Fav0rit3Sp0rt!2O2O&lt;/li>
+&lt;li>PlayS0cc3rZzZ&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Prompt:&lt;/strong> I am a fan of Harry Potter and my favorite character is Hermione&lt;/p>
+&lt;p>Passwords:&lt;/p>
+&lt;ul>
+&lt;li>H3rmi0n3P0tter&lt;/li>
+&lt;li>Grang3rW1zard&lt;/li>
+&lt;li>Mudbl00dGryffind0r&lt;/li>
+&lt;/ul>
+&lt;p>As you can see, Passliss can generate passwords that are related to your interests and hobbies, making them easier to recall. Of course, you should always use a password manager to store and manage your passwords securely. Passliss is not a password manager, but a password generator that can help you create better passwords.&lt;/p>
+&lt;p>We hope you will enjoy using Passliss new AI capabilities. We are always working to improve our app and make it more user-friendly and reliable. Note that to use this new feature, you will need an &lt;a class="link" href="https://platform.openai.com/account/api-keys" target="_blank" rel="noopener"
+>OpenAI API key&lt;/a>.&lt;/p>
+&lt;h2 id="launch">Launch&lt;/h2>
+&lt;p>&lt;a class="link" href="https://passliss.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to launch Passliss in your web browser.&lt;/p></description></item><item><title>ColorPicker: Version 5.3.0.2307 is now available</title><link>https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/</link><pubDate>Sun, 09 Jul 2023 11:22:58 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.3.0.2307 is now available" />&lt;p>A new version of ColorPicker Max is now available, and it is the version 5.3.0.2307.&lt;/p>
 &lt;h2 id="changelog">Changelog&lt;/h2>
 &lt;h3 id="new">New&lt;/h3>
 &lt;ul>
