@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qrix on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/qrix/</link><description>Recent content in Qrix on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 17 Jul 2023 13:39:42 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/qrix/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing Qrix – A powerful Bar Code and QR Code generator</title><link>https://blog.leocorporation.dev/2023/07/introducing-qrix-a-powerful-bar-code-and-qr-code-generator/</link><pubDate>Mon, 17 Jul 2023 13:39:42 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/07/introducing-qrix-a-powerful-bar-code-and-qr-code-generator/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/07/introducing-qrix-a-powerful-bar-code-and-qr-code-generator/cover.png" alt="Featured image of post Introducing Qrix – A powerful Bar Code and QR Code generator" />&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Welcome to Qrix, the web app that lets you create and customize bar codes and QR codes with ease. Qrix is designed to be simple, fast, and user-friendly. You can generate codes in various formats, such as Code128, Code11, UPC-A, ISBN, and more. You can also adjust the foreground and background colors of your codes and save or copy them for later use. Qrix supports light and dark themes and is available in English and French.
+In this blog post, we will introduce you to some of the features of Qrix and show you how to use it. Whether you need to create codes for personal or professional purposes, Qrix can help you do it in a few clicks.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;p>With its array of powerful features, Qrix is set to become your go-to tool for all your code generation needs.&lt;/p>
+&lt;h3 id="diverse-code-types">Diverse Code Types&lt;/h3>
+&lt;p>Qrix offers an extensive range of bar code types to cater to your specific requirements. Whether you need a Code128, Code11, UPC-A, ISBN, or any other bar code format, Qrix has you covered. By supporting various code types, Qrix ensures that you can generate the right code for your products, documents, or any other data.
+Currently these types are available:&lt;/p>
+&lt;ul>
+&lt;li>Code128&lt;/li>
+&lt;li>Code11&lt;/li>
+&lt;li>Code39&lt;/li>
+&lt;li>Code49&lt;/li>
+&lt;li>Code93&lt;/li>
+&lt;li>EAN-13&lt;/li>
+&lt;li>EAN-2&lt;/li>
+&lt;li>EAN-5&lt;/li>
+&lt;li>EAN-8&lt;/li>
+&lt;li>UPC-A&lt;/li>
+&lt;li>MSI&lt;/li>
+&lt;li>ISBN&lt;/li>
+&lt;/ul>
+&lt;h3 id="customization-options">Customization Options&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/07/introducing-qrix-a-powerful-bar-code-and-qr-code-generator/1.jpeg"
+width="2428"
+height="1222"
+srcset="https://blog.leocorporation.dev/2023/07/introducing-qrix-a-powerful-bar-code-and-qr-code-generator/1_hu24cad951a2da604de168417ef2f6dcd4_78938_480x0_resize_q75_box.jpeg 480w, https://blog.leocorporation.dev/2023/07/introducing-qrix-a-powerful-bar-code-and-qr-code-generator/1_hu24cad951a2da604de168417ef2f6dcd4_78938_1024x0_resize_q75_box.jpeg 1024w"
+loading="lazy"
+alt="The QR Code generator feature with custom colors selected."
+class="gallery-image"
+data-flex-grow="198"
+data-flex-basis="476px"
+>&lt;/p>
+&lt;p>Personalization is key when it comes to branding and visual appeal. Qrix acknowledges this and offers a wide range of customization options for your codes. You can easily adjust the foreground and background colors to match your brand&amp;rsquo;s identity or aesthetic preferences. Qrix also provides a real-time preview, allowing you to fine-tune the appearance of your codes before saving or copying them.&lt;/p>
+&lt;h3 id="saving-and-copying-codes">Saving and Copying Codes&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/07/introducing-qrix-a-powerful-bar-code-and-qr-code-generator/2.jpeg"
+width="2428"
+height="1222"
+srcset="https://blog.leocorporation.dev/2023/07/introducing-qrix-a-powerful-bar-code-and-qr-code-generator/2_huf5e5f4f96347fafbb35161b8c1ba27d8_83945_480x0_resize_q75_box.jpeg 480w, https://blog.leocorporation.dev/2023/07/introducing-qrix-a-powerful-bar-code-and-qr-code-generator/2_huf5e5f4f96347fafbb35161b8c1ba27d8_83945_1024x0_resize_q75_box.jpeg 1024w"
+loading="lazy"
+alt="The Bar Code generator page."
+class="gallery-image"
+data-flex-grow="198"
+data-flex-basis="476px"
+>&lt;/p>
+&lt;p>Qrix provides flexible options for saving and sharing your generated codes. You can conveniently save your codes as PNG/JPG/BMP files, ensuring compatibility across various platforms and applications. Additionally, with a simple click, you can copy the codes directly to your clipboard, enabling swift integration into documents, presentations, or websites.&lt;/p>
+&lt;h3 id="history-feature">History Feature&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/07/introducing-qrix-a-powerful-bar-code-and-qr-code-generator/3.jpeg"
+width="2428"
+height="1222"
+srcset="https://blog.leocorporation.dev/2023/07/introducing-qrix-a-powerful-bar-code-and-qr-code-generator/3_hu1fd2d62f6dc9d249558630017fbfe915_98122_480x0_resize_q75_box.jpeg 480w, https://blog.leocorporation.dev/2023/07/introducing-qrix-a-powerful-bar-code-and-qr-code-generator/3_hu1fd2d62f6dc9d249558630017fbfe915_98122_1024x0_resize_q75_box.jpeg 1024w"
+loading="lazy"
+alt="The History page showing the recently generated Bar Codes."
+class="gallery-image"
+data-flex-grow="198"
+data-flex-basis="476px"
+>&lt;/p>
+&lt;p>Keeping track of your generated codes is made effortless with Qrix&amp;rsquo;s history feature. Every code you generate is automatically saved within the app, ensuring easy access and retrieval whenever you need it. This feature eliminates the hassle of manually managing files or searching for previously created codes, allowing you to focus on your tasks without interruption.&lt;/p>
+&lt;h3 id="theme-and-language-customization">Theme and Language Customization&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/07/introducing-qrix-a-powerful-bar-code-and-qr-code-generator/4.jpeg"
+width="2428"
+height="1222"
+srcset="https://blog.leocorporation.dev/2023/07/introducing-qrix-a-powerful-bar-code-and-qr-code-generator/4_hu545bbed2659d36c9a3b0b51e2e655f2d_97517_480x0_resize_q75_box.jpeg 480w, https://blog.leocorporation.dev/2023/07/introducing-qrix-a-powerful-bar-code-and-qr-code-generator/4_hu545bbed2659d36c9a3b0b51e2e655f2d_97517_1024x0_resize_q75_box.jpeg 1024w"
+loading="lazy"
+alt="Qrix when dark mode is enabled."
+class="gallery-image"
+data-flex-grow="198"
+data-flex-basis="476px"
+>&lt;/p>
+&lt;p>Qrix understands the importance of user preferences. It offers a choice between light and dark themes, allowing you to create a visually comfortable environment that suits your needs. Moreover, Qrix supports multiple languages, including English and French, ensuring a seamless experience for users from different linguistic backgrounds.&lt;/p>
+&lt;h3 id="cross-device-compatibility">Cross-Device Compatibility&lt;/h3>
+&lt;p>Qrix is designed to be highly accessible, enabling you to generate codes from any device with a web browser. Whether you&amp;rsquo;re using a desktop computer, laptop, tablet, or smartphone, Qrix adapts responsively to different screen sizes and orientations. This versatility allows you to use Qrix wherever and whenever you need it, whether you&amp;rsquo;re at your desk or on the go.
+Qrix revolutionizes the way you generate bar codes and QR codes. With its diverse code types, customization options, history feature, and cross-device compatibility, Qrix empowers you to create codes quickly, efficiently, and with unmatched convenience.&lt;/p>
+&lt;h2 id="how-to-use-qrix">How to use Qrix&lt;/h2>
+&lt;p>Using Qrix is very easy. Here are the steps to follow:&lt;/p>
+&lt;ol>
+&lt;li>Go to &lt;a class="link" href="https://qrix.leocorporation.dev" target="_blank" rel="noopener"
+>https://qrix.leocorporation.dev&lt;/a> and click on the &amp;ldquo;Bar Code&amp;rdquo; or “QR Code” option.&lt;/li>
+&lt;li>Select the type of code you want to generate from the dropdown menu.&lt;/li>
+&lt;li>Enter the data for your code in the input field. For example, if you want to generate a QR code for a website, enter the URL of the website.&lt;/li>
+&lt;li>Choose the foreground and background colors for your code from the color picker. You can also use the default colors if you prefer.&lt;/li>
+&lt;li>Click on the &amp;ldquo;Generate&amp;rdquo; button and see your code appear on the screen.&lt;/li>
+&lt;li>If you are satisfied with your code, you can save it as a PNG file by clicking on the &amp;ldquo;Save&amp;rdquo; button or copy it to your clipboard by clicking on the &amp;ldquo;Copy&amp;rdquo; button.&lt;/li>
+&lt;/ol>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>Qrix is a web app that lets you create and customize bar codes and QR codes with ease. It is simple, fast, and user-friendly. It has many features that make it a great app for generating codes for personal or professional purposes. You can access it from any device that has a web browser.&lt;/p>
+&lt;p>If you want to try Qrix for yourself, go to &lt;a class="link" href="https://qrix.leocorporation.dev" target="_blank" rel="noopener"
+>https://qrix.leocorporation.dev&lt;/a> and start creating your own codes today. You will be amazed by how easy and fun it is to use Qrix.&lt;/p>
+&lt;p>Thank you for reading this blog post. I hope you found it informative and helpful. If you have any questions or feedback about Qrix, feel free to leave a comment below or &lt;a class="link" href="https://leocorporation.dev/contact" target="_blank" rel="noopener"
+>contact us&lt;/a>.&lt;/p>
+&lt;h2 id="whats-next-for-gerayis">What’s next for Gerayis?&lt;/h2>
+&lt;p>After careful consideration and in line with our commitment to providing the best user experience possible, we have made the decision to discontinue support for Gerayis for Windows. Gerayis will still work but we won’t bring any new updates to it. For new features, users can migrate to Qrix. To get started with it, simply access it through your preferred web browser. The best part is that Qrix can also be installed as a Progressive Web App (PWA) on your Windows device. This means you can have the convenience of a dedicated app-like experience while still benefiting from the versatility of a web-based solution.
+By transitioning to Qrix, you will gain access to all the features and functionality you enjoyed with Gerayis, and more.&lt;/p>
+&lt;p>We understand that change can sometimes be challenging, but we are confident that Qrix will exceed your expectations and become your go-to solution for code generation. Our team is dedicated to providing continuous support and updates for Qrix, ensuring that you have the best possible experience while using our app.&lt;/p>
+&lt;p>As we move forward, we encourage all Windows users to transition from Gerayis to Qrix. We appreciate your understanding and are excited to embark on this new chapter with you. Should you have any questions or need assistance during the transition, our support team is available to help.&lt;/p></description></item></channel></rss>
