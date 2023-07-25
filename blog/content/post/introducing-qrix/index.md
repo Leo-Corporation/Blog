@@ -94,3 +94,14 @@ By transitioning to Qrix, you will gain access to all the features and functiona
 We understand that change can sometimes be challenging, but we are confident that Qrix will exceed your expectations and become your go-to solution for code generation. Our team is dedicated to providing continuous support and updates for Qrix, ensuring that you have the best possible experience while using our app.
 
 As we move forward, we encourage all Windows users to transition from Gerayis to Qrix. We appreciate your understanding and are excited to embark on this new chapter with you. Should you have any questions or need assistance during the transition, our support team is available to help.
+
+## Video
+
+Watch the official trailer for Qrix on our YouTube channel
+
+{{< rawhtml >}}
+
+  <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0WgfrrMd_aU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </center>
+{{< /rawhtml >}}
