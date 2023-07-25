@@ -15,7 +15,7 @@ But we are not only about creating apps. We are also about connecting with you, 
 
 ### TikTok
 
-TikTok is a popular platform for short-form videos, where users can express their creativity, humor, talent, and more. We use TikTok to create short tutorials and videos about our apps, showing how they work, what features they have, and how they can help you in your daily tasks. For example, you can watch a video on how to use Passliss, a web app that allows you to generate secure passwords and test the strength of existing ones. Or you can watch a video on how to use InternetTest, a modern connection utility for Windows that can locate IP addresses, send ping requests, recover your WiFi passwords, and more. You can follow us on TikTok here: https://www.tiktok.com/@leocorporation_.
+TikTok is a popular platform for short-form videos, where users can express their creativity, humor, talent, and more. We use TikTok to create short tutorials and videos about our apps, showing how they work, what features they have, and how they can help you in your daily tasks. For example, you can watch a video on how to use Passliss, a web app that allows you to generate secure passwords and test the strength of existing ones. Or you can watch a video on how to use InternetTest, a modern connection utility for Windows that can locate IP addresses, send ping requests, recover your WiFi passwords, and more. You can follow us on TikTok here: https://www.tiktok.com/@leocorporation_/.
 
 ### X (Twitter)
 
