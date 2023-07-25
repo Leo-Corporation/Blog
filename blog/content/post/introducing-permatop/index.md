@@ -50,3 +50,14 @@ With PermaTop in your arsenal, you can wave goodbye to the frustration of window
 Ready to take control of your Windows experience? [Download PermaTop](https://tinyurl.com/PermaTop) now and unlock a world of productivity possibilities. Whether you're a multitasking enthusiast, a professional handling multiple projects, or someone who values efficiency, PermaTop is your ticket to an optimized workflow.
 
 Don't let windows obscure your path to success. Embrace PermaTop and witness the transformation in your productivity today!
+
+## Video
+
+Learn more about PermaTop and see it in action in this video!
+
+{{< rawhtml >}}
+
+  <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wkCayNOTCtk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </center>
+{{< /rawhtml >}}
