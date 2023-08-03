@@ -1,4 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ColorPicker on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/colorpicker/</link><description>Recent content in ColorPicker on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 09 Jul 2023 11:22:58 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/colorpicker/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 5.3.0.2307 is now available</title><link>https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/</link><pubDate>Sun, 09 Jul 2023 11:22:58 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.3.0.2307 is now available" />&lt;p>A new version of ColorPicker Max is now available, and it is the version 5.3.0.2307.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ColorPicker on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/colorpicker/</link><description>Recent content in ColorPicker on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Aug 2023 11:04:50 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/colorpicker/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 5.4.0.2308 is now available</title><link>https://blog.leocorporation.dev/2023/08/colorpicker-version-5.4.0.2308-is-now-available/</link><pubDate>Thu, 03 Aug 2023 11:04:50 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/colorpicker-version-5.4.0.2308-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/colorpicker-version-5.4.0.2308-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.4.0.2308 is now available" />&lt;p>This version brings a new exciting feature to ColorPicker Max: AI Color Generation!&lt;/p>
+&lt;h2 id="introducing-ai-color-generation---powered-by-openai">Introducing AI Color Generation - powered by OpenAI&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/08/colorpicker-version-5.4.0.2308-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2023/08/colorpicker-version-5.4.0.2308-is-now-available/1_huc46d03ac8fab99826bb3b6c0f3c49973_200590_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/08/colorpicker-version-5.4.0.2308-is-now-available/1_huc46d03ac8fab99826bb3b6c0f3c49973_200590_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new AI page of ColorPicker Max"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>We are excited to announce a new feature for ColorPicker Max: AI generation. With this feature, you can generate a color or a palette of five colors from a text prompt. For example, you can type &amp;ldquo;sunset&amp;rdquo; and get a color or a palette that matches the mood and theme of a sunset. This feature is powered by the OpenAI ChatGPT API, which uses deep learning to create realistic and diverse colors from natural language inputs.&lt;/p>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/08/colorpicker-version-5.4.0.2308-is-now-available/2.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2023/08/colorpicker-version-5.4.0.2308-is-now-available/2_hu306ed31cbfee5ce69697549fbe3006df_201437_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/08/colorpicker-version-5.4.0.2308-is-now-available/2_hu306ed31cbfee5ce69697549fbe3006df_201437_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="You can generate color palettes with the new AI page of ColorPicker Max"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>To use this feature, you will need an API Key from OpenAI. You can get one for free by signing up on their website. Once you have your API Key, you can enter it in the settings page of ColorPicker Max. Then, you can access the AI generation feature from the sidebar. You can choose to generate a single color or a palette of five colors.&lt;/p>
+&lt;p>We hope you enjoy this new feature and have fun creating amazing colors with AI. Please share your feedback and suggestions with us on social media. We are always looking for ways to improve ColorPicker Max and make it the best color picker app for you.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added translations&lt;/li>
+&lt;li>Added AI Generation page (#294)&lt;/li>
+&lt;li>Added the possibility to set an OpenAI API Key (#295)&lt;/li>
+&lt;li>Added details section (#296)&lt;/li>
+&lt;li>Added AI Color user interface (#296)&lt;/li>
+&lt;li>Added the possibility to generate a color from a prompt (#296)&lt;/li>
+&lt;li>Added messages when invalid info is provided (#296)&lt;/li>
+&lt;li>Added version in title bar&lt;/li>
+&lt;li>Added translations (#297)&lt;/li>
+&lt;li>Added the possibility to generate a palette of five colors from a prompt (#297)&lt;/li>
+&lt;li>Added details in palette section of AI page (#297)&lt;/li>
+&lt;li>Added the possibility to select the default model (#298)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed an issue on start in AI page&lt;/li>
+&lt;li>Improved settings UI (#298)&lt;/li>
+&lt;li>Fixed an issue with Model selection on start (#298)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated PeyrSharp.Env (#292)&lt;/li>
+&lt;li>Updated PeyrSharp.Core (#293)&lt;/li>
+&lt;li>Updated Synethia for the AI page (#294)&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DownloadColorPickerMax" target="_blank" rel="noopener"
+>Click here&lt;/a> to download ColorPicker Max.&lt;/p>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/colorpickermax" target="_blank" rel="noopener"
+>Learn More&lt;/a> about ColorPicker Max.&lt;/p></description></item><item><title>ColorPicker: Version 5.3.0.2307 is now available</title><link>https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/</link><pubDate>Sun, 09 Jul 2023 11:22:58 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/07/colorpicker-version-5.3.0.2307-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.3.0.2307 is now available" />&lt;p>A new version of ColorPicker Max is now available, and it is the version 5.3.0.2307.&lt;/p>
 &lt;h2 id="changelog">Changelog&lt;/h2>
 &lt;h3 id="new">New&lt;/h3>
 &lt;ul>
