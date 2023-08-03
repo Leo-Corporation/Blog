@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Aug 2023 11:04:50 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 5.4.0.2308 is now available</title><link>https://blog.leocorporation.dev/2023/08/colorpicker-version-5.4.0.2308-is-now-available/</link><pubDate>Thu, 03 Aug 2023 11:04:50 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/colorpicker-version-5.4.0.2308-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/colorpicker-version-5.4.0.2308-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.4.0.2308 is now available" />&lt;p>This version brings a new exciting feature to ColorPicker Max: AI Color Generation!&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Aug 2023 13:35:35 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>PermaTop: Version 1.1.0.2308 is now available</title><link>https://blog.leocorporation.dev/2023/08/permatop-version-1.1.0.2308-is-now-available/</link><pubDate>Thu, 03 Aug 2023 13:35:35 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/permatop-version-1.1.0.2308-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/permatop-version-1.1.0.2308-is-now-available/cover.png" alt="Featured image of post PermaTop: Version 1.1.0.2308 is now available" />&lt;p>A new version of PermaTop is available, and it brings several new features and improvements to the app.&lt;/p>
+&lt;h2 id="control-your-windows">Control your windows&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/08/permatop-version-1.1.0.2308-is-now-available/1.png"
+width="800"
+height="450"
+srcset="https://blog.leocorporation.dev/2023/08/permatop-version-1.1.0.2308-is-now-available/1_hud5c7da2b9ecd5d63ebf5795731206059_105355_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/08/permatop-version-1.1.0.2308-is-now-available/1_hud5c7da2b9ecd5d63ebf5795731206059_105355_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new controls of PermaTop"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>You can now maximize, minimize, restore, and close windows directly from PermaTop. Plus, you can now also set manually the position of a window. Finally, we added the icon of the window next to its name.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added the possibility to get the state of a window (#5)&lt;/li>
+&lt;li>Added the possibility close a window (#6)&lt;/li>
+&lt;li>Added the possibility to maximize a window (#7)&lt;/li>
+&lt;li>Added the possibility to restore a window (#8)&lt;/li>
+&lt;li>Added the possibility to minimize a window (#9)&lt;/li>
+&lt;li>Added the possibility to display the window icon (#10)&lt;/li>
+&lt;li>Added translations (#11)&lt;/li>
+&lt;li>Added the possibility to set the position of a window (#11)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed shadow not appearing&lt;/li>
+&lt;li>Fixed an issue with maximize icon&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated PeyrSharp.Env (#3)&lt;/li>
+&lt;li>Updated PeyrSharp.Core (#4)&lt;/li>
+&lt;/ul>
+&lt;h2 id="how-to-get-permatop-1102308">How to get PermaTop 1.1.0.2308?&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/PermaTop" target="_blank" rel="noopener"
+>Click here&lt;/a> to download PermaTop&lt;/p>
+&lt;p>If you are already using PermaTop, you should receive an automatic update notification when you launch the application. You can also check for updates manually by going to the settings and clicking on &amp;ldquo;Check for updates&amp;rdquo;. If you are new to PermaTop, you can &lt;a class="link" href="https://tinyurl.com/PermaTop" target="_blank" rel="noopener"
+>download&lt;/a> it for free from our &lt;a class="link" href="https://leocorporation.dev/store" target="_blank" rel="noopener"
+>website&lt;/a> or our &lt;a class="link" href="https://github.com/Leo-Corporation/PermaTop" target="_blank" rel="noopener"
+>GitHub&lt;/a> page.&lt;/p>
+&lt;p>We hope you enjoy using PermaTop 1.1.0.2308 and find it useful for your daily tasks and productivity. As always, we welcome your feedback and suggestions on how to make PermaTop better for you. Please feel free to contact us via email, &lt;a class="link" href="https://twitter.com/LeoCorpNews" target="_blank" rel="noopener"
+>X (Twitter)&lt;/a>, or GitHub.&lt;/p></description></item><item><title>ColorPicker: Version 5.4.0.2308 is now available</title><link>https://blog.leocorporation.dev/2023/08/colorpicker-version-5.4.0.2308-is-now-available/</link><pubDate>Thu, 03 Aug 2023 11:04:50 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/colorpicker-version-5.4.0.2308-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/colorpicker-version-5.4.0.2308-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.4.0.2308 is now available" />&lt;p>This version brings a new exciting feature to ColorPicker Max: AI Color Generation!&lt;/p>
 &lt;h2 id="introducing-ai-color-generation---powered-by-openai">Introducing AI Color Generation - powered by OpenAI&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2023/08/colorpicker-version-5.4.0.2308-is-now-available/1.png"
 width="950"
