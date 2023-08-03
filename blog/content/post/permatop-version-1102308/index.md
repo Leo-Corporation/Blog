@@ -1,17 +1,14 @@
 ---
-
 title: "PermaTop: Version 1.1.0.2308 is now available"
 description: This version brings new feature to control your windows.
 date: 2023-08-03T13:35:35+02:00
 image: cover.png
 categories:
-
-- PermaTop
-  tags:
-- Update
-- New Features
-- OpenSource
-
+  - PermaTop
+tags:
+  - Update
+  - New Features
+  - OpenSource
 ---
 
 A new version of PermaTop is available, and it brings several new features and improvements to the app.
