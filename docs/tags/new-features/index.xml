@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Features on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/new-features/</link><description>Recent content in New Features on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Aug 2023 13:35:35 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-features/index.xml" rel="self" type="application/rss+xml"/><item><title>PermaTop: Version 1.1.0.2308 is now available</title><link>https://blog.leocorporation.dev/2023/08/permatop-version-1.1.0.2308-is-now-available/</link><pubDate>Thu, 03 Aug 2023 13:35:35 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/permatop-version-1.1.0.2308-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/permatop-version-1.1.0.2308-is-now-available/cover.png" alt="Featured image of post PermaTop: Version 1.1.0.2308 is now available" />&lt;p>A new version of PermaTop is available, and it brings several new features and improvements to the app.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Features on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/new-features/</link><description>Recent content in New Features on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 11:34:02 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-features/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.1.0.2308 is now available</title><link>https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/</link><pubDate>Fri, 04 Aug 2023 11:34:02 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.1.0.2308 is now available" />&lt;p>A new version of Qrix is available, and it brings new customization options when generating a bar code.&lt;/p>
+&lt;h2 id="new-bar-code-options">New Bar Code Options&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/1.png"
+width="2502"
+height="1312"
+srcset="https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/1_hud9da88f1a5ad54711500d95be2ed129d_852872_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/1_hud9da88f1a5ad54711500d95be2ed129d_852872_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new options of bar code page"
+class="gallery-image"
+data-flex-grow="190"
+data-flex-basis="457px"
+>&lt;/p>
+&lt;p>With the latest update, Qrix offers more customization options for users who want to add text to their codes. Users can now set the text x axis alignment, the y axis alignment, the font size and the alternative text to display on the bar code. These features allow users to create more personalized and accessible codes that suit their needs and preferences.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added grid layout in Options section (#42)&lt;/li>
+&lt;li>Added locales (#42)&lt;/li>
+&lt;li>Added the possibility to set the text x alignment (#42)&lt;/li>
+&lt;li>Added the possibility to set the text y alignment (#43)&lt;/li>
+&lt;li>Added the possibility to set the font size (#44)&lt;/li>
+&lt;li>Added the possibility to set the alt text (#45)&lt;/li>
+&lt;li>Added the possibility to set default values for options (#46)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed key issue in locales&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Refactored code (#42)&lt;/li>
+&lt;li>Updated dependencies&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch-qrix">Launch Qrix&lt;/h2>
+&lt;p>&lt;a class="link" href="ttps://qrix.leocorporation.dev" >Click here&lt;/a> to launch Qrix in your browser.&lt;/p></description></item><item><title>PermaTop: Version 1.1.0.2308 is now available</title><link>https://blog.leocorporation.dev/2023/08/permatop-version-1.1.0.2308-is-now-available/</link><pubDate>Thu, 03 Aug 2023 13:35:35 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/permatop-version-1.1.0.2308-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/permatop-version-1.1.0.2308-is-now-available/cover.png" alt="Featured image of post PermaTop: Version 1.1.0.2308 is now available" />&lt;p>A new version of PermaTop is available, and it brings several new features and improvements to the app.&lt;/p>
 &lt;h2 id="control-your-windows">Control your windows&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2023/08/permatop-version-1.1.0.2308-is-now-available/1.png"
 width="800"
