@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 11:34:02 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.1.0.2308 is now available</title><link>https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/</link><pubDate>Fri, 04 Aug 2023 11:34:02 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.1.0.2308 is now available" />&lt;p>A new version of Qrix is available, and it brings new customization options when generating a bar code.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 07 Aug 2023 12:01:21 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 3.4.0.2308 is now available</title><link>https://blog.leocorporation.dev/2023/08/passliss-version-3.4.0.2308-is-now-available/</link><pubDate>Mon, 07 Aug 2023 12:01:21 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/passliss-version-3.4.0.2308-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/passliss-version-3.4.0.2308-is-now-available/cover.png" alt="Featured image of post Passliss: Version 3.4.0.2308 is now available" />&lt;p>A new version of Passliss is now available and brings new encryption and hashing features to existing ones.&lt;/p>
+&lt;h2 id="new-encryption-options">New encryption options&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/08/passliss-version-3.4.0.2308-is-now-available/1.png"
+width="1920"
+height="1020"
+srcset="https://blog.leocorporation.dev/2023/08/passliss-version-3.4.0.2308-is-now-available/1_hu82ba0d6ed60a8605d2fd86abfb7d491b_545635_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/08/passliss-version-3.4.0.2308-is-now-available/1_hu82ba0d6ed60a8605d2fd86abfb7d491b_545635_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new algorithm options of the Encryption page."
+class="gallery-image"
+data-flex-grow="188"
+data-flex-basis="451px"
+>&lt;/p>
+&lt;p>We are introducing some new features to enhance Passliss&amp;rsquo; encryption capabilities. Users can now choose from two new algorithm options for encryption: Rabbit and RC4Drop. These algorithms are fast, secure and easy to use. They complement the existing encryption options of AES and Triple-DES.&lt;/p>
+&lt;h2 id="new-hashing-section">New hashing section&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/08/passliss-version-3.4.0.2308-is-now-available/2.png"
+width="1920"
+height="1020"
+srcset="https://blog.leocorporation.dev/2023/08/passliss-version-3.4.0.2308-is-now-available/2_hu82ba0d6ed60a8605d2fd86abfb7d491b_552150_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/08/passliss-version-3.4.0.2308-is-now-available/2_hu82ba0d6ed60a8605d2fd86abfb7d491b_552150_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new hashing section of the encryption page."
+class="gallery-image"
+data-flex-grow="188"
+data-flex-basis="451px"
+>&lt;/p>
+&lt;p>In addition, we added a new hashing section in the encryption page of the app. Users can now apply one of the following hashing algorithms to text: MD5, SHA-1 or SHA-256. Hashing is a process that transforms text or a password into a fixed-length string of characters, making it harder to crack. Hashing also helps to verify the integrity of the password and prevent tampering.&lt;/p>
+&lt;p>These new features make Passliss a more versatile and powerful password generator app. Users can customize their passwords according to their preferences and security needs.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added Rabbit cypher for encryption (#486)&lt;/li>
+&lt;li>Added RC4Drop cypher for encryption (#487)&lt;/li>
+&lt;li>Added the possibility to set new cyphers as default option (#488)&lt;/li>
+&lt;li>Added locales (#489)&lt;/li>
+&lt;li>Added MD5 Hashing algorithm (#489)&lt;/li>
+&lt;li>Added SHA-1 Hashing algorithm (#490)&lt;/li>
+&lt;li>Added SHA-256 Hashing algorithm (#491)&lt;/li>
+&lt;li>Added the possibility to set the default hashing algorithm (#492)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch">Launch&lt;/h2>
+&lt;p>&lt;a class="link" href="https://passliss.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to launch Passliss in your web browser.&lt;/p></description></item><item><title>Qrix: Version 1.1.0.2308 is now available</title><link>https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/</link><pubDate>Fri, 04 Aug 2023 11:34:02 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.1.0.2308 is now available" />&lt;p>A new version of Qrix is available, and it brings new customization options when generating a bar code.&lt;/p>
 &lt;h2 id="new-bar-code-options">New Bar Code Options&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/1.png"
 width="2502"
