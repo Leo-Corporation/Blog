@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Features on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/new-features/</link><description>Recent content in New Features on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 07 Aug 2023 12:01:21 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-features/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 3.4.0.2308 is now available</title><link>https://blog.leocorporation.dev/2023/08/passliss-version-3.4.0.2308-is-now-available/</link><pubDate>Mon, 07 Aug 2023 12:01:21 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/passliss-version-3.4.0.2308-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/passliss-version-3.4.0.2308-is-now-available/cover.png" alt="Featured image of post Passliss: Version 3.4.0.2308 is now available" />&lt;p>A new version of Passliss is now available and brings new encryption and hashing features to existing ones.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Features on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/new-features/</link><description>Recent content in New Features on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 09 Aug 2023 15:05:21 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-features/index.xml" rel="self" type="application/rss+xml"/><item><title>Datalya: Version 1.8.0.2208 is now available</title><link>https://blog.leocorporation.dev/2023/08/datalya-version-1.8.0.2208-is-now-available/</link><pubDate>Wed, 09 Aug 2023 15:05:21 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/datalya-version-1.8.0.2208-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/datalya-version-1.8.0.2208-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.8.0.2208 is now available" />&lt;p>A new version of Datalya is now available, and it brings the new Number Input Block.&lt;/p>
+&lt;h2 id="number-block">Number Block&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/08/datalya-version-1.8.0.2208-is-now-available/1.png"
+width="1920"
+height="1020"
+srcset="https://blog.leocorporation.dev/2023/08/datalya-version-1.8.0.2208-is-now-available/1_hu71b6c27b1229aa3ff8fc04a5832b28bd_84048_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/08/datalya-version-1.8.0.2208-is-now-available/1_hu71b6c27b1229aa3ff8fc04a5832b28bd_84048_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The properties of the number block"
+class="gallery-image"
+data-flex-grow="188"
+data-flex-basis="451px"
+>&lt;/p>
+&lt;p>The new Number Input Block is similar to the Text Input Block, except it only allows relative integer numbers to be entered. The Block also has the ability to only accept numbers from a specific range, and you can customize the appearance of the Block: You can choose between a regular text field or a drop-down menu (if you selected a custom range).&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>The size of the window is now saved (#107)&lt;/li>
+&lt;li>Added a drop-down menu in Creator (#108)&lt;/li>
+&lt;li>Added translations (#110)&lt;/li>
+&lt;li>Added Number Block representation (#110)&lt;/li>
+&lt;li>Added Number Creator UI (#110)&lt;/li>
+&lt;li>Added Number Properties UI (#110)&lt;/li>
+&lt;li>Added Number Block UI (#110)&lt;/li>
+&lt;li>Added Number Block (#110)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed an issue when window is maximized (#106)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated PeyrSharp (#104)&lt;/li>
+&lt;li>Updated ClosedXML (#105)&lt;/li>
+&lt;li>Improved the details panel design (#109)&lt;/li>
+&lt;li>Updated Help (#110)&lt;/li>
+&lt;li>Improved margins&lt;/li>
+&lt;li>Updated Licenses&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DownloadDatalya" target="_blank" rel="noopener"
+>Click here&lt;/a> to download Datalya&lt;/p>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>&lt;a class="link" href="https://datalya.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to go to Datalya’s website.&lt;/p></description></item><item><title>Passliss: Version 3.4.0.2308 is now available</title><link>https://blog.leocorporation.dev/2023/08/passliss-version-3.4.0.2308-is-now-available/</link><pubDate>Mon, 07 Aug 2023 12:01:21 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/passliss-version-3.4.0.2308-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/passliss-version-3.4.0.2308-is-now-available/cover.png" alt="Featured image of post Passliss: Version 3.4.0.2308 is now available" />&lt;p>A new version of Passliss is now available and brings new encryption and hashing features to existing ones.&lt;/p>
 &lt;h2 id="new-encryption-options">New encryption options&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2023/08/passliss-version-3.4.0.2308-is-now-available/1.png"
 width="1920"
