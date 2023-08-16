@@ -1,4 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 09 Aug 2023 15:05:21 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>Datalya: Version 1.8.0.2208 is now available</title><link>https://blog.leocorporation.dev/2023/08/datalya-version-1.8.0.2208-is-now-available/</link><pubDate>Wed, 09 Aug 2023 15:05:21 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/datalya-version-1.8.0.2208-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/datalya-version-1.8.0.2208-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.8.0.2208 is now available" />&lt;p>A new version of Datalya is now available, and it brings the new Number Input Block.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 16 Aug 2023 15:00:30 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 7.7.0.2308 is now available</title><link>https://blog.leocorporation.dev/2023/08/internettest-version-7.7.0.2308-is-now-available/</link><pubDate>Wed, 16 Aug 2023 15:00:30 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/internettest-version-7.7.0.2308-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/internettest-version-7.7.0.2308-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 7.7.0.2308 is now available" />&lt;p>A new version of InternetTest Pro is available and it brings the new WiFi Networks page.&lt;/p>
+&lt;h2 id="the-new-wifi-networks-page">The new WiFi Networks page&lt;/h2>
+&lt;h3 id="what-is-it">What is it?&lt;/h3>
+&lt;p>We are excited to announce a new feature for our InternetTest Pro app: the WiFi networks page. This page allows you to see all the available WiFi networks nearby and get detailed information about each one. You can access this page from the main menu of the app.&lt;/p>
+&lt;h3 id="usage">Usage&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/08/internettest-version-7.7.0.2308-is-now-available/1.png"
+width="1189"
+height="750"
+srcset="https://blog.leocorporation.dev/2023/08/internettest-version-7.7.0.2308-is-now-available/1_hu67ee30a87c0100288e46699d0a2790f9_168802_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/08/internettest-version-7.7.0.2308-is-now-available/1_hu67ee30a87c0100288e46699d0a2790f9_168802_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new WiFi Networks page provides a detailed view of each available network"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>To get more information about a WiFi network, simply tap on it to expand it. You will see the following information:&lt;/p>
+&lt;ul>
+&lt;li>Signal strength: how strong the WiFi signal is in your location.&lt;/li>
+&lt;li>Interface name: the name of the wireless adapter on your device that is connected to the network.&lt;/li>
+&lt;li>SSID: the service set identifier, or the name of the network.&lt;/li>
+&lt;li>Frequency: the frequency band that the network operates on, in kHz.&lt;/li>
+&lt;li>Band: the channel width that the network uses, such as 2.4 GHz or 5 GHz.&lt;/li>
+&lt;li>Profile name: the name of the profile that you have saved for this network on your device.&lt;/li>
+&lt;li>And more!&lt;/li>
+&lt;/ul>
+&lt;h3 id="manage-your-connections">Manage your connections&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/08/internettest-version-7.7.0.2308-is-now-available/2.png"
+width="1189"
+height="750"
+srcset="https://blog.leocorporation.dev/2023/08/internettest-version-7.7.0.2308-is-now-available/2_hu56cdcb32a0df8154bca1a259ed08fdd7_177075_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/08/internettest-version-7.7.0.2308-is-now-available/2_hu56cdcb32a0df8154bca1a259ed08fdd7_177075_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="When connecting to a new network, you will be prompted to enter the WiFi Key"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>You can also connect to a WiFi network from this page by tapping on the Connect button.&lt;/p>
+&lt;p>To refresh the list of WiFi networks, you can use the Scan button at the top right corner of the page. This will scan for any new or updated networks in your area.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added translations (#461)&lt;/li>
+&lt;li>Added WiFi Networks page (#461)&lt;/li>
+&lt;li>Added NetworkInfo class (#462)&lt;/li>
+&lt;li>Added WiFi Network Item (#462)&lt;/li>
+&lt;li>Added the possibility to get all available networks (#462)&lt;/li>
+&lt;li>Added the possibility to get the quality of networks (#463)&lt;/li>
+&lt;li>Added translations (#464)&lt;/li>
+&lt;li>Added the possibility to get information of available networks (#464)&lt;/li>
+&lt;li>Added Band property (#464)&lt;/li>
+&lt;li>Added Frequency property (#464)&lt;/li>
+&lt;li>Added Refresh button (#464)&lt;/li>
+&lt;li>Added Copy button (#464)&lt;/li>
+&lt;li>Added the possibility to connect to a network (#465)&lt;/li>
+&lt;li>Added Synethia action code (#465)&lt;/li>
+&lt;li>Added placeholders (#461)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed an issue with the unit displayed&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated PeyrSharp.Env (#459)&lt;/li>
+&lt;li>Updated PeyrSharp.Core (#460)&lt;/li>
+&lt;/ul>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>InternetTest Pro now has a landing page so you can learn more about its feature. &lt;a class="link" href="https://leocorporation.dev/store/internettest" target="_blank" rel="noopener"
+>Click here&lt;/a> to access it.&lt;/p>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="tinyurl.com/DownloadITP7" >Click here&lt;/a> to download InternetTest.&lt;/p></description></item><item><title>Datalya: Version 1.8.0.2208 is now available</title><link>https://blog.leocorporation.dev/2023/08/datalya-version-1.8.0.2208-is-now-available/</link><pubDate>Wed, 09 Aug 2023 15:05:21 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/datalya-version-1.8.0.2208-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/datalya-version-1.8.0.2208-is-now-available/cover.png" alt="Featured image of post Datalya: Version 1.8.0.2208 is now available" />&lt;p>A new version of Datalya is now available, and it brings the new Number Input Block.&lt;/p>
 &lt;h2 id="number-block">Number Block&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2023/08/datalya-version-1.8.0.2208-is-now-available/1.png"
 width="1920"
