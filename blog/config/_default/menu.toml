@@ -29,7 +29,7 @@ icon = "brand-twitter"
 [[social]]
 identifier = "YouTube"
 name = "YouTube"
-url = "https://www.youtube.com/channel/UC283Dtf6EJ8eKfRoo0ISmqg"
+url = "https://www.youtube.com/@PeyronnetGroup"
 weight = 3
 
 [social.params]
