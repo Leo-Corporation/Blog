@@ -102,6 +102,6 @@ Watch the official trailer for Qrix on our YouTube channel
 {{< rawhtml >}}
 
   <center>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/0WgfrrMd_aU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/JYvrxzkLnS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </center>
 {{< /rawhtml >}}
