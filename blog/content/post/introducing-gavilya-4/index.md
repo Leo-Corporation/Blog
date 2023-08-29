@@ -1,6 +1,6 @@
 ---
 title: "Introducing Gavilya 4"
-description: We rewritten Gavilya from scratch.
+description: We rewrote Gavilya from scratch.
 date: 2023-08-29T14:19:15+02:00
 image: cover.png
 categories:
