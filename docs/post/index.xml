@@ -1,4 +1,86 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 29 Aug 2023 14:19:15 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing Gavilya 4</title><link>https://blog.leocorporation.dev/2023/08/introducing-gavilya-4/</link><pubDate>Tue, 29 Aug 2023 14:19:15 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/introducing-gavilya-4/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/introducing-gavilya-4/cover.png" alt="Featured image of post Introducing Gavilya 4" />&lt;p>Greetings, gaming enthusiasts! We&amp;rsquo;re thrilled to unveil a monumental evolution in the world of game launchers - the much-awaited Gavilya 4. This latest version marks a significant turning point, as it arrives with a complete rewrite of the original codebase, bringing forth a host of enhancements that promise to redefine your gaming experience. Developed by Léo Corporation, Gavilya has always been dedicated to simplifying your gaming routine, and this new iteration takes that commitment to unprecedented heights.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 03 Sep 2023 10:59:47 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 5.5.0.2309 is now available</title><link>https://blog.leocorporation.dev/2023/09/colorpicker-version-5.5.0.2309-is-now-available/</link><pubDate>Sun, 03 Sep 2023 10:59:47 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/09/colorpicker-version-5.5.0.2309-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/09/colorpicker-version-5.5.0.2309-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.5.0.2309 is now available" />&lt;p>A new version of ColorPicker Max is now available for everyone and it includes the possibility to convert any colors to the decimal format.&lt;/p>
+&lt;h2 id="the-new-decimal-color-type">The new decimal color type&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/09/colorpicker-version-5.5.0.2309-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2023/09/colorpicker-version-5.5.0.2309-is-now-available/1_huaf3cb4e4d738cd5d67d66140f622467e_203198_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/09/colorpicker-version-5.5.0.2309-is-now-available/1_huaf3cb4e4d738cd5d67d66140f622467e_203198_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The Converter page with the decimal color type selected"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>
+We are excited to announce the new feature of ColorPicker Max: The addition of the decimal color type. This feature allows users to work with colors in a more flexible and intuitive way. Users can now convert any color type such as RGB, HEX, HSL, etc to Decimal color type and vice-versa. They can also set the default color type to decimal as well.&lt;/p>
+&lt;p>What is the decimal color type? It is a way of representing colors using decimal numbers instead of hexadecimal or other formats. For example, the color white can be written as 16777215 in decimal, or FFFFFF in hexadecimal. The decimal color type has some advantages over other formats, such as:&lt;/p>
+&lt;ul>
+&lt;li>It is easier to read and write, especially for beginners.&lt;/li>
+&lt;li>It is compatible with most programming languages and frameworks.&lt;/li>
+&lt;li>It can represent more colors than some other formats, such as 8-bit RGB.&lt;/li>
+&lt;/ul>
+&lt;h3 id="how-to-use-the-decimal-color-type-in-colorpicker-max">How to use the decimal color type in ColorPicker Max?&lt;/h3>
+&lt;p>It is very simple. Just follow these steps:&lt;/p>
+&lt;ul>
+&lt;li>Click on the &amp;ldquo;Convert&amp;rdquo; button on the side bar.&lt;/li>
+&lt;li>Choose &amp;ldquo;DEC&amp;rdquo; from the list of available color types.&lt;/li>
+&lt;li>You will see the decimal value of your selected color in the text box below.&lt;/li>
+&lt;li>You can copy the decimal value to your clipboard or save it to your favorites.&lt;/li>
+&lt;li>You can also convert any decimal value to any other color type by entering it in the text box and choosing the desired format.&lt;/li>
+&lt;/ul>
+&lt;h3 id="how-to-set-the-default-color-type-to-decimal-in-colorpicker-max">How to set the default color type to decimal in ColorPicker Max?&lt;/h3>
+&lt;p>If you prefer to use the decimal color type as your default format, you can do so by following these steps:&lt;/p>
+&lt;ul>
+&lt;li>Open ColorPicker Max and go to the settings.&lt;/li>
+&lt;li>Tap on the &amp;ldquo;Color Options&amp;rdquo; section.&lt;/li>
+&lt;li>Choose &amp;ldquo;Decimal&amp;rdquo; from the list of available color types.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/09/colorpicker-version-5.5.0.2309-is-now-available/2.png"
+width="954"
+height="638"
+srcset="https://blog.leocorporation.dev/2023/09/colorpicker-version-5.5.0.2309-is-now-available/2_hue918a005283f64a11e1723179e050aa3_138853_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/09/colorpicker-version-5.5.0.2309-is-now-available/2_hue918a005283f64a11e1723179e050aa3_138853_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The decimal color type can be set as default and is displayed in a dropdown in the settings page"
+class="gallery-image"
+data-flex-grow="149"
+data-flex-basis="358px"
+>&lt;/p>
+&lt;p>We hope you enjoy this new feature and find it useful for your projects. Please let us know what you think and share your feedback with us.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added translations (#309)&lt;/li>
+&lt;li>Added placeholder in AI page (#309)&lt;/li>
+&lt;li>Added Decimal color representation (#310)&lt;/li>
+&lt;li>Added Decimal color type in AI Page (#311)&lt;/li>
+&lt;li>Added Decimal color type in Chromatic wheel page (#311)&lt;/li>
+&lt;li>Added Decimal color type in Converter page (#311)&lt;/li>
+&lt;li>Added Decimal color type in Gradient page (#311)&lt;/li>
+&lt;li>Added Decimal color type in Palette page (#311)&lt;/li>
+&lt;li>Added Decimal color type in Selector page (#311)&lt;/li>
+&lt;li>Added Decimal color type in Text tool (#311)&lt;/li>
+&lt;li>Added the possibility to convert from decimal type (#312)&lt;/li>
+&lt;li>Added the possibility to copy a color to decimal in history (#310)&lt;/li>
+&lt;li>Added the possibility to set the decimal type as default (#313)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed an issue when pasting text&lt;/li>
+&lt;li>Fixed an issue in Converter page&lt;/li>
+&lt;li>Fixed an issue when pasting a decimal color&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated PeyrSharp.Env (#307)&lt;/li>
+&lt;li>Updated PeyrSharp.Core (#308)&lt;/li>
+&lt;li>Updated tooltips (#311)&lt;/li>
+&lt;li>Default color type now applies to gradient page (#313)&lt;/li>
+&lt;li>Default color type is now used in Palette history&lt;/li>
+&lt;li>Default color type is used when copying a color in history&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DownloadColorPickerMax" target="_blank" rel="noopener"
+>Click here&lt;/a> to download ColorPicker Max.&lt;/p>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/colorpickermax" target="_blank" rel="noopener"
+>Learn More&lt;/a> about ColorPicker Max.&lt;/p></description></item><item><title>Introducing Gavilya 4</title><link>https://blog.leocorporation.dev/2023/08/introducing-gavilya-4/</link><pubDate>Tue, 29 Aug 2023 14:19:15 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/introducing-gavilya-4/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/introducing-gavilya-4/cover.png" alt="Featured image of post Introducing Gavilya 4" />&lt;p>Greetings, gaming enthusiasts! We&amp;rsquo;re thrilled to unveil a monumental evolution in the world of game launchers - the much-awaited Gavilya 4. This latest version marks a significant turning point, as it arrives with a complete rewrite of the original codebase, bringing forth a host of enhancements that promise to redefine your gaming experience. Developed by Léo Corporation, Gavilya has always been dedicated to simplifying your gaming routine, and this new iteration takes that commitment to unprecedented heights.&lt;/p>
 &lt;h2 id="a-new-era-unfolds-from-the-ground-up">A New Era Unfolds: From the Ground Up&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2023/08/introducing-gavilya-4/1.png"
 width="1185"
