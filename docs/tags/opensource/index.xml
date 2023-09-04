@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 03 Sep 2023 10:59:47 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 5.5.0.2309 is now available</title><link>https://blog.leocorporation.dev/2023/09/colorpicker-version-5.5.0.2309-is-now-available/</link><pubDate>Sun, 03 Sep 2023 10:59:47 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/09/colorpicker-version-5.5.0.2309-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/09/colorpicker-version-5.5.0.2309-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.5.0.2309 is now available" />&lt;p>A new version of ColorPicker Max is now available for everyone and it includes the possibility to convert any colors to the decimal format.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 04 Sep 2023 11:13:59 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>PermaTop: Version 1.2.0.2309 is now available</title><link>https://blog.leocorporation.dev/2023/09/permatop-version-1.2.0.2309-is-now-available/</link><pubDate>Mon, 04 Sep 2023 11:13:59 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/09/permatop-version-1.2.0.2309-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/09/permatop-version-1.2.0.2309-is-now-available/cover.png" alt="Featured image of post PermaTop: Version 1.2.0.2309 is now available" />&lt;p>A new version of PermaTop is now available and simplifies window management if you have multiple screens.&lt;/p>
+&lt;h2 id="improved-mutliple-screens-experience">Improved mutliple screens experience&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/09/permatop-version-1.2.0.2309-is-now-available/1.png"
+width="800"
+height="450"
+srcset="https://blog.leocorporation.dev/2023/09/permatop-version-1.2.0.2309-is-now-available/1_huc1475a457c090ac20ce6e639bbe4563a_96668_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/09/permatop-version-1.2.0.2309-is-now-available/1_huc1475a457c090ac20ce6e639bbe4563a_96668_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new dialog experience added to move windows"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>One of the most exciting features that we have introduced in the latest version of PermaTop is the new window control feature. This feature allows users who have multiple screens to easily move and center their window on the screen they selected. No more dragging and resizing your window manually to fit your screen!&lt;/p>
+&lt;p>To use this feature, simply click on the three dots icon on a window element and select &amp;ldquo;Move to screen&amp;rdquo;. You will see a list of all the screens that are connected to your computer. Choose the one you want and click &amp;ldquo;Move&amp;rdquo;. Your window will automatically move and center on that screen.&lt;/p>
+&lt;p>You can also see the current size of your window in pixels when you hover over any window element inside the app. This is useful if you want to adjust the size of your window precisely or if you want to compare the size of different windows. You can see the window size in the tooltip that appears when you hover over the element.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added translations (#19)&lt;/li>
+&lt;li>Added &amp;ldquo;More&amp;rdquo; menu (#20)&lt;/li>
+&lt;li>Added a popup to select the screen where to move the window (#21)&lt;/li>
+&lt;li>When moving a window, it stays centered (#21)&lt;/li>
+&lt;li>Added window size in tooltip (#22)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated PeyrSharp.Core (#17)&lt;/li>
+&lt;li>Updated PeyrSharp.Env (#18)&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/PermaTop" target="_blank" rel="noopener"
+>Click here&lt;/a> to download PermaTop.&lt;/p></description></item><item><title>ColorPicker: Version 5.5.0.2309 is now available</title><link>https://blog.leocorporation.dev/2023/09/colorpicker-version-5.5.0.2309-is-now-available/</link><pubDate>Sun, 03 Sep 2023 10:59:47 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/09/colorpicker-version-5.5.0.2309-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/09/colorpicker-version-5.5.0.2309-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.5.0.2309 is now available" />&lt;p>A new version of ColorPicker Max is now available for everyone and it includes the possibility to convert any colors to the decimal format.&lt;/p>
 &lt;h2 id="the-new-decimal-color-type">The new decimal color type&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2023/09/colorpicker-version-5.5.0.2309-is-now-available/1.png"
 width="950"
