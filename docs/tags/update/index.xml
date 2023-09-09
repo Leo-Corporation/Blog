@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 04 Sep 2023 11:13:59 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>PermaTop: Version 1.2.0.2309 is now available</title><link>https://blog.leocorporation.dev/2023/09/permatop-version-1.2.0.2309-is-now-available/</link><pubDate>Mon, 04 Sep 2023 11:13:59 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/09/permatop-version-1.2.0.2309-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/09/permatop-version-1.2.0.2309-is-now-available/cover.png" alt="Featured image of post PermaTop: Version 1.2.0.2309 is now available" />&lt;p>A new version of PermaTop is now available and simplifies window management if you have multiple screens.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Sep 2023 11:54:30 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 3.5.0.2309 is now available</title><link>https://blog.leocorporation.dev/2023/09/passliss-version-3.5.0.2309-is-now-available/</link><pubDate>Sat, 09 Sep 2023 11:54:30 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/09/passliss-version-3.5.0.2309-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/09/passliss-version-3.5.0.2309-is-now-available/cover.png" alt="Featured image of post Passliss: Version 3.5.0.2309 is now available" />&lt;p>A new version of Passliss is now available and brings hashing options alongside with some improvements.&lt;/p>
+&lt;h2 id="improvements-to-ai-generation">Improvements to AI Generation&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/09/passliss-version-3.5.0.2309-is-now-available/1.png"
+width="1607"
+height="957"
+srcset="https://blog.leocorporation.dev/2023/09/passliss-version-3.5.0.2309-is-now-available/1_huf8aaf36bf87d368f32bb394cd9e944b2_381758_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/09/passliss-version-3.5.0.2309-is-now-available/1_huf8aaf36bf87d368f32bb394cd9e944b2_381758_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new banner in the AI section of the Generate page"
+class="gallery-image"
+data-flex-grow="167"
+data-flex-basis="403px"
+>&lt;/p>
+&lt;h3 id="disclaimer-banner">Disclaimer banner&lt;/h3>
+&lt;p>One of the most notable changes in this version is the addition of a warning banner in AI generation. This banner will alert users to the fact that AI technology is still experimental and may produce errors. We want to ensure that our users are aware of this and use the AI-generated passwords with caution.&lt;/p>
+&lt;h3 id="new-strength-icon">New strength icon&lt;/h3>
+&lt;p>Another new feature is the addition of a strength icon in the AI-generated passwords. This icon will provide a visual indication of the strength of the password, making it easier for users to choose a strong and secure password.&lt;/p>
+&lt;h2 id="new-hashing-algorithm-options">New hashing algorithm options&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/09/passliss-version-3.5.0.2309-is-now-available/2.png"
+width="1603"
+height="951"
+srcset="https://blog.leocorporation.dev/2023/09/passliss-version-3.5.0.2309-is-now-available/2_hu799447ad959511585f75b155f16d9be9_414140_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/09/passliss-version-3.5.0.2309-is-now-available/2_hu799447ad959511585f75b155f16d9be9_414140_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new SHA-3 option selected in the Hashing section of the Encryption page"
+class="gallery-image"
+data-flex-grow="168"
+data-flex-basis="404px"
+>&lt;/p>
+&lt;p>In addition to these changes, we have also added two new hashing algorithms: SHA-512 and SHA-3. These algorithms are now available as options for the default algorithm, giving users more flexibility in choosing the hashing algorithm that best suits their needs.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added a warning banner in AI generation (#553)&lt;/li>
+&lt;li>Added a strength icon in the AI generated passwords (#554)&lt;/li>
+&lt;li>Added SHA-512 Hashing algorithm (#555)&lt;/li>
+&lt;li>Added SHA-512 as an option for default algorithm (#555)&lt;/li>
+&lt;li>Added SHA-3 Hashing algorithm (#556)&lt;/li>
+&lt;li>Added SHA-3 as an option for default algorithm (#555)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed wrong dialog message&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch">Launch&lt;/h2>
+&lt;p>&lt;a class="link" href="https://passliss.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to launch Passliss in your web browser.&lt;/p></description></item><item><title>PermaTop: Version 1.2.0.2309 is now available</title><link>https://blog.leocorporation.dev/2023/09/permatop-version-1.2.0.2309-is-now-available/</link><pubDate>Mon, 04 Sep 2023 11:13:59 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/09/permatop-version-1.2.0.2309-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/09/permatop-version-1.2.0.2309-is-now-available/cover.png" alt="Featured image of post PermaTop: Version 1.2.0.2309 is now available" />&lt;p>A new version of PermaTop is now available and simplifies window management if you have multiple screens.&lt;/p>
 &lt;h2 id="improved-mutliple-screens-experience">Improved mutliple screens experience&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2023/09/permatop-version-1.2.0.2309-is-now-available/1.png"
 width="800"
