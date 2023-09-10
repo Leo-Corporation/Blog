@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qrix on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/qrix/</link><description>Recent content in Qrix on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 11:34:02 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/qrix/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.1.0.2308 is now available</title><link>https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/</link><pubDate>Fri, 04 Aug 2023 11:34:02 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.1.0.2308 is now available" />&lt;p>A new version of Qrix is available, and it brings new customization options when generating a bar code.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qrix on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/qrix/</link><description>Recent content in Qrix on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 10 Sep 2023 10:39:30 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/qrix/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.2.0.2309 is now available</title><link>https://blog.leocorporation.dev/2023/09/qrix-version-1.2.0.2309-is-now-available/</link><pubDate>Sun, 10 Sep 2023 10:39:30 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/09/qrix-version-1.2.0.2309-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/09/qrix-version-1.2.0.2309-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.2.0.2309 is now available" />&lt;p>A new version of Qrix is available, and it brings new bar code types and small improvements.&lt;/p>
+&lt;h2 id="new-bar-code-types">New Bar Code types&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/09/qrix-version-1.2.0.2309-is-now-available/1.png"
+width="1520"
+height="789"
+srcset="https://blog.leocorporation.dev/2023/09/qrix-version-1.2.0.2309-is-now-available/1_hud259e6e6c50040f0f4bef88277ceb1e2_411145_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/09/qrix-version-1.2.0.2309-is-now-available/1_hud259e6e6c50040f0f4bef88277ceb1e2_411145_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The bar code page with the Code39 Extended bar code type selected"
+class="gallery-image"
+data-flex-grow="192"
+data-flex-basis="462px"
+>&lt;/p>
+&lt;p>One of the main highlights of this update is the addition of several new bar code types, such as UPC-E, ISSN, ISMN, Code93 Extended, Code39 Extended, Code25 and Code16K. These bar codes are widely used in various industries and applications, such as retail, publishing, inventory and logistics. You can now generate these bar codes with Qrix and customize their appearance and settings.&lt;/p>
+&lt;h2 id="other-improvements">Other improvements&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/09/qrix-version-1.2.0.2309-is-now-available/2.png"
+width="1520"
+height="788"
+srcset="https://blog.leocorporation.dev/2023/09/qrix-version-1.2.0.2309-is-now-available/2_hua9fb429d0a3b85c95ed15ae1ce6fe2ad_422735_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/09/qrix-version-1.2.0.2309-is-now-available/2_hua9fb429d0a3b85c95ed15ae1ce6fe2ad_422735_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new error section displayed in the bar code page when trying to input forbidden characters"
+class="gallery-image"
+data-flex-grow="192"
+data-flex-basis="462px"
+>&lt;/p>
+&lt;p>Another new feature is the error section in the bar code page. This section will show you any errors or warnings that may occur when generating a bar code, such as invalid input, unsupported characters or out-of-range values. This will help you troubleshoot and fix any issues with your bar code.&lt;/p>
+&lt;p>We have also improved the Settings UI on mobile devices, making it easier and more intuitive to adjust your preferences and options. You can now access the Settings menu from the bottom navigation bar and swipe through the different tabs.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added UPC-E (#89)&lt;/li>
+&lt;li>Added ISSN (#89)&lt;/li>
+&lt;li>Added ISMN (#89)&lt;/li>
+&lt;li>Added Code93 Extended (#89)&lt;/li>
+&lt;li>Added Code39 Extended (#89)&lt;/li>
+&lt;li>Added Code25 (#89)&lt;/li>
+&lt;li>Added Code16K (#89)&lt;/li>
+&lt;li>Added error section in bar code page (#90)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Improved Settings UI on mobile devices (#88)&lt;/li>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch-qrix">Launch Qrix&lt;/h2>
+&lt;p>&lt;a class="link" href="ttps://qrix.leocorporation.dev" >Click here&lt;/a> to launch Qrix in your browser.&lt;/p></description></item><item><title>Qrix: Version 1.1.0.2308 is now available</title><link>https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/</link><pubDate>Fri, 04 Aug 2023 11:34:02 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.1.0.2308 is now available" />&lt;p>A new version of Qrix is available, and it brings new customization options when generating a bar code.&lt;/p>
 &lt;h2 id="new-bar-code-options">New Bar Code Options&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2023/08/qrix-version-1.1.0.2308-is-now-available/1.png"
 width="2502"
