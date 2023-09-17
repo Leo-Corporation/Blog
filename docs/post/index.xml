@@ -1,4 +1,77 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 10 Sep 2023 10:39:30 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.2.0.2309 is now available</title><link>https://blog.leocorporation.dev/2023/09/qrix-version-1.2.0.2309-is-now-available/</link><pubDate>Sun, 10 Sep 2023 10:39:30 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/09/qrix-version-1.2.0.2309-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/09/qrix-version-1.2.0.2309-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.2.0.2309 is now available" />&lt;p>A new version of Qrix is available, and it brings new bar code types and small improvements.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Sep 2023 11:48:32 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 7.8.0.2309 is now available</title><link>https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/</link><pubDate>Sun, 17 Sep 2023 11:48:32 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 7.8.0.2309 is now available" />&lt;p>A new version of InternetTest Pro is now available and brings new features in the WiFi Network page, alongside with small improvements to the app.&lt;/p>
+&lt;h2 id="network-adapters-section">Network adapters section&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/1.png"
+width="950"
+height="595"
+srcset="https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/1_hu55e0bd90b6f524da9a4805a54aeb712a_156655_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/1_hu55e0bd90b6f524da9a4805a54aeb712a_156655_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Network adapters section in the &amp;ldquo;WiFi Networks&amp;rdquo; page"
+class="gallery-image"
+data-flex-grow="159"
+data-flex-basis="383px"
+>&lt;/p>
+&lt;p>One of the most notable additions is the Adapters section in the WiFi Networks page. This section allows you to see detailed information about your network adapters, such as name, type, status, speed, DNS configuration and IP address. You can also and refresh the adapter list and choose to show or hide disabled adapters from the list with a simple click.&lt;/p>
+&lt;p>Plus, we added a detailed window showing all the available information about a specific network adapter.&lt;/p>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/2.png"
+width="950"
+height="595"
+srcset="https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/2_hu861ea12d9160429f94be8423eca6b6c5_198702_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/2_hu861ea12d9160429f94be8423eca6b6c5_198702_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The detailed information of a network adapter displayed in the &amp;ldquo;Details&amp;rdquo; window"
+class="gallery-image"
+data-flex-grow="159"
+data-flex-basis="383px"
+>&lt;/p>
+&lt;h2 id="more-consistent-ui-and-other-improvements">More consistent UI and other improvements&lt;/h2>
+&lt;h3 id="new-spinner-ui">New Spinner UI&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/3.png"
+width="950"
+height="595"
+srcset="https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/3_hu4f19954c656595cd84d38f4458c5ad14_124404_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/3_hu4f19954c656595cd84d38f4458c5ad14_124404_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new spinner UI is displayed when making a speed test"
+class="gallery-image"
+data-flex-grow="159"
+data-flex-basis="383px"
+>&lt;/p>
+&lt;p>Another improvement is the spinner loading UI that we added to some of the pages that take longer to load, such as Traceroute, DownDetector and Status. This UI gives you a visual feedback that the app is working and not frozen.&lt;/p>
+&lt;h3 id="improvements">Improvements&lt;/h3>
+&lt;p>We also fixed some minor issues, such as the alignment problem in the history page, and updated some of our dependencies to ensure optimal performance and compatibility.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;p>You can find the detailed changelog below.&lt;/p>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added TabButton style (#480)&lt;/li>
+&lt;li>Added translations (#480)&lt;/li>
+&lt;li>Added Adapters section in WiFi Networks (#480)&lt;/li>
+&lt;li>Added translations (#480)&lt;/li>
+&lt;li>Added AdapterInfo class (#480)&lt;/li>
+&lt;li>Added AdapterItem (#480)&lt;/li>
+&lt;li>Added a list of adapters in Networks page (#480)&lt;/li>
+&lt;li>Added formatted string method (#481)&lt;/li>
+&lt;li>Added details popup (#481)&lt;/li>
+&lt;li>Added Advanced button (#481)&lt;/li>
+&lt;li>Added Refresh button (#481)&lt;/li>
+&lt;li>Added the possibility to show/hide disabled adapters (#482)&lt;/li>
+&lt;li>Added spinner loading UI in Traceroute (#483)&lt;/li>
+&lt;li>Added spinner loading UI in DownDetector (#483)&lt;/li>
+&lt;li>Added spinner loading UI in Status (#483)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed alignment issue in history page (#484)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated PeyrSharp.Env (#478)&lt;/li>
+&lt;li>Updated PeyrSharp.Core (#479)&lt;/li>
+&lt;li>Improved the way info is displayed (#481)&lt;/li>
+&lt;/ul>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>InternetTest Pro now has a landing page so you can learn more about its feature. &lt;a class="link" href="https://leocorporation.dev/store/internettest" target="_blank" rel="noopener"
+>Click here&lt;/a> to access it.&lt;/p>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="tinyurl.com/DownloadITP7" >Click here&lt;/a> to download InternetTest.&lt;/p></description></item><item><title>Qrix: Version 1.2.0.2309 is now available</title><link>https://blog.leocorporation.dev/2023/09/qrix-version-1.2.0.2309-is-now-available/</link><pubDate>Sun, 10 Sep 2023 10:39:30 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/09/qrix-version-1.2.0.2309-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/09/qrix-version-1.2.0.2309-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.2.0.2309 is now available" />&lt;p>A new version of Qrix is available, and it brings new bar code types and small improvements.&lt;/p>
 &lt;h2 id="new-bar-code-types">New Bar Code types&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2023/09/qrix-version-1.2.0.2309-is-now-available/1.png"
 width="1520"
