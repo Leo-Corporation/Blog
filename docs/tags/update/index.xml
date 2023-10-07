@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Sep 2023 11:48:32 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 7.8.0.2309 is now available</title><link>https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/</link><pubDate>Sun, 17 Sep 2023 11:48:32 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 7.8.0.2309 is now available" />&lt;p>A new version of InternetTest Pro is now available and brings new features in the WiFi Network page, alongside with small improvements to the app.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 07 Oct 2023 14:08:48 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 3.6.0.2310 is now available</title><link>https://blog.leocorporation.dev/2023/10/passliss-version-3.6.0.2310-is-now-available/</link><pubDate>Sat, 07 Oct 2023 14:08:48 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/10/passliss-version-3.6.0.2310-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/10/passliss-version-3.6.0.2310-is-now-available/cover.png" alt="Featured image of post Passliss: Version 3.6.0.2310 is now available" />&lt;p>A new version of Passliss is now available and brings new features in the history page, as well as a new details section when &amp;ldquo;Advanced&amp;rdquo; mode is toggled in the Generate page.&lt;/p>
+&lt;h2 id="new-history-features">New history features&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/10/passliss-version-3.6.0.2310-is-now-available/2.png"
+width="1771"
+height="920"
+srcset="https://blog.leocorporation.dev/2023/10/passliss-version-3.6.0.2310-is-now-available/2_hu4458242522517162e4f895a727c4dcd5_478413_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/10/passliss-version-3.6.0.2310-is-now-available/2_hu4458242522517162e4f895a727c4dcd5_478413_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new tooltip shows information about the strength of the password"
+class="gallery-image"
+data-flex-grow="192"
+data-flex-basis="462px"
+>&lt;/p>
+&lt;p>One of the new feature is the tooltips on the history page. The history page shows you a list of passwords that you have generated using Passliss. Now, when you hover over a password, you can see a tooltip that shows you some information about its strength. You can now know which criteria were used to evaluated the strength of a password. Plus, it is now possible to delete a specific item from history by clicking on the new &amp;ldquo;Delete&amp;rdquo; button, next to the &amp;ldquo;Copy&amp;rdquo; button.&lt;/p>
+&lt;h2 id="details-section-in-generate-page">Details section in Generate page&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/10/passliss-version-3.6.0.2310-is-now-available/1.png"
+width="1768"
+height="915"
+srcset="https://blog.leocorporation.dev/2023/10/passliss-version-3.6.0.2310-is-now-available/1_hu771c046521909cce765613b160abead7_435468_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/10/passliss-version-3.6.0.2310-is-now-available/1_hu771c046521909cce765613b160abead7_435468_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new details section displays information about the generated password"
+class="gallery-image"
+data-flex-grow="193"
+data-flex-basis="463px"
+>&lt;/p>
+&lt;p>Another new features is the details section in the advanced mode of the generate page. In this section, you can see a detailed breakdown of how your password is composed, such as the number of characters, symbols, digits, and uppercase and lowercase letters. This feature can help you understand how your password choices affect its security and memorability.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added locales (#622)&lt;/li>
+&lt;li>Add the possibility to remove a password from history (#622)&lt;/li>
+&lt;li>Added tooltips in history (#623)&lt;/li>
+&lt;li>Added details section (#624)&lt;/li>
+&lt;li>Added new prompts for AI password generation (#625)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed middleware&lt;/li>
+&lt;li>Fixed other classname issues&lt;/li>
+&lt;li>Fixed config errors&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Improved design on mobile (#624)&lt;/li>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch">Launch&lt;/h2>
+&lt;p>&lt;a class="link" href="https://passliss.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to launch Passliss in your web browser.&lt;/p>
+&lt;h2 id="learn-more">Learn more&lt;/h2>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/passliss" target="_blank" rel="noopener"
+>Click here&lt;/a> to learn more about Passliss&lt;/p></description></item><item><title>InternetTest: Version 7.8.0.2309 is now available</title><link>https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/</link><pubDate>Sun, 17 Sep 2023 11:48:32 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 7.8.0.2309 is now available" />&lt;p>A new version of InternetTest Pro is now available and brings new features in the WiFi Network page, alongside with small improvements to the app.&lt;/p>
 &lt;h2 id="network-adapters-section">Network adapters section&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2023/09/internettest-version-7.8.0.2309-is-now-available/1.png"
 width="950"
