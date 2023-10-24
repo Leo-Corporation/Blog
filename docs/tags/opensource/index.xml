@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 22 Oct 2023 11:37:55 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 5.6.0.2310 is now available</title><link>https://blog.leocorporation.dev/2023/10/colorpicker-version-5.6.0.2310-is-now-available/</link><pubDate>Sun, 22 Oct 2023 11:37:55 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/10/colorpicker-version-5.6.0.2310-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/10/colorpicker-version-5.6.0.2310-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.6.0.2310 is now available" />&lt;p>A new version of ColorPicker Max is now available for everyone and it brings several improvements to the app, making it more polished.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 13:21:27 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 4.1.0.2310 is now available</title><link>https://blog.leocorporation.dev/2023/10/gavilya-version-4.1.0.2310-is-now-available/</link><pubDate>Tue, 24 Oct 2023 13:21:27 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/10/gavilya-version-4.1.0.2310-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/10/gavilya-version-4.1.0.2310-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.1.0.2310 is now available" />&lt;p>A new version of Gavilya is now available, and it is the version 4.1.0.2310. This version brings mainly bug fixes but also several improvements to the app. For instance, some features of v3 who weren&amp;rsquo;t reimplemented in v4 were added back. Check out the full changelog bellow for details:&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added &amp;ldquo;Favorite&amp;rdquo; section in &amp;ldquo;List&amp;rdquo; mode (#417)&lt;/li>
+&lt;li>Added Update status message in About (#418)&lt;/li>
+&lt;li>The Execute as Admin button is only available for Win32 Games (#419)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed visible hidden games issue (#411)&lt;/li>
+&lt;li>Fixed no scroll bars on the achievement section (#412)&lt;/li>
+&lt;li>Fixed Apply button text in edition mode (#413)&lt;/li>
+&lt;li>Fixed empty sections in Recent Games (#414)&lt;/li>
+&lt;li>Fixed &amp;ldquo;Launch as Admin&amp;rdquo; button doesn&amp;rsquo;t work (#415)&lt;/li>
+&lt;li>Fixed wrong shortcut displayed for the FPS counter (#416)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated PeyrSharp.Env (#408)&lt;/li>
+&lt;li>Updated PeyrSharp.Core (#409)&lt;/li>
+&lt;li>The &amp;ldquo;Favorite&amp;rdquo; section now updates when adding games to favorites (#417)&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://bit.ly/Gavilya" target="_blank" rel="noopener"
+>Click here&lt;/a> to download Gavilya.&lt;/p>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>&lt;a class="link" href="https://gavilya.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to go the website of Gavilya.&lt;/p></description></item><item><title>ColorPicker: Version 5.6.0.2310 is now available</title><link>https://blog.leocorporation.dev/2023/10/colorpicker-version-5.6.0.2310-is-now-available/</link><pubDate>Sun, 22 Oct 2023 11:37:55 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/10/colorpicker-version-5.6.0.2310-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/10/colorpicker-version-5.6.0.2310-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.6.0.2310 is now available" />&lt;p>A new version of ColorPicker Max is now available for everyone and it brings several improvements to the app, making it more polished.&lt;/p>
 &lt;h2 id="ai-page-enhancements">AI Page Enhancements&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2023/10/colorpicker-version-5.6.0.2310-is-now-available/1.png"
 width="950"
