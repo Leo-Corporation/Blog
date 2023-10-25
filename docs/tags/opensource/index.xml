@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 13:21:27 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 4.1.0.2310 is now available</title><link>https://blog.leocorporation.dev/2023/10/gavilya-version-4.1.0.2310-is-now-available/</link><pubDate>Tue, 24 Oct 2023 13:21:27 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/10/gavilya-version-4.1.0.2310-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/10/gavilya-version-4.1.0.2310-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.1.0.2310 is now available" />&lt;p>A new version of Gavilya is now available, and it is the version 4.1.0.2310. This version brings mainly bug fixes but also several improvements to the app. For instance, some features of v3 who weren&amp;rsquo;t reimplemented in v4 were added back. Check out the full changelog bellow for details:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 25 Oct 2023 10:26:39 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.3.0.2310 is now available</title><link>https://blog.leocorporation.dev/2023/10/qrix-version-1.3.0.2310-is-now-available/</link><pubDate>Wed, 25 Oct 2023 10:26:39 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/10/qrix-version-1.3.0.2310-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/10/qrix-version-1.3.0.2310-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.3.0.2310 is now available" />&lt;p>A new version of Qrix is now available, and this version brings some new features when generating QR Codes.&lt;/p>
+&lt;h2 id="new-text-options-for-qr-codes">New text options for QR Codes&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/10/qrix-version-1.3.0.2310-is-now-available/1.png"
+width="1511"
+height="809"
+srcset="https://blog.leocorporation.dev/2023/10/qrix-version-1.3.0.2310-is-now-available/1_hu6a2a4c98e207a5019cf0f1c4ea4682ac_419308_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/10/qrix-version-1.3.0.2310-is-now-available/1_hu6a2a4c98e207a5019cf0f1c4ea4682ac_419308_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new text options in the QR Code page"
+class="gallery-image"
+data-flex-grow="186"
+data-flex-basis="448px"
+>&lt;/p>
+&lt;p>One of the most exciting features of the latest version of Qrix is the ability to customize the text options for QR code generation. You can now adjust the text alignment (x and y axis), font size, alternative text, and toggle on and off text on the generated QR code. These options give you more control over how your QR code looks and functions. For example, you can use alternative text to provide a description of the QR code content, or you can change the font size to make the text more readable. You can also set default values for these options in the settings, so you don&amp;rsquo;t have to change them every time you generate a new QR code. Qrix makes it easy and fun to create QR codes with text that suit your needs and preferences.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added switch component (#163)&lt;/li>
+&lt;li>Added label component (#163)&lt;/li>
+&lt;li>Added locales (#163)&lt;/li>
+&lt;li>Added the possibility to display text in QR Code page (#163)&lt;/li>
+&lt;li>Added the possibility to customize the text for QR Code (#164)&lt;/li>
+&lt;li>Added the possibility to set default values for text (#165)&lt;/li>
+&lt;li>Added the possibility to show text by default (#165)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed classname errors&lt;/li>
+&lt;li>Fixed vulnerability&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch-qrix">Launch Qrix&lt;/h2>
+&lt;p>&lt;a class="link" href="ttps://qrix.leocorporation.dev" >Click here&lt;/a> to launch Qrix in your browser.&lt;/p></description></item><item><title>Gavilya: Version 4.1.0.2310 is now available</title><link>https://blog.leocorporation.dev/2023/10/gavilya-version-4.1.0.2310-is-now-available/</link><pubDate>Tue, 24 Oct 2023 13:21:27 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/10/gavilya-version-4.1.0.2310-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/10/gavilya-version-4.1.0.2310-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.1.0.2310 is now available" />&lt;p>A new version of Gavilya is now available, and it is the version 4.1.0.2310. This version brings mainly bug fixes but also several improvements to the app. For instance, some features of v3 who weren&amp;rsquo;t reimplemented in v4 were added back. Check out the full changelog bellow for details:&lt;/p>
 &lt;h2 id="changelog">Changelog&lt;/h2>
 &lt;h3 id="new">New&lt;/h3>
 &lt;ul>
