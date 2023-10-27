@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 25 Oct 2023 10:26:39 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.3.0.2310 is now available</title><link>https://blog.leocorporation.dev/2023/10/qrix-version-1.3.0.2310-is-now-available/</link><pubDate>Wed, 25 Oct 2023 10:26:39 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/10/qrix-version-1.3.0.2310-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/10/qrix-version-1.3.0.2310-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.3.0.2310 is now available" />&lt;p>A new version of Qrix is now available, and this version brings some new features when generating QR Codes.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 10:32:38 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 7.9.0.2310 is now available</title><link>https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/</link><pubDate>Fri, 27 Oct 2023 10:32:38 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 7.9.0.2310 is now available" />&lt;p>A new version of InternetTest Pro is available and it brings several new features to the app.&lt;/p>
+&lt;h2 id="sort-dns-records">Sort DNS Records&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/1_hu5b19b1ffcf1b0724dacbfbadaca79cfd_133716_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/1_hu5b19b1ffcf1b0724dacbfbadaca79cfd_133716_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new sorting options in the DNS page"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>The DNS page in InternetTest Pro has received a significant upgrade in version 7.9.0.2310. With this update, we&amp;rsquo;ve introduced a new feature that allows users to manage DNS records more efficiently by type. Now, you can easily filter and view DNS records based on their types, making it simpler to monitor and maintain your DNS configuration.&lt;/p>
+&lt;h2 id="search-available-nearby-networks">Search available nearby networks&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/2.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/2_hu63da99053ee0240ecb258f8602796934_130004_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/2_hu63da99053ee0240ecb258f8602796934_130004_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new search box added in the WiFi networks page"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>The WiFi Networks page has now a search box, so you can search nearby available networks more easily. This feature simplifies the process of finding and connecting to nearby WiFi networks, whether you&amp;rsquo;re at home, in the office, or on the go. It enhances your network selection process by providing a convenient and user-friendly interface to search for available networks, displaying essential information such as signal strength, security, and network names. With this enhancement, you&amp;rsquo;ll experience a more streamlined and efficient network management experience.&lt;/p>
+&lt;h2 id="improvements-to-network-adapters-section">Improvements to Network Adapters section&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/3.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/3_hu93282bd4ffbaa6489cf3ec6bfb7f13d1_193158_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/3_hu93282bd4ffbaa6489cf3ec6bfb7f13d1_193158_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The Network Adapter details window opened, with the new Copy button"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>We added a &amp;ldquo;Copy Details&amp;rdquo; feature, allowing users to easily duplicate the details of a network adapter. This can be immensely helpful when configuring multiple adapters or sharing adapter information with colleagues or technical support. In addition to this enhancement, we&amp;rsquo;ve dedicated time to addressing several issues related to this feature.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added translations (#496)&lt;/li>
+&lt;li>Added the possibility to disable IP location on start (#496)&lt;/li>
+&lt;li>Added Filter Button style (#497)&lt;/li>
+&lt;li>Added the possibility to filter DNS records (#497)&lt;/li>
+&lt;li>Record filters are now sorted (#497)&lt;/li>
+&lt;li>Added translations (#498)&lt;/li>
+&lt;li>Added the possibility to copy details of a network adapter (#498)&lt;/li>
+&lt;li>Added search box in WiFi Networks page (#499)&lt;/li>
+&lt;li>Added the possibility to search WiFi networks (#499)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed wrong adapter icon (#495)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated PeyrSharp.Core (#493)&lt;/li>
+&lt;li>Updated PeyrSharp.Env (#494)&lt;/li>
+&lt;/ul>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>InternetTest Pro now has a landing page so you can learn more about its feature. &lt;a class="link" href="https://leocorporation.dev/store/internettest" target="_blank" rel="noopener"
+>Click here&lt;/a> to access it.&lt;/p>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="tinyurl.com/DownloadITP7" >Click here&lt;/a> to download InternetTest.&lt;/p></description></item><item><title>Qrix: Version 1.3.0.2310 is now available</title><link>https://blog.leocorporation.dev/2023/10/qrix-version-1.3.0.2310-is-now-available/</link><pubDate>Wed, 25 Oct 2023 10:26:39 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/10/qrix-version-1.3.0.2310-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/10/qrix-version-1.3.0.2310-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.3.0.2310 is now available" />&lt;p>A new version of Qrix is now available, and this version brings some new features when generating QR Codes.&lt;/p>
 &lt;h2 id="new-text-options-for-qr-codes">New text options for QR Codes&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2023/10/qrix-version-1.3.0.2310-is-now-available/1.png"
 width="1511"
