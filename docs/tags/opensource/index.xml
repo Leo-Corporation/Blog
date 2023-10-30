@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 10:32:38 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 7.9.0.2310 is now available</title><link>https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/</link><pubDate>Fri, 27 Oct 2023 10:32:38 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 7.9.0.2310 is now available" />&lt;p>A new version of InternetTest Pro is available and it brings several new features to the app.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 Oct 2023 15:15:59 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>PermaTop: Version 1.3.0.2311 is now available</title><link>https://blog.leocorporation.dev/2023/10/permatop-version-1.3.0.2311-is-now-available/</link><pubDate>Mon, 30 Oct 2023 15:15:59 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/10/permatop-version-1.3.0.2311-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/10/permatop-version-1.3.0.2311-is-now-available/cover.png" alt="Featured image of post PermaTop: Version 1.3.0.2311 is now available" />&lt;p>A new version of PermaTop is now available and brings a new system tray menu.&lt;/p>
+&lt;h2 id="new-system-tray-menu">New System tray menu&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/10/permatop-version-1.3.0.2311-is-now-available/1.png"
+width="617"
+height="444"
+srcset="https://blog.leocorporation.dev/2023/10/permatop-version-1.3.0.2311-is-now-available/1_hucf4ade386cf1a9f4afdb60fd57b32db3_115437_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/10/permatop-version-1.3.0.2311-is-now-available/1_hucf4ade386cf1a9f4afdb60fd57b32db3_115437_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new system tray menu"
+class="gallery-image"
+data-flex-grow="138"
+data-flex-basis="333px"
+>&lt;/p>
+&lt;p>The new system tray menu is a new way to use PermaTop: You can now control opened windows with ease without having to open the PermaTop window. By adding this icon to your system tray, you will be able to maximize, minimize, close and pin any window that is opened on your PC. We also added several other options, such as the possibility to hide the PermaTop window, or the possibility to close the app directly from the menu.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added assets (#29)&lt;/li>
+&lt;li>Added context menu styles (#29)&lt;/li>
+&lt;li>Added translations (#29)&lt;/li>
+&lt;li>Added taskbar icon (#29)&lt;/li>
+&lt;li>Added taskbar icon actions (#29)&lt;/li>
+&lt;li>Added the possibility to control windows from taskbar icon (#30)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed export settings button is not readable (#28)&lt;/li>
+&lt;li>Fixed menu style (#30)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated PeyrSharp.Core (#26)&lt;/li>
+&lt;li>Updated PeyrSharp.Env (#27)&lt;/li>
+&lt;li>Moved methods to Global class (#30)&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/PermaTop" target="_blank" rel="noopener"
+>Click here&lt;/a> to download PermaTop.&lt;/p></description></item><item><title>InternetTest: Version 7.9.0.2310 is now available</title><link>https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/</link><pubDate>Fri, 27 Oct 2023 10:32:38 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 7.9.0.2310 is now available" />&lt;p>A new version of InternetTest Pro is available and it brings several new features to the app.&lt;/p>
 &lt;h2 id="sort-dns-records">Sort DNS Records&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2023/10/internettest-version-7.9.0.2310-is-now-available/1.png"
 width="950"
