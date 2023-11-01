@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 Oct 2023 15:15:59 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>PermaTop: Version 1.3.0.2311 is now available</title><link>https://blog.leocorporation.dev/2023/10/permatop-version-1.3.0.2311-is-now-available/</link><pubDate>Mon, 30 Oct 2023 15:15:59 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/10/permatop-version-1.3.0.2311-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/10/permatop-version-1.3.0.2311-is-now-available/cover.png" alt="Featured image of post PermaTop: Version 1.3.0.2311 is now available" />&lt;p>A new version of PermaTop is now available and brings a new system tray menu.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 11:37:32 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 5.7.0.2311 is now available</title><link>https://blog.leocorporation.dev/2023/11/colorpicker-version-5.7.0.2311-is-now-available/</link><pubDate>Wed, 01 Nov 2023 11:37:32 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/11/colorpicker-version-5.7.0.2311-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/11/colorpicker-version-5.7.0.2311-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.7.0.2311 is now available" />&lt;p>A new version of ColorPicker Max is now available and it brings a new feature: Color Harmonies.&lt;/p>
+&lt;h2 id="color-harmonies---a-new-way-to-generate-colors">Color Harmonies - a new way to generate colors&lt;/h2>
+&lt;p>In the ever-evolving world of design and creativity, staying ahead of the curve is essential. With the latest update to ColorPicker Max, we are thrilled to introduce a groundbreaking feature that will revolutionize the way you generate colors: Color Harmonies. This new addition is set to redefine your color selection process and open up a world of possibilities for your designs. Let&amp;rsquo;s dive in and explore the exciting features and benefits of Color Harmonies in ColorPicker Max.&lt;/p>
+&lt;h3 id="exploring-the-world-of-color-harmonies">Exploring the World of Color Harmonies&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/11/colorpicker-version-5.7.0.2311-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2023/11/colorpicker-version-5.7.0.2311-is-now-available/1_hu4dd1c4bb93055a9884dda1e88c0e85e4_198840_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/11/colorpicker-version-5.7.0.2311-is-now-available/1_hu4dd1c4bb93055a9884dda1e88c0e85e4_198840_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Harmonies page of ColorPicker Max"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>Let&amp;rsquo;s delve into the heart of this exciting update. Color Harmonies are color combinations that are visually appealing and pleasing to the eye. They&amp;rsquo;re based on specific relationships between colors on the color wheel. With ColorPicker Max, you can effortlessly generate these harmonious color schemes. Here&amp;rsquo;s a glimpse of the new possibilities:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Complementary Colors&lt;/strong>: Need a color that will make your design pop? Find the perfect complementary color that creates a strong contrast.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Split Complementary Colors&lt;/strong>: For a more subtle contrast, split complementary colors offer a harmonious blend that adds depth and interest to your design.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Triadic Colors&lt;/strong>: Explore triadic color schemes that bring vibrancy and balance to your projects.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Analogous Colors&lt;/strong>: Discover color combinations that are neighbors on the color wheel, creating a cohesive and visually pleasing look.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Monochromatic Colors&lt;/strong>: Simplify your color palette with harmonious monochromatic schemes that exude elegance and simplicity.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Set Harmonies Page as Default&lt;/strong>: If you find yourself frequently using color harmonies, you can now set the Harmonies page as your default, saving you time and effort.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="elevate-your-design-game">Elevate Your Design Game&lt;/h3>
+&lt;p>ColorPicker Max&amp;rsquo;s new Color Harmonies feature is a game-changer for designers and creatives. Whether you&amp;rsquo;re designing a website, a logo, or any creative project, this update provides you with a wide array of color options that will take your designs to the next level.&lt;/p>
+&lt;p>Say goodbye to the days of endlessly searching for the right color combinations. With Color Harmonies, you can effortlessly create harmonious color palettes that will captivate your audience and bring your creative visions to life.&lt;/p>
+&lt;p>So, why wait? Update to ColorPicker Max today and unlock the world of Color Harmonies. Your designs will thank you!&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added translations (#332)&lt;/li>
+&lt;li>Added new Harmonies page (#332)&lt;/li>
+&lt;li>Added the possibility to navigate to Harmonies page (#332)&lt;/li>
+&lt;li>Added Color selection section (#332)&lt;/li>
+&lt;li>Added the possibility to get complementary color (#333)&lt;/li>
+&lt;li>Added the possibility to get split complementary color (#334)&lt;/li>
+&lt;li>Added the possibility to get triadic colors (#335)&lt;/li>
+&lt;li>Added translations (#336)&lt;/li>
+&lt;li>Added the possibility to get analogous colors (#336)&lt;/li>
+&lt;li>Added the possibility to get monochromatic colors (#338)&lt;/li>
+&lt;li>Added the possibility to set Harmonies page as default page (#339)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed an issue with Split complementary colors (#334)&lt;/li>
+&lt;li>Fixed an issue with Synethia&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DownloadColorPickerMax" target="_blank" rel="noopener"
+>Click here&lt;/a> to download ColorPicker Max.&lt;/p>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/colorpickermax" target="_blank" rel="noopener"
+>Learn More&lt;/a> about ColorPicker Max.&lt;/p></description></item><item><title>PermaTop: Version 1.3.0.2311 is now available</title><link>https://blog.leocorporation.dev/2023/10/permatop-version-1.3.0.2311-is-now-available/</link><pubDate>Mon, 30 Oct 2023 15:15:59 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/10/permatop-version-1.3.0.2311-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/10/permatop-version-1.3.0.2311-is-now-available/cover.png" alt="Featured image of post PermaTop: Version 1.3.0.2311 is now available" />&lt;p>A new version of PermaTop is now available and brings a new system tray menu.&lt;/p>
 &lt;h2 id="new-system-tray-menu">New System tray menu&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2023/10/permatop-version-1.3.0.2311-is-now-available/1.png"
 width="617"
