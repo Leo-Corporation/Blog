@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 11:37:32 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 5.7.0.2311 is now available</title><link>https://blog.leocorporation.dev/2023/11/colorpicker-version-5.7.0.2311-is-now-available/</link><pubDate>Wed, 01 Nov 2023 11:37:32 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/11/colorpicker-version-5.7.0.2311-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/11/colorpicker-version-5.7.0.2311-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.7.0.2311 is now available" />&lt;p>A new version of ColorPicker Max is now available and it brings a new feature: Color Harmonies.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 02 Nov 2023 12:39:29 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 3.7.0.2311 is now available</title><link>https://blog.leocorporation.dev/2023/11/passliss-version-3.7.0.2311-is-now-available/</link><pubDate>Thu, 02 Nov 2023 12:39:29 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/11/passliss-version-3.7.0.2311-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/11/passliss-version-3.7.0.2311-is-now-available/cover.png" alt="Featured image of post Passliss: Version 3.7.0.2311 is now available" />&lt;p>A new version of Passliss is available, and it brings a new suggestions panel in the Strength page, but also several improvements on the code base.&lt;/p>
+&lt;h2 id="suggestion-panel">Suggestion panel&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/11/passliss-version-3.7.0.2311-is-now-available/1.png"
+width="1566"
+height="865"
+srcset="https://blog.leocorporation.dev/2023/11/passliss-version-3.7.0.2311-is-now-available/1_hu5c7e73105b2da26fc4257e8dcdb6b519_391764_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/11/passliss-version-3.7.0.2311-is-now-available/1_hu5c7e73105b2da26fc4257e8dcdb6b519_391764_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new suggestion panel"
+class="gallery-image"
+data-flex-grow="181"
+data-flex-basis="434px"
+>&lt;/p>
+&lt;p>If you want to create strong passwords that can protect your online accounts from hackers, you need to pay attention to the suggestion panel in the Strength page. This feature will analyze your password and give you feedback on how to make it more secure. You will see a score that indicates how strong your password is, as well as a list of suggestions on how to improve it. For example, you might be advised to use a longer password, mix uppercase and lowercase letters, add numbers and symbols, or avoid common words and patterns. By following these suggestions, you can increase the strength of your password and reduce the risk of being hacked.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Refactored Generate page (#679)&lt;/li>
+&lt;li>Refactored Strength page (#679)&lt;/li>
+&lt;li>Added the possibility to delete an activity item on mobile (#680)&lt;/li>
+&lt;li>Added locales (#681)&lt;/li>
+&lt;li>Added suggestion component (#681)&lt;/li>
+&lt;li>Added suggestions to improve a password (#681)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch">Launch&lt;/h2>
+&lt;p>&lt;a class="link" href="https://passliss.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to launch Passliss in your web browser.&lt;/p>
+&lt;h2 id="learn-more">Learn more&lt;/h2>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/passliss" target="_blank" rel="noopener"
+>Click here&lt;/a> to learn more about Passliss&lt;/p></description></item><item><title>ColorPicker: Version 5.7.0.2311 is now available</title><link>https://blog.leocorporation.dev/2023/11/colorpicker-version-5.7.0.2311-is-now-available/</link><pubDate>Wed, 01 Nov 2023 11:37:32 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/11/colorpicker-version-5.7.0.2311-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/11/colorpicker-version-5.7.0.2311-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.7.0.2311 is now available" />&lt;p>A new version of ColorPicker Max is now available and it brings a new feature: Color Harmonies.&lt;/p>
 &lt;h2 id="color-harmonies---a-new-way-to-generate-colors">Color Harmonies - a new way to generate colors&lt;/h2>
 &lt;p>In the ever-evolving world of design and creativity, staying ahead of the curve is essential. With the latest update to ColorPicker Max, we are thrilled to introduce a groundbreaking feature that will revolutionize the way you generate colors: Color Harmonies. This new addition is set to redefine your color selection process and open up a world of possibilities for your designs. Let&amp;rsquo;s dive in and explore the exciting features and benefits of Color Harmonies in ColorPicker Max.&lt;/p>
 &lt;h3 id="exploring-the-world-of-color-harmonies">Exploring the World of Color Harmonies&lt;/h3>
