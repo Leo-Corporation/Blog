@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gavilya on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/gavilya/</link><description>Recent content in Gavilya on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 13:21:27 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/gavilya/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 4.1.0.2310 is now available</title><link>https://blog.leocorporation.dev/2023/10/gavilya-version-4.1.0.2310-is-now-available/</link><pubDate>Tue, 24 Oct 2023 13:21:27 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/10/gavilya-version-4.1.0.2310-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/10/gavilya-version-4.1.0.2310-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.1.0.2310 is now available" />&lt;p>A new version of Gavilya is now available, and it is the version 4.1.0.2310. This version brings mainly bug fixes but also several improvements to the app. For instance, some features of v3 who weren&amp;rsquo;t reimplemented in v4 were added back. Check out the full changelog bellow for details:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gavilya on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/gavilya/</link><description>Recent content in Gavilya on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 Nov 2023 12:48:11 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/gavilya/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 4.2.0.2311 is now available</title><link>https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/</link><pubDate>Sun, 05 Nov 2023 12:48:11 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.2.0.2311 is now available" />&lt;p>A new version of Gavilya is available and it brings several new features, such as the new Win32 game scanner and more.&lt;/p>
+&lt;h2 id="game-scanner">Game Scanner&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/1.png"
+width="1185"
+height="700"
+srcset="https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/1_hucd85c9b41694ba8bfc06cbb31a626e23_81851_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/1_hucd85c9b41694ba8bfc06cbb31a626e23_81851_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new game scanner popup"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;p>When adding a Win32 game to Gavilya, you can now scan a particular directory to find all available executables inside of it and inside of its subdirectories. This can be particularly useful if you have a hard drive dedicated to games and don&amp;rsquo;t know where are the games executables located.&lt;/p>
+&lt;h2 id="random-game">Random game&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/2.png"
+width="1185"
+height="700"
+srcset="https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/2_huc1fce3e8fcbd62c3b145c2afc12b4161_372666_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/2_huc1fce3e8fcbd62c3b145c2afc12b4161_372666_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The random game button"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;p>If you have a lot of games available in your library, it can sometimes be hard to make a choice. This why we also added back an old feature of Gavilya: Random game selection. In the home page, you will notice a new lightbulb icon next to the &amp;ldquo;You may like&amp;hellip;&amp;rdquo; section. Clicking this icon will take you to a random game page. This feature can be useful if you really don&amp;rsquo;t know which game you want to play.&lt;/p>
+&lt;h2 id="more-customization-options">More customization options&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/3.png"
+width="1185"
+height="700"
+srcset="https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/3_hu70cb82b1c795ba91c8cf0b92da37ff73_64594_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/3_hu70cb82b1c795ba91c8cf0b92da37ff73_64594_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The keyboard shortcuts section of the search settings"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;p>Finally, we added new customization options and settings. You can now disable the search shortcut (Control+K) in the settings. Plus, it is now possible the pin the main window so it always stays on top of others.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added translations (#426)&lt;/li>
+&lt;li>Added the possibility to disable Search shortcut (#426)&lt;/li>
+&lt;li>Added the possibility to get a random game (#427)&lt;/li>
+&lt;li>Added tooltip text (#428)&lt;/li>
+&lt;li>Added the possibility to pin the window (#428)&lt;/li>
+&lt;li>Added Executable component (#429)&lt;/li>
+&lt;li>Added Game scanner (#429)&lt;/li>
+&lt;li>Added Scan button text (#429)&lt;/li>
+&lt;li>Added the possibility to scan a directory for executables (#429)&lt;/li>
+&lt;li>Added the possibility to close scan popup (#429)&lt;/li>
+&lt;li>Added placeholder when no games are detected (#429)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated Microsoft.Xaml.Behaviors.Wpf (#425)&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://bit.ly/Gavilya" target="_blank" rel="noopener"
+>Click here&lt;/a> to download Gavilya.&lt;/p>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>&lt;a class="link" href="https://gavilya.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to go the website of Gavilya.&lt;/p></description></item><item><title>Gavilya: Version 4.1.0.2310 is now available</title><link>https://blog.leocorporation.dev/2023/10/gavilya-version-4.1.0.2310-is-now-available/</link><pubDate>Tue, 24 Oct 2023 13:21:27 +0200</pubDate><guid>https://blog.leocorporation.dev/2023/10/gavilya-version-4.1.0.2310-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/10/gavilya-version-4.1.0.2310-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.1.0.2310 is now available" />&lt;p>A new version of Gavilya is now available, and it is the version 4.1.0.2310. This version brings mainly bug fixes but also several improvements to the app. For instance, some features of v3 who weren&amp;rsquo;t reimplemented in v4 were added back. Check out the full changelog bellow for details:&lt;/p>
 &lt;h2 id="changelog">Changelog&lt;/h2>
 &lt;h3 id="new">New&lt;/h3>
 &lt;ul>
