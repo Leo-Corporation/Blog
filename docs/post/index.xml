@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 Nov 2023 12:48:11 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 4.2.0.2311 is now available</title><link>https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/</link><pubDate>Sun, 05 Nov 2023 12:48:11 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.2.0.2311 is now available" />&lt;p>A new version of Gavilya is available and it brings several new features, such as the new Win32 game scanner and more.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 12 Nov 2023 13:40:14 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.4.0.2311 is now available</title><link>https://blog.leocorporation.dev/2023/11/qrix-version-1.4.0.2311-is-now-available/</link><pubDate>Sun, 12 Nov 2023 13:40:14 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/11/qrix-version-1.4.0.2311-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/11/qrix-version-1.4.0.2311-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.4.0.2311 is now available" />&lt;p>A new version of Qrix is now available, and this version brings a new QR Code type.&lt;/p>
+&lt;h2 id="new-swiss-qr-code-type">New Swiss QR Code type&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/11/qrix-version-1.4.0.2311-is-now-available/1.png"
+width="1835"
+height="968"
+srcset="https://blog.leocorporation.dev/2023/11/qrix-version-1.4.0.2311-is-now-available/1_hu0fc6d95d3d962d1cc357b787c4d27a3c_564045_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/11/qrix-version-1.4.0.2311-is-now-available/1_hu0fc6d95d3d962d1cc357b787c4d27a3c_564045_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Swiss QR Code option"
+class="gallery-image"
+data-flex-grow="189"
+data-flex-basis="454px"
+>&lt;/p>
+&lt;p>Introducing the Swiss QR code: a new type of QR code that is compatible with the Swiss payment system. You can use it to generate invoices, receipts, and other payment-related documents with ease. Just enter the required information and Qrix will create a Swiss QR code for you.
+You can also now choose your preferred QR code type in the settings menu. Whether you want to use the standard QR code or the Swiss QR code, you can set it as your default option and Qrix will remember it for you. This way, you don&amp;rsquo;t have to switch between different types every time you want to generate a QR code.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added Swiss QR Code in QR Code page (#196)&lt;/li>
+&lt;li>Added the possibility to set default QR Code type (#197)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed an issue in history&lt;/li>
+&lt;li>Fixed null type issue (#197)&lt;/li>
+&lt;li>Fixed a bug with settings&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch-qrix">Launch Qrix&lt;/h2>
+&lt;p>&lt;a class="link" href="ttps://qrix.leocorporation.dev" >Click here&lt;/a> to launch Qrix in your browser.&lt;/p></description></item><item><title>Gavilya: Version 4.2.0.2311 is now available</title><link>https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/</link><pubDate>Sun, 05 Nov 2023 12:48:11 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.2.0.2311 is now available" />&lt;p>A new version of Gavilya is available and it brings several new features, such as the new Win32 game scanner and more.&lt;/p>
 &lt;h2 id="game-scanner">Game Scanner&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2023/11/gavilya-version-4.2.0.2311-is-now-available/1.png"
 width="1185"
