@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 12 Nov 2023 13:40:14 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.4.0.2311 is now available</title><link>https://blog.leocorporation.dev/2023/11/qrix-version-1.4.0.2311-is-now-available/</link><pubDate>Sun, 12 Nov 2023 13:40:14 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/11/qrix-version-1.4.0.2311-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/11/qrix-version-1.4.0.2311-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.4.0.2311 is now available" />&lt;p>A new version of Qrix is now available, and this version brings a new QR Code type.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Dec 2023 12:05:22 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 4.3.0.2312 is now available</title><link>https://blog.leocorporation.dev/2023/12/gavilya-version-4.3.0.2312-is-now-available/</link><pubDate>Sat, 09 Dec 2023 12:05:22 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/12/gavilya-version-4.3.0.2312-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/12/gavilya-version-4.3.0.2312-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.3.0.2312 is now available" />&lt;p>A new version of Gavilya is available and it brings sa new favorite page and several improvements to the app.
+The features added in this version were brought by &lt;a class="link" href="https://github.com/Bamboooz" target="_blank" rel="noopener"
+>@Bamboooz&lt;/a>.&lt;/p>
+&lt;h2 id="new-favorite-page">New favorite page&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/12/gavilya-version-4.3.0.2312-is-now-available/1.png"
+width="1185"
+height="700"
+srcset="https://blog.leocorporation.dev/2023/12/gavilya-version-4.3.0.2312-is-now-available/1_hu78af7101501d803b6ad97266072356d1_269001_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/12/gavilya-version-4.3.0.2312-is-now-available/1_hu78af7101501d803b6ad97266072356d1_269001_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new &amp;ldquo;Favorites&amp;rdquo; page."
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;p>One of the most exciting features of this version of Gavilya is the new favorite page. This page shows you all the games that you have marked as favorites, so you can easily access them without browsing through your entire library. You can sort your games and even choose the view mode, just like the regular library page. The new favorite page is a great way to organize and enjoy your games with Gavilya.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added Gavilya icon in the top left side of the app&lt;/li>
+&lt;li>Adjusted settings button margin which was slightly off&lt;/li>
+&lt;li>Steam games are now launched using &lt;code>steam://rungameid/{game_id}&lt;/code> which launches the steam with it if it is not already opened,
+which means you don&amp;rsquo;t have to have to open steam yourself.&lt;/li>
+&lt;li>Added a separate favorites page&lt;/li>
+&lt;li>Removed Favorite games tabfrom the library list view&lt;/li>
+&lt;li>Added a &amp;ldquo;this week&amp;rdquo; tab to the recent page&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>When hovering on games the text was &lt;code>&amp;quot;Play to {game_name}&amp;quot;&lt;/code> instead of &lt;code>&amp;quot;Play {game_name}&amp;quot;&lt;/code>&lt;/li>
+&lt;li>Slight margin changes in the game card view&lt;/li>
+&lt;li>Fixed many code style inconsistencies&lt;/li>
+&lt;li>&amp;ldquo;What game do you wanna play&amp;rdquo; text in the home page replaced with &amp;ldquo;What game do you want to play&amp;rdquo;&lt;/li>
+&lt;li>Fixed: Favorites page when set as startup page opened as home page&lt;/li>
+&lt;li>Fixed: favorites page not updating each time you unfavorite a game&lt;/li>
+&lt;li>Fixed missing navbar button highlight on Favorites page&lt;/li>
+&lt;li>Fixed wrong french translations&lt;/li>
+&lt;li>Fixed formal inconsistency in french translations&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Changed the blue gradient in the displayed images when nothing is in the library/favorites page to a purple gradient to fit the applications style&lt;/li>
+&lt;li>Changed the play button gradient from blue to purple, and in the home page display the play button only when hovering on game card, instead of it always being there&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://bit.ly/Gavilya" target="_blank" rel="noopener"
+>Click here&lt;/a> to download Gavilya.&lt;/p>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>&lt;a class="link" href="https://gavilya.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to go the website of Gavilya.&lt;/p></description></item><item><title>Qrix: Version 1.4.0.2311 is now available</title><link>https://blog.leocorporation.dev/2023/11/qrix-version-1.4.0.2311-is-now-available/</link><pubDate>Sun, 12 Nov 2023 13:40:14 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/11/qrix-version-1.4.0.2311-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/11/qrix-version-1.4.0.2311-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.4.0.2311 is now available" />&lt;p>A new version of Qrix is now available, and this version brings a new QR Code type.&lt;/p>
 &lt;h2 id="new-swiss-qr-code-type">New Swiss QR Code type&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2023/11/qrix-version-1.4.0.2311-is-now-available/1.png"
 width="1835"
