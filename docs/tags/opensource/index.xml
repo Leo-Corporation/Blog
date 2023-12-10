@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Dec 2023 12:05:22 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 4.3.0.2312 is now available</title><link>https://blog.leocorporation.dev/2023/12/gavilya-version-4.3.0.2312-is-now-available/</link><pubDate>Sat, 09 Dec 2023 12:05:22 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/12/gavilya-version-4.3.0.2312-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/12/gavilya-version-4.3.0.2312-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.3.0.2312 is now available" />&lt;p>A new version of Gavilya is available and it brings sa new favorite page and several improvements to the app.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 10 Dec 2023 13:07:13 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 5.8.0.2312 is now available</title><link>https://blog.leocorporation.dev/2023/12/colorpicker-version-5.8.0.2312-is-now-available/</link><pubDate>Sun, 10 Dec 2023 13:07:13 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/12/colorpicker-version-5.8.0.2312-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/12/colorpicker-version-5.8.0.2312-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.8.0.2312 is now available" />&lt;p>A new version of ColorPicker Max is now available and it brings several improvements to the app.&lt;/p>
+&lt;h2 id="new-placeholder-in-ai-page">New placeholder in AI page&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/12/colorpicker-version-5.8.0.2312-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2023/12/colorpicker-version-5.8.0.2312-is-now-available/1_hu84efde86fd06247d7bf2e6efec4b5c69_196054_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2023/12/colorpicker-version-5.8.0.2312-is-now-available/1_hu84efde86fd06247d7bf2e6efec4b5c69_196054_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new placeholder in the AI Generation page"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>When starting the AI Generation page, a placeholder will now be displayed while the details panel is now hidden if no color is generated or selected.&lt;/p>
+&lt;h2 id="instant-theme-switching">Instant theme switching&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2023/12/colorpicker-version-5.8.0.2312-is-now-available/2.gif"
+width="1920"
+height="1080"
+srcset="https://blog.leocorporation.dev/2023/12/colorpicker-version-5.8.0.2312-is-now-available/2_hu921f80f3def569d9623b9648780632f2_549464_480x0_resize_box.gif 480w, https://blog.leocorporation.dev/2023/12/colorpicker-version-5.8.0.2312-is-now-available/2_hu921f80f3def569d9623b9648780632f2_549464_1024x0_resize_box.gif 1024w"
+loading="lazy"
+alt="Changing theme no longer requires you to restart the app"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>You no longer need to restart the app to change its theme - the change is now reflected immediately.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added the possibility to bookmark a color in Harmonies page (#351)&lt;/li>
+&lt;li>Added translations (#352)&lt;/li>
+&lt;li>Added placeholder in AI Page color section (#352)&lt;/li>
+&lt;li>Added placeholder in AI Page palette section (#352)&lt;/li>
+&lt;li>Added instant theme switching (#353)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed tab color issue when changing theme (#353)&lt;/li>
+&lt;li>Fixed an issue with nav bar when switching theme (#353)&lt;/li>
+&lt;li>Fixed color issue in dark theme&lt;/li>
+&lt;li>Fixed transparent window issue&lt;/li>
+&lt;li>Fixed theme not changing on first run&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated Betalgo.OpenAI (#348)&lt;/li>
+&lt;li>Updated PeyrSharp.Env (#349)&lt;/li>
+&lt;li>Updated PeyrSharp.Core (#350)&lt;/li>
+&lt;li>Updated theme file&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DownloadColorPickerMax" target="_blank" rel="noopener"
+>Click here&lt;/a> to download ColorPicker Max.&lt;/p>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/colorpickermax" target="_blank" rel="noopener"
+>Learn More&lt;/a> about ColorPicker Max.&lt;/p></description></item><item><title>Gavilya: Version 4.3.0.2312 is now available</title><link>https://blog.leocorporation.dev/2023/12/gavilya-version-4.3.0.2312-is-now-available/</link><pubDate>Sat, 09 Dec 2023 12:05:22 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/12/gavilya-version-4.3.0.2312-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/12/gavilya-version-4.3.0.2312-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.3.0.2312 is now available" />&lt;p>A new version of Gavilya is available and it brings sa new favorite page and several improvements to the app.
 The features added in this version were brought by &lt;a class="link" href="https://github.com/Bamboooz" target="_blank" rel="noopener"
 >@Bamboooz&lt;/a>.&lt;/p>
 &lt;h2 id="new-favorite-page">New favorite page&lt;/h2>
