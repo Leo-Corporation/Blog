@@ -1,4 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 29 Dec 2023 17:58:28 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>2023 - The biggest year ever for Léo Corporation</title><link>https://blog.leocorporation.dev/2023/12/2023-the-biggest-year-ever-for-l%C3%A9o-corporation/</link><pubDate>Fri, 29 Dec 2023 17:58:28 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/12/2023-the-biggest-year-ever-for-l%C3%A9o-corporation/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/12/2023-the-biggest-year-ever-for-l%C3%A9o-corporation/cover.png" alt="Featured image of post 2023 - The biggest year ever for Léo Corporation" />&lt;p>Last year, we concluded 2022 by telling you that 2023 was going to be super exciting - which is exactly what happened! This year has been a fantastic journey to be part of, and as the founder of the Léo Corporation, I can not express how I am grateful to you for this. I have personally never imagined that this project will come to this point, but here we are I guess. As the year ends, let&amp;rsquo;s take a look back at the major events and releases!&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing InternetTest Pro 8</title><link>https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/cover.png" alt="Featured image of post Introducing InternetTest Pro 8" />&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In 2018, we introduced InternetTest as a straightforward utility designed to check your internet connection. Since then, the app has undergone significant enhancements, embracing both new features and sleek designs.&lt;/p>
+&lt;p>The 2020 release, InternetTest 4, marked a notable milestone by incorporating advanced functionalities such as the IP Locator and Down Detector. Subsequently, in the following year, InternetTest 5 was unveiled, representing a major leap forward with a modernized codebase that laid the foundation for version 6.&lt;/p>
+&lt;p>The pinnacle of our journey arrived in 2022 with the launch of InternetTest Pro 7 – a revolutionary iteration that set itself apart from its predecessors. This version introduced groundbreaking features, including a WiFi password recovery utility, a fresh design, and a user-centric approach.&lt;/p>
+&lt;p>Today, we are thrilled to present the latest advancement in the InternetTest series: InternetTest Pro 8. This iteration elevates your experience to unprecedented heights, building upon the legacy of its predecessors and delivering a seamless blend of cutting-edge features and user-friendly design.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;h3 id="new-dashboard">New dashboard&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/1_hue7d9d5dff824412dd4b279896d4435bf_231185_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/1_hue7d9d5dff824412dd4b279896d4435bf_231185_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new dashboard of InternetTest Pro 8"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>We are proud to unveil the new InternetTest Pro 8 dashboard: We turned the home page of InternetTest to a place where you can quickly get the information your need at a glance. Indeed, we added a new information section where you can check the status of your connection, your network&amp;rsquo;s name and your public IP address. Furthermore, we decided to rethink the &amp;ldquo;Suggested actions&amp;rdquo; section by replacing it with &amp;ldquo;Quick action&amp;rdquo;: You can now easily run a speed test, recover lost WiFi passwords and connect to a network in just a few clicks. Alongside with these improvements you will also notice that we decided to improve the design of the feature cards, adding more depth to the app&amp;rsquo;s interface.&lt;/p>
+&lt;p>However, you will notice that some of the features added to the dashboard were previously available in the &amp;ldquo;Status&amp;rdquo; and &amp;ldquo;My IP&amp;rdquo; page, and this is why we made the decision to remove theses two pages from the app. This change will make the app less crowded with basic pages that only included a single feature.&lt;/p>
+&lt;h3 id="redesigned-downdetector-page">Redesigned DownDetector page&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/2.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/2_hu2743643dc44fa41dc3380701191b20e8_199058_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/2_hu2743643dc44fa41dc3380701191b20e8_199058_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The redesigned DownDetector page of InternetTest Pro 8"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>Previously, the DownDetector page posed challenges for new users due to its less-than-intuitive design, characterized by a cluttered UI with numerous elements. Recognizing the need for improvement, we took a fresh approach to this feature with the release of InternetTest Pro 8.&lt;/p>
+&lt;p>In our redesign, we have streamlined the user experience by introducing a more user-friendly interface. Now, you&amp;rsquo;ll find a designated box where you can input the URL of a website for inclusion in the verification process. This allows you to compile a list of websites that will undergo testing when you click the &amp;ldquo;Test all websites&amp;rdquo; button. On the left side, a new &amp;ldquo;Scheduled Tests&amp;rdquo; section has been incorporated, enabling you to efficiently schedule tests at specified intervals for seamless execution. With these enhancements, monitoring website performance has never been more straightforward and accessible.&lt;/p>
+&lt;h3 id="new-customization-options">New customization options&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/3.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/3_hu2743643dc44fa41dc3380701191b20e8_156790_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/3_hu2743643dc44fa41dc3380701191b20e8_156790_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The settings page of InternetTest Pro 8, with new options expanded"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>With the features previously mentioned, we decided to add new customization options. In the settings of the app, you can now provide a default time interval to use when using scheduled tests in the DownDetector page. In addition, we also added the possibility to hide by default disabled network adapters in the WiFi Networks page.&lt;/p>
+&lt;h3 id="instant-theme-switching">Instant theme switching&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/4.gif"
+width="1920"
+height="1080"
+srcset="https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/4_huf3c03b556b46d4ddc37885d531ed1c89_407232_480x0_resize_box.gif 480w, https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/4_huf3c03b556b46d4ddc37885d531ed1c89_407232_1024x0_resize_box.gif 1024w"
+loading="lazy"
+alt="Changing the theme no longer requires a restart of the application, and is done instantly"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>InternetTest Pro 8 also brings a brand new theming system that is more flexible and dynamic. Indeed, you can now change the theme of the app without having to restart it. Speaking of theme, you will also notice that we updated to background mesh gradient for the main window. Plus, we redesigned some styles of navigation button making them more consistent with the rest of the app.&lt;/p>
+&lt;h3 id="improved-codebase">Improved codebase&lt;/h3>
+&lt;p>When InternetTest Pro was launched in 2022, a standout addition was the incorporation of Synethia into the dashboard. Synethia, an algorithm designed to analyze user preferences within the app, utilized collected data&lt;a href="#note-1">&lt;sup>(1)&lt;/sup>&lt;/a> to craft a personalized dashboard. This tailored interface suggested the most relevant features based on individual usage patterns. Initially, the integration was manually executed without the official package, which is now offered by Devyus, the creators of Synethia.&lt;/p>
+&lt;p>In this 8th major version, we dedicated time to completely reworking the Synethia implementation, now leveraging the official Synthia package. It&amp;rsquo;s important to note that upgrading from InternetTest Pro 7 will result in the loss of previously collected data.&lt;/p>
+&lt;p>Additionally, we invested effort in addressing numerous issues and bugs within the app, resulting in improved overall stability. These enhancements contribute to a more seamless and reliable user experience.&lt;/p>
+&lt;h3 id="portable-mode">Portable mode&lt;/h3>
+&lt;p>Introducing a new level of flexibility, InternetTest Pro 8 now offers users the choice between two distinct versions: Setup and Portable. The Setup version involves a traditional installation process, while the Portable option provides a convenient alternative, allowing users to run the app without the need for installation through a portable executable file. It&amp;rsquo;s important to note that while Portable mode delivers heightened convenience, some features, such as automatic updates, are not available. For users opting for Portable mode, updating the application requires redownloading the updated portable executable file to ensure access to the latest enhancements. This choice empowers users to tailor their experience based on their preferences and usage requirements.&lt;/p>
+&lt;h2 id="get-the-app">Get the app&lt;/h2>
+&lt;p>InternetTest Pro is available on Windows and requires the .NET 6 Windows Desktop Runtime. Please note that in the future, we plan to upgrade to the .NET 8 Windows Desktop Runtime which will be needed to execute the app.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITP7" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Setup&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITPP" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Portable&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;sup id="note-1">(1)&lt;/sup>: Synethia operates by collecting and storing data anonymously on your computer. It&amp;rsquo;s essential to underscore that no data is transmitted to Léo Corporation or any third-party entities.&lt;/p></description></item><item><title>2023 - The biggest year ever for Léo Corporation</title><link>https://blog.leocorporation.dev/2023/12/2023-the-biggest-year-ever-for-l%C3%A9o-corporation/</link><pubDate>Fri, 29 Dec 2023 17:58:28 +0100</pubDate><guid>https://blog.leocorporation.dev/2023/12/2023-the-biggest-year-ever-for-l%C3%A9o-corporation/</guid><description>&lt;img src="https://blog.leocorporation.dev/2023/12/2023-the-biggest-year-ever-for-l%C3%A9o-corporation/cover.png" alt="Featured image of post 2023 - The biggest year ever for Léo Corporation" />&lt;p>Last year, we concluded 2022 by telling you that 2023 was going to be super exciting - which is exactly what happened! This year has been a fantastic journey to be part of, and as the founder of the Léo Corporation, I can not express how I am grateful to you for this. I have personally never imagined that this project will come to this point, but here we are I guess. As the year ends, let&amp;rsquo;s take a look back at the major events and releases!&lt;/p>
 &lt;h2 id="the-creation-of-the-peyronnet-group">The creation of the Peyronnet Group&lt;/h2>
 &lt;p>In early 2023, Léo Corporation decided to create a specific branch for its developer-aimed products and libraies called Devyus. This subsidiary of Léo Corporation was intended to create and develop useful libraries for developers. Thanks to Devyus, our approach with LeoCorpLibrary evolved into PeyrSharp, and has also allowed a public release of our Synethia algorithm. But with the creation of Devyus, the internal organization of the Léo Corporation was becoming messy at a point where the following question arose: What is the goal of Léo Corporation? What do we create? The answer of this question could seem obvious at first - we create apps - but with Devyus, we were now also in charge of creating libraries for developers which are a different target from our apps&amp;rsquo;.
 This is why the Peyronnet Group was created: To provide a clear separation and definition of which entity&amp;rsquo;s goal was; Devyus is making developer tools, while Léo Corporation is creating applications and experiences. (&lt;em>Fun fact&lt;/em>: Léo Corporation was supposed to be rebranded Léo&amp;rsquo;s Apps; however, the idea was abandoned for the simple reason that I thought the current name was already great)&lt;/p>
