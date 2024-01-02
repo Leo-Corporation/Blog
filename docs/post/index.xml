@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing InternetTest Pro 8</title><link>https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/cover.png" alt="Featured image of post Introducing InternetTest Pro 8" />&lt;h2 id="introduction">Introduction&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 02 Jan 2024 14:34:09 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 3.8.0.2401 is now available</title><link>https://blog.leocorporation.dev/2024/01/passliss-version-3.8.0.2401-is-now-available/</link><pubDate>Tue, 02 Jan 2024 14:34:09 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/01/passliss-version-3.8.0.2401-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/01/passliss-version-3.8.0.2401-is-now-available/cover.png" alt="Featured image of post Passliss: Version 3.8.0.2401 is now available" />&lt;p>This new version of Passliss introduces several improvements to the UI of the app and new improvements for mobile users.&lt;/p>
+&lt;h2 id="new-strength-details-in-activity">New strength details in Activity&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/01/passliss-version-3.8.0.2401-is-now-available/1.png"
+width="1667"
+height="884"
+srcset="https://blog.leocorporation.dev/2024/01/passliss-version-3.8.0.2401-is-now-available/1_hu0d210959afb00d7da462e2096e9be395_213453_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/01/passliss-version-3.8.0.2401-is-now-available/1_hu0d210959afb00d7da462e2096e9be395_213453_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Strength Details dialog"
+class="gallery-image"
+data-flex-grow="188"
+data-flex-basis="452px"
+>&lt;/p>
+&lt;p>It is now possible to get detailed information about the strength of a password directly in the Activity page, just click on the strength indicator to get more information. On mobile devices, we redesigned the &amp;ldquo;More&amp;rdquo; button: Instead of a context menu, a drawer UI will now show up with detailed information about the password. At the bottom of the drawer, you will find different actions, such as &amp;ldquo;Copy&amp;rdquo;, &amp;ldquo;Close&amp;rdquo; and &amp;ldquo;Delete&amp;rdquo;.&lt;/p>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/01/passliss-version-3.8.0.2401-is-now-available/2.png"
+width="598"
+height="889"
+srcset="https://blog.leocorporation.dev/2024/01/passliss-version-3.8.0.2401-is-now-available/2_hu0ceaef2a9eb8722c14fe33eeeeaae63f_64317_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/01/passliss-version-3.8.0.2401-is-now-available/2_hu0ceaef2a9eb8722c14fe33eeeeaae63f_64317_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new drawer UI on mobile"
+class="gallery-image"
+data-flex-grow="67"
+data-flex-basis="161px"
+>&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Redesigned cards in Home page (#761)&lt;/li>
+&lt;li>Improved AI page generation system (#762)&lt;/li>
+&lt;li>Improved navigation bar buttons when selected (#763)&lt;/li>
+&lt;li>Tooltips are now appearing instantaneously (#764)&lt;/li>
+&lt;li>Added new locales (#764)&lt;/li>
+&lt;li>Added new strength dialog (#764)&lt;/li>
+&lt;li>Added Drawer component (#764)&lt;/li>
+&lt;li>Added new theme colors&lt;/li>
+&lt;li>Added new Drawer design on mobile (#764)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed an issue with shadow color in home page&lt;/li>
+&lt;li>Fixed an issue when opening the drawer&lt;/li>
+&lt;li>Fixed an issue with navigation bar&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated copyright years (#765)&lt;/li>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch">Launch&lt;/h2>
+&lt;p>&lt;a class="link" href="https://passliss.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to launch Passliss in your web browser.&lt;/p>
+&lt;h2 id="learn-more">Learn more&lt;/h2>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/passliss" target="_blank" rel="noopener"
+>Click here&lt;/a> to learn more about Passliss&lt;/p></description></item><item><title>Introducing InternetTest Pro 8</title><link>https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/01/introducing-internettest-pro-8/cover.png" alt="Featured image of post Introducing InternetTest Pro 8" />&lt;h2 id="introduction">Introduction&lt;/h2>
 &lt;p>In 2018, we introduced InternetTest as a straightforward utility designed to check your internet connection. Since then, the app has undergone significant enhancements, embracing both new features and sleek designs.&lt;/p>
 &lt;p>The 2020 release, InternetTest 4, marked a notable milestone by incorporating advanced functionalities such as the IP Locator and Down Detector. Subsequently, in the following year, InternetTest 5 was unveiled, representing a major leap forward with a modernized codebase that laid the foundation for version 6.&lt;/p>
 &lt;p>The pinnacle of our journey arrived in 2022 with the launch of InternetTest Pro 7 – a revolutionary iteration that set itself apart from its predecessors. This version introduced groundbreaking features, including a WiFi password recovery utility, a fresh design, and a user-centric approach.&lt;/p>
