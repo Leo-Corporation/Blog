@@ -1,4 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Features on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/new-features/</link><description>Recent content in New Features on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 02 Jan 2024 14:34:09 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-features/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 3.8.0.2401 is now available</title><link>https://blog.leocorporation.dev/2024/01/passliss-version-3.8.0.2401-is-now-available/</link><pubDate>Tue, 02 Jan 2024 14:34:09 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/01/passliss-version-3.8.0.2401-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/01/passliss-version-3.8.0.2401-is-now-available/cover.png" alt="Featured image of post Passliss: Version 3.8.0.2401 is now available" />&lt;p>This new version of Passliss introduces several improvements to the UI of the app and new improvements for mobile users.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Features on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/new-features/</link><description>Recent content in New Features on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 04 Jan 2024 17:59:48 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-features/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.5.0.2401 is now available</title><link>https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/</link><pubDate>Thu, 04 Jan 2024 17:59:48 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.5.0.2401 is now available" />&lt;p>With this new version of Qrix, we made several improvements to the app&amp;rsquo;s design, fixing many UI inconsistencies. Furthermore, we also added a new preview dialog in History.&lt;/p>
+&lt;h2 id="preview-dialog">Preview dialog&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/1.png"
+width="1786"
+height="921"
+srcset="https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/1_huaea1fb9181fe293fe496d4987df15b84_245060_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/1_huaea1fb9181fe293fe496d4987df15b84_245060_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Preview dialog."
+class="gallery-image"
+data-flex-grow="193"
+data-flex-basis="465px"
+>&lt;/p>
+&lt;p>When clicking on a QR Code or on a Bar Code, you will notice a new preview window dialog appearing, allowing you to see more clearly your generate code, especially on mobile devices. This feature should make it easier to scan generated QR Codes directly on a mobile device.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added new color values&lt;/li>
+&lt;li>Redesigned home page cards (#244)&lt;/li>
+&lt;li>Improved nav bar buttons when selected (#245)&lt;/li>
+&lt;li>Added new locales&lt;/li>
+&lt;li>Added a new preview dialog in History (#246)&lt;/li>
+&lt;li>Added drawer component (#246)&lt;/li>
+&lt;li>Added preview drawer in History (#246)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated copyright years (#247)&lt;/li>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch-qrix">Launch Qrix&lt;/h2>
+&lt;p>&lt;a class="link" href="ttps://qrix.leocorporation.dev" >Click here&lt;/a> to launch Qrix in your browser.&lt;/p></description></item><item><title>Passliss: Version 3.8.0.2401 is now available</title><link>https://blog.leocorporation.dev/2024/01/passliss-version-3.8.0.2401-is-now-available/</link><pubDate>Tue, 02 Jan 2024 14:34:09 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/01/passliss-version-3.8.0.2401-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/01/passliss-version-3.8.0.2401-is-now-available/cover.png" alt="Featured image of post Passliss: Version 3.8.0.2401 is now available" />&lt;p>This new version of Passliss introduces several improvements to the UI of the app and new improvements for mobile users.&lt;/p>
 &lt;h2 id="new-strength-details-in-activity">New strength details in Activity&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/01/passliss-version-3.8.0.2401-is-now-available/1.png"
 width="1667"
