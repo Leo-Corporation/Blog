@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 04 Jan 2024 17:59:48 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.5.0.2401 is now available</title><link>https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/</link><pubDate>Thu, 04 Jan 2024 17:59:48 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.5.0.2401 is now available" />&lt;p>With this new version of Qrix, we made several improvements to the app&amp;rsquo;s design, fixing many UI inconsistencies. Furthermore, we also added a new preview dialog in History.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 06 Jan 2024 11:01:11 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>PermaTop: Version 1.4.0.2401 is now available</title><link>https://blog.leocorporation.dev/2024/01/permatop-version-1.4.0.2401-is-now-available/</link><pubDate>Sat, 06 Jan 2024 11:01:11 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/01/permatop-version-1.4.0.2401-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/01/permatop-version-1.4.0.2401-is-now-available/cover.png" alt="Featured image of post PermaTop: Version 1.4.0.2401 is now available" />&lt;p>Version 1.4.0.2401 of PermaTop introduces the ability to automatically start the app on startup.&lt;/p>
+&lt;h2 id="launch-at-windows-startup-option">Launch at Windows startup option&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/01/permatop-version-1.4.0.2401-is-now-available/1.png"
+width="800"
+height="450"
+srcset="https://blog.leocorporation.dev/2024/01/permatop-version-1.4.0.2401-is-now-available/1_huf3501c94eea527a8358206e13618d577_85372_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/01/permatop-version-1.4.0.2401-is-now-available/1_huf3501c94eea527a8358206e13618d577_85372_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new &amp;ldquo;Launch PermaTop at Windows startup&amp;rdquo; option"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>With the new launch at windows startup option, you can now enjoy the convenience of PermaTop without having to manually start it every time you turn on your computer. The app is started minimized in the system tray, so it won&amp;rsquo;t interfere with your desktop or taskbar. To use PermaTop, simply right-click on the system tray icon and select &amp;ldquo;Pin&amp;rdquo; from the context menu.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added translations (#39)&lt;/li>
+&lt;li>Added the possibility to launch the app on start (#39)&lt;/li>
+&lt;li>PermaTop starts minimized on start (#39)&lt;/li>
+&lt;li>Added information message (#39)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed popup menu not visible in dark mode (#37)&lt;/li>
+&lt;li>Fixed Apply button in &amp;ldquo;Move to screen&amp;rdquo; not visible (#38)&lt;/li>
+&lt;li>Fixed a margin issue&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated PeyrSharp.Env (#34)&lt;/li>
+&lt;li>Updated PeyrSharp.Core (#35)&lt;/li>
+&lt;li>Made Apply button more consistent&lt;/li>
+&lt;li>Updated copyright years (#40)&lt;/li>
+&lt;li>Updated dependencies&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/PermaTop" target="_blank" rel="noopener"
+>Click here&lt;/a> to download PermaTop.&lt;/p></description></item><item><title>Qrix: Version 1.5.0.2401 is now available</title><link>https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/</link><pubDate>Thu, 04 Jan 2024 17:59:48 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.5.0.2401 is now available" />&lt;p>With this new version of Qrix, we made several improvements to the app&amp;rsquo;s design, fixing many UI inconsistencies. Furthermore, we also added a new preview dialog in History.&lt;/p>
 &lt;h2 id="preview-dialog">Preview dialog&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/1.png"
 width="1786"
