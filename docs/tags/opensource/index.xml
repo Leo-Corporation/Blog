@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 06 Jan 2024 11:01:11 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>PermaTop: Version 1.4.0.2401 is now available</title><link>https://blog.leocorporation.dev/2024/01/permatop-version-1.4.0.2401-is-now-available/</link><pubDate>Sat, 06 Jan 2024 11:01:11 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/01/permatop-version-1.4.0.2401-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/01/permatop-version-1.4.0.2401-is-now-available/cover.png" alt="Featured image of post PermaTop: Version 1.4.0.2401 is now available" />&lt;p>Version 1.4.0.2401 of PermaTop introduces the ability to automatically start the app on startup.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 14 Jan 2024 12:35:03 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 5.9.0.2401 is now available</title><link>https://blog.leocorporation.dev/2024/01/colorpicker-version-5.9.0.2401-is-now-available/</link><pubDate>Sun, 14 Jan 2024 12:35:03 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/01/colorpicker-version-5.9.0.2401-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/01/colorpicker-version-5.9.0.2401-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.9.0.2401 is now available" />&lt;p>A new version of ColorPicker Max is now available and it brings new customization options alongside several fixes and improvements.&lt;/p>
+&lt;h2 id="harmonies-options">Harmonies Options&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/01/colorpicker-version-5.9.0.2401-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/01/colorpicker-version-5.9.0.2401-is-now-available/1_hud5426da6fd9355fa95fe9e6c5a8788c2_195013_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/01/colorpicker-version-5.9.0.2401-is-now-available/1_hud5426da6fd9355fa95fe9e6c5a8788c2_195013_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new &amp;ldquo;Options&amp;rdquo; popup in Color Harmonies."
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>We are proud to introduce new customization options in the Harmonies page: You can now specify the amount of colors to generate, the step and angle to use for color generation. These new options give you more control over the way ColorPicker generates colors.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added RGB separator system (#360)&lt;/li>
+&lt;li>Added translations (#360)&lt;/li>
+&lt;li>Added the possibility to set a custom RGB separator (#360)&lt;/li>
+&lt;li>Added the possibility to set the angle for analogous color harmonies (#361)&lt;/li>
+&lt;li>Added the possibility to set the steps for monochromatic color harmonies (#362)&lt;/li>
+&lt;li>Added the possibility to set the number of analogous colors to generate (#363)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed missing &amp;ldquo;#&amp;rdquo; in front of HEX colors (#358)&lt;/li>
+&lt;li>Fixed unsorted AI models list (#359)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated copyright years (#364)&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DownloadColorPickerMax" target="_blank" rel="noopener"
+>Click here&lt;/a> to download ColorPicker Max.&lt;/p>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/colorpickermax" target="_blank" rel="noopener"
+>Learn More&lt;/a> about ColorPicker Max.&lt;/p></description></item><item><title>PermaTop: Version 1.4.0.2401 is now available</title><link>https://blog.leocorporation.dev/2024/01/permatop-version-1.4.0.2401-is-now-available/</link><pubDate>Sat, 06 Jan 2024 11:01:11 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/01/permatop-version-1.4.0.2401-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/01/permatop-version-1.4.0.2401-is-now-available/cover.png" alt="Featured image of post PermaTop: Version 1.4.0.2401 is now available" />&lt;p>Version 1.4.0.2401 of PermaTop introduces the ability to automatically start the app on startup.&lt;/p>
 &lt;h2 id="launch-at-windows-startup-option">Launch at Windows startup option&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/01/permatop-version-1.4.0.2401-is-now-available/1.png"
 width="800"
