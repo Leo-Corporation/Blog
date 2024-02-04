@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/</link><description>Recent content on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 14 Jan 2024 12:35:03 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 5.9.0.2401 is now available</title><link>https://blog.leocorporation.dev/2024/01/colorpicker-version-5.9.0.2401-is-now-available/</link><pubDate>Sun, 14 Jan 2024 12:35:03 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/01/colorpicker-version-5.9.0.2401-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/01/colorpicker-version-5.9.0.2401-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.9.0.2401 is now available" />&lt;p>A new version of ColorPicker Max is now available and it brings new customization options alongside several fixes and improvements.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/</link><description>Recent content on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 04 Feb 2024 11:57:19 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.1.0.2402 is now available</title><link>https://blog.leocorporation.dev/2024/02/internettest-version-8.1.0.2402-is-now-available/</link><pubDate>Sun, 04 Feb 2024 11:57:19 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/02/internettest-version-8.1.0.2402-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/02/internettest-version-8.1.0.2402-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.1.0.2402 is now available" />&lt;p>A new version of InternetTest Pro is available and it brings several improvements to the design of the app, as well as a new export WiFi Profiles feature.&lt;/p>
+&lt;h2 id="export-wifi-profiles">Export WiFI Profiles&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/02/internettest-version-8.1.0.2402-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/02/internettest-version-8.1.0.2402-is-now-available/1_huc4fc339c7ccd703a7b9b8c6e0ed67185_184799_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/02/internettest-version-8.1.0.2402-is-now-available/1_huc4fc339c7ccd703a7b9b8c6e0ed67185_184799_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new export menu"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>You can export saved WiFi profiles on your devices to a folder where all the different profiles will be available inside XML files. You can also choose whether to store the WiFi key as plain text or keep it encrypted if you want.&lt;/p>
+&lt;h2 id="new-adapter-info-window">New Adapter Info window&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/02/internettest-version-8.1.0.2402-is-now-available/2.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/02/internettest-version-8.1.0.2402-is-now-available/2_huaecea4c4b651b6b8af192f0452f4de50_294007_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/02/internettest-version-8.1.0.2402-is-now-available/2_huaecea4c4b651b6b8af192f0452f4de50_294007_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The redesigned Adapter Info window"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>We redesigned the Adapter Info window to make it easier to access to some key information such as: The current adapter status, the adapter name, and the total amount of data received and sent. This new UI makes it easier for you to see if you exceeded your data consumption quotas for example.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added placeholder for Recover passwords Quick Action (#541)&lt;/li>
+&lt;li>Added placeholder for WiFi Quick Action (#541)&lt;/li>
+&lt;li>Added translations (#542)&lt;/li>
+&lt;li>Added the possibility to export saved WiFi Networks (#542)&lt;/li>
+&lt;li>Redesigned the Adapter details window (#543)&lt;/li>
+&lt;li>The dismiss button is now hidden if the text box is empty (#544)&lt;/li>
+&lt;/ul>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>InternetTest Pro now has a landing page so you can learn more about its feature. &lt;a class="link" href="https://leocorporation.dev/store/internettest" target="_blank" rel="noopener"
+>Click here&lt;/a> to access it.&lt;/p>
+&lt;h2 id="get-the-app">Get the app&lt;/h2>
+&lt;p>InternetTest Pro is available on Windows and requires the .NET 6 Windows Desktop Runtime. Please note that in the future, we plan to upgrade to the .NET 8 Windows Desktop Runtime which will be needed to execute the app.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITP7" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Setup&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITPP" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Portable&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;/ul></description></item><item><title>ColorPicker: Version 5.9.0.2401 is now available</title><link>https://blog.leocorporation.dev/2024/01/colorpicker-version-5.9.0.2401-is-now-available/</link><pubDate>Sun, 14 Jan 2024 12:35:03 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/01/colorpicker-version-5.9.0.2401-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/01/colorpicker-version-5.9.0.2401-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 5.9.0.2401 is now available" />&lt;p>A new version of ColorPicker Max is now available and it brings new customization options alongside several fixes and improvements.&lt;/p>
 &lt;h2 id="harmonies-options">Harmonies Options&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/01/colorpicker-version-5.9.0.2401-is-now-available/1.png"
 width="950"
