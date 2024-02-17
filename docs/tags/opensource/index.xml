@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 04 Feb 2024 11:57:19 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.1.0.2402 is now available</title><link>https://blog.leocorporation.dev/2024/02/internettest-version-8.1.0.2402-is-now-available/</link><pubDate>Sun, 04 Feb 2024 11:57:19 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/02/internettest-version-8.1.0.2402-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/02/internettest-version-8.1.0.2402-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.1.0.2402 is now available" />&lt;p>A new version of InternetTest Pro is available and it brings several improvements to the design of the app, as well as a new export WiFi Profiles feature.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 17 Feb 2024 11:55:54 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 3.9.0.2402 is now available</title><link>https://blog.leocorporation.dev/2024/02/passliss-version-3.9.0.2402-is-now-available/</link><pubDate>Sat, 17 Feb 2024 11:55:54 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/02/passliss-version-3.9.0.2402-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/02/passliss-version-3.9.0.2402-is-now-available/cover.png" alt="Featured image of post Passliss: Version 3.9.0.2402 is now available" />&lt;p>Version 3.9.0.2402 of Passliss has been released and it brings CSV password export features, and many other features.&lt;/p>
+&lt;h2 id="export-generated-passwords-as-csv">Export generated passwords as CSV&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/02/passliss-version-3.9.0.2402-is-now-available/2.png"
+width="1687"
+height="918"
+srcset="https://blog.leocorporation.dev/2024/02/passliss-version-3.9.0.2402-is-now-available/2_hu43a103eb4fdb9fcc2ae628fb2df00a29_146476_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/02/passliss-version-3.9.0.2402-is-now-available/2_hu43a103eb4fdb9fcc2ae628fb2df00a29_146476_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new export option in the &amp;ldquo;Multiple passwords&amp;rdquo; dialog"
+class="gallery-image"
+data-flex-grow="183"
+data-flex-basis="441px"
+>&lt;/p>
+&lt;p>In the &amp;ldquo;Generate multiple passwords&amp;rdquo; feature, we made copying the generated passwords on mobile devices easier by adding a &amp;ldquo;Copy&amp;rdquo; button. Plus, there is now a new export button that allows you to export the generated passwords to a CSV file.&lt;/p>
+&lt;h2 id="other-ui-improvements">Other UI Improvements&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/02/passliss-version-3.9.0.2402-is-now-available/1.png"
+width="1684"
+height="916"
+srcset="https://blog.leocorporation.dev/2024/02/passliss-version-3.9.0.2402-is-now-available/1_huf7c7ec5b7469ad1de3decba89ad6acca_405277_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/02/passliss-version-3.9.0.2402-is-now-available/1_huf7c7ec5b7469ad1de3decba89ad6acca_405277_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new indicators in the Generate page"
+class="gallery-image"
+data-flex-grow="183"
+data-flex-basis="441px"
+>&lt;/p>
+&lt;p>This version of Passliss introduces a new appearance for the tabs in the &amp;ldquo;Generate&amp;rdquo; and in the &amp;ldquo;Encryption&amp;rdquo; pages, as well as a new indicator in the &amp;ldquo;Simple&amp;rdquo; mode of the &amp;ldquo;Generate&amp;rdquo; page, making it easier for new users to understand how this feature works.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added Strength indicators in Generate page (#771)&lt;/li>
+&lt;li>Redesigned tabs component (#840)&lt;/li>
+&lt;li>Redesigned tabs in Generate page (#840)&lt;/li>
+&lt;li>Redesigned tabs in Encryption page (#840)&lt;/li>
+&lt;li>Added copy button in &amp;ldquo;Multiple passwords&amp;rdquo; (#841)&lt;/li>
+&lt;li>Added the possibility to export generated passwords to CSV (#842)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed an issue with hover effect on home cards&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Improved margins in dialog&lt;/li>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch">Launch&lt;/h2>
+&lt;p>&lt;a class="link" href="https://passliss.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to launch Passliss in your web browser.&lt;/p>
+&lt;h2 id="learn-more">Learn more&lt;/h2>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/passliss" target="_blank" rel="noopener"
+>Click here&lt;/a> to learn more about Passliss&lt;/p></description></item><item><title>InternetTest: Version 8.1.0.2402 is now available</title><link>https://blog.leocorporation.dev/2024/02/internettest-version-8.1.0.2402-is-now-available/</link><pubDate>Sun, 04 Feb 2024 11:57:19 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/02/internettest-version-8.1.0.2402-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/02/internettest-version-8.1.0.2402-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.1.0.2402 is now available" />&lt;p>A new version of InternetTest Pro is available and it brings several improvements to the design of the app, as well as a new export WiFi Profiles feature.&lt;/p>
 &lt;h2 id="export-wifi-profiles">Export WiFI Profiles&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/02/internettest-version-8.1.0.2402-is-now-available/1.png"
 width="950"
