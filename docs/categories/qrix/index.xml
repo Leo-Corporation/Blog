@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qrix on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/qrix/</link><description>Recent content in Qrix on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 04 Jan 2024 17:59:48 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/qrix/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.5.0.2401 is now available</title><link>https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/</link><pubDate>Thu, 04 Jan 2024 17:59:48 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.5.0.2401 is now available" />&lt;p>With this new version of Qrix, we made several improvements to the app&amp;rsquo;s design, fixing many UI inconsistencies. Furthermore, we also added a new preview dialog in History.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qrix on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/qrix/</link><description>Recent content in Qrix on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 18 Feb 2024 11:34:09 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/qrix/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.6.0.2402 is now available</title><link>https://blog.leocorporation.dev/2024/02/qrix-version-1.6.0.2402-is-now-available/</link><pubDate>Sun, 18 Feb 2024 11:34:09 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/02/qrix-version-1.6.0.2402-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/02/qrix-version-1.6.0.2402-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.6.0.2402 is now available" />&lt;p>A new version of Qrix is now available, and it is the version 1.6.0.2402. This version introduces two bar code types: Telepen and Telepen Numeric. In addition, we also made several fixes and other improvements to the app.&lt;/p>
+&lt;h2 id="telepen-bar-code">Telepen Bar Code&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/02/qrix-version-1.6.0.2402-is-now-available/1.png"
+width="1638"
+height="887"
+srcset="https://blog.leocorporation.dev/2024/02/qrix-version-1.6.0.2402-is-now-available/1_hu1d20d28f5802656d98a1e469ca82ffdb_470329_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/02/qrix-version-1.6.0.2402-is-now-available/1_hu1d20d28f5802656d98a1e469ca82ffdb_470329_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Telepen option in the Bar Code page"
+class="gallery-image"
+data-flex-grow="184"
+data-flex-basis="443px"
+>&lt;/p>
+&lt;p>We have added support for the Telepen and the Telepen Numeric bar code types in Qrix. You will find the option in the bar code type dropdown menu in the &amp;ldquo;Bar Code&amp;rdquo; page. You can also set these two types as your default bar code type in the settings of the app.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Improved the UI of the Tabs component (#290)&lt;/li>
+&lt;li>Added new Tab design (#290)&lt;/li>
+&lt;li>Added barcode type label in History (#291)&lt;/li>
+&lt;li>Added Telepen and Telepen Numeric Barcodes (#292)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed hover style issues on Side Bar (#288)&lt;/li>
+&lt;li>Fixed hover issue on home page (#289)&lt;/li>
+&lt;li>Fixed wrong font weight in settings&lt;/li>
+&lt;li>Fixed alignment issue in Bar Code page&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch-qrix">Launch Qrix&lt;/h2>
+&lt;p>&lt;a class="link" href="ttps://qrix.leocorporation.dev" >Click here&lt;/a> to launch Qrix in your browser.&lt;/p>
+&lt;h2 id="learn-more">Learn more&lt;/h2>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/qrix" target="_blank" rel="noopener"
+>Click here&lt;/a> to learn more about Qrix.&lt;/p></description></item><item><title>Qrix: Version 1.5.0.2401 is now available</title><link>https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/</link><pubDate>Thu, 04 Jan 2024 17:59:48 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.5.0.2401 is now available" />&lt;p>With this new version of Qrix, we made several improvements to the app&amp;rsquo;s design, fixing many UI inconsistencies. Furthermore, we also added a new preview dialog in History.&lt;/p>
 &lt;h2 id="preview-dialog">Preview dialog&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/01/qrix-version-1.5.0.2401-is-now-available/1.png"
 width="1786"
