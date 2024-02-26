@@ -1,4 +1,166 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 18 Feb 2024 11:34:09 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.6.0.2402 is now available</title><link>https://blog.leocorporation.dev/2024/02/qrix-version-1.6.0.2402-is-now-available/</link><pubDate>Sun, 18 Feb 2024 11:34:09 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/02/qrix-version-1.6.0.2402-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/02/qrix-version-1.6.0.2402-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.6.0.2402 is now available" />&lt;p>A new version of Qrix is now available, and it is the version 1.6.0.2402. This version introduces two bar code types: Telepen and Telepen Numeric. In addition, we also made several fixes and other improvements to the app.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 26 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing ColorPicker Max 6</title><link>https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/</link><pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate><guid>https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/cover.png" alt="Featured image of post Introducing ColorPicker Max 6" />&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Last year, we&amp;rsquo;ve introduce the next iteration of ColorPicker: ColorPicker Max (v5). The goal was to create a more advanced tool for developers, designers and artists by introducing a new set of features. With ColorPicker Max 6, this goal remains almost the same: We added several new features while providing at the same time a better user experience across the app. Let&amp;rsquo;s see all the new features introduces by this 6th major version of ColorPicker.&lt;/p>
+&lt;h2 id="redesigned-dashboard">Redesigned dashboard&lt;/h2>
+&lt;h3 id="new-cards">New cards&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/1_hu3b96c2176be6426c108dad96f31069f9_190148_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/1_hu3b96c2176be6426c108dad96f31069f9_190148_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new dashboard of ColorPicker Max 6"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>We are introducing a brand-new design for page cards in the dashboard: They look more modern and interactive, which enhances at the same time the experience new users will have when they first launch the app.
+With a clean and intuitive layout, navigating through the Home page is now a visually stimulating experience, inviting you to explore the endless possibilities of color manipulation.&lt;/p>
+&lt;h3 id="quick-actions">Quick Actions&lt;/h3>
+&lt;p>In our quest to make color exploration more intuitive, we&amp;rsquo;ve introduced a brand-new Quick Actions system right at your fingertips. Say goodbye to endless clicks and complicated menus – with Quick Actions, performing common tasks is now just a tap away.&lt;/p>
+&lt;h4 id="select-a-color">Select a Color&lt;/h4>
+&lt;p>Need to pinpoint that perfect shade of blue or capture the essence of a vibrant sunset? Simply select the &amp;ldquo;Select a Color&amp;rdquo; Quick Action, and our intuitive color picker tool will empower you to choose one from your screen.&lt;/p>
+&lt;h4 id="contrast-ratio">Contrast Ratio&lt;/h4>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/2.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/2_hu3b96c2176be6426c108dad96f31069f9_196145_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/2_hu3b96c2176be6426c108dad96f31069f9_196145_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The &amp;ldquo;Contrast Ratio&amp;rdquo; quick action"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>Ensuring accessibility is essential in design, and with the &amp;ldquo;Contrast Ratio&amp;rdquo; Quick Action, you can effortlessly evaluate the legibility of text against different background colors. Whether you&amp;rsquo;re fine-tuning the typography of a website or crafting an attention-grabbing poster, achieving optimal contrast has never been simpler.&lt;/p>
+&lt;h4 id="random-palette">Random Palette&lt;/h4>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/3.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/3_hu3b96c2176be6426c108dad96f31069f9_180383_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/3_hu3b96c2176be6426c108dad96f31069f9_180383_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The &amp;ldquo;Random Palette&amp;rdquo; quick action"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>Need some inspiration? You can now generate color palettes thanks to the &amp;ldquo;Random Palette&amp;rdquo; Quick Action, which generates a harmonious array of colors at the click of a button. Whether you&amp;rsquo;re seeking inspiration for your next project or simply want to explore new color combinations, this feature promises to spark your creativity and ignite your imagination.&lt;/p>
+&lt;h2 id="redesigned-color-details-window">Redesigned Color Details window&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/4.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/4_hu20fe492b66de74f98d3225bf014a0b50_189637_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/4_hu20fe492b66de74f98d3225bf014a0b50_189637_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The redesigned Color Details window"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>We also took time to redesign the Color Details window, bringing a clear and more intuitive user interface. We added new hover effects, and improve the content alignment, making it more easy for you to work with this feature.&lt;/p>
+&lt;h2 id="image-color-extractor">Image Color Extractor&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/5.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/5_huf0501c4528c137fd395e625398366033_252005_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/5_huf0501c4528c137fd395e625398366033_252005_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Image Color Extractor page"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>In our latest update, ColorPicker Max introduces an exciting new feature: Image Color Extraction. Now, unlocking the palette of colors from your favorite images is just a click away. With a range of customizable options, this tool puts the power of color exploration directly into your hands.&lt;/p>
+&lt;h3 id="import-images-with-ease">Import Images with Ease&lt;/h3>
+&lt;p>Gone are the days of manual color picking. With the ability to import images directly into ColorPicker Max, you can effortlessly extract the vibrant hues from your chosen visuals.&lt;/p>
+&lt;h3 id="color-analysis">Color Analysis&lt;/h3>
+&lt;p>With the Image Color Extractor can you retrieve all colors present in an image, but you can also view their frequencies, providing valuable insights into the dominant tones at play.
+Plus, you can fine-tune the color extraction process with precision settings, allowing you to adjust the level of detail to suit your needs. Please note that if you use large images, the more precise the extraction is, the longer the process will take.&lt;/p>
+&lt;h3 id="export-the-extracted-data">Export the extracted data&lt;/h3>
+&lt;p>Seamlessly export your extracted colors to a CSV file for further analysis or integration into your projects. With support for both comma and semicolon formats, sharing and collaborating with colleagues has never been easier.&lt;/p>
+&lt;h2 id="contrast-grid">Contrast Grid&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/6.png"
+width="950"
+height="1039"
+srcset="https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/6_hu0cf43f25caa9b778dbe729be34bb5428_315563_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/6_hu0cf43f25caa9b778dbe729be34bb5428_315563_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new contrast grid feature"
+class="gallery-image"
+data-flex-grow="91"
+data-flex-basis="219px"
+>&lt;/p>
+&lt;p>ColorPicker Max 6 brings a new feature to the app: The Contrast Grid, which is designed to revolutionize your color selection process. With a focus on accessibility and efficiency, this tool provides invaluable insights into the contrast ratios of your chosen colors, empowering you to make informed design decisions effortlessly.&lt;/p>
+&lt;h3 id="visualize-contrast-with-ease">Visualize Contrast with Ease&lt;/h3>
+&lt;p>With the Contrast Grid feature, gaining a comprehensive understanding of color contrast has never been simpler. By generating a grid that showcases the contrast ratios between your selected color and a range of background hues, you can visualize how your color choices impact readability and accessibility across various contexts.&lt;/p>
+&lt;h3 id="optimize-accessibility">Optimize Accessibility&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/7.gif"
+width="1080"
+height="1080"
+srcset="https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/7_hu2835ed094198e3090ec8d6236870962d_274670_480x0_resize_box.gif 480w, https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/7_hu2835ed094198e3090ec8d6236870962d_274670_1024x0_resize_box.gif 1024w"
+loading="lazy"
+alt="The different grid obtains by selecting different scores"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>Incorporating accessibility principles into your design workflow is crucial, and the Contrast Grid feature makes it easier than ever. By identifying the best contrast scores, you can ensure that your content is easily legible for all users, regardless of their visual abilities. You can get more details about each color by right-clicking one in the grid.&lt;/p>
+&lt;h2 id="new-customization-options">New customization options&lt;/h2>
+&lt;p>With the latest update to ColorPicker Max, users now have the option to customize their HEX value formatting to either uppercase or lowercase by default. This small yet significant enhancement allows for a more personalized experience, taking into account your individual preferences and streamlining workflow efficiency.&lt;/p>
+&lt;h2 id="how-to-upgrade-from-colorpicker-max-5">How to upgrade from ColorPicker Max 5?&lt;/h2>
+&lt;p>This new version doesn&amp;rsquo;t introduce breaking changes, therefore you will be able to upgrade directly through the app by checking for updates in the Settings page. However, please note that ColorPicker Max 6 requires the .NET 8 Windows Runtime to be installed on your system. If the .NET 8 Windows Runtime is not installed, ColorPicker will ask you to install it. Finally, if you use the portable version, you will have to download the app executable file again, but your settings will remain unchanged.&lt;/p>
+&lt;h2 id="download-the-app">Download the app&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DownloadColorPickerMax" target="_blank" rel="noopener"
+>Click here&lt;/a> to download ColorPicker Max.&lt;/p>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/colorpickermax" target="_blank" rel="noopener"
+>Learn More&lt;/a> about ColorPicker Max.&lt;/p>
+&lt;h2 id="full-changelog">Full changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added new navigation system (#369)&lt;/li>
+&lt;li>Added new navigation style (#369)&lt;/li>
+&lt;li>Redesigned Color window (#370)&lt;/li>
+&lt;li>Redesigned page card (#371)&lt;/li>
+&lt;li>Added &amp;ldquo;Select a Color&amp;rdquo; quick action (#372)&lt;/li>
+&lt;li>Added contrast quick action (#372)&lt;/li>
+&lt;li>Added palette quick action (#372)&lt;/li>
+&lt;li>Added the possibility to expand code areas in Gradient page (#373)&lt;/li>
+&lt;li>Added header in Quick Actions (#372)&lt;/li>
+&lt;li>Created Image Extractor page (#374)&lt;/li>
+&lt;li>Added translations (#374)&lt;/li>
+&lt;li>Added Image Item (#374)&lt;/li>
+&lt;li>Added Color Frequence Item (#374)&lt;/li>
+&lt;li>Added the possibility to get all colors and their frequencies of an image (#375)&lt;/li>
+&lt;li>Limited amount of colors to display (#375)&lt;/li>
+&lt;li>Added the possibility to set precision in Image Extractor (#376)&lt;/li>
+&lt;li>Added the possibility to delete an image (#374)&lt;/li>
+&lt;li>Added the possibility to clear images (#374)&lt;/li>
+&lt;li>Added border for Color Displayer (#374)&lt;/li>
+&lt;li>Added the possibility to export all colors to a CSV File (#377)&lt;/li>
+&lt;li>Added the possibility to import multiple images (#378)&lt;/li>
+&lt;li>Added the possibility to show a maximum number of colors (#379)&lt;/li>
+&lt;li>Added the possibility to sort colors by their frequencies (#380)&lt;/li>
+&lt;li>Added placeholder (#374)&lt;/li>
+&lt;li>Added the possibility to get color details in Color Extractor (#374)&lt;/li>
+&lt;li>Created Contrast Grid page (#381)&lt;/li>
+&lt;li>Added the possibility to input a color (#381)&lt;/li>
+&lt;li>Added Color Grid item (#382)&lt;/li>
+&lt;li>Added the possibility to get the contrast grid of a color (#382)&lt;/li>
+&lt;li>Added translations (#383)&lt;/li>
+&lt;li>Added the possibility to only show the best scores (#383)&lt;/li>
+&lt;li>Added the possibility to get details of a color (#384)&lt;/li>
+&lt;li>Added the possibility to use upper cases or lower cases for HEX (#385)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed missing style issue&lt;/li>
+&lt;li>Fixed alignment issue&lt;/li>
+&lt;li>Fixed an issue with dark mode&lt;/li>
+&lt;li>Fixed toggle issue&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated translations (#372)&lt;/li>
+&lt;li>Improved CheckBox style&lt;/li>
+&lt;li>Image area is hidden when there is no image (#374)&lt;/li>
+&lt;li>Upgraded to .NET 8&lt;/li>
+&lt;li>Applied .NET 8 Coding style&lt;/li>
+&lt;li>Removed Action Card&lt;/li>
+&lt;/ul></description></item><item><title>Qrix: Version 1.6.0.2402 is now available</title><link>https://blog.leocorporation.dev/2024/02/qrix-version-1.6.0.2402-is-now-available/</link><pubDate>Sun, 18 Feb 2024 11:34:09 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/02/qrix-version-1.6.0.2402-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/02/qrix-version-1.6.0.2402-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.6.0.2402 is now available" />&lt;p>A new version of Qrix is now available, and it is the version 1.6.0.2402. This version introduces two bar code types: Telepen and Telepen Numeric. In addition, we also made several fixes and other improvements to the app.&lt;/p>
 &lt;h2 id="telepen-bar-code">Telepen Bar Code&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/02/qrix-version-1.6.0.2402-is-now-available/1.png"
 width="1638"
