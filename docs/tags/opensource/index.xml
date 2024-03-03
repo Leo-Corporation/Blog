@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 26 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing ColorPicker Max 6</title><link>https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/</link><pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate><guid>https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/cover.png" alt="Featured image of post Introducing ColorPicker Max 6" />&lt;h2 id="introduction">Introduction&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 03 Mar 2024 11:02:32 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 4.4.0.2403 is now available</title><link>https://blog.leocorporation.dev/2024/03/gavilya-version-4.4.0.2403-is-now-available/</link><pubDate>Sun, 03 Mar 2024 11:02:32 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/03/gavilya-version-4.4.0.2403-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/03/gavilya-version-4.4.0.2403-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.4.0.2403 is now available" />&lt;p>A new version of Gavilya is now available, and it is version 4.4.0.2403. This is also the first version of the year 2024, and we apologize for the lack of updates in recent months. This update doesn&amp;rsquo;t include new major features, but rather focuses on improving existing areas of the app by introducing a more intuitive design.&lt;/p>
+&lt;p>We also want to bring to attention that starting with version 4.4.0.2403, Gavilya now relies on the &lt;a class="link" href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.2-windows-x64-installer" target="_blank" rel="noopener"
+>.NET 8 Desktop Runtime&lt;/a>, which is required to be installed on your system. If the runtime is not installed, after you update to v4.4.0.2403, Gavilya won&amp;rsquo;t launch and will ask you to download it.&lt;/p>
+&lt;h2 id="redesigned-statistics-section">Redesigned Statistics section&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/03/gavilya-version-4.4.0.2403-is-now-available/1.png"
+width="1185"
+height="700"
+srcset="https://blog.leocorporation.dev/2024/03/gavilya-version-4.4.0.2403-is-now-available/1_hu211a1d08d8bee3912d92b810681611fa_257237_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/03/gavilya-version-4.4.0.2403-is-now-available/1_hu211a1d08d8bee3912d92b810681611fa_257237_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The Redesigned Statistics section"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;p>The statistics section of the dashboard has been redesigned slightly to be more clear and visible. We removed the quick info section and integrated it directly under the game name.&lt;/p>
+&lt;h2 id="improved-game-creation-experience">Improved Game creation experience&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/03/gavilya-version-4.4.0.2403-is-now-available/2.png"
+width="1185"
+height="700"
+srcset="https://blog.leocorporation.dev/2024/03/gavilya-version-4.4.0.2403-is-now-available/2_hueb848ad0635fda4aaea71dc754f74fac_53611_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/03/gavilya-version-4.4.0.2403-is-now-available/2_hueb848ad0635fda4aaea71dc754f74fac_53611_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new executable scanner UI"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;p>The latest updates of Gavilya introduced a new way to add Win32 games by scanning a directory for executables. However, the UI was not really easy to understand and that is why we decided to redesign the entire UI for this feature, but also for the RAWG integrations and the UWP app selector as well.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Redesigned the Statistics section (#441)&lt;/li>
+&lt;li>Added border to popups in &amp;ldquo;Add a game&amp;rdquo; (#442)&lt;/li>
+&lt;li>Added new design for RAWG item&lt;/li>
+&lt;li>Redesigned Scan Directory popup (#443)&lt;/li>
+&lt;li>Added translations (#443)&lt;/li>
+&lt;li>Redesigned Scan Apps popup (#443)&lt;/li>
+&lt;li>Upgraded to .NET 8&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed wrong file format in Setting (#440)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated copyright years (#444)&lt;/li>
+&lt;li>Updated PeyrSharp.Core (#445)&lt;/li>
+&lt;li>Updated PeyrSharp.Env (#446)&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://bit.ly/Gavilya" target="_blank" rel="noopener"
+>Click here&lt;/a> to download Gavilya.&lt;/p>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>&lt;a class="link" href="https://gavilya.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to go the website of Gavilya.&lt;/p></description></item><item><title>Introducing ColorPicker Max 6</title><link>https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/</link><pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate><guid>https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/02/introducing-colorpicker-max-6/cover.png" alt="Featured image of post Introducing ColorPicker Max 6" />&lt;h2 id="introduction">Introduction&lt;/h2>
 &lt;p>Last year, we&amp;rsquo;ve introduce the next iteration of ColorPicker: ColorPicker Max (v5). The goal was to create a more advanced tool for developers, designers and artists by introducing a new set of features. With ColorPicker Max 6, this goal remains almost the same: We added several new features while providing at the same time a better user experience across the app. Let&amp;rsquo;s see all the new features introduces by this 6th major version of ColorPicker.&lt;/p>
 &lt;h2 id="redesigned-dashboard">Redesigned dashboard&lt;/h2>
 &lt;h3 id="new-cards">New cards&lt;/h3>
