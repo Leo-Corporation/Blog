@@ -1,4 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/</link><description>Recent content on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 03 Mar 2024 11:02:32 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 4.4.0.2403 is now available</title><link>https://blog.leocorporation.dev/2024/03/gavilya-version-4.4.0.2403-is-now-available/</link><pubDate>Sun, 03 Mar 2024 11:02:32 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/03/gavilya-version-4.4.0.2403-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/03/gavilya-version-4.4.0.2403-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.4.0.2403 is now available" />&lt;p>A new version of Gavilya is now available, and it is version 4.4.0.2403. This is also the first version of the year 2024, and we apologize for the lack of updates in recent months. This update doesn&amp;rsquo;t include new major features, but rather focuses on improving existing areas of the app by introducing a more intuitive design.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/</link><description>Recent content on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 10 Mar 2024 11:15:09 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing Passliss 4</title><link>https://blog.leocorporation.dev/2024/03/introducing-passliss-4/</link><pubDate>Sun, 10 Mar 2024 11:15:09 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/03/introducing-passliss-4/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/03/introducing-passliss-4/cover.png" alt="Featured image of post Introducing Passliss 4" />&lt;p>In an era where cybersecurity threats are becoming increasingly sophisticated, the importance of robust password management cannot be overstated. With each passing day, we entrust more of our personal and professional lives to the digital realm, necessitating the need for strong, unique passwords to safeguard our sensitive information. This fourth major version of Passliss is here to answer new needs when it comes to password generation. Let&amp;rsquo;s see what&amp;rsquo;s new!&lt;/p>
+&lt;h2 id="introducing-presets">Introducing Presets&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/03/introducing-passliss-4/2.png"
+width="1793"
+height="992"
+srcset="https://blog.leocorporation.dev/2024/03/introducing-passliss-4/2_huc5106c705e529479274fac5c1c15d7f7_450889_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/03/introducing-passliss-4/2_huc5106c705e529479274fac5c1c15d7f7_450889_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Presets page"
+class="gallery-image"
+data-flex-grow="180"
+data-flex-basis="433px"
+>&lt;/p>
+&lt;p>With Passliss for the Web 4, we are thrilled to introduce a groundbreaking new feature: Presets. Presets revolutionize the password generation experience by allowing users to create default configurations that align with their specific preferences and security needs. Gone are the days of manually adjusting settings for each password generation session—Presets streamline the process, ensuring that users can generate passwords tailored to their exact specifications with just a few clicks.&lt;/p>
+&lt;h3 id="customization-made-easy">Customization Made Easy&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/03/introducing-passliss-4/3.png"
+width="1790"
+height="997"
+srcset="https://blog.leocorporation.dev/2024/03/introducing-passliss-4/3_hu2eb21bc5f8bc1be8a1148155228875b0_140160_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/03/introducing-passliss-4/3_hu2eb21bc5f8bc1be8a1148155228875b0_140160_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Presets creation assistant"
+class="gallery-image"
+data-flex-grow="179"
+data-flex-basis="430px"
+>&lt;/p>
+&lt;p>Presets empower users to customize every aspect of their password generation process, from the inclusion of uppercase and lowercase letters to the incorporation of numbers and special characters. Want a password that includes uppercase letters and numbers but excludes special characters? No problem. With Presets, users can effortlessly define their desired configuration, eliminating the need for repetitive adjustments.&lt;/p>
+&lt;h3 id="fine-tuned-control">Fine-Tuned Control&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/03/introducing-passliss-4/4.png"
+width="1784"
+height="995"
+srcset="https://blog.leocorporation.dev/2024/03/introducing-passliss-4/4_hud49d5a65d7d29857b58fe3d280629412_145791_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/03/introducing-passliss-4/4_hud49d5a65d7d29857b58fe3d280629412_145791_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="You can customize and adjust each setting when creating a preset."
+class="gallery-image"
+data-flex-grow="179"
+data-flex-basis="430px"
+>&lt;/p>
+&lt;p>What sets Presets apart is its granular level of control over password generation parameters. For each character type—uppercase, lowercase, numbers, and special characters—users can set both a minimum and maximum number of characters to include in their passwords. This level of flexibility ensures that users can strike the perfect balance between complexity and memorability, catering to their individual preferences and security requirements.&lt;/p>
+&lt;h3 id="target-length-setting">Target Length Setting&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/03/introducing-passliss-4/5.png"
+width="1795"
+height="998"
+srcset="https://blog.leocorporation.dev/2024/03/introducing-passliss-4/5_hu369f427d7ebdd9206a53335757875371_131632_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/03/introducing-passliss-4/5_hu369f427d7ebdd9206a53335757875371_131632_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="You can now select a preset when generating a password"
+class="gallery-image"
+data-flex-grow="179"
+data-flex-basis="431px"
+>&lt;/p>
+&lt;p>In addition to specifying the minimum and maximum character counts for each character type, Presets also allow users to set a target length for their passwords. Whether you prefer shorter, more concise passwords or longer, more robust ones, you can easily define your desired password length with a single setting. Presets then intelligently adjust the distribution of characters within the password to meet your specified target length, ensuring that each generated password is optimized for both security and usability.&lt;/p>
+&lt;h3 id="effortless-password-generation">Effortless Password Generation&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/03/introducing-passliss-4/1.png"
+width="1789"
+height="990"
+srcset="https://blog.leocorporation.dev/2024/03/introducing-passliss-4/1_hu1edd7fa184e62952f2d6088bed4ed4d7_468454_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/03/introducing-passliss-4/1_hu1edd7fa184e62952f2d6088bed4ed4d7_468454_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Once you created a preset, you can use it effortlessly in the Generate page."
+class="gallery-image"
+data-flex-grow="180"
+data-flex-basis="433px"
+>&lt;/p>
+&lt;p>With Presets, generating secure passwords has never been easier. Once users have configured their desired preset settings, they can simply select their preferred preset from the dropdown menu when generating a new password. Passliss for the Web 4 will then automatically apply the preset configuration, instantly generating a password that aligns with the user&amp;rsquo;s specifications. This streamlined process saves time and eliminates the guesswork, allowing users to focus on what matters most—keeping their online accounts secure.&lt;/p>
+&lt;h2 id="other-improvements">Other improvements&lt;/h2>
+&lt;p>We also took time to improve some areas of the app and improve existing features. This fourth major version isn&amp;rsquo;t a complete revolution, but rather focuses on improving the user experience across the app.&lt;/p>
+&lt;h2 id="launch">Launch&lt;/h2>
+&lt;p>&lt;a class="link" href="https://passliss.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to launch Passliss in your web browser.&lt;/p>
+&lt;h2 id="learn-more">Learn more&lt;/h2>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/passliss" target="_blank" rel="noopener"
+>Click here&lt;/a> to learn more about Passliss&lt;/p></description></item><item><title>Gavilya: Version 4.4.0.2403 is now available</title><link>https://blog.leocorporation.dev/2024/03/gavilya-version-4.4.0.2403-is-now-available/</link><pubDate>Sun, 03 Mar 2024 11:02:32 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/03/gavilya-version-4.4.0.2403-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/03/gavilya-version-4.4.0.2403-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.4.0.2403 is now available" />&lt;p>A new version of Gavilya is now available, and it is version 4.4.0.2403. This is also the first version of the year 2024, and we apologize for the lack of updates in recent months. This update doesn&amp;rsquo;t include new major features, but rather focuses on improving existing areas of the app by introducing a more intuitive design.&lt;/p>
 &lt;p>We also want to bring to attention that starting with version 4.4.0.2403, Gavilya now relies on the &lt;a class="link" href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.2-windows-x64-installer" target="_blank" rel="noopener"
 >.NET 8 Desktop Runtime&lt;/a>, which is required to be installed on your system. If the runtime is not installed, after you update to v4.4.0.2403, Gavilya won&amp;rsquo;t launch and will ask you to download it.&lt;/p>
 &lt;h2 id="redesigned-statistics-section">Redesigned Statistics section&lt;/h2>
