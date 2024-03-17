@@ -1,4 +1,70 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 10 Mar 2024 11:15:09 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing Passliss 4</title><link>https://blog.leocorporation.dev/2024/03/introducing-passliss-4/</link><pubDate>Sun, 10 Mar 2024 11:15:09 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/03/introducing-passliss-4/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/03/introducing-passliss-4/cover.png" alt="Featured image of post Introducing Passliss 4" />&lt;p>In an era where cybersecurity threats are becoming increasingly sophisticated, the importance of robust password management cannot be overstated. With each passing day, we entrust more of our personal and professional lives to the digital realm, necessitating the need for strong, unique passwords to safeguard our sensitive information. This fourth major version of Passliss is here to answer new needs when it comes to password generation. Let&amp;rsquo;s see what&amp;rsquo;s new!&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Mar 2024 14:30:47 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 6.1.0.2403 is now available</title><link>https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/</link><pubDate>Sun, 17 Mar 2024 14:30:47 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.1.0.2403 is now available" />&lt;p>A new version of ColorPicker Max is now available and it brings the ability to add a note in your bookmarks.&lt;/p>
+&lt;h2 id="bookmark-notes">Bookmark notes&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/1_huca539358cf5b6c0a5c442bf996f865ac_214708_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/1_huca539358cf5b6c0a5c442bf996f865ac_214708_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new bookmark notes feature"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>In its latest update, ColorPicker Max introduces the ability to add notes to color bookmarks. This enhancement empowers users to not only catalog their favorite colors but also annotate them with quick, insightful notes. This seemingly small addition has a profound impact on workflow efficiency and creative collaboration. Indeed, designers often work on multiple projects simultaneously, each with its own color scheme and design requirements.
+By annotating color bookmarks with project-specific notes, designers can maintain clarity and context throughout their workflow.&lt;/p>
+&lt;p>To get started with this feature, click on the &amp;ldquo;&amp;hellip;&amp;rdquo;, then on &amp;ldquo;Add a note&amp;rdquo;.&lt;/p>
+&lt;h2 id="other-improvements">Other improvements&lt;/h2>
+&lt;h3 id="color-grid">Color Grid&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/2.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/2_hu38f05405fbf35de61ac48e43c6f0753d_187752_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/2_hu38f05405fbf35de61ac48e43c6f0753d_187752_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="You can highlight the original color in the grid feature."
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>It is now possible to highlight the original color in the color grid page. This makes it more easy to identify the best color combinations possible.&lt;/p>
+&lt;h3 id="color-details">Color Details&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/3.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/3_hu57ee509db3474f7fb70e4e378c7fa706_174941_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/3_hu57ee509db3474f7fb70e4e378c7fa706_174941_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The decimal type was added to the Color Details."
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>We also added the ability to view and copy the DEC value of a color in the color details window.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added bookmarks note system (#395)&lt;/li>
+&lt;li>Added translations (#395)&lt;/li>
+&lt;li>Added the possibility to create notes on color bookmarks (#395)&lt;/li>
+&lt;li>Added shortcut to note (#395)&lt;/li>
+&lt;li>Added placeholder when clearing the Image Extractor (#396)&lt;/li>
+&lt;li>Added DEC section to color details (#397)&lt;/li>
+&lt;li>Added the possibility to highlight selected color in Grid (#398)&lt;/li>
+&lt;li>Added the possibility to toggle highlight (#398)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed an issue when removing a bookmark (#395)&lt;/li>
+&lt;li>Fixed an issue in dark mode&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated dependencies&lt;/li>
+&lt;li>Improved writing experience in bookmark note&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DownloadColorPickerMax" target="_blank" rel="noopener"
+>Click here&lt;/a> to download ColorPicker Max.&lt;/p>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/colorpickermax" target="_blank" rel="noopener"
+>Learn More&lt;/a> about ColorPicker Max.&lt;/p></description></item><item><title>Introducing Passliss 4</title><link>https://blog.leocorporation.dev/2024/03/introducing-passliss-4/</link><pubDate>Sun, 10 Mar 2024 11:15:09 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/03/introducing-passliss-4/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/03/introducing-passliss-4/cover.png" alt="Featured image of post Introducing Passliss 4" />&lt;p>In an era where cybersecurity threats are becoming increasingly sophisticated, the importance of robust password management cannot be overstated. With each passing day, we entrust more of our personal and professional lives to the digital realm, necessitating the need for strong, unique passwords to safeguard our sensitive information. This fourth major version of Passliss is here to answer new needs when it comes to password generation. Let&amp;rsquo;s see what&amp;rsquo;s new!&lt;/p>
 &lt;h2 id="introducing-presets">Introducing Presets&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/03/introducing-passliss-4/2.png"
 width="1793"
