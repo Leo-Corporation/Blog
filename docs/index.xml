@@ -1,4 +1,84 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/</link><description>Recent content on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Mar 2024 14:30:47 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 6.1.0.2403 is now available</title><link>https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/</link><pubDate>Sun, 17 Mar 2024 14:30:47 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.1.0.2403 is now available" />&lt;p>A new version of ColorPicker Max is now available and it brings the ability to add a note in your bookmarks.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/</link><description>Recent content on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 14 Apr 2024 11:51:06 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.2.0.2404 is now available</title><link>https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/</link><pubDate>Sun, 14 Apr 2024 11:51:06 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.2.0.2404 is now available" />&lt;p>A new version of InternetTest Pro is available and it brings the new Requests feature.&lt;/p>
+&lt;h2 id="introducing-the-http-requests-feature">Introducing the HTTP Requests Feature&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/1.png"
+width="981"
+height="639"
+srcset="https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/1_hu1f2dafec12fbc1beeeb59aab9c768432_192007_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/1_hu1f2dafec12fbc1beeeb59aab9c768432_192007_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new HTTP Requests page"
+class="gallery-image"
+data-flex-grow="153"
+data-flex-basis="368px"
+>
+We are happy to introduce a brand new feature for InternetTest Pro: The &amp;ldquo;Requests&amp;rdquo; page. The HTTP Requests feature is a game-changer, providing users with the ability to interact with web servers directly from within the InternetTest Pro interface.&lt;/p>
+&lt;h3 id="seamless-interaction">Seamless Interaction&lt;/h3>
+&lt;p>Gone are the days of relying on third-party applications or complex command-line tools to send HTTP requests. With InternetTest Pro, users can effortlessly send various types of requests—GET, POST, PUT, DELETE, HEAD, OPTIONS, PATCH, MERGE, COPY, and more—directly from the comfort of their Windows environment. This streamlined process ensures efficiency and convenience, allowing users to focus on their tasks without unnecessary distractions.&lt;/p>
+&lt;h3 id="query-editor">Query Editor&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/3.png"
+width="981"
+height="639"
+srcset="https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/3_hu1f2dafec12fbc1beeeb59aab9c768432_267740_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/3_hu1f2dafec12fbc1beeeb59aab9c768432_267740_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The query editor allows users to toggle on and off parameters"
+class="gallery-image"
+data-flex-grow="153"
+data-flex-basis="368px"
+>
+One of the standout features of the HTTP Requests tool is its intuitive query editor, which puts the power of customization in the hands of the user. Need to include specific query parameters in your request? No problem. With the ability to toggle query parameters on and off seamlessly, users can tailor their requests with precision, ensuring accurate and relevant interactions with the target server.&lt;/p>
+&lt;h3 id="response-section">Response Section&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/2.png"
+width="981"
+height="639"
+srcset="https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/2_hu1f2dafec12fbc1beeeb59aab9c768432_172889_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/2_hu1f2dafec12fbc1beeeb59aab9c768432_172889_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The Response section, with Headers"
+class="gallery-image"
+data-flex-grow="153"
+data-flex-basis="368px"
+>
+Understanding the response from a web server is crucial for troubleshooting and optimization purposes. InternetTest Pro goes above and beyond by providing users with comprehensive feedback, including both the response content and headers. This valuable insight empowers users to analyze server responses effectively, making informed decisions and adjustments as needed. You can also save and copy all the details about the query in a few clicks.&lt;/p>
+&lt;h2 id="framework-upgrade">Framework Upgrade&lt;/h2>
+&lt;p>Starting with version 8.2, InternetTest Pro now requires you to have the .NET 8 Windows Desktop Runtime installed on your computer to work properly. You can &lt;a class="link" href="https://dotnet.microsoft.com/en-us/download/dotnet/8.0" target="_blank" rel="noopener"
+>click here&lt;/a> to download it.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added translations (#548)&lt;/li>
+&lt;li>Created Requests page (#548)&lt;/li>
+&lt;li>Added Requests page (#548)&lt;/li>
+&lt;li>Added &amp;ldquo;Response&amp;rdquo; text (#549)&lt;/li>
+&lt;li>Added the possibility to send an HTTP request (#549)&lt;/li>
+&lt;li>Added Parameters Item (#549)&lt;/li>
+&lt;li>Added Parameters section (#549)&lt;/li>
+&lt;li>Added the possibility to copy the response (#550)&lt;/li>
+&lt;li>Added the possibility to save the response (#550)&lt;/li>
+&lt;li>Added translations (#551)&lt;/li>
+&lt;li>Added the possibility to get the headers of the response (#551)&lt;/li>
+&lt;li>Added the possibility to edit parameters (#552)&lt;/li>
+&lt;li>Added the possibility to toggle parameters (#552)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed an issue with default page&lt;/li>
+&lt;li>Fixed wrong request issue&lt;/li>
+&lt;li>Fixed wrong background color&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Upgraded to .NET 8 (#553)&lt;/li>
+&lt;li>Updated Setup&lt;/li>
+&lt;/ul>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>InternetTest Pro now has a landing page so you can learn more about its feature. &lt;a class="link" href="https://leocorporation.dev/store/internettest" target="_blank" rel="noopener"
+>Click here&lt;/a> to access it.&lt;/p>
+&lt;h2 id="get-the-app">Get the app&lt;/h2>
+&lt;p>InternetTest Pro is available on Windows and requires the .NET 8 Windows Desktop Runtime.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITP7" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Setup&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITPP" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Portable&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;/ul></description></item><item><title>ColorPicker: Version 6.1.0.2403 is now available</title><link>https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/</link><pubDate>Sun, 17 Mar 2024 14:30:47 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.1.0.2403 is now available" />&lt;p>A new version of ColorPicker Max is now available and it brings the ability to add a note in your bookmarks.&lt;/p>
 &lt;h2 id="bookmark-notes">Bookmark notes&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/1.png"
 width="950"
