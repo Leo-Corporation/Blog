@@ -1,4 +1,80 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 14 Apr 2024 11:51:06 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.2.0.2404 is now available</title><link>https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/</link><pubDate>Sun, 14 Apr 2024 11:51:06 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.2.0.2404 is now available" />&lt;p>A new version of InternetTest Pro is available and it brings the new Requests feature.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2024 14:42:23 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.6.0.2402 is now available</title><link>https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/</link><pubDate>Mon, 15 Apr 2024 14:42:23 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.6.0.2402 is now available" />&lt;p>A new version of Qrix is now available, and it is the version 1.7.0.2404. With this version, we are introducing &amp;ldquo;Interactive QR Codes&amp;rdquo;, a new way to share content using QR Codes. These innovative codes redefine how you share content, offering seamless connectivity and convenience like never before.&lt;/p>
+&lt;h2 id="experience-interactive-qr-codes">Experience Interactive QR Codes&lt;/h2>
+&lt;p>Interactive QR Codes revolutionize the traditional static QR Code experience by triggering dynamic actions upon scanning. Let&amp;rsquo;s delve into the exciting capabilities of this new feature:&lt;/p>
+&lt;h3 id="effortless-email-integration">Effortless Email Integration&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/1.png"
+width="1881"
+height="1002"
+srcset="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/1_hufda73d4ad2d89f07d409541f82961faa_637996_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/1_hufda73d4ad2d89f07d409541f82961faa_637996_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Email QR Code generator"
+class="gallery-image"
+data-flex-grow="187"
+data-flex-basis="450px"
+>&lt;/p>
+&lt;p>With Qrix&amp;rsquo;s Email QR Code generator, sending emails becomes effortless. Simply input the recipient&amp;rsquo;s email address, the subject, and the message content. Upon scanning, your default email application opens instantly with the predefined settings, allowing you to send the email with just a click.&lt;/p>
+&lt;h3 id="instant-sms-communication">Instant SMS Communication&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/2.png"
+width="1880"
+height="1001"
+srcset="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/2_hu1a0f2ed90bf2a52827b7ebe9a9931edf_634745_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/2_hu1a0f2ed90bf2a52827b7ebe9a9931edf_634745_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The SMS QR Code generator"
+class="gallery-image"
+data-flex-grow="187"
+data-flex-basis="450px"
+>&lt;/p>
+&lt;p>The SMS QR Code generator operates similarly to its email counterpart. Input the recipient&amp;rsquo;s phone number and the message content, and upon scanning, your default messaging app opens, ready to send the message promptly.&lt;/p>
+&lt;h3 id="seamless-wifi-sharing">Seamless WiFi Sharing&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/3.png"
+width="1881"
+height="1002"
+srcset="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/3_hu5e52386d4c47a0dfd0fece4df5fed478_636094_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/3_hu5e52386d4c47a0dfd0fece4df5fed478_636094_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The WiFi QR Code generator form"
+class="gallery-image"
+data-flex-grow="187"
+data-flex-basis="450px"
+>&lt;/p>
+&lt;p>Sharing WiFi credentials has never been easier with Qrix&amp;rsquo;s WiFi QR Code generator. Generate a QR Code containing the network name (SSID), password, and encryption protocol. Upon scanning, devices can automatically connect to the WiFi network, streamlining the sharing process.&lt;/p>
+&lt;h3 id="effortless-contact-sharing">Effortless Contact Sharing&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/4.png"
+width="1879"
+height="999"
+srcset="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/4_hudb311fedc9febc1bd02aa79002c68f84_649716_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/4_hudb311fedc9febc1bd02aa79002c68f84_649716_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Contact QR Code generator"
+class="gallery-image"
+data-flex-grow="188"
+data-flex-basis="451px"
+>&lt;/p>
+&lt;p>With the Contact QR Code generator, sharing contact information is a breeze. Qrix allows you to input comprehensive contact details, including names, phone numbers, email addresses, and postal addresses. Upon scanning, users are prompted to import the information directly into their default contact application, ensuring effortless contact management.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added locales (#370)&lt;/li>
+&lt;li>Added TextArea component (#370)&lt;/li>
+&lt;li>Added the possibility to generate Email QR Codes (#370)&lt;/li>
+&lt;li>Added the possibility to generate SMS QR Codes (#371)&lt;/li>
+&lt;li>Added RadioGroup component (#372)&lt;/li>
+&lt;li>Added the possibility to generate WiFi QR Codes (#372)&lt;/li>
+&lt;li>Added the possibility to generate Contact Card QR Code (#373)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed an issue with Comboboxes&lt;/li>
+&lt;li>Fixed placeholder theme (#370)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Optimized UI for mobile devices&lt;/li>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch-qrix">Launch Qrix&lt;/h2>
+&lt;p>&lt;a class="link" href="ttps://qrix.leocorporation.dev" >Click here&lt;/a> to launch Qrix in your browser.&lt;/p>
+&lt;h2 id="learn-more">Learn more&lt;/h2>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/qrix" target="_blank" rel="noopener"
+>Click here&lt;/a> to learn more about Qrix.&lt;/p></description></item><item><title>InternetTest: Version 8.2.0.2404 is now available</title><link>https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/</link><pubDate>Sun, 14 Apr 2024 11:51:06 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.2.0.2404 is now available" />&lt;p>A new version of InternetTest Pro is available and it brings the new Requests feature.&lt;/p>
 &lt;h2 id="introducing-the-http-requests-feature">Introducing the HTTP Requests Feature&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/internettest-version-8.2.0.2404-is-now-available/1.png"
 width="981"
