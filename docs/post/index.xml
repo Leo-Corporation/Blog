@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2024 14:42:23 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.6.0.2402 is now available</title><link>https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/</link><pubDate>Mon, 15 Apr 2024 14:42:23 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.6.0.2402 is now available" />&lt;p>A new version of Qrix is now available, and it is the version 1.7.0.2404. With this version, we are introducing &amp;ldquo;Interactive QR Codes&amp;rdquo;, a new way to share content using QR Codes. These innovative codes redefine how you share content, offering seamless connectivity and convenience like never before.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 16 Apr 2024 10:57:50 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 4.1.0.2404 is now available</title><link>https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/</link><pubDate>Tue, 16 Apr 2024 10:57:50 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/cover.png" alt="Featured image of post Passliss: Version 4.1.0.2404 is now available" />&lt;p>Version 4.1.0.2404 is now available for Passliss, and it brings several improvements to the password presets feature, but also new features for the activity page, and more!&lt;/p>
+&lt;h2 id="improved-password-preset-experience">Improved Password Preset Experience&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/1.png"
+width="1848"
+height="967"
+srcset="https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/1_hu5f1b86b1b3dff7afa070c2cc8d8ab4da_477543_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/1_hu5f1b86b1b3dff7afa070c2cc8d8ab4da_477543_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new design of the presets page"
+class="gallery-image"
+data-flex-grow="191"
+data-flex-basis="458px"
+>
+Starting with this new version of Passliss, you can now edit your presets without having to delete them and recreate them each time you want to make a modification. We also improve the user interface of the preset page to make it clearer and simpler to quickly understand the different properties of each preset. Finally, we also added the possibility to import and export password presets, so you can bring them to different machines more easily.&lt;/p>
+&lt;h2 id="other-improvements">Other improvements&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/2.png"
+width="1845"
+height="965"
+srcset="https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/2_hud5673d33811d5b9ad6523218e03456f1_452358_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/2_hud5673d33811d5b9ad6523218e03456f1_452358_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="You can now filter your history with the new &amp;ldquo;Filter&amp;rdquo; options"
+class="gallery-image"
+data-flex-grow="191"
+data-flex-basis="458px"
+>&lt;/p>
+&lt;p>With version 4.1.0.2404, we are introducing a new filter option in the Activity page. This feature allows you to only show passwords depending on their strength. We also made several other improvements and fixes to other ares of the app. Check the full changelog below for details.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added locales (#974)&lt;/li>
+&lt;li>Added the possibility to filter history (#974)&lt;/li>
+&lt;li>Added the possibility to edit a preset (#975)&lt;/li>
+&lt;li>Improved the UI of the presets page (#976)&lt;/li>
+&lt;li>Improved UI for mobile devices (#976)&lt;/li>
+&lt;li>Added the possibility to import/export presets (#977)&lt;/li>
+&lt;li>Improved alignment on preset page&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed hover issue (#976)&lt;/li>
+&lt;li>Fixed inconsistent button (#977)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch">Launch&lt;/h2>
+&lt;p>&lt;a class="link" href="https://passliss.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to launch Passliss in your web browser.&lt;/p>
+&lt;h2 id="learn-more">Learn more&lt;/h2>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/passliss" target="_blank" rel="noopener"
+>Click here&lt;/a> to learn more about Passliss&lt;/p></description></item><item><title>Qrix: Version 1.6.0.2402 is now available</title><link>https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/</link><pubDate>Mon, 15 Apr 2024 14:42:23 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.6.0.2402 is now available" />&lt;p>A new version of Qrix is now available, and it is the version 1.7.0.2404. With this version, we are introducing &amp;ldquo;Interactive QR Codes&amp;rdquo;, a new way to share content using QR Codes. These innovative codes redefine how you share content, offering seamless connectivity and convenience like never before.&lt;/p>
 &lt;h2 id="experience-interactive-qr-codes">Experience Interactive QR Codes&lt;/h2>
 &lt;p>Interactive QR Codes revolutionize the traditional static QR Code experience by triggering dynamic actions upon scanning. Let&amp;rsquo;s delve into the exciting capabilities of this new feature:&lt;/p>
 &lt;h3 id="effortless-email-integration">Effortless Email Integration&lt;/h3>
