@@ -1,4 +1,89 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 16 Apr 2024 10:57:50 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 4.1.0.2404 is now available</title><link>https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/</link><pubDate>Tue, 16 Apr 2024 10:57:50 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/cover.png" alt="Featured image of post Passliss: Version 4.1.0.2404 is now available" />&lt;p>Version 4.1.0.2404 is now available for Passliss, and it brings several improvements to the password presets feature, but also new features for the activity page, and more!&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 18 Apr 2024 14:18:57 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing DayBar 2 - A new way to organize your day</title><link>https://blog.leocorporation.dev/2024/04/introducing-daybar-2-a-new-way-to-organize-your-day/</link><pubDate>Thu, 18 Apr 2024 14:18:57 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/04/introducing-daybar-2-a-new-way-to-organize-your-day/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/04/introducing-daybar-2-a-new-way-to-organize-your-day/cover.png" alt="Featured image of post Introducing DayBar 2 - A new way to organize your day" />&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In today&amp;rsquo;s fast-paced world, time is our most valuable asset. How we manage it can significantly impact our productivity and overall well-being. Enter DayBar 2 – the upgraded version of the beloved time-tracking tool that revolutionizes how you perceive and utilize your time.&lt;/p>
+&lt;p>With the release of DayBar 2, we&amp;rsquo;ve taken user feedback and innovative design principles to heart, resulting in a sleek and modern interface that seamlessly integrates with the aesthetics of other Léo Corporation Apps. But that&amp;rsquo;s just the beginning.&lt;/p>
+&lt;h2 id="new-features">New features&lt;/h2>
+&lt;h3 id="modern-design">Modern design&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/introducing-daybar-2-a-new-way-to-organize-your-day/1.png"
+width="800"
+height="450"
+srcset="https://blog.leocorporation.dev/2024/04/introducing-daybar-2-a-new-way-to-organize-your-day/1_hu831029916242e52f3648402e64e7759a_116549_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/introducing-daybar-2-a-new-way-to-organize-your-day/1_hu831029916242e52f3648402e64e7759a_116549_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="DayBar 2 features an improved user interface"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>DayBar 2 boasts a fresh, modern design that not only enhances the user experience but also aligns with the high standards set by other Léo Corporation applications. Say goodbye to cluttered interfaces – DayBar 2&amp;rsquo;s intuitive layout ensures that keeping track of your time feels like second nature.&lt;/p>
+&lt;h3 id="todo-list-feature">ToDo List feature&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/introducing-daybar-2-a-new-way-to-organize-your-day/2.png"
+width="800"
+height="450"
+srcset="https://blog.leocorporation.dev/2024/04/introducing-daybar-2-a-new-way-to-organize-your-day/2_hu7fb0b0792960ae8027ee58c597f5de34_111499_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/introducing-daybar-2-a-new-way-to-organize-your-day/2_hu7fb0b0792960ae8027ee58c597f5de34_111499_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new todo list page"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>The crown jewel of DayBar 2 is its brand new todo list feature. We understand that time management goes hand in hand with task management, which is why we&amp;rsquo;ve integrated a robust todo list right into DayBar. Now, users can create tasks, mark them as completed, set due dates, and even remove them with just a few clicks.&lt;/p>
+&lt;h3 id="new-settings-page">New settings page&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/introducing-daybar-2-a-new-way-to-organize-your-day/3.png"
+width="800"
+height="450"
+srcset="https://blog.leocorporation.dev/2024/04/introducing-daybar-2-a-new-way-to-organize-your-day/3_huf6d395340e7c93bd5c4175ae516ef5bb_97680_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/introducing-daybar-2-a-new-way-to-organize-your-day/3_huf6d395340e7c93bd5c4175ae516ef5bb_97680_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new settings page"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>We also took time to rethink the way you can set your settings by adding a new settings page, where you can quickly find all the settings you need to craft your perfect experience.&lt;/p>
+&lt;h2 id="how-to-upgrade">How to upgrade&lt;/h2>
+&lt;p>DayBar 2 is available as a direct and automatic update for DayBar 1 users. You only have to check for updates in the app settings to receive DayBar 2.&lt;/p>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DayBar" target="_blank" rel="noopener"
+>Click here&lt;/a> to download DayBar.&lt;/p>
+&lt;h2 id="full-changelog">Full changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added new theme resources (#16)&lt;/li>
+&lt;li>Added new styles (#16)&lt;/li>
+&lt;li>Added new navigation bar (#16)&lt;/li>
+&lt;li>Removed legacy code (#16)&lt;/li>
+&lt;li>Added Settings page (#17)&lt;/li>
+&lt;li>Added translations (#17)&lt;/li>
+&lt;li>Added missing resources (#17)&lt;/li>
+&lt;li>Added About section (#17)&lt;/li>
+&lt;li>Removed About page (#17)&lt;/li>
+&lt;li>Added settings page to menus (#17)&lt;/li>
+&lt;li>Added theme section to Settings page (#17)&lt;/li>
+&lt;li>Removed Theme page (#17)&lt;/li>
+&lt;li>Added Notifications section to Settings page (#17)&lt;/li>
+&lt;li>Removed Notifications page (#17)&lt;/li>
+&lt;li>Added new background for the main window (#18)&lt;/li>
+&lt;li>Added translations (#19)&lt;/li>
+&lt;li>Created ToDo page (#19)&lt;/li>
+&lt;li>Added ToDo page to navigation bar (#19)&lt;/li>
+&lt;li>Added Todo system (#19)&lt;/li>
+&lt;li>Added ToDo Item (#20)&lt;/li>
+&lt;li>Added the possibility to add and remove tasks (#21)&lt;/li>
+&lt;li>Added Progress section (#22)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed navigation issue&lt;/li>
+&lt;li>Fixed theme issue&lt;/li>
+&lt;li>Fixed scrolling issue&lt;/li>
+&lt;li>Fixed an issue with dark theme&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated PeyrSharp.Env (#14)&lt;/li>
+&lt;li>Updated Copyrights&lt;/li>
+&lt;li>Upgraded to .NET 8 (#23)&lt;/li>
+&lt;li>Updated Setup&lt;/li>
+&lt;li>Improved user experience on ToDo page&lt;/li>
+&lt;/ul></description></item><item><title>Passliss: Version 4.1.0.2404 is now available</title><link>https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/</link><pubDate>Tue, 16 Apr 2024 10:57:50 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/cover.png" alt="Featured image of post Passliss: Version 4.1.0.2404 is now available" />&lt;p>Version 4.1.0.2404 is now available for Passliss, and it brings several improvements to the password presets feature, but also new features for the activity page, and more!&lt;/p>
 &lt;h2 id="improved-password-preset-experience">Improved Password Preset Experience&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/1.png"
 width="1848"
