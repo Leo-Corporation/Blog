@@ -1,4 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ColorPicker on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/colorpicker/</link><description>Recent content in ColorPicker on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Mar 2024 14:30:47 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/colorpicker/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 6.1.0.2403 is now available</title><link>https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/</link><pubDate>Sun, 17 Mar 2024 14:30:47 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.1.0.2403 is now available" />&lt;p>A new version of ColorPicker Max is now available and it brings the ability to add a note in your bookmarks.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ColorPicker on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/colorpicker/</link><description>Recent content in ColorPicker on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Apr 2024 10:59:22 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/colorpicker/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 6.2.0.2404 is now available</title><link>https://blog.leocorporation.dev/2024/04/colorpicker-version-6.2.0.2404-is-now-available/</link><pubDate>Sun, 21 Apr 2024 10:59:22 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/04/colorpicker-version-6.2.0.2404-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/04/colorpicker-version-6.2.0.2404-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.2.0.2404 is now available" />&lt;p>A new version of ColorPicker is now available, and it is the version 6.2.0.2404. This version brings several features to the app, like the new color collections, and new AI color name generator.&lt;/p>
+&lt;h2 id="color-collections">Color Collections&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/colorpicker-version-6.2.0.2404-is-now-available/2.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/04/colorpicker-version-6.2.0.2404-is-now-available/2_hu354587b9c8e055848cd8f865c3b42a9b_172922_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/colorpicker-version-6.2.0.2404-is-now-available/2_hu354587b9c8e055848cd8f865c3b42a9b_172922_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Color Collections feature"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>ColorPicker Max introduces an innovative Color Collections feature, revolutionizing the way you organize and utilize your favorite hues. Seamlessly integrated into the app&amp;rsquo;s versatile toolkit, this feature empowers you to curate personalized collections of colors, streamlining the process of accessing and utilizing your preferred palettes. Whether assembling a spectrum for a design project or simply saving inspirational colors for future use, Color Collections offers unparalleled convenience and efficiency. With the ability to effortlessly add, remove, and categorize colors, you can now unleash your creativity with unparalleled ease!&lt;/p>
+&lt;h2 id="ai-name-generator">AI Name Generator&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/colorpicker-version-6.2.0.2404-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/04/colorpicker-version-6.2.0.2404-is-now-available/1_hubf2c2c42180e7fabcfceccf062667ca0_196447_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/colorpicker-version-6.2.0.2404-is-now-available/1_hubf2c2c42180e7fabcfceccf062667ca0_196447_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="You can input a color and get its name, thanks to AI"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>We are also happy to announce the new Color Name AI Generator feature: You simply have to input any color, and the intelligent AI algorithm swiftly generates a fitting name. Gone are the days of struggling to articulate the essence of a shade; now, you can effortlessly obtain descriptive and imaginative names for every hue in your palette. Whether it&amp;rsquo;s a vibrant cerulean blue or a soft blush pink, the Color Name AI Generator provides instant inspiration, enabling you to communicate their vision with clarity and precision.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added translations (#403)&lt;/li>
+&lt;li>Added &amp;ldquo;Describe&amp;rdquo; feature of AI page (#403)&lt;/li>
+&lt;li>Added the possibility to copy name (#403)&lt;/li>
+&lt;li>Added translations (#404)&lt;/li>
+&lt;li>Added CollectionItem (#404)&lt;/li>
+&lt;li>Added the possibility to create collections (#404)&lt;/li>
+&lt;li>Added the possibility to a color to a collection in Select page (#404)&lt;/li>
+&lt;li>Added new collection UI to Converter page (#404)&lt;/li>
+&lt;li>Added new collection UI to Harmonies page (#404)&lt;/li>
+&lt;li>Added Delete message (#404)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed Index out of range issue (#404)&lt;/li>
+&lt;li>Fixed menu refresh issue (#404)&lt;/li>
+&lt;li>Fixed a navigation issue in Bookmarks&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated namespace syntax&lt;/li>
+&lt;li>Improved collection UI (#404)&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DownloadColorPickerMax" target="_blank" rel="noopener"
+>Click here&lt;/a> to download ColorPicker Max.&lt;/p>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/colorpickermax" target="_blank" rel="noopener"
+>Learn More&lt;/a> about ColorPicker Max.&lt;/p></description></item><item><title>ColorPicker: Version 6.1.0.2403 is now available</title><link>https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/</link><pubDate>Sun, 17 Mar 2024 14:30:47 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.1.0.2403 is now available" />&lt;p>A new version of ColorPicker Max is now available and it brings the ability to add a note in your bookmarks.&lt;/p>
 &lt;h2 id="bookmark-notes">Bookmark notes&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/03/colorpicker-version-6.1.0.2403-is-now-available/1.png"
 width="950"
