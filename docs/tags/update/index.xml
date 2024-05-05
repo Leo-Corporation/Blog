@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Apr 2024 10:59:22 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 6.2.0.2404 is now available</title><link>https://blog.leocorporation.dev/2024/04/colorpicker-version-6.2.0.2404-is-now-available/</link><pubDate>Sun, 21 Apr 2024 10:59:22 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/04/colorpicker-version-6.2.0.2404-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/04/colorpicker-version-6.2.0.2404-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.2.0.2404 is now available" />&lt;p>A new version of ColorPicker is now available, and it is the version 6.2.0.2404. This version brings several features to the app, like the new color collections, and new AI color name generator.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 May 2024 11:23:15 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 6.3.0.2405 is now available</title><link>https://blog.leocorporation.dev/2024/05/colorpicker-version-6.3.0.2405-is-now-available/</link><pubDate>Sun, 05 May 2024 11:23:15 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/05/colorpicker-version-6.3.0.2405-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/05/colorpicker-version-6.3.0.2405-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.3.0.2405 is now available" />&lt;p>A new version of ColorPicker is now available, and it is the version 6.3.0.2405. We added missing startup options, redesigned the Image Color Extractor page, and much more!&lt;/p>
+&lt;h2 id="improved-image-color-extractor">Improved Image Color Extractor&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/05/colorpicker-version-6.3.0.2405-is-now-available/2.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/05/colorpicker-version-6.3.0.2405-is-now-available/2_hu6e4e4a260f556f4d94f5e7745a0b0fd0_198828_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/05/colorpicker-version-6.3.0.2405-is-now-available/2_hu6e4e4a260f556f4d94f5e7745a0b0fd0_198828_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new drag and drop area is visible by default"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>The Image Color Extractor page of ColorPicker Max has undergone through a redesign, now offering enhanced user functionality and efficiency. We added a new drag and drop area, providing users with seamless access to import images directly onto the platform. This intuitive feature eliminates the need for cumbersome navigation, allowing for a smoother workflow. Moreover, the redesign introduces the convenient option to drop images directly from the file explorer, further streamlining the image extraction process. Additionally, the CSV export popup has been meticulously redesigned, prioritizing user experience by presenting a more intuitive layout and enhanced readability.&lt;/p>
+&lt;h2 id="details-window">Details window&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/05/colorpicker-version-6.3.0.2405-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/05/colorpicker-version-6.3.0.2405-is-now-available/1_hu921f872ed1ee39bab5ac4ee3403d992a_188346_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/05/colorpicker-version-6.3.0.2405-is-now-available/1_hu921f872ed1ee39bab5ac4ee3403d992a_188346_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="You can pin the details window"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>
+As you may know, you can pin the ColorPicker Max window so it always stays on top of others. This feature was not available in the Color Details window, and this is why we added the possibility to do it with this version. You will now notice a &amp;ldquo;pin&amp;rdquo; icon in the title bar, allowing you to easily switch between the different states.&lt;/p>
+&lt;h2 id="other-improvements">Other improvements&lt;/h2>
+&lt;p>We also added the possibility to set the Contrast Grid and the Image Color Extractor as the default startup page. We also made several improvements to some areas of the app, making it more consistent with our design language.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added new startup options (#411)&lt;/li>
+&lt;li>Added new tooltip design (#412)&lt;/li>
+&lt;li>Added translations (#413)&lt;/li>
+&lt;li>Added Drag and drop section (#413)&lt;/li>
+&lt;li>Added drag and drop when images are already selected (#413)&lt;/li>
+&lt;li>Added the possibility to pin &amp;ldquo;Details&amp;rdquo; window (#414)&lt;/li>
+&lt;li>Added new hover effects in &amp;ldquo;Details&amp;rdquo; window (#414)&lt;/li>
+&lt;li>Redesigned &amp;ldquo;Export CSV&amp;rdquo; popup (#415)&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DownloadColorPickerMax" target="_blank" rel="noopener"
+>Click here&lt;/a> to download ColorPicker Max.&lt;/p>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/colorpickermax" target="_blank" rel="noopener"
+>Learn More&lt;/a> about ColorPicker Max.&lt;/p></description></item><item><title>ColorPicker: Version 6.2.0.2404 is now available</title><link>https://blog.leocorporation.dev/2024/04/colorpicker-version-6.2.0.2404-is-now-available/</link><pubDate>Sun, 21 Apr 2024 10:59:22 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/04/colorpicker-version-6.2.0.2404-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/04/colorpicker-version-6.2.0.2404-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.2.0.2404 is now available" />&lt;p>A new version of ColorPicker is now available, and it is the version 6.2.0.2404. This version brings several features to the app, like the new color collections, and new AI color name generator.&lt;/p>
 &lt;h2 id="color-collections">Color Collections&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/colorpicker-version-6.2.0.2404-is-now-available/2.png"
 width="950"
