@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Passliss on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/passliss/</link><description>Recent content in Passliss on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 16 Apr 2024 10:57:50 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/passliss/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 4.1.0.2404 is now available</title><link>https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/</link><pubDate>Tue, 16 Apr 2024 10:57:50 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/cover.png" alt="Featured image of post Passliss: Version 4.1.0.2404 is now available" />&lt;p>Version 4.1.0.2404 is now available for Passliss, and it brings several improvements to the password presets feature, but also new features for the activity page, and more!&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Passliss on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/passliss/</link><description>Recent content in Passliss on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 12:07:44 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/passliss/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 4.2.0.2405 is now available</title><link>https://blog.leocorporation.dev/2024/05/passliss-version-4.2.0.2405-is-now-available/</link><pubDate>Fri, 10 May 2024 12:07:44 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/05/passliss-version-4.2.0.2405-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/05/passliss-version-4.2.0.2405-is-now-available/cover.png" alt="Featured image of post Passliss: Version 4.2.0.2405 is now available" />&lt;p>A new version of Passliss is now available, and it is the version 4.2.0.2405. This version brings several new additions and improvements to the app, notably the new Advanced Vision feature.&lt;/p>
+&lt;h2 id="advanced-vision">Advanced vision&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/05/passliss-version-4.2.0.2405-is-now-available/1.png"
+width="1920"
+height="1080"
+srcset="https://blog.leocorporation.dev/2024/05/passliss-version-4.2.0.2405-is-now-available/1_hu31e3a6dbd70e6b7af73bc4e8b6037220_589891_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/05/passliss-version-4.2.0.2405-is-now-available/1_hu31e3a6dbd70e6b7af73bc4e8b6037220_589891_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The advanced vision toggled in the &amp;ldquo;Generate&amp;rdquo; page"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>Passliss, the user-friendly password generator web app, has elevated its functionality with the introduction of an innovative advanced vision feature. This novel addition empowers users with a visual understanding of their passwords like never before. By simply toggling the &amp;ldquo;eye&amp;rdquo; icon adjacent to the password field, Passliss reveals a vibrant color code that highlights the distinct characters within the generated password. From uppercase letters to lowercase, numbers, and special symbols, each character type is visually distinguished, aiding users in crafting robust and secure passwords with ease.&lt;/p>
+&lt;h2 id="new-csv-export-options">New CSV Export options&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/05/passliss-version-4.2.0.2405-is-now-available/2.png"
+width="1920"
+height="1080"
+srcset="https://blog.leocorporation.dev/2024/05/passliss-version-4.2.0.2405-is-now-available/2_hucff47f6f11707855be4a348fd64ba643_127862_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/05/passliss-version-4.2.0.2405-is-now-available/2_hucff47f6f11707855be4a348fd64ba643_127862_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new &amp;ldquo;Export to CSV&amp;rdquo; options"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>When exporting multiple passwords to CSV, you can now specify the format to use: comma &lt;code>(,)&lt;/code> or semicolon &lt;code>(;)&lt;/code>.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added a link to Presets page in Generate page (#1024)&lt;/li>
+&lt;li>Added translations (#1025)&lt;/li>
+&lt;li>Added new options to CSV export feature (#1025)&lt;/li>
+&lt;li>Added Advanced vision feature (#1026)&lt;/li>
+&lt;li>Added Advanced vision to &amp;ldquo;Simple&amp;rdquo; view (#1026)&lt;/li>
+&lt;li>Added a tooltip to Advanced vision button (#1026)&lt;/li>
+&lt;li>Added Advanced Vision to Home page (#1026)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed alignment issue in Home page&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;li>Upgraded home page&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch">Launch&lt;/h2>
+&lt;p>&lt;a class="link" href="https://passliss.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to launch Passliss in your web browser.&lt;/p>
+&lt;h2 id="learn-more">Learn more&lt;/h2>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/passliss" target="_blank" rel="noopener"
+>Click here&lt;/a> to learn more about Passliss&lt;/p></description></item><item><title>Passliss: Version 4.1.0.2404 is now available</title><link>https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/</link><pubDate>Tue, 16 Apr 2024 10:57:50 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/cover.png" alt="Featured image of post Passliss: Version 4.1.0.2404 is now available" />&lt;p>Version 4.1.0.2404 is now available for Passliss, and it brings several improvements to the password presets feature, but also new features for the activity page, and more!&lt;/p>
 &lt;h2 id="improved-password-preset-experience">Improved Password Preset Experience&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/passliss-version-4.1.0.2404-is-now-available/1.png"
 width="1848"

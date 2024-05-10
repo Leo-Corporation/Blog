@@ -21,8 +21,8 @@ alt="You can pin the details window"
 class="gallery-image"
 data-flex-grow="158"
 data-flex-basis="380px"
->
-As you may know, you can pin the ColorPicker Max window so it always stays on top of others. This feature was not available in the Color Details window, and this is why we added the possibility to do it with this version. You will now notice a &amp;ldquo;pin&amp;rdquo; icon in the title bar, allowing you to easily switch between the different states.&lt;/p>
+>&lt;/p>
+&lt;p>As you may know, you can pin the ColorPicker Max window so it always stays on top of others. This feature was not available in the Color Details window, and this is why we added the possibility to do it with this version. You will now notice a &amp;ldquo;pin&amp;rdquo; icon in the title bar, allowing you to easily switch between the different states.&lt;/p>
 &lt;h2 id="other-improvements">Other improvements&lt;/h2>
 &lt;p>We also added the possibility to set the Contrast Grid and the Image Color Extractor as the default startup page. We also made several improvements to some areas of the app, making it more consistent with our design language.&lt;/p>
 &lt;h2 id="changelog">Changelog&lt;/h2>
