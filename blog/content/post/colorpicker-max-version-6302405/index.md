@@ -23,6 +23,7 @@ The Image Color Extractor page of ColorPicker Max has undergone through a redesi
 ## Details window
 
 ![You can pin the details window](1.png)
+
 As you may know, you can pin the ColorPicker Max window so it always stays on top of others. This feature was not available in the Color Details window, and this is why we added the possibility to do it with this version. You will now notice a "pin" icon in the title bar, allowing you to easily switch between the different states.
 
 ## Other improvements
