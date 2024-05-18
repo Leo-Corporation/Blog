@@ -1,5 +1,5 @@
 ---
-title: "Qrix: Version 1.6.0.2402 is now available"
+title: "Qrix: Version 1.7.0.2404 is now available"
 description: Introducing Interactive QR Codes.
 date: 2024-04-15T14:42:23+02:00
 image: cover.png
