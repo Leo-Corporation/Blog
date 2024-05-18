@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 12:07:44 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 4.2.0.2405 is now available</title><link>https://blog.leocorporation.dev/2024/05/passliss-version-4.2.0.2405-is-now-available/</link><pubDate>Fri, 10 May 2024 12:07:44 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/05/passliss-version-4.2.0.2405-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/05/passliss-version-4.2.0.2405-is-now-available/cover.png" alt="Featured image of post Passliss: Version 4.2.0.2405 is now available" />&lt;p>A new version of Passliss is now available, and it is the version 4.2.0.2405. This version brings several new additions and improvements to the app, notably the new Advanced Vision feature.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 18 May 2024 12:35:51 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.8.0.2405 is now available</title><link>https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/</link><pubDate>Sat, 18 May 2024 12:35:51 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.8.0.2405 is now available" />&lt;p>A new version of Qrix is now available, and it is the version 1.8.0.2405. We added a new bar code type and a new &amp;ldquo;Calendar Event&amp;rdquo; interactive QR Code.&lt;/p>
+&lt;h2 id="new-event-qr-code">New Event QR Code&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/1.png"
+width="2543"
+height="1274"
+srcset="https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/1_hu1aec3d9c555abd720e3829c650d2078a_931129_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/1_hu1aec3d9c555abd720e3829c650d2078a_931129_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Event QR Code UI"
+class="gallery-image"
+data-flex-grow="199"
+data-flex-basis="479px"
+>&lt;/p>
+&lt;p>With this version of Qrix, we are introducing the Event QR Code. Utilizing the VEVENT format, this enhancement allows users to seamlessly add events to their phone calendars by simply scanning a QR code. With Qrix&amp;rsquo;s Event QR Code, you can pre-create an event complete with a title, location, start and end dates, and a brief description. Once scanned, the QR code redirects users directly to their phone&amp;rsquo;s calendar app, automatically populating all the event details. This innovative feature streamlines event management, making it easier than ever to ensure your attendees never miss an important date.&lt;/p>
+&lt;h2 id="new-datamatrix-bar-code-and-options">New DataMatrix Bar code and options&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/2.png"
+width="2545"
+height="1276"
+srcset="https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/2_hu5cf769701865475ccc1c937eab7e867a_864201_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/2_hu5cf769701865475ccc1c937eab7e867a_864201_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new DataMatrix bar code"
+class="gallery-image"
+data-flex-grow="199"
+data-flex-basis="478px"
+>&lt;/p>
+&lt;p>Qrix has expanded its capabilities with the addition of the DataMatrix barcode, offering users enhanced flexibility and precision in their barcode generation needs. The DataMatrix barcode, known for its compact size and high data capacity, can now be set as the default barcode within the Qrix platform, catering to a wide range of applications from inventory management to product labeling. Additionally, Qrix introduces a new feature that allows users to rotate any QR Code or barcode, providing greater customization and adaptability for various display requirements.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added DataMatrix bar code (#398)&lt;/li>
+&lt;li>Added new styles to Select menus&lt;/li>
+&lt;li>Added Rotation option in Bar Code page (#399)&lt;/li>
+&lt;li>Added Rotation option in QR Code page (#399)&lt;/li>
+&lt;li>Added the possibility to set a default rotation (#399)&lt;/li>
+&lt;li>Added DatePicker component (#400)&lt;/li>
+&lt;li>Added locales (#400)&lt;/li>
+&lt;li>Added new Event QR Code type (#400)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed type issue&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch-qrix">Launch Qrix&lt;/h2>
+&lt;p>&lt;a class="link" href="ttps://qrix.leocorporation.dev" >Click here&lt;/a> to launch Qrix in your browser.&lt;/p>
+&lt;h2 id="learn-more">Learn more&lt;/h2>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/qrix" target="_blank" rel="noopener"
+>Click here&lt;/a> to learn more about Qrix.&lt;/p></description></item><item><title>Passliss: Version 4.2.0.2405 is now available</title><link>https://blog.leocorporation.dev/2024/05/passliss-version-4.2.0.2405-is-now-available/</link><pubDate>Fri, 10 May 2024 12:07:44 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/05/passliss-version-4.2.0.2405-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/05/passliss-version-4.2.0.2405-is-now-available/cover.png" alt="Featured image of post Passliss: Version 4.2.0.2405 is now available" />&lt;p>A new version of Passliss is now available, and it is the version 4.2.0.2405. This version brings several new additions and improvements to the app, notably the new Advanced Vision feature.&lt;/p>
 &lt;h2 id="advanced-vision">Advanced vision&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/05/passliss-version-4.2.0.2405-is-now-available/1.png"
 width="1920"
@@ -280,14 +329,14 @@ data-flex-basis="458px"
 >Click here&lt;/a> to launch Passliss in your web browser.&lt;/p>
 &lt;h2 id="learn-more">Learn more&lt;/h2>
 &lt;p>&lt;a class="link" href="https://leocorporation.dev/store/passliss" target="_blank" rel="noopener"
->Click here&lt;/a> to learn more about Passliss&lt;/p></description></item><item><title>Qrix: Version 1.6.0.2402 is now available</title><link>https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/</link><pubDate>Mon, 15 Apr 2024 14:42:23 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.6.0.2402 is now available" />&lt;p>A new version of Qrix is now available, and it is the version 1.7.0.2404. With this version, we are introducing &amp;ldquo;Interactive QR Codes&amp;rdquo;, a new way to share content using QR Codes. These innovative codes redefine how you share content, offering seamless connectivity and convenience like never before.&lt;/p>
+>Click here&lt;/a> to learn more about Passliss&lt;/p></description></item><item><title>Qrix: Version 1.7.0.2404 is now available</title><link>https://blog.leocorporation.dev/2024/04/qrix-version-1.7.0.2404-is-now-available/</link><pubDate>Mon, 15 Apr 2024 14:42:23 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/04/qrix-version-1.7.0.2404-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/04/qrix-version-1.7.0.2404-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.7.0.2404 is now available" />&lt;p>A new version of Qrix is now available, and it is the version 1.7.0.2404. With this version, we are introducing &amp;ldquo;Interactive QR Codes&amp;rdquo;, a new way to share content using QR Codes. These innovative codes redefine how you share content, offering seamless connectivity and convenience like never before.&lt;/p>
 &lt;h2 id="experience-interactive-qr-codes">Experience Interactive QR Codes&lt;/h2>
 &lt;p>Interactive QR Codes revolutionize the traditional static QR Code experience by triggering dynamic actions upon scanning. Let&amp;rsquo;s delve into the exciting capabilities of this new feature:&lt;/p>
 &lt;h3 id="effortless-email-integration">Effortless Email Integration&lt;/h3>
-&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/1.png"
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/qrix-version-1.7.0.2404-is-now-available/1.png"
 width="1881"
 height="1002"
-srcset="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/1_hufda73d4ad2d89f07d409541f82961faa_637996_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/1_hufda73d4ad2d89f07d409541f82961faa_637996_1024x0_resize_box_3.png 1024w"
+srcset="https://blog.leocorporation.dev/2024/04/qrix-version-1.7.0.2404-is-now-available/1_hufda73d4ad2d89f07d409541f82961faa_637996_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/qrix-version-1.7.0.2404-is-now-available/1_hufda73d4ad2d89f07d409541f82961faa_637996_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 alt="The new Email QR Code generator"
 class="gallery-image"
@@ -296,10 +345,10 @@ data-flex-basis="450px"
 >&lt;/p>
 &lt;p>With Qrix&amp;rsquo;s Email QR Code generator, sending emails becomes effortless. Simply input the recipient&amp;rsquo;s email address, the subject, and the message content. Upon scanning, your default email application opens instantly with the predefined settings, allowing you to send the email with just a click.&lt;/p>
 &lt;h3 id="instant-sms-communication">Instant SMS Communication&lt;/h3>
-&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/2.png"
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/qrix-version-1.7.0.2404-is-now-available/2.png"
 width="1880"
 height="1001"
-srcset="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/2_hu1a0f2ed90bf2a52827b7ebe9a9931edf_634745_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/2_hu1a0f2ed90bf2a52827b7ebe9a9931edf_634745_1024x0_resize_box_3.png 1024w"
+srcset="https://blog.leocorporation.dev/2024/04/qrix-version-1.7.0.2404-is-now-available/2_hu1a0f2ed90bf2a52827b7ebe9a9931edf_634745_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/qrix-version-1.7.0.2404-is-now-available/2_hu1a0f2ed90bf2a52827b7ebe9a9931edf_634745_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 alt="The SMS QR Code generator"
 class="gallery-image"
@@ -308,10 +357,10 @@ data-flex-basis="450px"
 >&lt;/p>
 &lt;p>The SMS QR Code generator operates similarly to its email counterpart. Input the recipient&amp;rsquo;s phone number and the message content, and upon scanning, your default messaging app opens, ready to send the message promptly.&lt;/p>
 &lt;h3 id="seamless-wifi-sharing">Seamless WiFi Sharing&lt;/h3>
-&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/3.png"
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/qrix-version-1.7.0.2404-is-now-available/3.png"
 width="1881"
 height="1002"
-srcset="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/3_hu5e52386d4c47a0dfd0fece4df5fed478_636094_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/3_hu5e52386d4c47a0dfd0fece4df5fed478_636094_1024x0_resize_box_3.png 1024w"
+srcset="https://blog.leocorporation.dev/2024/04/qrix-version-1.7.0.2404-is-now-available/3_hu5e52386d4c47a0dfd0fece4df5fed478_636094_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/qrix-version-1.7.0.2404-is-now-available/3_hu5e52386d4c47a0dfd0fece4df5fed478_636094_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 alt="The WiFi QR Code generator form"
 class="gallery-image"
@@ -320,10 +369,10 @@ data-flex-basis="450px"
 >&lt;/p>
 &lt;p>Sharing WiFi credentials has never been easier with Qrix&amp;rsquo;s WiFi QR Code generator. Generate a QR Code containing the network name (SSID), password, and encryption protocol. Upon scanning, devices can automatically connect to the WiFi network, streamlining the sharing process.&lt;/p>
 &lt;h3 id="effortless-contact-sharing">Effortless Contact Sharing&lt;/h3>
-&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/4.png"
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/04/qrix-version-1.7.0.2404-is-now-available/4.png"
 width="1879"
 height="999"
-srcset="https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/4_hudb311fedc9febc1bd02aa79002c68f84_649716_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/qrix-version-1.6.0.2402-is-now-available/4_hudb311fedc9febc1bd02aa79002c68f84_649716_1024x0_resize_box_3.png 1024w"
+srcset="https://blog.leocorporation.dev/2024/04/qrix-version-1.7.0.2404-is-now-available/4_hudb311fedc9febc1bd02aa79002c68f84_649716_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/04/qrix-version-1.7.0.2404-is-now-available/4_hudb311fedc9febc1bd02aa79002c68f84_649716_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 alt="The new Contact QR Code generator"
 class="gallery-image"
