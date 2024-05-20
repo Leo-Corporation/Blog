@@ -1,4 +1,66 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 18 May 2024 12:35:51 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.8.0.2405 is now available</title><link>https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/</link><pubDate>Sat, 18 May 2024 12:35:51 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.8.0.2405 is now available" />&lt;p>A new version of Qrix is now available, and it is the version 1.8.0.2405. We added a new bar code type and a new &amp;ldquo;Calendar Event&amp;rdquo; interactive QR Code.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 10:15:15 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.3.0.2405 is now available</title><link>https://blog.leocorporation.dev/2024/05/internettest-version-8.3.0.2405-is-now-available/</link><pubDate>Mon, 20 May 2024 10:15:15 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/05/internettest-version-8.3.0.2405-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/05/internettest-version-8.3.0.2405-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.3.0.2405 is now available" />&lt;p>A new version of InternetTest is now available and it brings several improvements to the user experience, along with new features.&lt;/p>
+&lt;h2 id="share-saved-wifi-networks-using-qr-codes">Share saved WiFi networks using QR Codes&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/05/internettest-version-8.3.0.2405-is-now-available/1.png"
+width="949"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/05/internettest-version-8.3.0.2405-is-now-available/1_hu43de9d20d4d9178bb9b290b3c4578e68_171527_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/05/internettest-version-8.3.0.2405-is-now-available/1_hu43de9d20d4d9178bb9b290b3c4578e68_171527_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new QR Code popup in WiFI passwords page"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="379px"
+>&lt;/p>
+&lt;p>We added an innovative feature to InternetTest Pro allowing users to share WiFi networks effortlessly through QR codes. On the &amp;ldquo;WiFi passwords&amp;rdquo; page, users can now click on the QR code icon to generate a QR code that, when scanned, automatically connects a phone to the network. This convenient tool eliminates the hassle of manually entering WiFi credentials. Additionally, the generated QR code can be exported as a PNG file, making it easy to save and share on the user&amp;rsquo;s hard drive. This feature enhances connectivity and simplifies the process of sharing WiFi access with friends and family.&lt;/p>
+&lt;h2 id="improvements-to-user-experience">Improvements to user experience&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/05/internettest-version-8.3.0.2405-is-now-available/2.png"
+width="949"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/05/internettest-version-8.3.0.2405-is-now-available/2_hu43de9d20d4d9178bb9b290b3c4578e68_180651_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/05/internettest-version-8.3.0.2405-is-now-available/2_hu43de9d20d4d9178bb9b290b3c4578e68_180651_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="A copy button is now displayed next to each header, so users can copy a specific header"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="379px"
+>&lt;/p>
+&lt;p>InternetTest Pro has undergone significant user experience enhancements, making the app more intuitive and user-friendly. Various tooltips have been added, providing clearer descriptions of button functions and guiding users through their actions. The &amp;ldquo;About&amp;rdquo; section of the Settings page now includes a convenient link to the app&amp;rsquo;s GitHub repository, facilitating access to source code and updates. On the Requests page, automatic URL formatting has been implemented, streamlining the process of entering and editing URLs. Additionally, users can now copy each header individually on the Requests page, allowing for more efficient handling and customization of request headers. These improvements collectively enhance the usability and functionality of InternetTest Pro.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added QR Coder (#562)&lt;/li>
+&lt;li>Added the possibility to create a QR Code for a network (#562)&lt;/li>
+&lt;li>Added the possibility to share a network using a QR Code (#562)&lt;/li>
+&lt;li>Added a new tooltip design (#563)&lt;/li>
+&lt;li>Added translations (#564)&lt;/li>
+&lt;li>Added tooltips in MainWindow (#564)&lt;/li>
+&lt;li>Added tooltips in DNS page (#564)&lt;/li>
+&lt;li>Added tooltips in DownDetector page (#564)&lt;/li>
+&lt;li>Added tooltips in Locate IP page (#564)&lt;/li>
+&lt;li>Added tooltips in Requests page (#564)&lt;/li>
+&lt;li>Added tooltips in WiFi page (#564)&lt;/li>
+&lt;li>Added tooltips in IP Config page (#564)&lt;/li>
+&lt;li>Added License button (#565)&lt;/li>
+&lt;li>Added link to GitHub repo in Settings (#565)&lt;/li>
+&lt;li>Added automatic URL formatting in Requests page (#566)&lt;/li>
+&lt;li>Added HeaderItem (#567)&lt;/li>
+&lt;li>Added the possibility to copy each header individually in Requests page (#567)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed tooltip style issues (#563)&lt;/li>
+&lt;li>Fixed alignment issue in tooltip style&lt;/li>
+&lt;li>Fixed an issue with dark theme&lt;/li>
+&lt;/ul>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>InternetTest Pro has a landing page so you can learn more about its feature. &lt;a class="link" href="https://leocorporation.dev/store/internettest" target="_blank" rel="noopener"
+>Click here&lt;/a> to access it.&lt;/p>
+&lt;h2 id="get-the-app">Get the app&lt;/h2>
+&lt;p>InternetTest Pro is available on Windows and requires the .NET 8 Windows Desktop Runtime.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITP7" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Setup&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITPP" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Portable&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;/ul></description></item><item><title>Qrix: Version 1.8.0.2405 is now available</title><link>https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/</link><pubDate>Sat, 18 May 2024 12:35:51 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.8.0.2405 is now available" />&lt;p>A new version of Qrix is now available, and it is the version 1.8.0.2405. We added a new bar code type and a new &amp;ldquo;Calendar Event&amp;rdquo; interactive QR Code.&lt;/p>
 &lt;h2 id="new-event-qr-code">New Event QR Code&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/1.png"
 width="2543"
