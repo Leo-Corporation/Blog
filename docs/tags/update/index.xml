@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 22 Jun 2024 14:49:18 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>What's next for Léo Corporation</title><link>https://blog.leocorporation.dev/2024/06/whats-next-for-l%C3%A9o-corporation/</link><pubDate>Sat, 22 Jun 2024 14:49:18 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/06/whats-next-for-l%C3%A9o-corporation/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/06/whats-next-for-l%C3%A9o-corporation/cover.png" alt="Featured image of post What's next for Léo Corporation" />&lt;p>You may have noticed that since May 2024, Léo Corporation has been a bit quiet on the update front. If you&amp;rsquo;ve been wondering why our stream of new features and enhancements seemed to pause, you&amp;rsquo;re not alone. Today, we&amp;rsquo;re here to share what&amp;rsquo;s next for Léo Corporation.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 03 Jul 2024 14:08:39 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 4.3.0.2407 is now available</title><link>https://blog.leocorporation.dev/2024/07/passliss-version-4.3.0.2407-is-now-available/</link><pubDate>Wed, 03 Jul 2024 14:08:39 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/07/passliss-version-4.3.0.2407-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/07/passliss-version-4.3.0.2407-is-now-available/cover.png" alt="Featured image of post Passliss: Version 4.3.0.2407 is now available" />&lt;p>A new version of Passliss is now available, and it is the version 4.3.0.2407. This version brings several new additions and improvements to the app, such as the new navigation bar design.&lt;/p>
+&lt;h2 id="new-navbar-design">New navbar design&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/07/passliss-version-4.3.0.2407-is-now-available/1.png"
+width="1969"
+height="1067"
+srcset="https://blog.leocorporation.dev/2024/07/passliss-version-4.3.0.2407-is-now-available/1_hu13bdde80220858e3bb3fce0c6d22dcf8_61444_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/07/passliss-version-4.3.0.2407-is-now-available/1_hu13bdde80220858e3bb3fce0c6d22dcf8_61444_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new navigation bar"
+class="gallery-image"
+data-flex-grow="184"
+data-flex-basis="442px"
+>&lt;/p>
+&lt;p>Starting with this version, we are introducing a new layout for Passliss. We redesigned the navbar and removed the mesh gradient background to make the app cleaner and look nicer on all devices. The navbar also has a different tinted color to make it more noticeable on desktop. Please note that isn&amp;rsquo;t a complete revolution but rather an improvement of the existing design.&lt;/p>
+&lt;h2 id="new-advanced-vision-option-in-activity">New Advanced vision option in Activity&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/07/passliss-version-4.3.0.2407-is-now-available/2.png"
+width="1974"
+height="1088"
+srcset="https://blog.leocorporation.dev/2024/07/passliss-version-4.3.0.2407-is-now-available/2_hud7c69f01c2739eb907a0a6e6bf588830_55915_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/07/passliss-version-4.3.0.2407-is-now-available/2_hud7c69f01c2739eb907a0a6e6bf588830_55915_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Advanced vision option, toggled in the Activity page"
+class="gallery-image"
+data-flex-grow="181"
+data-flex-basis="435px"
+>&lt;/p>
+&lt;p>We also added the new Advanced vision option to the Activity page, so you can quickly see the different characters types that are included in your password.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Export button is now visible only if presets exists (#1136)&lt;/li>
+&lt;li>Added advanced vision in Activity page (#1137)&lt;/li>
+&lt;li>Added button to generate new password prompts in AI page (#1138)&lt;/li>
+&lt;li>Added french prompts suggestions (#1138)&lt;/li>
+&lt;li>Added new navbar button styles (#1139)&lt;/li>
+&lt;li>Added new background (#1139)&lt;/li>
+&lt;li>Added new navbar design (#1139)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed Tailwind issues&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul></description></item><item><title>What's next for Léo Corporation</title><link>https://blog.leocorporation.dev/2024/06/whats-next-for-l%C3%A9o-corporation/</link><pubDate>Sat, 22 Jun 2024 14:49:18 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/06/whats-next-for-l%C3%A9o-corporation/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/06/whats-next-for-l%C3%A9o-corporation/cover.png" alt="Featured image of post What's next for Léo Corporation" />&lt;p>You may have noticed that since May 2024, Léo Corporation has been a bit quiet on the update front. If you&amp;rsquo;ve been wondering why our stream of new features and enhancements seemed to pause, you&amp;rsquo;re not alone. Today, we&amp;rsquo;re here to share what&amp;rsquo;s next for Léo Corporation.&lt;/p>
 &lt;h2 id="why-updates-are-paused">Why updates are paused&lt;/h2>
 &lt;p>We didn&amp;rsquo;t released new updates to Léo Corporation&amp;rsquo;s products mostly because we were busy on other projects, like the development of Synapsy products, and also because of a lack of time. But don&amp;rsquo;t worry! This doesn&amp;rsquo;t mean that our apps won&amp;rsquo;t receive any new updates; actually, there&amp;rsquo;s a lot coming next month, as we plan to resume the update cycle!&lt;/p>
 &lt;h2 id="whats-next-big-things-are-coming">What&amp;rsquo;s Next? Big Things Are Coming!&lt;/h2>
