@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qrix on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/qrix/</link><description>Recent content in Qrix on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 18 May 2024 12:35:51 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/qrix/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.8.0.2405 is now available</title><link>https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/</link><pubDate>Sat, 18 May 2024 12:35:51 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.8.0.2405 is now available" />&lt;p>A new version of Qrix is now available, and it is the version 1.8.0.2405. We added a new bar code type and a new &amp;ldquo;Calendar Event&amp;rdquo; interactive QR Code.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qrix on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/qrix/</link><description>Recent content in Qrix on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 04 Jul 2024 15:28:55 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/qrix/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.9.0.2407 is now available</title><link>https://blog.leocorporation.dev/2024/07/qrix-version-1.9.0.2407-is-now-available/</link><pubDate>Thu, 04 Jul 2024 15:28:55 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/07/qrix-version-1.9.0.2407-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/07/qrix-version-1.9.0.2407-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.9.0.2407 is now available" />&lt;p>A new version of Qrix is now available, and it is the version 1.9.0.2407. We added the possibility to search history, to see directly the metadata of Interactive QR Codes and more.&lt;/p>
+&lt;h2 id="new-features-in-history-page">New features in History page&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/07/qrix-version-1.9.0.2407-is-now-available/2.png"
+width="1721"
+height="923"
+srcset="https://blog.leocorporation.dev/2024/07/qrix-version-1.9.0.2407-is-now-available/2_hu8cece36f55cd6f74d2e7fbad619dc813_131306_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/07/qrix-version-1.9.0.2407-is-now-available/2_hu8cece36f55cd6f74d2e7fbad619dc813_131306_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="You can now see the metadata of interactive QR codes"
+class="gallery-image"
+data-flex-grow="186"
+data-flex-basis="447px"
+>&lt;/p>
+&lt;p>Qrix has elevated user experience with its latest update, introducing powerful new features for managing and viewing Interactive QR Codes. Users can now effortlessly search their Bar/QR Code history, streamlining the process of revisiting and managing past creations. This feature is particularly valuable for businesses and event organizers who need quick access to previously generated codes. Additionally, Qrix now offers direct visibility into the metadata of Interactive QR Codes, providing insights into embedded information such as URL destinations, contact details, or event specifics without the need for scanning.&lt;/p>
+&lt;h2 id="new-navigation-bar">New navigation bar&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/07/qrix-version-1.9.0.2407-is-now-available/1.png"
+width="1720"
+height="919"
+srcset="https://blog.leocorporation.dev/2024/07/qrix-version-1.9.0.2407-is-now-available/1_hu93c43d5479656f7156c0367b12176458_55431_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/07/qrix-version-1.9.0.2407-is-now-available/1_hu93c43d5479656f7156c0367b12176458_55431_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new navbar of Qrix"
+class="gallery-image"
+data-flex-grow="187"
+data-flex-basis="449px"
+>&lt;/p>
+&lt;p>We added a new navigation bar on desktop devices, making the app design clearer. This new navbar is similar to &lt;a class="link" href="https://blog.leocorporation.dev/blog/content/post/passliss-version-4302407/" >Passliss&amp;rsquo; new navbar&lt;/a> we introduced yesterday.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Disabled Create button if fields are empty in Bar code page (#461)&lt;/li>
+&lt;li>Disable Create button if fields are empty in Bar code page (#461)&lt;/li>
+&lt;li>Added metadata to Interactive QR Codes (#462)&lt;/li>
+&lt;li>Added translations (#462)&lt;/li>
+&lt;li>Added metadata viewer in History (#462)&lt;/li>
+&lt;li>Added metadata mobile UI in History (#462)&lt;/li>
+&lt;li>Added search feature in History (#463)&lt;/li>
+&lt;li>Added new navbar design (#464)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed an issue when saving metadata (#462)&lt;/li>
+&lt;li>Fixed key issue&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Removed old background assets (#464)&lt;/li>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch-qrix">Launch Qrix&lt;/h2>
+&lt;p>&lt;a class="link" href="ttps://qrix.leocorporation.dev" >Click here&lt;/a> to launch Qrix in your browser.&lt;/p>
+&lt;h2 id="learn-more">Learn more&lt;/h2>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/qrix" target="_blank" rel="noopener"
+>Click here&lt;/a> to learn more about Qrix.&lt;/p></description></item><item><title>Qrix: Version 1.8.0.2405 is now available</title><link>https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/</link><pubDate>Sat, 18 May 2024 12:35:51 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.8.0.2405 is now available" />&lt;p>A new version of Qrix is now available, and it is the version 1.8.0.2405. We added a new bar code type and a new &amp;ldquo;Calendar Event&amp;rdquo; interactive QR Code.&lt;/p>
 &lt;h2 id="new-event-qr-code">New Event QR Code&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/05/qrix-version-1.8.0.2405-is-now-available/1.png"
 width="2543"
