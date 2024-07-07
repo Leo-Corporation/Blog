@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Features on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/new-features/</link><description>Recent content in New Features on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 04 Jul 2024 15:28:55 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-features/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 1.9.0.2407 is now available</title><link>https://blog.leocorporation.dev/2024/07/qrix-version-1.9.0.2407-is-now-available/</link><pubDate>Thu, 04 Jul 2024 15:28:55 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/07/qrix-version-1.9.0.2407-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/07/qrix-version-1.9.0.2407-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.9.0.2407 is now available" />&lt;p>A new version of Qrix is now available, and it is the version 1.9.0.2407. We added the possibility to search history, to see directly the metadata of Interactive QR Codes and more.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Features on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/new-features/</link><description>Recent content in New Features on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 07 Jul 2024 11:54:35 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-features/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 4.5.0.2407 is now available</title><link>https://blog.leocorporation.dev/2024/07/gavilya-version-4.5.0.2407-is-now-available/</link><pubDate>Sun, 07 Jul 2024 11:54:35 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/07/gavilya-version-4.5.0.2407-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/07/gavilya-version-4.5.0.2407-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.5.0.2407 is now available" />&lt;p>A new version of Gavilya is now available, and it is version 4.5.0.2407. We added several new features, such as the new Statistics section or the new sorting options in &amp;ldquo;Recently played games&amp;rdquo; page.&lt;/p>
+&lt;h2 id="new-statistics-section">New Statistics section&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/07/gavilya-version-4.5.0.2407-is-now-available/1.png"
+width="1185"
+height="700"
+srcset="https://blog.leocorporation.dev/2024/07/gavilya-version-4.5.0.2407-is-now-available/1_hu4a5b1c42ddcbdb23e8007626be4882cd_255393_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/07/gavilya-version-4.5.0.2407-is-now-available/1_hu4a5b1c42ddcbdb23e8007626be4882cd_255393_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The redesigned statistics section"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;p>The latest update takes user experience to the next level by introducing a revamped Statistics section, packed with features that provide insightful, visually appealing data about your gaming habits.&lt;/p>
+&lt;p>Statistics are only as good as their presentation, and Gavilya understands this well. The addition of gradient designs in the Statistics section enhances the visual appeal, making your data more engaging and easier to interpret.&lt;/p>
+&lt;p>The update introduces a comprehensive Game Types Overview, giving users a snapshot of the types of games in their collection. You can now quicly see how many Windows, Steam or Xbox games you have added to Gavilya. In addition, in the Library page, you can now see the total number of games in your collection at a glance.&lt;/p>
+&lt;h2 id="new-sorting-options">New Sorting options&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/07/gavilya-version-4.5.0.2407-is-now-available/2.png"
+width="1185"
+height="700"
+srcset="https://blog.leocorporation.dev/2024/07/gavilya-version-4.5.0.2407-is-now-available/2_hu32532e2ee37f91f025fb43170bd1dca8_315946_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/07/gavilya-version-4.5.0.2407-is-now-available/2_hu32532e2ee37f91f025fb43170bd1dca8_315946_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new layout of the &amp;ldquo;Recently played games&amp;rdquo; page"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;p>The latest update brings a fresh look to the Recently Played Games page, introducing new sorting options that offer gamers enhanced flexibility and control over their play history. These additions make it easier than ever to navigate your recent gaming sessions and keep track of your gameplay trends.&lt;/p>
+&lt;p>One of the standout features of the update is the ability to toggle the &amp;ldquo;Group by Date&amp;rdquo; option. This functionality allows you to organize your recently played games based on the date you last played them. With a simple toggle, you can switch between viewing your games in a continuous list or grouped by specific play dates.&lt;/p>
+&lt;p>You can also restore the old layout by disabling this feature in your settings.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added new tooltip design (#453)&lt;/li>
+&lt;li>Added new gradient in Stats (#454)&lt;/li>
+&lt;li>Added translations (#454)&lt;/li>
+&lt;li>Added Game types overview section in Stats (#454)&lt;/li>
+&lt;li>Added the number of games in the library page (#455)&lt;/li>
+&lt;li>Added a link to Gavilya Themes website (#456)&lt;/li>
+&lt;li>Added new Group by date feature in Recent page (#457)&lt;/li>
+&lt;li>Added translations (#457)&lt;/li>
+&lt;li>Added the possibility to toggle Group by Date option in Recent page (#457)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated dependencies&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://bit.ly/Gavilya" target="_blank" rel="noopener"
+>Click here&lt;/a> to download Gavilya.&lt;/p>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>&lt;a class="link" href="https://gavilya.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to go the website of Gavilya.&lt;/p></description></item><item><title>Qrix: Version 1.9.0.2407 is now available</title><link>https://blog.leocorporation.dev/2024/07/qrix-version-1.9.0.2407-is-now-available/</link><pubDate>Thu, 04 Jul 2024 15:28:55 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/07/qrix-version-1.9.0.2407-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/07/qrix-version-1.9.0.2407-is-now-available/cover.png" alt="Featured image of post Qrix: Version 1.9.0.2407 is now available" />&lt;p>A new version of Qrix is now available, and it is the version 1.9.0.2407. We added the possibility to search history, to see directly the metadata of Interactive QR Codes and more.&lt;/p>
 &lt;h2 id="new-features-in-history-page">New features in History page&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/07/qrix-version-1.9.0.2407-is-now-available/2.png"
 width="1721"
