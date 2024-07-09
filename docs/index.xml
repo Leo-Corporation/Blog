@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/</link><description>Recent content on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 07 Jul 2024 11:54:35 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 4.5.0.2407 is now available</title><link>https://blog.leocorporation.dev/2024/07/gavilya-version-4.5.0.2407-is-now-available/</link><pubDate>Sun, 07 Jul 2024 11:54:35 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/07/gavilya-version-4.5.0.2407-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/07/gavilya-version-4.5.0.2407-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.5.0.2407 is now available" />&lt;p>A new version of Gavilya is now available, and it is version 4.5.0.2407. We added several new features, such as the new Statistics section or the new sorting options in &amp;ldquo;Recently played games&amp;rdquo; page.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/</link><description>Recent content on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Jul 2024 16:51:10 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.4.0.2407 is now available</title><link>https://blog.leocorporation.dev/2024/07/internettest-version-8.4.0.2407-is-now-available/</link><pubDate>Tue, 09 Jul 2024 16:51:10 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/07/internettest-version-8.4.0.2407-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/07/internettest-version-8.4.0.2407-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.4.0.2407 is now available" />&lt;p>A new version of InternetTest is now available and it brings new features that may not seem that important at first, but can be very useful.&lt;/p>
+&lt;h2 id="new-additions-at-a-glance">New additions at a glance&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/07/internettest-version-8.4.0.2407-is-now-available/1.png"
+width="950"
+height="614"
+srcset="https://blog.leocorporation.dev/2024/07/internettest-version-8.4.0.2407-is-now-available/1_hue110cf37dd4e7f7f8e5b5653f2cd7c8c_236411_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/07/internettest-version-8.4.0.2407-is-now-available/1_hue110cf37dd4e7f7f8e5b5653f2cd7c8c_236411_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new settings options in the Ping page"
+class="gallery-image"
+data-flex-grow="154"
+data-flex-basis="371px"
+>&lt;/p>
+&lt;p>We are excited to announce the latest update for InternetTest Pro, featuring significant enhancements designed to improve your internet utility experience. You can now export DNS records to CSV files, enabling efficient data analysis and management. The customizable ping requests feature allows you to specify the number of ping requests, providing more precise and controlled network diagnostics. Additionally, we have added the option to hide &amp;ldquo;Timed Out&amp;rdquo; statuses in Traceroute, making it easier to focus on successful hops and gain clearer insights into your network performance.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added translations (#582)&lt;/li>
+&lt;li>Added the possibility to export DNS records to CSV (#582)&lt;/li>
+&lt;li>Added the possibility to select the number of requests during a ping (#583)&lt;/li>
+&lt;li>Added the possibility to hide &amp;ldquo;Timed out&amp;rdquo; statuses in Traceroute (#584)&lt;/li>
+&lt;li>Added a tooltip in Tracroute page (#584)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed average text formatting (#583)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated RestSharp&lt;/li>
+&lt;li>Updated DnsClient&lt;/li>
+&lt;li>Updated ManagedNativeWifi&lt;/li>
+&lt;li>Updated QRCoder&lt;/li>
+&lt;/ul>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>InternetTest Pro has a landing page so you can learn more about its feature. &lt;a class="link" href="https://leocorporation.dev/store/internettest" target="_blank" rel="noopener"
+>Click here&lt;/a> to access it.&lt;/p>
+&lt;h2 id="get-the-app">Get the app&lt;/h2>
+&lt;p>InternetTest Pro is available on Windows and requires the .NET 8 Windows Desktop Runtime.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITP7" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Setup&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITPP" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Portable&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;/ul></description></item><item><title>Gavilya: Version 4.5.0.2407 is now available</title><link>https://blog.leocorporation.dev/2024/07/gavilya-version-4.5.0.2407-is-now-available/</link><pubDate>Sun, 07 Jul 2024 11:54:35 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/07/gavilya-version-4.5.0.2407-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/07/gavilya-version-4.5.0.2407-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.5.0.2407 is now available" />&lt;p>A new version of Gavilya is now available, and it is version 4.5.0.2407. We added several new features, such as the new Statistics section or the new sorting options in &amp;ldquo;Recently played games&amp;rdquo; page.&lt;/p>
 &lt;h2 id="new-statistics-section">New Statistics section&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/07/gavilya-version-4.5.0.2407-is-now-available/1.png"
 width="1185"
