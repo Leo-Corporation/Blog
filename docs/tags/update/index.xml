@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Jul 2024 16:51:10 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.4.0.2407 is now available</title><link>https://blog.leocorporation.dev/2024/07/internettest-version-8.4.0.2407-is-now-available/</link><pubDate>Tue, 09 Jul 2024 16:51:10 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/07/internettest-version-8.4.0.2407-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/07/internettest-version-8.4.0.2407-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.4.0.2407 is now available" />&lt;p>A new version of InternetTest is now available and it brings new features that may not seem that important at first, but can be very useful.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 13 Jul 2024 14:24:19 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing InternetTest CLI</title><link>https://blog.leocorporation.dev/2024/07/introducing-internettest-cli/</link><pubDate>Sat, 13 Jul 2024 14:24:19 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/07/introducing-internettest-cli/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/07/introducing-internettest-cli/cover.png" alt="Featured image of post Introducing InternetTest CLI" />&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>InternetTest CLI is a versatile command line interface that extends the robust capabilities of InternetTest Pro to your terminal. Whether you&amp;rsquo;re a network administrator, a developer, or simply a tech enthusiast, InternetTest CLI empowers you with powerful network diagnostic tools at your fingertips. From locating IP addresses to sending ping requests, retrieving DNS information, and more, this tool is designed to enhance your network troubleshooting and management tasks.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;p>InternetTest CLI offers the same comprehensive set of features delivered by InternetTest Pro to meet your network diagnostic needs:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Locate IP addresses&lt;/strong>: Quickly find the geographical location of IP addresses.&lt;/li>
+&lt;li>&lt;strong>Send ping requests&lt;/strong>: Test the reachability of a host on an IP network.&lt;/li>
+&lt;li>&lt;strong>Get DNS information&lt;/strong>: Retrieve detailed DNS records for any domain.&lt;/li>
+&lt;li>&lt;strong>Check if a website is down&lt;/strong>: Verify the status of websites.&lt;/li>
+&lt;li>&lt;strong>Retrieve public IP address information&lt;/strong>: Get information about your public IP address.&lt;/li>
+&lt;li>&lt;strong>Execute traceroutes&lt;/strong>: Trace the path that packets take to reach a destination.&lt;/li>
+&lt;li>&lt;strong>Retrieve saved WiFi passwords&lt;/strong>: Access your stored WiFi passwords (&lt;em>Windows only&lt;/em>).&lt;/li>
+&lt;/ul>
+&lt;h2 id="installation">Installation&lt;/h2>
+&lt;p>Getting started with InternetTest CLI is straightforward. Download the latest release by choosing your platform below:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.mediafire.com/file/ryyi06667u4kwzc/itcli-win-x64.zip/file" target="_blank" rel="noopener"
+>Windows (x64) - ZIP file&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.mediafire.com/file/pv6dg8e62xd1wzm/itcli-osx-x64.zip/file" target="_blank" rel="noopener"
+>macOS (x64) - ZIP file&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.mediafire.com/file/rflhxkb1xubgl1x/itcli-linux-x64.tar/file" target="_blank" rel="noopener"
+>Linux (x64) - TAR file&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Once you have downloaded and extracted the file, you can run the CLI in a terminal. Please note that you may have to grant permissions or execute the program as administrator depending on your local security policy and platform.&lt;/p>
+&lt;h2 id="usage">Usage&lt;/h2>
+&lt;p>Once installed, using InternetTest CLI is simple. The general syntax for commands is:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">itcli &lt;span class="o">[&lt;/span>options&lt;span class="o">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">itcli &lt;span class="o">[&lt;/span>command&lt;span class="o">]&lt;/span> &lt;span class="o">[&lt;/span>...&lt;span class="o">]&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>You can learn more on the &lt;a class="link" href="https://github.com/Leo-Corporation/InternetTestCLI" target="_blank" rel="noopener"
+>official GitHub&lt;/a>.&lt;/p>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>InternetTest CLI brings powerful network diagnostic tools to your command line, enhancing your ability to manage and troubleshoot network issues effectively. Explore its features, report any bugs, request new features, and stay updated with the latest releases through the GitHub repository.&lt;/p></description></item><item><title>InternetTest: Version 8.4.0.2407 is now available</title><link>https://blog.leocorporation.dev/2024/07/internettest-version-8.4.0.2407-is-now-available/</link><pubDate>Tue, 09 Jul 2024 16:51:10 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/07/internettest-version-8.4.0.2407-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/07/internettest-version-8.4.0.2407-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.4.0.2407 is now available" />&lt;p>A new version of InternetTest is now available and it brings new features that may not seem that important at first, but can be very useful.&lt;/p>
 &lt;h2 id="new-additions-at-a-glance">New additions at a glance&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/07/internettest-version-8.4.0.2407-is-now-available/1.png"
 width="950"
