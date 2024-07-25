@@ -1,4 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 13 Jul 2024 14:24:19 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing InternetTest CLI</title><link>https://blog.leocorporation.dev/2024/07/introducing-internettest-cli/</link><pubDate>Sat, 13 Jul 2024 14:24:19 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/07/introducing-internettest-cli/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/07/introducing-internettest-cli/cover.png" alt="Featured image of post Introducing InternetTest CLI" />&lt;h2 id="introduction">Introduction&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 13:33:35 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 6.4.0.2407 is now available</title><link>https://blog.leocorporation.dev/2024/07/colorpicker-version-6.4.0.2407-is-now-available/</link><pubDate>Thu, 25 Jul 2024 13:33:35 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/07/colorpicker-version-6.4.0.2407-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/07/colorpicker-version-6.4.0.2407-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.4.0.2407 is now available" />&lt;p>A new version of ColorPicker Max is now available, and it is the version 6.4.0.2407. This version introduces the ability for users to export and import bookmarks, the possibility to add a custom filter in the &amp;ldquo;Contrast Grid page&amp;rdquo;, and more. Let&amp;rsquo;s dive in!&lt;/p>
+&lt;h2 id="cmyk-option-in-the-ui">CMYK Option in the UI&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/07/colorpicker-version-6.4.0.2407-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/07/colorpicker-version-6.4.0.2407-is-now-available/1_hu6e2692156113d810d178bf06de66f301_202440_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/07/colorpicker-version-6.4.0.2407-is-now-available/1_hu6e2692156113d810d178bf06de66f301_202440_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new CMYK mode selected in the Selector page"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>The latest update to ColorPicker Max introduces a much-anticipated feature for designers and color enthusiasts alike: the inclusion of the CMYK option directly in the user interface. This enhancement is part of our ongoing commitment to providing powerful, intuitive tools that make color selection and manipulation easier and more efficient than ever before.&lt;/p>
+&lt;p>With version 6.4.0.2407, users can now easily switch to CMYK color mode, allowing for precise control over cyan, magenta, yellow, and black channels. This is especially beneficial for those working in print media, where CMYK is the standard. The integration of CMYK into the UI ensures that users can seamlessly transition between different color models without needing to rely on external tools or complex conversions. This feature streamlines the workflow, saving time and reducing the likelihood of errors in color selection and application.&lt;/p>
+&lt;p>The latest release of ColorPicker Max 6.4.0.2407 comes with a range of new features designed to enhance your workflow and offer more control over your projects. From improved contrast analysis tools to advanced bookmark management, these updates are set to revolutionize how you work with color.&lt;/p>
+&lt;h2 id="custom-filter-in-contrast-grid">Custom Filter in Contrast Grid&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/07/colorpicker-version-6.4.0.2407-is-now-available/2.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/07/colorpicker-version-6.4.0.2407-is-now-available/2_hu409e95b45ec531b189c16cfc90c29f72_168335_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/07/colorpicker-version-6.4.0.2407-is-now-available/2_hu409e95b45ec531b189c16cfc90c29f72_168335_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="It is now possible to provide a custom value when using filters in Contrast Grid page"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>The new version also introduces the possibility to specify a custom filter in the Contrast Grid. This feature empowers users to apply personalized criteria when analyzing color contrasts, tailoring the results to meet specific project needs. By allowing more granular control over contrast evaluations, users can ensure that their designs align with their unique aesthetic and functional goals. One of the key updates is the addition of the Min Contrast popup. This feature allows users to quickly check the minimum contrast ratio required for their designs, ensuring compliance with accessibility standards. With a simple click, users can access this popup and verify whether their color combinations meet the necessary contrast requirements, thus enhancing readability and user experience across different media.&lt;/p>
+&lt;h2 id="export-and-import-bookmarks">Export and Import Bookmarks&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/07/colorpicker-version-6.4.0.2407-is-now-available/3.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/07/colorpicker-version-6.4.0.2407-is-now-available/3_hu5d241a353237563c887cdaf2055971c1_218341_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/07/colorpicker-version-6.4.0.2407-is-now-available/3_hu5d241a353237563c887cdaf2055971c1_218341_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Import and Export buttons are available next to the &amp;ldquo;Delete bookmarks&amp;rdquo; button"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>Managing your favorite colors and palettes is now more efficient with the added functionality to export and import bookmarks. Users can easily save their preferred color settings and transfer them between different devices or share them with team members. This capability not only streamlines collaboration but also ensures that your personalized color configurations are always at your fingertips, no matter where you are working.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added missing tooltips in Harmonies page (#419)&lt;/li>
+&lt;li>Added CMYK option in UI (#420)&lt;/li>
+&lt;li>Added CMYK selector sliders in Selector page (#420)&lt;/li>
+&lt;li>Added translations (#421)&lt;/li>
+&lt;li>Added Min Contrast popup (#421)&lt;/li>
+&lt;li>Added the possibility to specify a custom filter in Contrast Grid (#421)&lt;/li>
+&lt;li>Added the possibility to export Bookmarks (#422)&lt;/li>
+&lt;li>Added the possibility to import Bookmarks (#422)&lt;/li>
+&lt;li>Added tooltips in Bookmarks page (#422)&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DownloadColorPickerMax" target="_blank" rel="noopener"
+>Click here&lt;/a> to download ColorPicker Max.&lt;/p>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/colorpickermax" target="_blank" rel="noopener"
+>Learn More&lt;/a> about ColorPicker Max.&lt;/p></description></item><item><title>Introducing InternetTest CLI</title><link>https://blog.leocorporation.dev/2024/07/introducing-internettest-cli/</link><pubDate>Sat, 13 Jul 2024 14:24:19 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/07/introducing-internettest-cli/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/07/introducing-internettest-cli/cover.png" alt="Featured image of post Introducing InternetTest CLI" />&lt;h2 id="introduction">Introduction&lt;/h2>
 &lt;p>InternetTest CLI is a versatile command line interface that extends the robust capabilities of InternetTest Pro to your terminal. Whether you&amp;rsquo;re a network administrator, a developer, or simply a tech enthusiast, InternetTest CLI empowers you with powerful network diagnostic tools at your fingertips. From locating IP addresses to sending ping requests, retrieving DNS information, and more, this tool is designed to enhance your network troubleshooting and management tasks.&lt;/p>
 &lt;h2 id="features">Features&lt;/h2>
 &lt;p>InternetTest CLI offers the same comprehensive set of features delivered by InternetTest Pro to meet your network diagnostic needs:&lt;/p>
