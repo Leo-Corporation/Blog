@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>InternetTest on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/internettest/</link><description>Recent content in InternetTest on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 13 Jul 2024 14:24:19 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/internettest/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing InternetTest CLI</title><link>https://blog.leocorporation.dev/2024/07/introducing-internettest-cli/</link><pubDate>Sat, 13 Jul 2024 14:24:19 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/07/introducing-internettest-cli/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/07/introducing-internettest-cli/cover.png" alt="Featured image of post Introducing InternetTest CLI" />&lt;h2 id="introduction">Introduction&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>InternetTest on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/internettest/</link><description>Recent content in InternetTest on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 04 Aug 2024 11:51:35 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/internettest/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.5.0.2408 is now available</title><link>https://blog.leocorporation.dev/2024/08/internettest-version-8.5.0.2408-is-now-available/</link><pubDate>Sun, 04 Aug 2024 11:51:35 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/08/internettest-version-8.5.0.2408-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/08/internettest-version-8.5.0.2408-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.5.0.2408 is now available" />&lt;p>A new version of InternetTest is now available, bringing with it a new adapter window with a clearer and better design, as well as many other features.&lt;/p>
+&lt;h2 id="new-adapter-window">New Adapter Window&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/08/internettest-version-8.5.0.2408-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/08/internettest-version-8.5.0.2408-is-now-available/1_hu20be6c4b4d8c41cd07b8aed7a162b1d4_183252_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/08/internettest-version-8.5.0.2408-is-now-available/1_hu20be6c4b4d8c41cd07b8aed7a162b1d4_183252_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Adapter window"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>The latest update to InternetTest Pro brings a sleek and user-friendly design to the Adapter Window.&lt;/p>
+&lt;p>The centerpiece of the Adapter Window is its Main Section, meticulously crafted to provide users with a quick overview of their network connection status. This section displays crucial information such as:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Total Data Consumption:&lt;/strong> Easily monitor your internet usage to keep track of data limits or identify unusual spikes in activity. This feature is particularly beneficial for users with capped data plans.&lt;/li>
+&lt;li>&lt;strong>Connection Status:&lt;/strong> Instantly determine whether your device is connected to the internet, with visual cues indicating the current status. This feature helps users quickly troubleshoot connectivity issues.&lt;/li>
+&lt;li>&lt;strong>Network Adapter Type:&lt;/strong> Identify the type of network adapter you are using, whether it’s wired or wireless, allowing for tailored troubleshooting and configuration.&lt;/li>
+&lt;/ul>
+&lt;p>This streamlined presentation ensures that all essential data is accessible at a glance, saving users time and effort in managing their network connections.&lt;/p>
+&lt;p>Beyond the Main Section, InternetTest Pro’s new Adapter Window design offers two additional sections dedicated to advanced and detailed information. These sections are designed for users who require deeper insights into their network configurations and performance.&lt;/p>
+&lt;h2 id="other-improvements">Other improvements&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/08/internettest-version-8.5.0.2408-is-now-available/2.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2024/08/internettest-version-8.5.0.2408-is-now-available/2_hu07bad136b4e05d056472a71b6a49c2ee_209500_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/08/internettest-version-8.5.0.2408-is-now-available/2_hu07bad136b4e05d056472a71b6a49c2ee_209500_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="A Clear button has been added to the DownDetector page"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>The recent update to InternetTest Pro introduces several notable enhancements, further improving its functionality and user experience. A &amp;ldquo;Show all Keys&amp;rdquo; button has been added to the Password page, making it easier to manage and review saved credentials. The inclusion of a Bluetooth icon for adapters provides quick visual identification of Bluetooth connections. Users can now clear DownDetector sites, streamlining the interface and keeping it clutter-free. Finally, the Locate IP page now features a clearing option, enhancing user control over displayed information. These updates collectively contribute to a more efficient and user-friendly networking tool.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added new theme resources (#593)&lt;/li>
+&lt;li>Added translations (#593)&lt;/li>
+&lt;li>Added new Adapter window (#593)&lt;/li>
+&lt;li>Added color to status text (#593)&lt;/li>
+&lt;li>Added &amp;ldquo;Show all Keys&amp;rdquo; button in Password page (#594)&lt;/li>
+&lt;li>Added Bluetooth icon for Adapters (#595)&lt;/li>
+&lt;li>Added the possibility to clear DownDetector sites (#596)&lt;/li>
+&lt;li>Added &amp;ldquo;Reset&amp;rdquo; resource (#597)&lt;/li>
+&lt;li>Added the possibility to clear Locate IP page (#597)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated RestSharp&lt;/li>
+&lt;/ul>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>InternetTest Pro has a landing page so you can learn more about its feature. &lt;a class="link" href="https://leocorporation.dev/store/internettest" target="_blank" rel="noopener"
+>Click here&lt;/a> to access it.&lt;/p>
+&lt;h2 id="get-the-app">Get the app&lt;/h2>
+&lt;p>InternetTest Pro is available on Windows and requires the .NET 8 Windows Desktop Runtime.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITP7" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Setup&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITPP" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Portable&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;/ul></description></item><item><title>Introducing InternetTest CLI</title><link>https://blog.leocorporation.dev/2024/07/introducing-internettest-cli/</link><pubDate>Sat, 13 Jul 2024 14:24:19 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/07/introducing-internettest-cli/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/07/introducing-internettest-cli/cover.png" alt="Featured image of post Introducing InternetTest CLI" />&lt;h2 id="introduction">Introduction&lt;/h2>
 &lt;p>InternetTest CLI is a versatile command line interface that extends the robust capabilities of InternetTest Pro to your terminal. Whether you&amp;rsquo;re a network administrator, a developer, or simply a tech enthusiast, InternetTest CLI empowers you with powerful network diagnostic tools at your fingertips. From locating IP addresses to sending ping requests, retrieving DNS information, and more, this tool is designed to enhance your network troubleshooting and management tasks.&lt;/p>
 &lt;h2 id="features">Features&lt;/h2>
 &lt;p>InternetTest CLI offers the same comprehensive set of features delivered by InternetTest Pro to meet your network diagnostic needs:&lt;/p>
