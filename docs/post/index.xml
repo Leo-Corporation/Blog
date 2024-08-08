@@ -1,4 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 04 Aug 2024 11:51:35 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.5.0.2408 is now available</title><link>https://blog.leocorporation.dev/2024/08/internettest-version-8.5.0.2408-is-now-available/</link><pubDate>Sun, 04 Aug 2024 11:51:35 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/08/internettest-version-8.5.0.2408-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/08/internettest-version-8.5.0.2408-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.5.0.2408 is now available" />&lt;p>A new version of InternetTest is now available, bringing with it a new adapter window with a clearer and better design, as well as many other features.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2024 16:30:17 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing Qrix v2</title><link>https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/</link><pubDate>Wed, 07 Aug 2024 16:30:17 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/cover.png" alt="Featured image of post Introducing Qrix v2" />&lt;p>Welcome to the exciting world of Qrix v2, where creating and customizing bar codes and QR codes has become easier and more efficient than ever. With a focus on simplicity, speed, and user-friendliness, Qrix continues to evolve, meeting the diverse needs of its users. The latest update, Qrix v2, introduces several new features and enhancements that make this web app an indispensable tool for both personal and professional use.&lt;/p>
+&lt;h2 id="new-features">New features&lt;/h2>
+&lt;h3 id="revamped-home-page">Revamped Home page&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/2.png"
+width="1920"
+height="1080"
+srcset="https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/2_huee688e521ff2553144bace0fb3b653ed_97707_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/2_huee688e521ff2553144bace0fb3b653ed_97707_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Home page"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>One of the standout features of Qrix v2 is the revamped Home Page dashboard. The new layout is designed to offer a seamless user experience, making it easier for users to navigate and access the functionalities they need. The dashboard&amp;rsquo;s clean and intuitive interface is complemented by the addition of new locales, making the app accessible to a broader audience. Users can now enjoy a more personalized experience, choosing between light and dark themes, with a clear indication of the selected theme thanks to the newly added border feature in Settings.&lt;/p>
+&lt;h3 id="new-history-page">New History page&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/1.png"
+width="1920"
+height="1080"
+srcset="https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/1_hucf3b6a7734b8ed3b1add32e439bd3d48_86025_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/1_hucf3b6a7734b8ed3b1add32e439bd3d48_86025_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The redesigned History page"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>The History Page has also undergone a significant transformation. With a new user interface dedicated to both bar codes and QR codes, keeping track of your previous creations is now more straightforward. The updated design includes new placeholders, providing a more organized and user-friendly way to view and manage your code history. This feature is especially beneficial for users who frequently generate codes and need to reference past projects.&lt;/p>
+&lt;h3 id="new-options-sections">New Options sections&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/3.png"
+width="1920"
+height="1080"
+srcset="https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/3_hu89c5165c02e99ff616d1c75c9f6d41d8_74112_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/3_hu89c5165c02e99ff616d1c75c9f6d41d8_74112_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new layout for the Options section"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>The new Options sections in the Barcode and QR Code pages give users greater control over their code creation process. These sections provide advanced settings that enable more detailed customization, allowing you to tailor your codes to specific requirements. Coupled with the new font options, users have more creative freedom than ever before.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added border to selected theme in Settings (#488)&lt;/li>
+&lt;li>Added new font (#489)&lt;/li>
+&lt;li>Added new Options section in Barcode page (#489)&lt;/li>
+&lt;li>Added new Options section in QR Code page (#489)&lt;/li>
+&lt;li>Added Table component (#490)&lt;/li>
+&lt;li>Added locales&lt;/li>
+&lt;li>Added new History UI for Bar Code (#490)&lt;/li>
+&lt;li>Added new History UI for QR Code (#490)&lt;/li>
+&lt;li>Added Card component (#491)&lt;/li>
+&lt;li>Added Dashboard locales (#491)&lt;/li>
+&lt;li>Added History UI for Home page (#491)&lt;/li>
+&lt;li>Added new Home page (#491)&lt;/li>
+&lt;li>Removed legacy Dashboard card&lt;/li>
+&lt;li>Added new placeholders in History (#490)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated License dialog&lt;/li>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch-qrix">Launch Qrix&lt;/h2>
+&lt;p>&lt;a class="link" href="ttps://qrix.leocorporation.dev" >Click here&lt;/a> to launch Qrix in your browser.&lt;/p>
+&lt;h2 id="learn-more">Learn more&lt;/h2>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/qrix" target="_blank" rel="noopener"
+>Click here&lt;/a> to learn more about Qrix.&lt;/p></description></item><item><title>InternetTest: Version 8.5.0.2408 is now available</title><link>https://blog.leocorporation.dev/2024/08/internettest-version-8.5.0.2408-is-now-available/</link><pubDate>Sun, 04 Aug 2024 11:51:35 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/08/internettest-version-8.5.0.2408-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/08/internettest-version-8.5.0.2408-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.5.0.2408 is now available" />&lt;p>A new version of InternetTest is now available, bringing with it a new adapter window with a clearer and better design, as well as many other features.&lt;/p>
 &lt;h2 id="new-adapter-window">New Adapter Window&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/08/internettest-version-8.5.0.2408-is-now-available/1.png"
 width="950"
