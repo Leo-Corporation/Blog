@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2024 16:30:17 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing Qrix v2</title><link>https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/</link><pubDate>Wed, 07 Aug 2024 16:30:17 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/cover.png" alt="Featured image of post Introducing Qrix v2" />&lt;p>Welcome to the exciting world of Qrix v2, where creating and customizing bar codes and QR codes has become easier and more efficient than ever. With a focus on simplicity, speed, and user-friendliness, Qrix continues to evolve, meeting the diverse needs of its users. The latest update, Qrix v2, introduces several new features and enhancements that make this web app an indispensable tool for both personal and professional use.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Aug 2024 17:28:07 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 4.4.0.2408 is now available</title><link>https://blog.leocorporation.dev/2024/08/passliss-version-4.4.0.2408-is-now-available/</link><pubDate>Mon, 12 Aug 2024 17:28:07 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/08/passliss-version-4.4.0.2408-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/08/passliss-version-4.4.0.2408-is-now-available/cover.png" alt="Featured image of post Passliss: Version 4.4.0.2408 is now available" />&lt;p>A new version of Passliss is now available, and it is the version 4.4.0.2408. This update brings small improvements and new UI improvements.&lt;/p>
+&lt;h2 id="enhanced-user-interface-and-experience">Enhanced User Interface and Experience&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/08/passliss-version-4.4.0.2408-is-now-available/1.png"
+width="1920"
+height="1080"
+srcset="https://blog.leocorporation.dev/2024/08/passliss-version-4.4.0.2408-is-now-available/1_hu2458a1663e8c456abfe2a7d3d495ef45_109585_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/08/passliss-version-4.4.0.2408-is-now-available/1_hu2458a1663e8c456abfe2a7d3d495ef45_109585_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Activity page Overview Section"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>The latest version of Passliss introduces a range of features aimed at enhancing the overall user interface and experience. Indeed, the Activity tab now includes an Overview section, providing users with a clear and concise summary of their recent activities, making navigation more intuitive.&lt;/p>
+&lt;h2 id="improved-customization-and-visuals">Improved Customization and Visuals&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/08/passliss-version-4.4.0.2408-is-now-available/2.png"
+width="1920"
+height="1080"
+srcset="https://blog.leocorporation.dev/2024/08/passliss-version-4.4.0.2408-is-now-available/2_hu37d33a8f9b95fe2d56aa88776466bae2_131924_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/08/passliss-version-4.4.0.2408-is-now-available/2_hu37d33a8f9b95fe2d56aa88776466bae2_131924_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Several improvements were made to the Settings page"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>Customization and visual appeal have also received attention in this update. A marker has been added in the Theme section, allowing users to easily identify and select their preferred themes. The design of the Select component has been updated, alongside a new tooltip design, both of which contribute to a more polished and visually consistent user interface.&lt;/p>
+&lt;h2 id="new-functionalities-and-integrations">New Functionalities and Integrations&lt;/h2>
+&lt;p>This update also brings new functionalities that improve the app&amp;rsquo;s integration and management capabilities. Users can now view the OpenAI API Key directly within the app, simplifying the process of managing integrations. Additionally, a GitHub link has been added to the &amp;ldquo;See Licenses&amp;rdquo; dialog, providing quick access to the app’s licensing information and contributing to a more transparent user experience.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added a marker in Theme section in Settings (#1190)&lt;/li>
+&lt;li>Added a GitHub link in &amp;ldquo;See Licenses&amp;rdquo; dialog (#1191)&lt;/li>
+&lt;li>Added the possibility to view the OpenAI API Key (#1192)&lt;/li>
+&lt;li>Added Card component (#1193)&lt;/li>
+&lt;li>Added locales (#1193)&lt;/li>
+&lt;li>Added Overview section in Activity (#1193)&lt;/li>
+&lt;li>Added mobile layout (#1193)&lt;/li>
+&lt;li>Added new Select component design&lt;/li>
+&lt;li>Added new tooltip design&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Redesigned Activity items&lt;/li>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch">Launch&lt;/h2>
+&lt;p>&lt;a class="link" href="https://passliss.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to launch Passliss in your web browser.&lt;/p>
+&lt;h2 id="learn-more">Learn more&lt;/h2>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/passliss" target="_blank" rel="noopener"
+>Click here&lt;/a> to learn more about Passliss&lt;/p></description></item><item><title>Introducing Qrix v2</title><link>https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/</link><pubDate>Wed, 07 Aug 2024 16:30:17 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/cover.png" alt="Featured image of post Introducing Qrix v2" />&lt;p>Welcome to the exciting world of Qrix v2, where creating and customizing bar codes and QR codes has become easier and more efficient than ever. With a focus on simplicity, speed, and user-friendliness, Qrix continues to evolve, meeting the diverse needs of its users. The latest update, Qrix v2, introduces several new features and enhancements that make this web app an indispensable tool for both personal and professional use.&lt;/p>
 &lt;h2 id="new-features">New features&lt;/h2>
 &lt;h3 id="revamped-home-page">Revamped Home page&lt;/h3>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/2.png"
