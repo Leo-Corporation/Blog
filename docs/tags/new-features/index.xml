@@ -1,4 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Features on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/new-features/</link><description>Recent content in New Features on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2024 12:53:26 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-features/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 6.5.0.2408 is now available</title><link>https://blog.leocorporation.dev/2024/08/colorpicker-version-6.5.0.2408-is-now-available/</link><pubDate>Sun, 18 Aug 2024 12:53:26 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/08/colorpicker-version-6.5.0.2408-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/08/colorpicker-version-6.5.0.2408-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.5.0.2408 is now available" />&lt;h2 id="new-color-details-section">New Color Details section&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Features on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/new-features/</link><description>Recent content in New Features on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2024 11:21:12 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-features/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 4.5.0.2409 is now available</title><link>https://blog.leocorporation.dev/2024/09/passliss-version-4.5.0.2409-is-now-available/</link><pubDate>Mon, 02 Sep 2024 11:21:12 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/09/passliss-version-4.5.0.2409-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/09/passliss-version-4.5.0.2409-is-now-available/cover.png" alt="Featured image of post Passliss: Version 4.5.0.2409 is now available" />&lt;p>A new version of Passliss is now available, and it is the version 4.5.0.2409. We are proud to introduce the newly-redesigned settings page, making it easier to customize your experience with the app.&lt;/p>
+&lt;h2 id="the-redesigned-settings-page-an-overview">The Redesigned Settings Page: An Overview&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/09/passliss-version-4.5.0.2409-is-now-available/1.png"
+width="1599"
+height="873"
+srcset="https://blog.leocorporation.dev/2024/09/passliss-version-4.5.0.2409-is-now-available/1_hu36c66949ee8f5a96f72d678df0b8e819_93098_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/09/passliss-version-4.5.0.2409-is-now-available/1_hu36c66949ee8f5a96f72d678df0b8e819_93098_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Settings page"
+class="gallery-image"
+data-flex-grow="183"
+data-flex-basis="439px"
+>&lt;/p>
+&lt;p>One of the standout features of Passliss 4.5.0.2409 is the revamped settings page. The new design is intuitive, offering a clean, modern interface that makes configuring the application easier than ever. Let’s explore the new settings options and how they can improve your experience with Passliss.&lt;/p>
+&lt;h3 id="new-layout">New layout&lt;/h3>
+&lt;p>The settings page now has Tab layout, making it easier to switch between settings. You no longer need to expand a section to get all available settings, making it quicker to make changes in your configuration. This new user interface is also more intuitive for new users, improving the overall user experience. Now new settings were introduced; it is a UI update.&lt;/p>
+&lt;h3 id="new-about-section-transparency-and-control">New About Section: Transparency and Control&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/09/passliss-version-4.5.0.2409-is-now-available/2.png"
+width="1598"
+height="874"
+srcset="https://blog.leocorporation.dev/2024/09/passliss-version-4.5.0.2409-is-now-available/2_hu0a9b039a9cc4abf9bc676f67f5df1cbe_86459_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/09/passliss-version-4.5.0.2409-is-now-available/2_hu0a9b039a9cc4abf9bc676f67f5df1cbe_86459_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new About section"
+class="gallery-image"
+data-flex-grow="182"
+data-flex-basis="438px"
+>&lt;/p>
+&lt;p>The updated settings page also includes a new &amp;ldquo;About&amp;rdquo; section, providing users with crucial information and tools for managing their data:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Licenses:&lt;/strong> Review the licenses for the various components and libraries used within Passliss, ensuring full transparency.&lt;/li>
+&lt;li>&lt;strong>Data Management:&lt;/strong> Access options to import and export your data, offering flexibility in how you manage and back up your settings and preferences.&lt;/li>
+&lt;/ul>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added the possibility to view Key in Encryption page (#1229)&lt;/li>
+&lt;li>Added locales for new Settings (#1230)&lt;/li>
+&lt;li>Added General Settings (#1231)&lt;/li>
+&lt;li>Added missing theme locales (#1231)&lt;/li>
+&lt;li>Added Password Generation Settings (#1232)&lt;/li>
+&lt;li>Added Security Settings (#1233)&lt;/li>
+&lt;li>Added API Settings (#1234)&lt;/li>
+&lt;li>Added About Section (#1230)&lt;/li>
+&lt;li>Made the settings page responsive (#1230)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Made the Theme Items darker (#1231)&lt;/li>
+&lt;li>Updated Licenses&lt;/li>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch">Launch&lt;/h2>
+&lt;p>&lt;a class="link" href="https://passliss.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to launch Passliss in your web browser.&lt;/p>
+&lt;h2 id="learn-more">Learn more&lt;/h2>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/passliss" target="_blank" rel="noopener"
+>Click here&lt;/a> to learn more about Passliss&lt;/p></description></item><item><title>ColorPicker: Version 6.5.0.2408 is now available</title><link>https://blog.leocorporation.dev/2024/08/colorpicker-version-6.5.0.2408-is-now-available/</link><pubDate>Sun, 18 Aug 2024 12:53:26 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/08/colorpicker-version-6.5.0.2408-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/08/colorpicker-version-6.5.0.2408-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.5.0.2408 is now available" />&lt;h2 id="new-color-details-section">New Color Details section&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/08/colorpicker-version-6.5.0.2408-is-now-available/1.png"
 width="950"
 height="600"
