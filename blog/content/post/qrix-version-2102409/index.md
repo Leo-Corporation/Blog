@@ -38,7 +38,7 @@ The Qrix app has undergone a significant redesign of its settings page, shifting
 
 ## Launch Qrix
 
-[Click here](ttps://qrix.leocorporation.dev) to launch Qrix in your browser.
+[Click here](https://qrix.leocorporation.dev) to launch Qrix in your browser.
 
 ## Learn more
 
