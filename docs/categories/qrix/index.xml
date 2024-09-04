@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qrix on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/qrix/</link><description>Recent content in Qrix on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2024 16:30:17 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/qrix/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing Qrix v2</title><link>https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/</link><pubDate>Wed, 07 Aug 2024 16:30:17 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/cover.png" alt="Featured image of post Introducing Qrix v2" />&lt;p>Welcome to the exciting world of Qrix v2, where creating and customizing bar codes and QR codes has become easier and more efficient than ever. With a focus on simplicity, speed, and user-friendliness, Qrix continues to evolve, meeting the diverse needs of its users. The latest update, Qrix v2, introduces several new features and enhancements that make this web app an indispensable tool for both personal and professional use.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qrix on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/qrix/</link><description>Recent content in Qrix on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2024 10:22:09 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/qrix/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 2.1.0.2409 is now available</title><link>https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/</link><pubDate>Wed, 04 Sep 2024 10:22:09 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/cover.png" alt="Featured image of post Qrix: Version 2.1.0.2409 is now available" />&lt;p>A new version of Qrix is now available and it brings a redesigned settings page.&lt;/p>
+&lt;h2 id="new-settings-page">New Settings page&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/1.png"
+width="1723"
+height="967"
+srcset="https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/1_hu2d81b30b142963068d0f7898fc0f4d11_89360_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/1_hu2d81b30b142963068d0f7898fc0f4d11_89360_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The redesigned settings page UI"
+class="gallery-image"
+data-flex-grow="178"
+data-flex-basis="427px"
+>&lt;/p>
+&lt;p>The Qrix app has undergone a significant redesign of its settings page, shifting from an accordion layout to a sleek tabbed UI design with informative cards. This new layout enhances usability by allowing users to access important settings with greater clarity and speed. The settings are now neatly divided into three sections: &lt;strong>General&lt;/strong>, &lt;strong>Generation&lt;/strong>, and &lt;strong>About&lt;/strong>. In the &lt;strong>General&lt;/strong> tab, users can customize the app&amp;rsquo;s theme, language, and choose save options like PNG or JPEG formats. The &lt;strong>Generation&lt;/strong> tab focuses on default settings for generating QR and barcodes, ensuring a smoother creation process. Finally, the &lt;strong>About&lt;/strong> tab provides essential information, including licenses, a GitHub link, and version details. This streamlined approach makes it easier for users to find and adjust settings, improving the overall experience.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added locales (#527)&lt;/li>
+&lt;li>Added General Settings (#528)&lt;/li>
+&lt;li>Added Generation Settings (#529)&lt;/li>
+&lt;li>Added About Section (#530)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed alignment issue&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch-qrix">Launch Qrix&lt;/h2>
+&lt;p>&lt;a class="link" href="ttps://qrix.leocorporation.dev" >Click here&lt;/a> to launch Qrix in your browser.&lt;/p>
+&lt;h2 id="learn-more">Learn more&lt;/h2>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/qrix" target="_blank" rel="noopener"
+>Click here&lt;/a> to learn more about Qrix.&lt;/p></description></item><item><title>Introducing Qrix v2</title><link>https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/</link><pubDate>Wed, 07 Aug 2024 16:30:17 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/cover.png" alt="Featured image of post Introducing Qrix v2" />&lt;p>Welcome to the exciting world of Qrix v2, where creating and customizing bar codes and QR codes has become easier and more efficient than ever. With a focus on simplicity, speed, and user-friendliness, Qrix continues to evolve, meeting the diverse needs of its users. The latest update, Qrix v2, introduces several new features and enhancements that make this web app an indispensable tool for both personal and professional use.&lt;/p>
 &lt;h2 id="new-features">New features&lt;/h2>
 &lt;h3 id="revamped-home-page">Revamped Home page&lt;/h3>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/08/introducing-qrix-v2/2.png"
