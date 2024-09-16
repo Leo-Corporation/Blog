@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Features on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/new-features/</link><description>Recent content in New Features on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2024 10:22:09 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-features/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 2.1.0.2409 is now available</title><link>https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/</link><pubDate>Wed, 04 Sep 2024 10:22:09 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/cover.png" alt="Featured image of post Qrix: Version 2.1.0.2409 is now available" />&lt;p>A new version of Qrix is now available and it brings a redesigned settings page.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Features on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/new-features/</link><description>Recent content in New Features on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 16 Sep 2024 11:12:40 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-features/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.6.0.2409 is now available</title><link>https://blog.leocorporation.dev/2024/09/internettest-version-8.6.0.2409-is-now-available/</link><pubDate>Mon, 16 Sep 2024 11:12:40 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/09/internettest-version-8.6.0.2409-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/09/internettest-version-8.6.0.2409-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.6.0.2409 is now available" />&lt;p>A new version of InternetTest is now available and adds the possibility to view your DNS cache and the possibility to erase it.&lt;/p>
+&lt;h2 id="new-dns-cache-feature">New DNS Cache Feature&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/09/internettest-version-8.6.0.2409-is-now-available/1.png"
+width="1108"
+height="663"
+srcset="https://blog.leocorporation.dev/2024/09/internettest-version-8.6.0.2409-is-now-available/1_hudf5514e03ca92be10d5f40d79cd0a8d9_198096_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/09/internettest-version-8.6.0.2409-is-now-available/1_hudf5514e03ca92be10d5f40d79cd0a8d9_198096_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new DNS Cache section in DNS Tool page"
+class="gallery-image"
+data-flex-grow="167"
+data-flex-basis="401px"
+>&lt;/p>
+&lt;p>The latest version of InternetTest Pro, 8.6.0.2409, introduces a significant enhancement with its new DNS cache feature. This addition provides users with a detailed view of their DNS cache, which can be instrumental in diagnosing and resolving network issues. With the ability to access and examine cached DNS entries, users can gain insights into how domain names are being resolved and identify potential issues that may be affecting connectivity.&lt;/p>
+&lt;p>Moreover, the update includes a powerful tool for flushing the DNS cache directly from the application. This functionality clears outdated or corrupted DNS records, which can help resolve connectivity problems and improve network performance. The revamped DNS page now features a tab system, making it easier to navigate and manage these new options. This streamlined approach not only simplifies the process of managing DNS settings but also enhances overall efficiency, making network troubleshooting and optimization more accessible than ever.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added the possibility to copy the IP (#611)&lt;/li>
+&lt;li>Added translations (#612)&lt;/li>
+&lt;li>Added Tab system in DNS page (#612)&lt;/li>
+&lt;li>Added DNS Cache Info (#612)&lt;/li>
+&lt;li>Added DNS Cache Item (#612)&lt;/li>
+&lt;li>Added the possibility to get DNS Cache (#612)&lt;/li>
+&lt;li>Added the possibility to flush DNS cache (#613)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated RestSharp (#610)&lt;/li>
+&lt;/ul>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>InternetTest Pro has a landing page so you can learn more about its feature. &lt;a class="link" href="https://leocorporation.dev/store/internettest" target="_blank" rel="noopener"
+>Click here&lt;/a> to access it.&lt;/p>
+&lt;h2 id="get-the-app">Get the app&lt;/h2>
+&lt;p>InternetTest Pro is available on Windows and requires the .NET 8 Windows Desktop Runtime.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITP7" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Setup&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITPP" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Portable&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;/ul></description></item><item><title>Qrix: Version 2.1.0.2409 is now available</title><link>https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/</link><pubDate>Wed, 04 Sep 2024 10:22:09 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/cover.png" alt="Featured image of post Qrix: Version 2.1.0.2409 is now available" />&lt;p>A new version of Qrix is now available and it brings a redesigned settings page.&lt;/p>
 &lt;h2 id="new-settings-page">New Settings page&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/1.png"
 width="1723"
