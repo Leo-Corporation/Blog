@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>InternetTest on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/internettest/</link><description>Recent content in InternetTest on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 16 Sep 2024 11:12:40 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/internettest/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.6.0.2409 is now available</title><link>https://blog.leocorporation.dev/2024/09/internettest-version-8.6.0.2409-is-now-available/</link><pubDate>Mon, 16 Sep 2024 11:12:40 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/09/internettest-version-8.6.0.2409-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/09/internettest-version-8.6.0.2409-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.6.0.2409 is now available" />&lt;p>A new version of InternetTest is now available and adds the possibility to view your DNS cache and the possibility to erase it.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>InternetTest on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/internettest/</link><description>Recent content in InternetTest on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 Nov 2024 17:07:43 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/internettest/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.7.0.2411 is now available</title><link>https://blog.leocorporation.dev/2024/11/internettest-version-8.7.0.2411-is-now-available/</link><pubDate>Sat, 30 Nov 2024 17:07:43 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/11/internettest-version-8.7.0.2411-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/11/internettest-version-8.7.0.2411-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.7.0.2411 is now available" />&lt;p>A new version of InternetTest is now available and it improves the portable mode, adds new map options and more.&lt;/p>
+&lt;h2 id="new-settings-system-behavior-in-portable-mode">New Settings system behavior in portable mode&lt;/h2>
+&lt;p>We updated the behavior of the app when used in Portable mode: The settings and other files required by InternetTest Pro are now stored in the same directory of the executable. This address an issue where the AppData folder would be erased in some configurations.&lt;/p>
+&lt;h2 id="other-changes">Other changes&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2024/11/internettest-version-8.7.0.2411-is-now-available/1.png"
+width="1047"
+height="641"
+srcset="https://blog.leocorporation.dev/2024/11/internettest-version-8.7.0.2411-is-now-available/1_hu87cfa652e252ead6e5a80cebec9c9086_176723_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2024/11/internettest-version-8.7.0.2411-is-now-available/1_hu87cfa652e252ead6e5a80cebec9c9086_176723_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Map settings section along with the new layout in the Header section"
+class="gallery-image"
+data-flex-grow="163"
+data-flex-basis="392px"
+>&lt;/p>
+&lt;p>We also added a new option to select a default zoom level when locating an IP and viewing it on a map. Plus, we added support for this feature in the Bing Maps map provider.&lt;/p>
+&lt;p>Finally, we are introducing a new layout for the Quick Information section in the Home page: It is now available directly in the Header section of the app, so you can quickly monitor your status and network information.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="added">Added&lt;/h3>
+&lt;ul>
+&lt;li>Added new Default Storage path (#622)&lt;/li>
+&lt;li>Added Quick Information in header section (#623)&lt;/li>
+&lt;li>Added translations (#626)&lt;/li>
+&lt;li>Added possibility to set the default zoom level for Maps providers (#626)&lt;/li>
+&lt;li>Added default zoom support for Bing maps (#626)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed caret not visible in TextBoxes (#624)&lt;/li>
+&lt;li>Fixed theme selector not working on First Run (#625)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated RestSharp&lt;/li>
+&lt;/ul>
+&lt;h2 id="files">Files&lt;/h2>
+&lt;p>You will find these files with this release:&lt;/p>
+&lt;ul>
+&lt;li>InternetTestProSetup.exe&lt;/li>
+&lt;li>InternetTest.exe&lt;/li>
+&lt;/ul>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>InternetTest Pro has a landing page so you can learn more about its feature. &lt;a class="link" href="https://leocorporation.dev/store/internettest" target="_blank" rel="noopener"
+>Click here&lt;/a> to access it.&lt;/p>
+&lt;h2 id="get-the-app">Get the app&lt;/h2>
+&lt;p>InternetTest Pro is available on Windows and requires the .NET 8 Windows Desktop Runtime.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITP7" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Setup&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITPP" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Portable&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;/ul></description></item><item><title>InternetTest: Version 8.6.0.2409 is now available</title><link>https://blog.leocorporation.dev/2024/09/internettest-version-8.6.0.2409-is-now-available/</link><pubDate>Mon, 16 Sep 2024 11:12:40 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/09/internettest-version-8.6.0.2409-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/09/internettest-version-8.6.0.2409-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.6.0.2409 is now available" />&lt;p>A new version of InternetTest is now available and adds the possibility to view your DNS cache and the possibility to erase it.&lt;/p>
 &lt;h2 id="new-dns-cache-feature">New DNS Cache Feature&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/09/internettest-version-8.6.0.2409-is-now-available/1.png"
 width="1108"
