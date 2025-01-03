@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/</link><description>Recent content on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 Nov 2024 17:07:43 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.7.0.2411 is now available</title><link>https://blog.leocorporation.dev/2024/11/internettest-version-8.7.0.2411-is-now-available/</link><pubDate>Sat, 30 Nov 2024 17:07:43 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/11/internettest-version-8.7.0.2411-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/11/internettest-version-8.7.0.2411-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.7.0.2411 is now available" />&lt;p>A new version of InternetTest is now available and it improves the portable mode, adds new map options and more.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/</link><description>Recent content on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2025 16:09:16 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 6.6.0.2501 is now available</title><link>https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/</link><pubDate>Fri, 03 Jan 2025 16:09:16 +0100</pubDate><guid>https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.6.0.2501 is now available" />&lt;h2 id="new-harmonies-section">New Harmonies section&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/1_hu74c49dcebed5310c4065a09848499403_183333_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/1_hu74c49dcebed5310c4065a09848499403_183333_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Harmonies section"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>We also added a new Harmonies section in the Palette page, enhancing the user experience even when no colors have been bookmarked yet. These new placeholders are not only visually appealing but also serve as subtle guides, encouraging users to explore the app&amp;rsquo;s bookmarking feature. You will also notice that we removed the Harmonies page from the app to merge all of its features into the Palette page. This change will make it easier for users to access all the color harmonies and palettes in one place.&lt;/p>
+&lt;h2 id="new-update-section">New Update section&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/2.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/2_hu44cbfc2dca748ebd57f7e86158aa3284_163428_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/2_hu44cbfc2dca748ebd57f7e86158aa3284_163428_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Update section"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>In the latest update of ColorPicker, users will notice a significant enhancement in the Update section, designed to streamline experience. The new design introduces a more intuitive and visually appealing interface, making it easier than ever to access and understand detailed color information.&lt;/p>
+&lt;h2 id="other-improvements">Other improvements&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/3.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/3_hud1159f7059fc2c8357561a9bdd7eb1b6_203762_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/3_hud1159f7059fc2c8357561a9bdd7eb1b6_203762_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new tooltips in Contrast Grid page"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>One notable enhancement is the addition of new tooltips on the Contrast Grid page, which provide quick information about the foreground and background color contrast. We also fixed an alignment issue in the margin of the app, ensuring a more cohesive and polished interface.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h2 id="new">New&lt;/h2>
+&lt;ul>
+&lt;li>Added tooltips in Contrast Grid page (#441)&lt;/li>
+&lt;li>Added new Theme resources for new Update section (#442)&lt;/li>
+&lt;li>Added new Update section (#442)&lt;/li>
+&lt;li>Added Chinese locales to Setup&lt;/li>
+&lt;li>Added Harmonies sections in Palette page (#443)&lt;/li>
+&lt;/ul>
+&lt;h2 id="fixed">Fixed&lt;/h2>
+&lt;ul>
+&lt;li>Fixed wrong padding in AI settings (#440)&lt;/li>
+&lt;li>Fixed theme not applying to Update section (#442)&lt;/li>
+&lt;li>Fixed margin aligment issue (#443)&lt;/li>
+&lt;/ul>
+&lt;h2 id="updated">Updated&lt;/h2>
+&lt;ul>
+&lt;li>Updated Betalgo.OpenAI (#439)&lt;/li>
+&lt;li>Removed Harmonies page (#443)&lt;/li>
+&lt;li>Removed Harmonies from Synethia (#443)&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DownloadColorPickerMax" target="_blank" rel="noopener"
+>Click here&lt;/a> to download ColorPicker Max.&lt;/p>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/colorpickermax" target="_blank" rel="noopener"
+>Learn More&lt;/a> about ColorPicker Max.&lt;/p></description></item><item><title>InternetTest: Version 8.7.0.2411 is now available</title><link>https://blog.leocorporation.dev/2024/11/internettest-version-8.7.0.2411-is-now-available/</link><pubDate>Sat, 30 Nov 2024 17:07:43 +0100</pubDate><guid>https://blog.leocorporation.dev/2024/11/internettest-version-8.7.0.2411-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/11/internettest-version-8.7.0.2411-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.7.0.2411 is now available" />&lt;p>A new version of InternetTest is now available and it improves the portable mode, adds new map options and more.&lt;/p>
 &lt;h2 id="new-settings-system-behavior-in-portable-mode">New Settings system behavior in portable mode&lt;/h2>
 &lt;p>We updated the behavior of the app when used in Portable mode: The settings and other files required by InternetTest Pro are now stored in the same directory of the executable. This address an issue where the AppData folder would be erased in some configurations.&lt;/p>
 &lt;h2 id="other-changes">Other changes&lt;/h2>
