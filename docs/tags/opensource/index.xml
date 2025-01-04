@@ -1,4 +1,85 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2025 16:09:16 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 6.6.0.2501 is now available</title><link>https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/</link><pubDate>Fri, 03 Jan 2025 16:09:16 +0100</pubDate><guid>https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.6.0.2501 is now available" />&lt;h2 id="new-harmonies-section">New Harmonies section&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenSource on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/opensource/</link><description>Recent content in OpenSource on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 04 Jan 2025 15:25:25 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest CLI: Version 1.1.0.2501 is now available</title><link>https://blog.leocorporation.dev/2025/01/internettest-cli-version-1.1.0.2501-is-now-available/</link><pubDate>Sat, 04 Jan 2025 15:25:25 +0100</pubDate><guid>https://blog.leocorporation.dev/2025/01/internettest-cli-version-1.1.0.2501-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/01/internettest-cli-version-1.1.0.2501-is-now-available/cover.png" alt="Featured image of post InternetTest CLI: Version 1.1.0.2501 is now available" />&lt;p>A new version of InternetTest CLI is now available and it brings new features and improvements to the app.&lt;/p>
+&lt;h2 id="new-features">New Features&lt;/h2>
+&lt;h3 id="select-a-map-provider">Select a map provider&lt;/h3>
+&lt;p>You can now select a map provider when locating an IP. This feature allows you to choose between Bing Maps, Yandex, OpenStreetMap, HERE, and Google Maps.&lt;/p>
+&lt;p>Just use the &lt;code>--provider&lt;/code> argument followed by the provider name. For example, to use Bing Maps, you can use the following command:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">itcli ip locate --provider Microsoft
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="dns-cache">DNS Cache&lt;/h3>
+&lt;p>We added a DNS Cache logic to the app. You can now get the DNS cache and clear it. This feature is only available on Windows.&lt;/p>
+&lt;p>To get the DNS cache, use the following command:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">itcli dns cache
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>To clear the DNS cache, use the following command:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">itcli dns cache --clear
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="downdetector">DownDetector&lt;/h3>
+&lt;p>You can now test multiple sites with DownDetector. You can also provide a file with websites to test and the app will check their status.&lt;/p>
+&lt;p>To test multiple sites, use the following command:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">itcli downdetector https://example.com https://example2.com
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>To provide a file with websites to test, use the following command:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">itcli downdetector websites.txt -f
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added the possibility to select a map provider when locating an IP (#4)&lt;/li>
+&lt;li>Added DNS Cache logic (#5)&lt;/li>
+&lt;li>Added Better Console Tables&lt;/li>
+&lt;li>Added the possibility to get DNS cache (#5)&lt;/li>
+&lt;li>Made DNS Cache command Windows-Only (#5)&lt;/li>
+&lt;li>Added the possibility to clear DNS Cache (#5)&lt;/li>
+&lt;li>Added the possibility to test multiple sites with DownDetector (#5)&lt;/li>
+&lt;li>Added the possibility to provide a file with websites to test (#6)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated RestSharp (#3)&lt;/li>
+&lt;/ul>
+&lt;h2 id="installation">Installation&lt;/h2>
+&lt;p>Getting started with InternetTest CLI is straightforward. Download the latest release by choosing your platform below:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.mediafire.com/file/ryyi06667u4kwzc/itcli-win-x64.zip/file" target="_blank" rel="noopener"
+>Windows (x64) - ZIP file&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.mediafire.com/file/pv6dg8e62xd1wzm/itcli-osx-x64.zip/file" target="_blank" rel="noopener"
+>macOS (x64) - ZIP file&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.mediafire.com/file/rflhxkb1xubgl1x/itcli-linux-x64.tar/file" target="_blank" rel="noopener"
+>Linux (x64) - TAR file&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Once you have downloaded and extracted the file, you can run the CLI in a terminal. Please note that you may have to grant permissions or execute the program as administrator depending on your local security policy and platform.&lt;/p>
+&lt;p>You can learn more on the &lt;a class="link" href="https://github.com/Leo-Corporation/InternetTestCLI" target="_blank" rel="noopener"
+>official GitHub&lt;/a>.&lt;/p></description></item><item><title>ColorPicker: Version 6.6.0.2501 is now available</title><link>https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/</link><pubDate>Fri, 03 Jan 2025 16:09:16 +0100</pubDate><guid>https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.6.0.2501 is now available" />&lt;h2 id="new-harmonies-section">New Harmonies section&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2025/01/colorpicker-version-6.6.0.2501-is-now-available/1.png"
 width="950"
 height="600"
