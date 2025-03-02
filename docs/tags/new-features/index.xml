@@ -1,4 +1,83 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Features on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/new-features/</link><description>Recent content in New Features on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 04 Jan 2025 15:25:25 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-features/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest CLI: Version 1.1.0.2501 is now available</title><link>https://blog.leocorporation.dev/2025/01/internettest-cli-version-1.1.0.2501-is-now-available/</link><pubDate>Sat, 04 Jan 2025 15:25:25 +0100</pubDate><guid>https://blog.leocorporation.dev/2025/01/internettest-cli-version-1.1.0.2501-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/01/internettest-cli-version-1.1.0.2501-is-now-available/cover.png" alt="Featured image of post InternetTest CLI: Version 1.1.0.2501 is now available" />&lt;p>A new version of InternetTest CLI is now available and it brings new features and improvements to the app.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Features on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/new-features/</link><description>Recent content in New Features on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Mar 2025 14:30:18 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-features/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.8.0.2503 is now available</title><link>https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/</link><pubDate>Sun, 02 Mar 2025 14:30:18 +0100</pubDate><guid>https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.8.0.2503 is now available" />&lt;p>A new version of InternetTest is now available and it introduces an improved experience with the Request editor, enhanced DNS cache management, and more.&lt;/p>
+&lt;h2 id="enhanced-dns-cache-management">Enhanced DNS Cache Management&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/1.png"
+width="950"
+height="604"
+srcset="https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/1_huda070b63c3a144eacee67e55ad0228fc_203057_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/1_huda070b63c3a144eacee67e55ad0228fc_203057_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Overview section in the DNS cache"
+class="gallery-image"
+data-flex-grow="157"
+data-flex-basis="377px"
+>&lt;/p>
+&lt;p>One of the standout features in this update is the addition of an overview section in the DNS cache. This new section provides a comprehensive view of your cached DNS entries, allowing you to quickly assess their status and details.&lt;/p>
+&lt;h2 id="improved-request-handling">Improved Request Handling&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/2.png"
+width="950"
+height="604"
+srcset="https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/2_huda070b63c3a144eacee67e55ad0228fc_145636_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/2_huda070b63c3a144eacee67e55ad0228fc_145636_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Request Editor with the ability to hide content"
+class="gallery-image"
+data-flex-grow="157"
+data-flex-basis="377px"
+>&lt;/p>
+&lt;p>The latest version of InternetTest Pro introduces several improvements to request handling, making it more secure and user-friendly. One of the notable additions is the ability to hide content when providing values in the Request Editor. This feature gives you greater control over what is displayed, allowing you to keep sensitive information hidden. Additionally, the auto-hide sensitive data feature automatically conceals sensitive data in requests, enhancing the security of your information.&lt;/p>
+&lt;p>Moreover, you can now provide a body and authentication information for your requests. This makes it easier to test APIs and other services that require these details, streamlining your workflow and improving productivity. The Request page has also been made more consistent, providing a smoother and more predictable user experience.&lt;/p>
+&lt;h2 id="new-about-section">New About Section&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/3.png"
+width="950"
+height="604"
+srcset="https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/3_huda070b63c3a144eacee67e55ad0228fc_196049_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/3_huda070b63c3a144eacee67e55ad0228fc_196049_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new About section in the app"
+class="gallery-image"
+data-flex-grow="157"
+data-flex-basis="377px"
+>&lt;/p>
+&lt;p>We also added a new About section to the app, giving you quick access to information about InternetTest Pro (update status, licenses, etc).&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added new resources (&lt;a class="link" href="https://github.com/Leo-Corporation/InternetTest/issues/638" target="_blank" rel="noopener"
+>#638&lt;/a>)&lt;/li>
+&lt;li>Added an overview section in DNS cache (&lt;a class="link" href="https://github.com/Leo-Corporation/InternetTest/issues/638" target="_blank" rel="noopener"
+>#638&lt;/a>)&lt;/li>
+&lt;li>Added new Combobox Style (&lt;a class="link" href="https://github.com/Leo-Corporation/InternetTest/issues/639" target="_blank" rel="noopener"
+>#639&lt;/a>)&lt;/li>
+&lt;li>Redesigned the Request Mode selector (&lt;a class="link" href="https://github.com/Leo-Corporation/InternetTest/issues/639" target="_blank" rel="noopener"
+>#639&lt;/a>)&lt;/li>
+&lt;li>Added the possibility to hide content when providing values in Request Editor (&lt;a class="link" href="https://github.com/Leo-Corporation/InternetTest/issues/640" target="_blank" rel="noopener"
+>#640&lt;/a>)&lt;/li>
+&lt;li>Added auto-hide sensible data feature in Requests (&lt;a class="link" href="https://github.com/Leo-Corporation/InternetTest/issues/640" target="_blank" rel="noopener"
+>#640&lt;/a>)&lt;/li>
+&lt;li>Added locales (&lt;a class="link" href="https://github.com/Leo-Corporation/InternetTest/issues/641" target="_blank" rel="noopener"
+>#641&lt;/a>)&lt;/li>
+&lt;li>Added the possibility to provide a body for a request (&lt;a class="link" href="https://github.com/Leo-Corporation/InternetTest/issues/641" target="_blank" rel="noopener"
+>#641&lt;/a>)&lt;/li>
+&lt;li>Added the possibility to provide Auth info for a request (&lt;a class="link" href="https://github.com/Leo-Corporation/InternetTest/issues/641" target="_blank" rel="noopener"
+>#641&lt;/a>)&lt;/li>
+&lt;li>Made Request page more consistent (&lt;a class="link" href="https://github.com/Leo-Corporation/InternetTest/issues/641" target="_blank" rel="noopener"
+>#641&lt;/a>)&lt;/li>
+&lt;li>Added new About section (&lt;a class="link" href="https://github.com/Leo-Corporation/InternetTest/issues/642" target="_blank" rel="noopener"
+>#642&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed wrong translation in Traceroute popup (&lt;a class="link" href="https://github.com/Leo-Corporation/InternetTest/issues/637" target="_blank" rel="noopener"
+>#637&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>InternetTest Pro has a landing page so you can learn more about its feature. &lt;a class="link" href="https://leocorporation.dev/store/internettest" target="_blank" rel="noopener"
+>Click here&lt;/a> to access it.&lt;/p>
+&lt;h2 id="get-the-app">Get the app&lt;/h2>
+&lt;p>InternetTest Pro is available on Windows and requires the .NET 8 Windows Desktop Runtime.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITP7" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Setup&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITPP" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Portable&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;/ul></description></item><item><title>InternetTest CLI: Version 1.1.0.2501 is now available</title><link>https://blog.leocorporation.dev/2025/01/internettest-cli-version-1.1.0.2501-is-now-available/</link><pubDate>Sat, 04 Jan 2025 15:25:25 +0100</pubDate><guid>https://blog.leocorporation.dev/2025/01/internettest-cli-version-1.1.0.2501-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/01/internettest-cli-version-1.1.0.2501-is-now-available/cover.png" alt="Featured image of post InternetTest CLI: Version 1.1.0.2501 is now available" />&lt;p>A new version of InternetTest CLI is now available and it brings new features and improvements to the app.&lt;/p>
 &lt;h2 id="new-features">New Features&lt;/h2>
 &lt;h3 id="select-a-map-provider">Select a map provider&lt;/h3>
 &lt;p>You can now select a map provider when locating an IP. This feature allows you to choose between Bing Maps, Yandex, OpenStreetMap, HERE, and Google Maps.&lt;/p>
