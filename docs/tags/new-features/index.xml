@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Features on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/new-features/</link><description>Recent content in New Features on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Mar 2025 14:30:18 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-features/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.8.0.2503 is now available</title><link>https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/</link><pubDate>Sun, 02 Mar 2025 14:30:18 +0100</pubDate><guid>https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.8.0.2503 is now available" />&lt;p>A new version of InternetTest is now available and it introduces an improved experience with the Request editor, enhanced DNS cache management, and more.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>New Features on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/new-features/</link><description>Recent content in New Features on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 08 Mar 2025 16:51:32 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/new-features/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 4.6.0.2503 is now available</title><link>https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/</link><pubDate>Sat, 08 Mar 2025 16:51:32 +0100</pubDate><guid>https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.6.0.2503 is now available" />&lt;p>A new version of Gavilya is now available, and it is version 4.6.0.2503. We added several new features, such as the possibility to change the default monitor, a new theme section, and more.&lt;/p>
+&lt;h2 id="new-theme-section">New Theme section&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/1.png"
+width="1185"
+height="700"
+srcset="https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/1_hu79b3c3e4f82ad53d30d4a8282c24c92c_54109_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/1_hu79b3c3e4f82ad53d30d4a8282c24c92c_54109_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Theme section"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;p>One of the standout features in this update is the addition of a new Theme section. This new section provides a comprehensive view of your available themes, allowing you to quickly assess their status and details.&lt;/p>
+&lt;p>Please note that you will need to update the themes to the latest version to use them with this new version of Gavilya. If you don&amp;rsquo;t, you may experience issues with the app, especially with the new About section.&lt;/p>
+&lt;h2 id="monitor-changer">Monitor Changer&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/2.png"
+width="1185"
+height="700"
+srcset="https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/2_hu97b9974fb30a53dab6ff8969e9e1d402_164015_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/2_hu97b9974fb30a53dab6ff8969e9e1d402_164015_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Monitor Changer"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;p>The latest version of Gavilya introduces the possibility to change the default monitor. This feature gives you greater control over which monitor is used when launching a game, allowing you to select the best option for your setup.&lt;/p>
+&lt;h2 id="new-about-section">New About Section&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/3.png"
+width="1185"
+height="700"
+srcset="https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/3_hu7338cdafce5da83af8faff99166d7f89_49849_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/3_hu7338cdafce5da83af8faff99166d7f89_49849_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new About section in the app"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;p>We also added a new About section to the app, giving you quick access to information about Gavilya (update status, licenses, etc).&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Welcome message now uses profile name (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/474" target="_blank" rel="noopener"
+>#474&lt;/a>)&lt;/li>
+&lt;li>Added new ComboBox design (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/475" target="_blank" rel="noopener"
+>#475&lt;/a>)&lt;/li>
+&lt;li>Added new Theme resources (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/476" target="_blank" rel="noopener"
+>#476&lt;/a>)&lt;/li>
+&lt;li>Added new About page (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/476" target="_blank" rel="noopener"
+>#476&lt;/a>)&lt;/li>
+&lt;li>Added Theme Selector component (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/477" target="_blank" rel="noopener"
+>#477&lt;/a>)&lt;/li>
+&lt;li>Added new Theme selector UI (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/477" target="_blank" rel="noopener"
+>#477&lt;/a>)&lt;/li>
+&lt;li>Added locales (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/478" target="_blank" rel="noopener"
+>#478&lt;/a>)&lt;/li>
+&lt;li>Added new List syntax&lt;/li>
+&lt;li>Added the possibility to select a monitor (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/478" target="_blank" rel="noopener"
+>#478&lt;/a>)&lt;/li>
+&lt;li>Added Monitor Changer Helper (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/478" target="_blank" rel="noopener"
+>#478&lt;/a>)&lt;/li>
+&lt;li>Added the possibility to change monitor when launching a game (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/478" target="_blank" rel="noopener"
+>#478&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated licenses and copyright&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://bit.ly/Gavilya" target="_blank" rel="noopener"
+>Click here&lt;/a> to download Gavilya.&lt;/p>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>&lt;a class="link" href="https://gavilya.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to go the website of Gavilya.&lt;/p></description></item><item><title>InternetTest: Version 8.8.0.2503 is now available</title><link>https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/</link><pubDate>Sun, 02 Mar 2025 14:30:18 +0100</pubDate><guid>https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.8.0.2503 is now available" />&lt;p>A new version of InternetTest is now available and it introduces an improved experience with the Request editor, enhanced DNS cache management, and more.&lt;/p>
 &lt;h2 id="enhanced-dns-cache-management">Enhanced DNS Cache Management&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/1.png"
 width="950"
