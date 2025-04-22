@@ -1,4 +1,173 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/</link><description>Recent content on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 08 Mar 2025 16:51:32 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 4.6.0.2503 is now available</title><link>https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/</link><pubDate>Sat, 08 Mar 2025 16:51:32 +0100</pubDate><guid>https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.6.0.2503 is now available" />&lt;p>A new version of Gavilya is now available, and it is version 4.6.0.2503. We added several new features, such as the possibility to change the default monitor, a new theme section, and more.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/</link><description>Recent content on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 22 Apr 2025 18:49:27 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing Passliss 5</title><link>https://blog.leocorporation.dev/2025/04/introducing-passliss-5/</link><pubDate>Tue, 22 Apr 2025 18:49:27 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/04/introducing-passliss-5/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/04/introducing-passliss-5/cover.png" alt="Featured image of post Introducing Passliss 5" />&lt;p>Passliss 5 marks a significant evolution in password management. Built from the ground up with security and user experience in mind, this new version brings together cutting-edge technology and thoughtful design to help you generate, test, and manage strong passwords more efficiently than ever before.&lt;/p>
+&lt;h2 id="smarter-passwords-with-ai">Smarter Passwords with AI&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/04/introducing-passliss-5/1.png"
+width="2560"
+height="1440"
+srcset="https://blog.leocorporation.dev/2025/04/introducing-passliss-5/1_hub578ff35f295644e48841f1f18b0caf6_151612_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/04/introducing-passliss-5/1_hub578ff35f295644e48841f1f18b0caf6_151612_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new AI-powered password generation system"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>One of the standout features in Passliss 5 is the new AI-powered password generation system. You can now create strong and unique passwords simply by typing a prompt. Thanks to the integration of OpenAI’s GPT-4o-mini, Passliss can understand your intent and generate passwords that are both secure and context-aware, offering a more intuitive approach to digital protection.&lt;/p>
+&lt;h2 id="improved-strength-analysis">Improved Strength Analysis&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/04/introducing-passliss-5/2.png"
+width="2560"
+height="1440"
+srcset="https://blog.leocorporation.dev/2025/04/introducing-passliss-5/2_hu750bf8e180af7fe8d375ab2ceed3f20f_114966_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/04/introducing-passliss-5/2_hu750bf8e180af7fe8d375ab2ceed3f20f_114966_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Strength page"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>The strength analysis tool has been completely redesigned. With a clearer interface and deeper insights, the new Strength page helps you understand not just how strong your password is, but why. Detailed suggestions and real-time feedback guide you toward creating more secure credentials for all your accounts.&lt;/p>
+&lt;h2 id="more-control-on-the-generate-page">More Control on the Generate Page&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/04/introducing-passliss-5/3.png"
+width="2560"
+height="1440"
+srcset="https://blog.leocorporation.dev/2025/04/introducing-passliss-5/3_hub578ff35f295644e48841f1f18b0caf6_151612_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/04/introducing-passliss-5/3_hub578ff35f295644e48841f1f18b0caf6_151612_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Generate page"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>The Generate page in Passliss 5 has been expanded with more control and flexibility. You can now toggle between a simplified interface for quick generation and an advanced section for fine-tuning every aspect of your password. There&amp;rsquo;s also support for generating multiple passwords at once and exporting them as CSV, making it ideal for managing several accounts.&lt;/p>
+&lt;h2 id="robust-encryption-and-hashing">Robust Encryption and Hashing&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/04/introducing-passliss-5/4.png"
+width="2560"
+height="1440"
+srcset="https://blog.leocorporation.dev/2025/04/introducing-passliss-5/4_hu4d4f0ba6fc9b568e0e05fcec5be466c2_91868_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/04/introducing-passliss-5/4_hu4d4f0ba6fc9b568e0e05fcec5be466c2_91868_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Encryption page"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>Security goes beyond passwords. With the enhanced Encryption page, you can now encrypt and decrypt any string using trusted algorithms like AES and Triple-DES. Passliss 5 also introduces a new hashing section, allowing you to hash sensitive data directly within the app.&lt;/p>
+&lt;h2 id="full-customization-and-personalization">Full Customization and Personalization&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/04/introducing-passliss-5/5.png"
+width="2560"
+height="1440"
+srcset="https://blog.leocorporation.dev/2025/04/introducing-passliss-5/5_huac0384c0d91a62c2b7b424d87e4b01a0_171295_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/04/introducing-passliss-5/5_huac0384c0d91a62c2b7b424d87e4b01a0_171295_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Settings page"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>Passliss 5 gives you full control over your environment. From changing the language and theme to setting default values for password length and encryption algorithms, everything is customizable. You can also export and import your preferences, or reset everything to default in a few clicks.&lt;/p>
+&lt;h2 id="a-streamlined-and-modern-experience">A Streamlined and Modern Experience&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/04/introducing-passliss-5/6.png"
+width="2560"
+height="1440"
+srcset="https://blog.leocorporation.dev/2025/04/introducing-passliss-5/6_hu225fc28fad27f9a6f5a43ddf750b6563_161137_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/04/introducing-passliss-5/6_hu225fc28fad27f9a6f5a43ddf750b6563_161137_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Home page"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>With a completely redesigned interface, Passliss 5 offers a clean, modern look that adapts to any screen size. Powered by Next.js, React, and TypeScript, the app is fast, responsive, and reliable. The navigation has been refined to make every feature easy to find and use, and performance has been optimized across the board.&lt;/p>
+&lt;p>Passliss 5 isn’t just an update — it’s a complete rethinking of what password tools can be. From powerful new components to thoughtful UI improvements, it brings together everything you need to stay safe in a digital world without compromising on ease of use. Whether you&amp;rsquo;re managing a single account or hundreds, Passliss 5 provides the tools and intelligence to do it securely and efficiently.&lt;/p>
+&lt;h2 id="launch">Launch&lt;/h2>
+&lt;p>Passliss 5 is available now. Whether you&amp;rsquo;re discovering it for the first time or upgrading from a previous version, this release is built to meet your needs with precision and care. Step into the future of password management with Passliss 5.&lt;/p>
+&lt;p>&lt;a class="link" href="https://passliss.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to launch Passliss in your web browser.&lt;/p>
+&lt;h2 id="learn-more">Learn more&lt;/h2>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/passliss" target="_blank" rel="noopener"
+>Click here&lt;/a> to learn more about Passliss&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added basic components&lt;/li>
+&lt;li>Added locale system&lt;/li>
+&lt;li>Added assets&lt;/li>
+&lt;li>Added home page components&lt;/li>
+&lt;li>Added new components&lt;/li>
+&lt;li>Added Install App button&lt;/li>
+&lt;li>Added navbar layout&lt;/li>
+&lt;li>Added password generation methods&lt;/li>
+&lt;li>Added shadcn/ui components&lt;/li>
+&lt;li>Added new browser utilities&lt;/li>
+&lt;li>Added locales&lt;/li>
+&lt;li>Added OpenAI&lt;/li>
+&lt;li>Added Prompt Item&lt;/li>
+&lt;li>Added Password Item&lt;/li>
+&lt;li>Added Generate page&lt;/li>
+&lt;li>Added new navigation system&lt;/li>
+&lt;li>Added strength suggestion item&lt;/li>
+&lt;li>Added strength page&lt;/li>
+&lt;li>Added Select component&lt;/li>
+&lt;li>Added Encryption page&lt;/li>
+&lt;li>Added Alert dialog component&lt;/li>
+&lt;li>Added global version system&lt;/li>
+&lt;li>Added Theme System&lt;/li>
+&lt;li>Added locale switcher system&lt;/li>
+&lt;li>Added Settings page&lt;/li>
+&lt;li>Added Popover component&lt;/li>
+&lt;li>Added Activity Item component&lt;/li>
+&lt;li>Added Timeline component&lt;/li>
+&lt;li>Added Activity page&lt;/li>
+&lt;li>Added Checkbox component&lt;/li>
+&lt;li>Added Preset Item&lt;/li>
+&lt;li>Added Presets page&lt;/li>
+&lt;li>Added new Encrypt section&lt;/li>
+&lt;li>Added new Decrypt section&lt;/li>
+&lt;li>Added new Hash section&lt;/li>
+&lt;li>Added Encryption algo field&lt;/li>
+&lt;li>Added Sonner&lt;/li>
+&lt;li>Redesigned Activity Overview section&lt;/li>
+&lt;li>Added Progress component&lt;/li>
+&lt;li>Added locales for Strength suggestions&lt;/li>
+&lt;li>Added new Password Strength system&lt;/li>
+&lt;li>Added new Strength page&lt;/li>
+&lt;li>Added locales for Generate page&lt;/li>
+&lt;li>Added new Simple Section in Generate&lt;/li>
+&lt;li>Added Advanced Section in Generate page&lt;/li>
+&lt;li>Added the possibility to generate multiple passwords&lt;/li>
+&lt;li>Added the possibility to export passwords as CSV&lt;/li>
+&lt;li>Added new AI section&lt;/li>
+&lt;li>Added PWA support&lt;/li>
+&lt;li>Added dev container file&lt;/li>
+&lt;li>Improved presets dialog&lt;/li>
+&lt;li>Redesigned Preset Editor&lt;/li>
+&lt;li>Added new components&lt;/li>
+&lt;li>Redesigned Strength Dialog&lt;/li>
+&lt;li>Added new Dashboard Card design&lt;/li>
+&lt;li>Added new Home page&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed button colors&lt;/li>
+&lt;li>Fixed navbar style issue&lt;/li>
+&lt;li>Fixed icons alignment&lt;/li>
+&lt;li>Fixed ts compiler issue&lt;/li>
+&lt;li>Fixed several compilation issues&lt;/li>
+&lt;li>Fixed scrolling issue&lt;/li>
+&lt;li>Fixed typo in default numbers config&lt;/li>
+&lt;li>Fixed Activity items is null error&lt;/li>
+&lt;li>Fixed typescript issues&lt;/li>
+&lt;li>Fixed some UI issues&lt;/li>
+&lt;li>Fixed type error&lt;/li>
+&lt;li>Fixed layout issue on Chrome&lt;/li>
+&lt;li>Fixed scroll issue&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Unified password utils&lt;/li>
+&lt;li>Updated ring input color&lt;/li>
+&lt;li>Updated dependencies&lt;/li>
+&lt;li>Minor UI tweaks&lt;/li>
+&lt;li>Simplified password generation process&lt;/li>
+&lt;li>Changed default AI model to GPT 4o-mini&lt;/li>
+&lt;li>Removed legacy components&lt;/li>
+&lt;li>Removed hard coded colors&lt;/li>
+&lt;li>Removed old password vision component&lt;/li>
+&lt;li>Improved icon size&lt;/li>
+&lt;/ul></description></item><item><title>Gavilya: Version 4.6.0.2503 is now available</title><link>https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/</link><pubDate>Sat, 08 Mar 2025 16:51:32 +0100</pubDate><guid>https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.6.0.2503 is now available" />&lt;p>A new version of Gavilya is now available, and it is version 4.6.0.2503. We added several new features, such as the possibility to change the default monitor, a new theme section, and more.&lt;/p>
 &lt;h2 id="new-theme-section">New Theme section&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/1.png"
 width="1185"
