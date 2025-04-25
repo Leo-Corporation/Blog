@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 08 Mar 2025 16:51:32 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 4.6.0.2503 is now available</title><link>https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/</link><pubDate>Sat, 08 Mar 2025 16:51:32 +0100</pubDate><guid>https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.6.0.2503 is now available" />&lt;p>A new version of Gavilya is now available, and it is version 4.6.0.2503. We added several new features, such as the possibility to change the default monitor, a new theme section, and more.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/update/</link><description>Recent content in Update on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 25 Apr 2025 15:48:45 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 6.7.0.2504 is now available</title><link>https://blog.leocorporation.dev/2025/04/colorpicker-version-6.7.0.2504-is-now-available/</link><pubDate>Fri, 25 Apr 2025 15:48:45 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/04/colorpicker-version-6.7.0.2504-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/04/colorpicker-version-6.7.0.2504-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.7.0.2504 is now available" />&lt;h2 id="launch-during-windows-startup">Launch during Windows startup&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/04/colorpicker-version-6.7.0.2504-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2025/04/colorpicker-version-6.7.0.2504-is-now-available/1_hu7d8c39c0cce9e1ba9a6de9666df1f67d_135406_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/04/colorpicker-version-6.7.0.2504-is-now-available/1_hu7d8c39c0cce9e1ba9a6de9666df1f67d_135406_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The setting is located in the On Start section of the Settings page"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>One of the most convenient new features in this version is the ability to launch the app automatically during Windows start. When this feature is toggled on, the application will start minimized in the system tray area, allowing users to access it instantly without the need to manually launch it. This means that users can immediately use their selected keyboard shortcuts to pick colors or perform other tasks right from the start. Additionally, the notify icon in the system tray comes with a context menu that provides quick access to essential functions. Users can easily show or hide the main window and even quit the app directly from this menu, enhancing the overall efficiency and user experience.&lt;/p>
+&lt;h2 id="quality-of-life-improvements">Quality of Life Improvements&lt;/h2>
+&lt;p>The Details section has been significantly improved with the addition of a dedicated Details Control. This feature provides a more organized and detailed view of color information, making it easier for users to analyze and work with their selected colors. The Details section has been moved to this dedicated control, ensuring a cleaner and more efficient user interface.&lt;/p>
+&lt;p>Several bug fixes have also been implemented to improve the overall stability and performance of ColorPicker Max. Issues such as scroll bars not working when the window is maximized and a crash issue in the AI page have been resolved, ensuring a smoother user experience. Additionally, a bug that caused placeholders to remain visible in Bookmarks has been fixed, enhancing the usability of the bookmarking feature.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added new ComboBox style (#453)&lt;/li>
+&lt;li>Added ComboBox Editabled style (#453)&lt;/li>
+&lt;li>Added translations (#454)&lt;/li>
+&lt;li>Added the possibility to start the app on Windows start (#454)&lt;/li>
+&lt;li>Added Notify icon (#454)&lt;/li>
+&lt;li>Added Silent mode (#454)&lt;/li>
+&lt;li>Added Details Control (#455)&lt;/li>
+&lt;li>Moved Details section to dedicated control (#455)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed scroll bars not working when Window is maximized (#449)&lt;/li>
+&lt;li>Fixed crash issue in AI page (#451)&lt;/li>
+&lt;li>Fixed placeholder still visible in Bookmarks (#452)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Updated Licenses&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DownloadColorPickerMax" target="_blank" rel="noopener"
+>Click here&lt;/a> to download ColorPicker Max.&lt;/p>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/colorpickermax" target="_blank" rel="noopener"
+>Learn More&lt;/a> about ColorPicker Max.&lt;/p></description></item><item><title>Gavilya: Version 4.6.0.2503 is now available</title><link>https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/</link><pubDate>Sat, 08 Mar 2025 16:51:32 +0100</pubDate><guid>https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.6.0.2503 is now available" />&lt;p>A new version of Gavilya is now available, and it is version 4.6.0.2503. We added several new features, such as the possibility to change the default monitor, a new theme section, and more.&lt;/p>
 &lt;h2 id="new-theme-section">New Theme section&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2025/03/gavilya-version-4.6.0.2503-is-now-available/1.png"
 width="1185"
