@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>InternetTest on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/internettest/</link><description>Recent content in InternetTest on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Mar 2025 14:30:18 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/internettest/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.8.0.2503 is now available</title><link>https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/</link><pubDate>Sun, 02 Mar 2025 14:30:18 +0100</pubDate><guid>https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.8.0.2503 is now available" />&lt;p>A new version of InternetTest is now available and it introduces an improved experience with the Request editor, enhanced DNS cache management, and more.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>InternetTest on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/internettest/</link><description>Recent content in InternetTest on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 27 Apr 2025 13:45:48 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/internettest/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.9.0.2504 is now available</title><link>https://blog.leocorporation.dev/2025/04/internettest-version-8.9.0.2504-is-now-available/</link><pubDate>Sun, 27 Apr 2025 13:45:48 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/04/internettest-version-8.9.0.2504-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/04/internettest-version-8.9.0.2504-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.9.0.2504 is now available" />&lt;p>The latest release of InternetTest Pro is here, and it&amp;rsquo;s a special one. This update marks the final major feature release based on the 7X codebase. After this, we&amp;rsquo;ll be setting our sights on the future: a full rewrite for version 9, built on a brand-new architecture. That means while it might take some time for v9 to arrive, the groundwork we&amp;rsquo;re laying now will power a faster, smarter, and even more robust InternetTest experience moving forward.&lt;/p>
+&lt;h2 id="whats-new-in-this-update">What&amp;rsquo;s New in This Update&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/04/internettest-version-8.9.0.2504-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2025/04/internettest-version-8.9.0.2504-is-now-available/1_hu5b77dfbd148b9bb04154605d944e8780_148378_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/04/internettest-version-8.9.0.2504-is-now-available/1_hu5b77dfbd148b9bb04154605d944e8780_148378_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new DNS Details Window"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>We&amp;rsquo;ve refined network interface filtering, improving how we filter and display network information with .NET 9+. WiFi networks now show an indicator for the current network, making it easier to know at a glance which one you&amp;rsquo;re connected to. Our DNS tools are stronger than ever with a new DNS Details Window, localized DNS Info Windows, and additional tooltips to make diagnosing DNS issues more intuitive. The user interface has also received a refresh with a brand-new theme, and the context menus have been upgraded with new styles and a &amp;ldquo;Copy&amp;rdquo; option to speed up workflow.&lt;/p>
+&lt;h2 id="bug-fixes-and-improvements">Bug Fixes and Improvements&lt;/h2>
+&lt;p>This update also fixes a few important issues. Scrollbars can now be fully used when the app is maximized, addressing a long-standing usability annoyance. We&amp;rsquo;ve fixed a pattern issue and resolved some null property bugs that affected the DNS Cache Info section, improving stability and reliability overall.&lt;/p>
+&lt;h2 id="closing-the-7x-chapter">Closing the 7X Chapter&lt;/h2>
+&lt;p>This release is not just a collection of features and fixes — it&amp;rsquo;s the closing chapter of the 7X codebase. Over the years, 7X has been the backbone supporting a wide range of powerful features like speed tests, DNS lookups, traceroutes, WiFi scanning, IP configuration details, website availability checks, and much more. With this final update, we wanted to polish the experience, fix lingering issues, and lay a smooth path toward what&amp;rsquo;s next.&lt;/p>
+&lt;h2 id="the-road-to-internettest-pro-9">The Road to InternetTest Pro 9&lt;/h2>
+&lt;p>We&amp;rsquo;re already deep into planning v9. It won&amp;rsquo;t be just an incremental update — it will be a total rebuild. A new codebase, a new architecture, and a new future. This means a cleaner and faster foundation, better scalability for future features, stronger performance across devices, and even tighter integration with modern Windows technologies. However, building something from the ground up takes time. We want to get it right, not rush it. So while v9 is under construction, 7X will continue to be supported with minor patches if needed.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Refactored .NET 9+ Network Interfaces filtering&lt;/li>
+&lt;li>Added an indicator in WiFi Networks for the current network (#655)&lt;/li>
+&lt;li>Added new locales (#656)&lt;/li>
+&lt;li>Added option to show all networks adapters (#656)&lt;/li>
+&lt;li>Added the possibility to display all available adapters (#656)&lt;/li>
+&lt;li>Added locales for DNS Info Window (#657)&lt;/li>
+&lt;li>Moved local enums to public namespace (#657)&lt;/li>
+&lt;li>Added DNS Details Window (#657)&lt;/li>
+&lt;li>Added Context Menu style (#657)&lt;/li>
+&lt;li>Added Copy Context menu (#657)&lt;/li>
+&lt;li>Added a tooltip in DNS Records tool (#658)&lt;/li>
+&lt;li>Added new Theme UI (#660)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed scroll bars cannot be used when maximized (#654)&lt;/li>
+&lt;li>Fixed pattern issue&lt;/li>
+&lt;li>Fixed null properties issue in DNS Cache Info (#657)&lt;/li>
+&lt;/ul>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>InternetTest Pro has a landing page so you can learn more about its feature. &lt;a class="link" href="https://leocorporation.dev/store/internettest" target="_blank" rel="noopener"
+>Click here&lt;/a> to access it.&lt;/p>
+&lt;h2 id="get-the-app">Get the app&lt;/h2>
+&lt;p>InternetTest Pro is available on Windows and requires the .NET 8 Windows Desktop Runtime.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITP7" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Setup&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITPP" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Portable&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;/ul></description></item><item><title>InternetTest: Version 8.8.0.2503 is now available</title><link>https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/</link><pubDate>Sun, 02 Mar 2025 14:30:18 +0100</pubDate><guid>https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.8.0.2503 is now available" />&lt;p>A new version of InternetTest is now available and it introduces an improved experience with the Request editor, enhanced DNS cache management, and more.&lt;/p>
 &lt;h2 id="enhanced-dns-cache-management">Enhanced DNS Cache Management&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2025/03/internettest-version-8.8.0.2503-is-now-available/1.png"
 width="950"
