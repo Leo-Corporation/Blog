@@ -1,4 +1,79 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qrix on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/qrix/</link><description>Recent content in Qrix on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2024 10:22:09 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/qrix/index.xml" rel="self" type="application/rss+xml"/><item><title>Qrix: Version 2.1.0.2409 is now available</title><link>https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/</link><pubDate>Wed, 04 Sep 2024 10:22:09 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/cover.png" alt="Featured image of post Qrix: Version 2.1.0.2409 is now available" />&lt;p>A new version of Qrix is now available and it brings a redesigned settings page.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qrix on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/qrix/</link><description>Recent content in Qrix on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 20 Jul 2025 13:54:51 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/qrix/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing Qrix 3</title><link>https://blog.leocorporation.dev/2025/07/introducing-qrix-3/</link><pubDate>Sun, 20 Jul 2025 13:54:51 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/07/introducing-qrix-3/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/07/introducing-qrix-3/cover.png" alt="Featured image of post Introducing Qrix 3" />&lt;p>We&amp;rsquo;re excited to unveil Qrix v3, a major release that marks the beginning of a new era for our app. This version isn&amp;rsquo;t just an update — it&amp;rsquo;s a complete rebuild, leveraging the power of the new Next.js App Router. By adopting this modern framework, we&amp;rsquo;ve dramatically improved performance, routing capabilities, and flexibility throughout the entire application.&lt;/p>
+&lt;h2 id="whats-new-in-qrix-v3">What&amp;rsquo;s New in Qrix v3&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/07/introducing-qrix-3/1.png"
+width="2533"
+height="1417"
+srcset="https://blog.leocorporation.dev/2025/07/introducing-qrix-3/1_hu5b638facaaaa6541fa5d19a2e654acc8_184762_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/07/introducing-qrix-3/1_hu5b638facaaaa6541fa5d19a2e654acc8_184762_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Home page of Qrix v3"
+class="gallery-image"
+data-flex-grow="178"
+data-flex-basis="429px"
+>&lt;/p>
+&lt;p>With this release, Qrix introduces a brand new Home page and Settings page, both redesigned from the ground up. The new Home page offers a clearer layout and a smoother user experience, welcoming you with a modern design that puts your most-used features front and center. The Settings page has also been rethought, making configuration easier to navigate and more intuitive, with new options like language selection, theme customization, and a cleaner overall structure.&lt;/p>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/07/introducing-qrix-3/2.png"
+width="2534"
+height="1417"
+srcset="https://blog.leocorporation.dev/2025/07/introducing-qrix-3/2_hub6e394cbd9786d6f53efce499c8c03e8_148578_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/07/introducing-qrix-3/2_hub6e394cbd9786d6f53efce499c8c03e8_148578_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Settings page of Qrix v3"
+class="gallery-image"
+data-flex-grow="178"
+data-flex-basis="429px"
+>&lt;/p>
+&lt;p>Another standout feature in Qrix v3 is the new sidebar, built to improve navigation and clarity. It now includes indicators for the current page, better support for accessibility, and a more compact, focused design that works seamlessly across both desktop and mobile devices. Combined with our updated layout system, these changes make Qrix feel faster, more responsive, and more user-friendly at every turn.&lt;/p>
+&lt;h2 id="enhanced-features">Enhanced Features&lt;/h2>
+&lt;p>Under the hood, this release includes dozens of improvements: a fresh theme, localization support, a new versioning system, a smoother mobile layout, and the migration to Radix UI and shadcn/ui for more consistent and accessible components. We&amp;rsquo;ve also added a History page, QR code and Barcode tools, and a host of new utilities that improve the overall experience without getting in your way.&lt;/p>
+&lt;h2 id="try-qrix-v3-today">Try Qrix v3 Today&lt;/h2>
+&lt;p>&lt;a class="link" href="https://qrix.leocorporation.dev" target="_blank" rel="noopener"
+>Try it now&lt;/a> and explore the new experience. As always, we&amp;rsquo;d love your feedback.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Initialized new Qrix app with App Router (#100)&lt;/li>
+&lt;li>Added assets&lt;/li>
+&lt;li>Added main layout (#1001)&lt;/li>
+&lt;li>Added Components&lt;/li>
+&lt;li>Added new sidebar (#1002)&lt;/li>
+&lt;li>Added Settings hooks&lt;/li>
+&lt;li>Added components (#1003)&lt;/li>
+&lt;li>Added barcode types&lt;/li>
+&lt;li>Added new version system&lt;/li>
+&lt;li>Added fonts&lt;/li>
+&lt;li>Added new theme (#1003)&lt;/li>
+&lt;li>Added locale service&lt;/li>
+&lt;li>Added new settings page (#1003)&lt;/li>
+&lt;li>Added the possibility to change language&lt;/li>
+&lt;li>Added useHistory hook for managing barcode history&lt;/li>
+&lt;li>Added missing font&lt;/li>
+&lt;li>Added calendar and contact interfaces&lt;/li>
+&lt;li>Added Barcode page (#1001)&lt;/li>
+&lt;li>Added QR Code page (#1001)&lt;/li>
+&lt;li>Added shadcn/ui table and drawer&lt;/li>
+&lt;li>Added History Element component&lt;/li>
+&lt;li>Added History page (#1001)&lt;/li>
+&lt;li>Added indicator for current page in sidebar (#1002)&lt;/li>
+&lt;li>Improved theme switcher (#1003)&lt;/li>
+&lt;li>Added Prettier config with Tailwind CSS plugin&lt;/li>
+&lt;li>Added locales&lt;/li>
+&lt;li>Added Badge component&lt;/li>
+&lt;li>Added new Home page&lt;/li>
+&lt;li>Added Welcome message&lt;/li>
+&lt;li>Improved mobile layout&lt;/li>
+&lt;li>Added placeholder&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed an issue with useSettings hook&lt;/li>
+&lt;li>Fixed wrong primary color&lt;/li>
+&lt;li>Fixed @typescript-eslint/no-explicit-any&lt;/li>
+&lt;li>Fixed some UI issues&lt;/li>
+&lt;li>Fixed TypeScript errors&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Migrated RadixUI&lt;/li>
+&lt;/ul></description></item><item><title>Qrix: Version 2.1.0.2409 is now available</title><link>https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/</link><pubDate>Wed, 04 Sep 2024 10:22:09 +0200</pubDate><guid>https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/cover.png" alt="Featured image of post Qrix: Version 2.1.0.2409 is now available" />&lt;p>A new version of Qrix is now available and it brings a redesigned settings page.&lt;/p>
 &lt;h2 id="new-settings-page">New Settings page&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2024/09/qrix-version-2.1.0.2409-is-now-available/1.png"
 width="1723"
