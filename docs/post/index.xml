@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 20 Jul 2025 13:54:51 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing Qrix 3</title><link>https://blog.leocorporation.dev/2025/07/introducing-qrix-3/</link><pubDate>Sun, 20 Jul 2025 13:54:51 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/07/introducing-qrix-3/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/07/introducing-qrix-3/cover.png" alt="Featured image of post Introducing Qrix 3" />&lt;p>We&amp;rsquo;re excited to unveil Qrix v3, a major release that marks the beginning of a new era for our app. This version isn&amp;rsquo;t just an update — it&amp;rsquo;s a complete rebuild, leveraging the power of the new Next.js App Router. By adopting this modern framework, we&amp;rsquo;ve dramatically improved performance, routing capabilities, and flexibility throughout the entire application.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 25 Jul 2025 16:54:27 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 5.1.0.2507 is now available</title><link>https://blog.leocorporation.dev/2025/07/passliss-version-5.1.0.2507-is-now-available/</link><pubDate>Fri, 25 Jul 2025 16:54:27 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/07/passliss-version-5.1.0.2507-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/07/passliss-version-5.1.0.2507-is-now-available/cover.png" alt="Featured image of post Passliss: Version 5.1.0.2507 is now available" />&lt;p>We&amp;rsquo;re thrilled to announce the release of Passliss version 5.1.0.2507, which brings a host of new features and improvements to enhance your experience.&lt;/p>
+&lt;h2 id="new-sidebar-design">New Sidebar Design&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/07/passliss-version-5.1.0.2507-is-now-available/1.png"
+width="2534"
+height="1412"
+srcset="https://blog.leocorporation.dev/2025/07/passliss-version-5.1.0.2507-is-now-available/1_hu80ae7e51454738285bf25be4d193af3b_152694_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/07/passliss-version-5.1.0.2507-is-now-available/1_hu80ae7e51454738285bf25be4d193af3b_152694_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new sidebar in Passliss"
+class="gallery-image"
+data-flex-grow="179"
+data-flex-basis="430px"
+>&lt;/p>
+&lt;p>The most notable change in this release is the complete redesign of the sidebar. The new sidebar is not only more visually appealing but also significantly improves navigation throughout the app. It features a cleaner layout, better organization of tools, and enhanced accessibility options, making it easier for you to find what you need quickly.&lt;/p>
+&lt;h2 id="other-improvements">Other Improvements&lt;/h2>
+&lt;p>In addition to the new sidebar, this version includes several other enhancements, such as a new mobile UI system and a revamped settings hook system. These changes aim to streamline your workflow and provide a more cohesive user experience across different devices.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added Sidebar component (#1976)&lt;/li>
+&lt;li>Added new sidebar (#1976)&lt;/li>
+&lt;li>Added new mobile UI system (#1978)&lt;/li>
+&lt;li>Added new hook system for Settings (#1978)&lt;/li>
+&lt;li>Added new Settings hook (#1978)&lt;/li>
+&lt;li>Added new Preset hook (#1978)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed responsive issue in Settings&lt;/li>
+&lt;li>Fixed an issue with new hooks&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>&lt;em>Updated dependencies&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="launch">Launch&lt;/h2>
+&lt;p>&lt;a class="link" href="https://passliss.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to launch Passliss in your web browser.&lt;/p>
+&lt;h2 id="learn-more">Learn more&lt;/h2>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/passliss" target="_blank" rel="noopener"
+>Click here&lt;/a> to learn more about Passliss&lt;/p></description></item><item><title>Introducing Qrix 3</title><link>https://blog.leocorporation.dev/2025/07/introducing-qrix-3/</link><pubDate>Sun, 20 Jul 2025 13:54:51 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/07/introducing-qrix-3/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/07/introducing-qrix-3/cover.png" alt="Featured image of post Introducing Qrix 3" />&lt;p>We&amp;rsquo;re excited to unveil Qrix v3, a major release that marks the beginning of a new era for our app. This version isn&amp;rsquo;t just an update — it&amp;rsquo;s a complete rebuild, leveraging the power of the new Next.js App Router. By adopting this modern framework, we&amp;rsquo;ve dramatically improved performance, routing capabilities, and flexibility throughout the entire application.&lt;/p>
 &lt;h2 id="whats-new-in-qrix-v3">What&amp;rsquo;s New in Qrix v3&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2025/07/introducing-qrix-3/1.png"
 width="2533"
