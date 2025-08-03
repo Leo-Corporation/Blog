@@ -1,4 +1,80 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/</link><description>Recent content on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 25 Jul 2025 16:54:27 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Passliss: Version 5.1.0.2507 is now available</title><link>https://blog.leocorporation.dev/2025/07/passliss-version-5.1.0.2507-is-now-available/</link><pubDate>Fri, 25 Jul 2025 16:54:27 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/07/passliss-version-5.1.0.2507-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/07/passliss-version-5.1.0.2507-is-now-available/cover.png" alt="Featured image of post Passliss: Version 5.1.0.2507 is now available" />&lt;p>We&amp;rsquo;re thrilled to announce the release of Passliss version 5.1.0.2507, which brings a host of new features and improvements to enhance your experience.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/</link><description>Recent content on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 03 Aug 2025 10:17:54 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Gavilya: Version 4.7.0.2508 is now available</title><link>https://blog.leocorporation.dev/2025/08/gavilya-version-4.7.0.2508-is-now-available/</link><pubDate>Sun, 03 Aug 2025 10:17:54 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/08/gavilya-version-4.7.0.2508-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/08/gavilya-version-4.7.0.2508-is-now-available/cover.png" alt="Featured image of post Gavilya: Version 4.7.0.2508 is now available" />&lt;p>We are excited to announce the release of Gavilya version 4.7.0.2508, which includes a complete redesign of the Profile page and several new features to enhance your gaming experience.&lt;/p>
+&lt;h2 id="redesigned-profile-page">Redesigned Profile Page&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/08/gavilya-version-4.7.0.2508-is-now-available/1.png"
+width="1185"
+height="700"
+srcset="https://blog.leocorporation.dev/2025/08/gavilya-version-4.7.0.2508-is-now-available/1_hu2e1e137db75d8b87ac723435f785a99e_92292_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/08/gavilya-version-4.7.0.2508-is-now-available/1_hu2e1e137db75d8b87ac723435f785a99e_92292_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Profile page in Gavilya"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;p>The most significant change in this version is the complete redesign of the Profile page. The new layout provides a more organized and visually appealing way to view your gaming profile. It includes sections for Top Games, Recent Games, and Platforms, making it easier to track your gaming activities and achievements.&lt;/p>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/08/gavilya-version-4.7.0.2508-is-now-available/2.png"
+width="1185"
+height="700"
+srcset="https://blog.leocorporation.dev/2025/08/gavilya-version-4.7.0.2508-is-now-available/2_hu9884ca916d67515bcf7b2cedff1e3a7e_115088_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/08/gavilya-version-4.7.0.2508-is-now-available/2_hu9884ca916d67515bcf7b2cedff1e3a7e_115088_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Profile page with Top Games and Platforms sections"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;h2 id="new-features">New Features&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/08/gavilya-version-4.7.0.2508-is-now-available/3.gif"
+width="308"
+height="194"
+srcset="https://blog.leocorporation.dev/2025/08/gavilya-version-4.7.0.2508-is-now-available/3_hu5abdf724108a41b00a4c003bff4b1ac5_1224584_480x0_resize_box_1.gif 480w, https://blog.leocorporation.dev/2025/08/gavilya-version-4.7.0.2508-is-now-available/3_hu5abdf724108a41b00a4c003bff4b1ac5_1224584_1024x0_resize_box_1.gif 1024w"
+loading="lazy"
+alt="The new animation on Game Cards"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="381px"
+>&lt;/p>
+&lt;p>In addition to the redesigned Profile page, we have introduced several new features:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Random Color for Tags&lt;/strong>: When adding a tag, a random color is now generated to enhance visual differentiation.&lt;/li>
+&lt;li>&lt;strong>Color Generation for Tags&lt;/strong>: You can now generate a specific color for a tag, allowing for better customization and organization.&lt;/li>
+&lt;li>&lt;strong>Animation on Game Card&lt;/strong>: Game Cards now feature a subtle animation, enhancing the overall user experience.&lt;/li>
+&lt;/ul>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>A random color is used when adding a tag (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/484" target="_blank" rel="noopener"
+>#484&lt;/a>)&lt;/li>
+&lt;li>Added the possibility to generate a color for a tag (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/484" target="_blank" rel="noopener"
+>#484&lt;/a>)&lt;/li>
+&lt;li>Added locales (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/485" target="_blank" rel="noopener"
+>#485&lt;/a>)&lt;/li>
+&lt;li>Added new Cards Header in Profile page (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/485" target="_blank" rel="noopener"
+>#485&lt;/a>)&lt;/li>
+&lt;li>Added new Progress Bar style (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/485" target="_blank" rel="noopener"
+>#485&lt;/a>)&lt;/li>
+&lt;li>Added Top Games section (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/485" target="_blank" rel="noopener"
+>#485&lt;/a>)&lt;/li>
+&lt;li>Added Platforms section (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/485" target="_blank" rel="noopener"
+>#485&lt;/a>)&lt;/li>
+&lt;li>Added placeholder if the profile is empty (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/485" target="_blank" rel="noopener"
+>#485&lt;/a>)&lt;/li>
+&lt;li>Added Recent Games section (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/485" target="_blank" rel="noopener"
+>#485&lt;/a>)&lt;/li>
+&lt;li>Added new profile page (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/485" target="_blank" rel="noopener"
+>#485&lt;/a>)&lt;/li>
+&lt;li>Added animation on Game Card (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/486" target="_blank" rel="noopener"
+>#486&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed an issue with tags serialization (&lt;a class="link" href="https://github.com/Leo-Corporation/Gavilya/issues/483" target="_blank" rel="noopener"
+>#483&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://bit.ly/Gavilya" target="_blank" rel="noopener"
+>Click here&lt;/a> to download Gavilya.&lt;/p>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>&lt;a class="link" href="https://gavilya.leocorporation.dev/" target="_blank" rel="noopener"
+>Click here&lt;/a> to go the website of Gavilya.&lt;/p></description></item><item><title>Passliss: Version 5.1.0.2507 is now available</title><link>https://blog.leocorporation.dev/2025/07/passliss-version-5.1.0.2507-is-now-available/</link><pubDate>Fri, 25 Jul 2025 16:54:27 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/07/passliss-version-5.1.0.2507-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/07/passliss-version-5.1.0.2507-is-now-available/cover.png" alt="Featured image of post Passliss: Version 5.1.0.2507 is now available" />&lt;p>We&amp;rsquo;re thrilled to announce the release of Passliss version 5.1.0.2507, which brings a host of new features and improvements to enhance your experience.&lt;/p>
 &lt;h2 id="new-sidebar-design">New Sidebar Design&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2025/07/passliss-version-5.1.0.2507-is-now-available/1.png"
 width="2534"
