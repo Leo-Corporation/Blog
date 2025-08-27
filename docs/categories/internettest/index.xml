@@ -1,4 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>InternetTest on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/internettest/</link><description>Recent content in InternetTest on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 27 Apr 2025 13:45:48 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/internettest/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 8.9.0.2504 is now available</title><link>https://blog.leocorporation.dev/2025/04/internettest-version-8.9.0.2504-is-now-available/</link><pubDate>Sun, 27 Apr 2025 13:45:48 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/04/internettest-version-8.9.0.2504-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/04/internettest-version-8.9.0.2504-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.9.0.2504 is now available" />&lt;p>The latest release of InternetTest Pro is here, and it&amp;rsquo;s a special one. This update marks the final major feature release based on the 7X codebase. After this, we&amp;rsquo;ll be setting our sights on the future: a full rewrite for version 9, built on a brand-new architecture. That means while it might take some time for v9 to arrive, the groundwork we&amp;rsquo;re laying now will power a faster, smarter, and even more robust InternetTest experience moving forward.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>InternetTest on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/internettest/</link><description>Recent content in InternetTest on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 Aug 2025 10:00:27 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/internettest/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing InternetTest Pro 9</title><link>https://blog.leocorporation.dev/2025/08/introducing-internettest-pro-9/</link><pubDate>Wed, 27 Aug 2025 10:00:27 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/08/introducing-internettest-pro-9/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/08/introducing-internettest-pro-9/cover.png" alt="Featured image of post Introducing InternetTest Pro 9" />&lt;h2 id="project-overview">Project Overview&lt;/h2>
+&lt;p>InternetTest Pro 9 marks a major milestone in the evolution of the application. This release is the result of a complete rewrite, moving to a modern MVVM architecture in WPF and adopting a new design language that fits naturally into Windows 11. The legacy code has been retired in favor of a cleaner, more maintainable structure that will make the project more reliable and future-proof.&lt;/p>
+&lt;p>At the visual level, every page has been redesigned. The application now uses a MicaWindow style, giving it a modern, lightweight look that integrates with the system theme and wallpaper. The overall navigation has been streamlined, and the interface is more consistent across features.&lt;/p>
+&lt;h2 id="new-features">New Features&lt;/h2>
+&lt;h3 id="home-page">Home page&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/08/introducing-internettest-pro-9/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2025/08/introducing-internettest-pro-9/1_hu732a672af5fa6209d0501d582c67a4d9_51980_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/08/introducing-internettest-pro-9/1_hu732a672af5fa6209d0501d582c67a4d9_51980_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Home page dashboard"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>One of the most significant changes in InternetTest Pro 9 is the introduction of the new Home page. This redesigned entry point now provides all the key information about your current connection at a glance. It shows your connection status, WiFi network name, IP address, ISP details, DNS configuration, and speed. In addition, a recent activity section makes it possible to quickly review the last actions performed in the app, which is why the History page has been removed. The Home page is no longer just a landing screen; it is a complete dashboard that centralizes everything you need when launching the app.&lt;/p>
+&lt;h3 id="unified-wifi-tools">Unified WiFi Tools&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/08/introducing-internettest-pro-9/2.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2025/08/introducing-internettest-pro-9/2_huae4a41c1999bd437e7d6409aa49b75e3_44725_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/08/introducing-internettest-pro-9/2_huae4a41c1999bd437e7d6409aa49b75e3_44725_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The WiFi Tools page"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>The WiFi experience has also been improved. In earlier versions, WiFi networks and WiFi password recovery were separate pages. They are now combined into a single page, offering a clearer and more coherent experience for managing wireless connections and recovering saved passwords.&lt;/p>
+&lt;h3 id="new-design">New design&lt;/h3>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/08/introducing-internettest-pro-9/3.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2025/08/introducing-internettest-pro-9/3_hu4d6dfd55d1b69b4e0338e8cab8e252c4_51906_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/08/introducing-internettest-pro-9/3_hu4d6dfd55d1b69b4e0338e8cab8e252c4_51906_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The redesigned Traceroute page"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>All other tools have been modernized as well. The DNS Tool, Traceroute, Ping, and IPConfig pages have been redesigned with a more accessible interface, offering the same depth of information in a cleaner layout. These changes reflect an overall effort to unify the experience while keeping the functionality users rely on.&lt;/p>
+&lt;h3 id="retired-features">Retired Features&lt;/h3>
+&lt;p>Some features have also been retired in this version. Synethia is no longer included, and support for Windows 7, 8, and 8.1 has been dropped. InternetTest Pro is now focused on Windows 10 and Windows 11, ensuring compatibility with modern technologies while allowing development to move forward without legacy constraints.&lt;/p>
+&lt;h2 id="retrospective">Retrospective&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/08/introducing-internettest-pro-9/4.png"
+width="462"
+height="269"
+srcset="https://blog.leocorporation.dev/2025/08/introducing-internettest-pro-9/4_hu95d69e76a89e90be32be11ead964fce4_32924_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/08/introducing-internettest-pro-9/4_hu95d69e76a89e90be32be11ead964fce4_32924_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The first version of InternetTest, back in 2018"
+class="gallery-image"
+data-flex-grow="171"
+data-flex-basis="412px"
+>&lt;/p>
+&lt;p>InternetTest has come a long way since its first release. The project started as a simple utility for testing whether your internet connection was working or not. Over time, more tools were added: DNS lookups, traceroute, ping, IP geolocation, and eventually WiFi utilities. Each version expanded its scope, gradually transforming InternetTest into a complete connectivity toolkit for Windows.&lt;/p>
+&lt;p>With InternetTest Pro, the application entered a new phase, providing not just isolated tools but a unified platform with a polished design and extended features. Version 9 represents another turning point, as the project undergoes its most ambitious rewrite to date. It brings together everything learned from previous versions into a refined experience that is faster, cleaner, and built for the future.&lt;/p>
+&lt;h2 id="download-and-learn-more">Download and Learn More&lt;/h2>
+&lt;p>InternetTest Pro 9 will be available for Windows 10 and Windows 11. To learn more about the project and its features, visit the &lt;a class="link" href="https://leocorporation.dev/store/internettest" target="_blank" rel="noopener"
+>official website&lt;/a> or explore the source code on &lt;a class="link" href="https://github.com/Leo-Corporation/InternetTest" target="_blank" rel="noopener"
+>GitHub&lt;/a>.&lt;/p>
+&lt;p>This release is more than just an update. It is the foundation for the next chapter of InternetTest, with a modern architecture, a unified design, and a focus on clarity and usability. Whether you are troubleshooting, monitoring, or simply exploring your connection, InternetTest Pro 9 provides the tools to understand and optimize your internet experience.&lt;/p></description></item><item><title>InternetTest: Version 8.9.0.2504 is now available</title><link>https://blog.leocorporation.dev/2025/04/internettest-version-8.9.0.2504-is-now-available/</link><pubDate>Sun, 27 Apr 2025 13:45:48 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/04/internettest-version-8.9.0.2504-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/04/internettest-version-8.9.0.2504-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 8.9.0.2504 is now available" />&lt;p>The latest release of InternetTest Pro is here, and it&amp;rsquo;s a special one. This update marks the final major feature release based on the 7X codebase. After this, we&amp;rsquo;ll be setting our sights on the future: a full rewrite for version 9, built on a brand-new architecture. That means while it might take some time for v9 to arrive, the groundwork we&amp;rsquo;re laying now will power a faster, smarter, and even more robust InternetTest experience moving forward.&lt;/p>
 &lt;h2 id="whats-new-in-this-update">What&amp;rsquo;s New in This Update&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2025/04/internettest-version-8.9.0.2504-is-now-available/1.png"
 width="950"
