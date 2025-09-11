@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ColorPicker on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/colorpicker/</link><description>Recent content in ColorPicker on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 25 Apr 2025 15:48:45 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/colorpicker/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 6.7.0.2504 is now available</title><link>https://blog.leocorporation.dev/2025/04/colorpicker-version-6.7.0.2504-is-now-available/</link><pubDate>Fri, 25 Apr 2025 15:48:45 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/04/colorpicker-version-6.7.0.2504-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/04/colorpicker-version-6.7.0.2504-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.7.0.2504 is now available" />&lt;h2 id="launch-during-windows-startup">Launch during Windows startup&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ColorPicker on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/categories/colorpicker/</link><description>Recent content in ColorPicker on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 11 Sep 2025 12:08:51 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/categories/colorpicker/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 6.8.0.2509 is now available</title><link>https://blog.leocorporation.dev/2025/09/colorpicker-version-6.8.0.2509-is-now-available/</link><pubDate>Thu, 11 Sep 2025 12:08:51 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/09/colorpicker-version-6.8.0.2509-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/09/colorpicker-version-6.8.0.2509-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.8.0.2509 is now available" />&lt;p>A new version of ColorPicker Max is now available. This release introduces a modern Mica design, enhancing the visual appeal and user experience of the application. The update also includes the possibility to export a gradient to Tailwind CSS, making it easier for developers to integrate gradients into their projects. Additionally, several bug fixes have been implemented to improve the overall stability and performance of ColorPicker Max.&lt;/p>
+&lt;h2 id="mica-design">Mica Design&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/09/colorpicker-version-6.8.0.2509-is-now-available/1.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2025/09/colorpicker-version-6.8.0.2509-is-now-available/1_huef5c3844f11f4a8ebcdebcb165842e87_81707_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/09/colorpicker-version-6.8.0.2509-is-now-available/1_huef5c3844f11f4a8ebcdebcb165842e87_81707_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="ColorPicker Max with Mica design"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>One of the standout features of this update is the introduction of Mica design. Mica is a new design material introduced by Microsoft that provides a translucent, blurred background effect, allowing the app to blend seamlessly with the user&amp;rsquo;s desktop environment.&lt;/p>
+&lt;h2 id="export-gradient-to-tailwind-css">Export Gradient to Tailwind CSS&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2025/09/colorpicker-version-6.8.0.2509-is-now-available/2.png"
+width="950"
+height="600"
+srcset="https://blog.leocorporation.dev/2025/09/colorpicker-version-6.8.0.2509-is-now-available/2_hu778392a71091ffe842fdfcd2e5299a89_58413_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2025/09/colorpicker-version-6.8.0.2509-is-now-available/2_hu778392a71091ffe842fdfcd2e5299a89_58413_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The new Tailwind CSS option in the Export Gradient dialog"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;p>Another significant addition in this version is the ability to export gradients directly to Tailwind CSS. This feature simplifies the process for developers who want to use custom gradients in their web projects, allowing them to generate the necessary CSS code with just a few clicks.&lt;/p>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Added locales (#468)&lt;/li>
+&lt;li>Added TailwindCSS in Gradient page Dev Tools (#468)&lt;/li>
+&lt;li>Added new Mica Window (#469)&lt;/li>
+&lt;li>First Run window now uses Mica (#469)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Fixed crash when using invalid API Key (#467)&lt;/li>
+&lt;li>Fixed an issue when closing the MainWindow&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Migrated Betalgo&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DownloadColorPickerMax" target="_blank" rel="noopener"
+>Click here&lt;/a> to download ColorPicker Max.&lt;/p>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/colorpickermax" target="_blank" rel="noopener"
+>Learn More&lt;/a> about ColorPicker Max.&lt;/p></description></item><item><title>ColorPicker: Version 6.7.0.2504 is now available</title><link>https://blog.leocorporation.dev/2025/04/colorpicker-version-6.7.0.2504-is-now-available/</link><pubDate>Fri, 25 Apr 2025 15:48:45 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/04/colorpicker-version-6.7.0.2504-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/04/colorpicker-version-6.7.0.2504-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.7.0.2504 is now available" />&lt;h2 id="launch-during-windows-startup">Launch during Windows startup&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2025/04/colorpicker-version-6.7.0.2504-is-now-available/1.png"
 width="950"
 height="600"
