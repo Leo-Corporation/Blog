@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 11:10:14 +0100</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Our new visual identity</title><link>https://blog.leocorporation.dev/2026/01/our-new-visual-identity/</link><pubDate>Thu, 01 Jan 2026 11:10:14 +0100</pubDate><guid>https://blog.leocorporation.dev/2026/01/our-new-visual-identity/</guid><description>&lt;img src="https://blog.leocorporation.dev/2026/01/our-new-visual-identity/cover.png" alt="Featured image of post Our new visual identity" />&lt;p>Today, Léo Corporation unveils a new logo that reflects the end of GRP and the natural evolution that follows: the full centralization of projects, ideas, and ambitions under a single identity, Léo Corporation. Over time, our ecosystem has grown, shifted, and matured. Bringing everything together under one banner allows us to move forward with greater clarity, consistency, and focus.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/post/</link><description>Recent content in Posts on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 17 Feb 2026 14:47:48 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>InternetTest: Version 9.1.0.2602 is now available</title><link>https://blog.leocorporation.dev/2026/02/internettest-version-9.1.0.2602-is-now-available/</link><pubDate>Tue, 17 Feb 2026 14:47:48 +0200</pubDate><guid>https://blog.leocorporation.dev/2026/02/internettest-version-9.1.0.2602-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2026/02/internettest-version-9.1.0.2602-is-now-available/cover.png" alt="Featured image of post InternetTest: Version 9.1.0.2602 is now available" />&lt;p>Version 9.1.0.2602 of InternetTest Pro is now available! This update includes new features, improvements, and bug fixes to enhance your experience with the app.&lt;/p>
+&lt;h2 id="whats-new-in-this-update">What&amp;rsquo;s New in This Update&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2026/02/internettest-version-9.1.0.2602-is-now-available/1.png"
+width="1886"
+height="1183"
+srcset="https://blog.leocorporation.dev/2026/02/internettest-version-9.1.0.2602-is-now-available/1_hu905e12c3c4711be695d1bceb072e1a09_120600_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2026/02/internettest-version-9.1.0.2602-is-now-available/1_hu905e12c3c4711be695d1bceb072e1a09_120600_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Screenshot of the new design for the &amp;ldquo;Status&amp;rdquo; pill"
+class="gallery-image"
+data-flex-grow="159"
+data-flex-basis="382px"
+>&lt;/p>
+&lt;ul>
+&lt;li>More interface types: We&amp;rsquo;ve added more interface types to the app, allowing you to view more details about your network interfaces.&lt;/li>
+&lt;li>Disabled style for Button: We&amp;rsquo;ve added a disabled style to the Button control, making it easier to identify when a button is not clickable.&lt;/li>
+&lt;li>New design for &amp;ldquo;Status&amp;rdquo; pill: We&amp;rsquo;ve redesigned the &amp;ldquo;Status&amp;rdquo; pill to make it more visually appealing and easier to read.&lt;/li>
+&lt;li>.NET 10 as a required dependency: InternetTest Pro now requires .NET 10 to run, ensuring that you have the latest features and improvements from the .NET Framework.&lt;/li>
+&lt;/ul>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Add more interface types (#693)&lt;/li>
+&lt;li>Add disabled style to Button (#694)&lt;/li>
+&lt;li>Add new design for &amp;ldquo;Status&amp;rdquo; pill (#695)&lt;/li>
+&lt;li>Add .NET 10 as a required dependency (#696)&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Update to .NET 10 (#696)&lt;/li>
+&lt;li>Update Licenses (#697)&lt;/li>
+&lt;/ul>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;p>InternetTest Pro has a landing page so you can learn more about its
+feature. &lt;a class="link" href="https://leocorporation.dev/store/internettest" target="_blank" rel="noopener"
+>Click here&lt;/a> to access it.&lt;/p>
+&lt;h2 id="get-the-app">Get the app&lt;/h2>
+&lt;p>InternetTest Pro is available on Windows and requires the .NET 8 Windows Desktop Runtime.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITP7" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Setup&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;li>&lt;a class="link" href="https://tinyurl.com/DownloadITPP" target="_blank" rel="noopener"
+>Click here&lt;/a> to get the &lt;strong>Portable&lt;/strong> version of InternetTest Pro&lt;/li>
+&lt;/ul></description></item><item><title>Our new visual identity</title><link>https://blog.leocorporation.dev/2026/01/our-new-visual-identity/</link><pubDate>Thu, 01 Jan 2026 11:10:14 +0100</pubDate><guid>https://blog.leocorporation.dev/2026/01/our-new-visual-identity/</guid><description>&lt;img src="https://blog.leocorporation.dev/2026/01/our-new-visual-identity/cover.png" alt="Featured image of post Our new visual identity" />&lt;p>Today, Léo Corporation unveils a new logo that reflects the end of GRP and the natural evolution that follows: the full centralization of projects, ideas, and ambitions under a single identity, Léo Corporation. Over time, our ecosystem has grown, shifted, and matured. Bringing everything together under one banner allows us to move forward with greater clarity, consistency, and focus.&lt;/p>
 &lt;p>While the visual identity evolves, the spirit remains the same. This new logo is not just a design update — it’s a symbol of consolidation, long-term vision, and a fresh chapter for Léo Corporation.&lt;/p>
 &lt;center>
 &lt;img src="logo.png" alt="Léo Corporation New Logo" width="300"/>
