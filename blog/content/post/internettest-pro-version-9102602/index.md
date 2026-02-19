@@ -1,6 +1,6 @@
 ---
 title: 'InternetTest: Version 9.1.0.2602 is now available'
-description: You can now view more details about the DNS cache.
+description: This update includes several improvements and bug fixes to enhance your experience with the app.
 date: 2026-02-17T14:47:48+02:00
 image: cover.png
 categories:
