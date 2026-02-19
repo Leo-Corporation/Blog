@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>For devs on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/for-devs/</link><description>Recent content in For devs on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 11 Sep 2025 12:08:51 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/for-devs/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 6.8.0.2509 is now available</title><link>https://blog.leocorporation.dev/2025/09/colorpicker-version-6.8.0.2509-is-now-available/</link><pubDate>Thu, 11 Sep 2025 12:08:51 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/09/colorpicker-version-6.8.0.2509-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/09/colorpicker-version-6.8.0.2509-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.8.0.2509 is now available" />&lt;p>A new version of ColorPicker Max is now available. This release introduces a modern Mica design, enhancing the visual appeal and user experience of the application. The update also includes the possibility to export a gradient to Tailwind CSS, making it easier for developers to integrate gradients into their projects. Additionally, several bug fixes have been implemented to improve the overall stability and performance of ColorPicker Max.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>For devs on Blog | Léo Corporation</title><link>https://blog.leocorporation.dev/tags/for-devs/</link><description>Recent content in For devs on Blog | Léo Corporation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 19 Feb 2026 12:08:05 +0200</lastBuildDate><atom:link href="https://blog.leocorporation.dev/tags/for-devs/index.xml" rel="self" type="application/rss+xml"/><item><title>ColorPicker: Version 6.9.0.2602 is now available</title><link>https://blog.leocorporation.dev/2026/02/colorpicker-version-6.9.0.2602-is-now-available/</link><pubDate>Thu, 19 Feb 2026 12:08:05 +0200</pubDate><guid>https://blog.leocorporation.dev/2026/02/colorpicker-version-6.9.0.2602-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2026/02/colorpicker-version-6.9.0.2602-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.9.0.2602 is now available" />&lt;p>A new version of ColorPicker Max is now available with new features, improvements, and bug fixes to enhance your
+experience with the app. Please note that this should be the last major feature version of ColorPicker Max 6.x, as we
+will be focusing on the development of ColorPicker Max 7 later this year.&lt;/p>
+&lt;h2 id="whats-new-in-this-update">What&amp;rsquo;s New in This Update&lt;/h2>
+&lt;p>&lt;img src="https://blog.leocorporation.dev/2026/02/colorpicker-version-6.9.0.2602-is-now-available/1.png"
+width="1879"
+height="1184"
+srcset="https://blog.leocorporation.dev/2026/02/colorpicker-version-6.9.0.2602-is-now-available/1_hub712266bffa312e834bd0cd32bddc34b_121453_480x0_resize_box_3.png 480w, https://blog.leocorporation.dev/2026/02/colorpicker-version-6.9.0.2602-is-now-available/1_hub712266bffa312e834bd0cd32bddc34b_121453_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Screenshot of the new theme picker"
+class="gallery-image"
+data-flex-grow="158"
+data-flex-basis="380px"
+>&lt;/p>
+&lt;ul>
+&lt;li>New dark theme: We&amp;rsquo;ve added a new dark theme to the app, allowing you to choose the theme that best suits your
+preferences and environment.&lt;/li>
+&lt;li>New theme picker: We&amp;rsquo;ve added a new theme picker to the app, making it easier to switch between themes and customize
+the app&amp;rsquo;s appearance to your liking.&lt;/li>
+&lt;li>Improved performances of Image Extractor: We&amp;rsquo;ve optimized the Image Extractor feature to improve its performance,
+allowing you to extract colors from images more quickly and efficiently.&lt;/li>
+&lt;/ul>
+&lt;h2 id="changelog">Changelog&lt;/h2>
+&lt;h3 id="new">New&lt;/h3>
+&lt;ul>
+&lt;li>Add new dark theme (#474)&lt;/li>
+&lt;li>Add new theme picker (#476)&lt;/li>
+&lt;/ul>
+&lt;h3 id="fixed">Fixed&lt;/h3>
+&lt;ul>
+&lt;li>Improve performances of Image Extractor (#450)&lt;/li>
+&lt;li>Carret not visible in dark mode (#473)&lt;/li>
+&lt;li>Improve memory usage of Image Extractor&lt;/li>
+&lt;/ul>
+&lt;h3 id="updated">Updated&lt;/h3>
+&lt;ul>
+&lt;li>Upgrade to .NET 10 (#475)&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;p>&lt;a class="link" href="https://tinyurl.com/DownloadColorPickerMax" target="_blank" rel="noopener"
+>Click here&lt;/a> to download ColorPicker Max.&lt;/p>
+&lt;p>&lt;a class="link" href="https://leocorporation.dev/store/colorpickermax" target="_blank" rel="noopener"
+>Learn More&lt;/a> about ColorPicker Max.&lt;/p></description></item><item><title>ColorPicker: Version 6.8.0.2509 is now available</title><link>https://blog.leocorporation.dev/2025/09/colorpicker-version-6.8.0.2509-is-now-available/</link><pubDate>Thu, 11 Sep 2025 12:08:51 +0200</pubDate><guid>https://blog.leocorporation.dev/2025/09/colorpicker-version-6.8.0.2509-is-now-available/</guid><description>&lt;img src="https://blog.leocorporation.dev/2025/09/colorpicker-version-6.8.0.2509-is-now-available/cover.png" alt="Featured image of post ColorPicker: Version 6.8.0.2509 is now available" />&lt;p>A new version of ColorPicker Max is now available. This release introduces a modern Mica design, enhancing the visual appeal and user experience of the application. The update also includes the possibility to export a gradient to Tailwind CSS, making it easier for developers to integrate gradients into their projects. Additionally, several bug fixes have been implemented to improve the overall stability and performance of ColorPicker Max.&lt;/p>
 &lt;h2 id="mica-design">Mica Design&lt;/h2>
 &lt;p>&lt;img src="https://blog.leocorporation.dev/2025/09/colorpicker-version-6.8.0.2509-is-now-available/1.png"
 width="950"
